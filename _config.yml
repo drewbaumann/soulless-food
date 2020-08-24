@@ -17,7 +17,7 @@ title: Soulless Food
 email: drewbaumann@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Awesome recipes written with AI
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/soulless-food" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drewbaumann
 github_username:  drewbaumann
