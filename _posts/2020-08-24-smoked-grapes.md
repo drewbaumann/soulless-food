@@ -18,22 +18,22 @@ These are a fantastic holiday party food or really, they’re a great addition t
 
 ## Ingredients:
 
-1/4 cup (60 ml) water
-1/4 cup (60 ml) white wine vinegar
-1/4 cup (60 ml) honey
-1 teaspoon salt
-1/4 teaspoon black pepper
-1 teaspoon ground cinnamon
-1/4 teaspoon ground cloves
-1/4 teaspoon ground nutmeg
-1/4 teaspoon ground allspice
-1/2 cup (120 ml) brown sugar
-1/2 cup (120 ml) butter, softened
-1/2 cup (120 ml) light corn syrup
-2 pounds (1 kg) seedless red grapes
-1/2 cup (120 ml) brown sugar
-1/2 cup (120 ml) butter, softened
-1/2 cup (120 ml) light corn syrup
+* 1/4 cup (60 ml) water
+* 1/4 cup (60 ml) white wine vinegar
+* 1/4 cup (60 ml) honey
+* 1 teaspoon salt
+* 1/4 teaspoon black pepper
+* 1 teaspoon ground cinnamon
+* 1/4 teaspoon ground cloves
+* 1/4 teaspoon ground nutmeg
+* 1/4 teaspoon ground allspice
+* 1/2 cup (120 ml) brown sugar
+* 1/2 cup (120 ml) butter, softened
+* 1/2 cup (120 ml) light corn syrup
+* 2 pounds (1 kg) seedless red grapes
+* 1/2 cup (120 ml) brown sugar
+* 1/2 cup (120 ml) butter, softened
+* 1/2 cup (120 ml) light corn syrup
 
 ## Instructions:
 
