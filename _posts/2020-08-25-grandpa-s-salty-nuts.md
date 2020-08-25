@@ -14,7 +14,6 @@ I don't know why, but I was taken with the idea of making tree ornaments out of 
 
 Grandpa's Salty Nuts make a great Christmas tree ornament because they are so delicious. They crunch and taste really good. It doesn't really matter what shape they are. It's pretty cool to see them hanging in a tree after they've been there for a while. They collect a little dust and look like they've been around for a while. It's a tradition that I hope to continue for many years to come.
 
-These Grandpa's Salty Nuts are a great Christmas tradition. Not only do they have the
 ## Ingredients:
 
 - 2 cups (200g) raw pecans or walnuts
