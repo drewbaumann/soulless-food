@@ -21,6 +21,7 @@ baseurl: "/soulless-food" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drewbaumann
 github_username:  drewbaumann
+google_analytics: "UA-59160038-3"
 
 # Build settings
 markdown: kramdown
