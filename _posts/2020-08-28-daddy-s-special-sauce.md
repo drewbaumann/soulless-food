@@ -14,7 +14,6 @@ So, that’s pretty cool. But again, I never thought much of it. Then one day I 
 
 But I did. I made it and shared it with my readers, and I’m happy to say that it’s finally become a big hit. People are making Daddy’s Special Sauce all over the place. And it’s so simple. I mean, really, it’s like nothing. It shouldn’t be anything. But it’s so good, and has become such a staple in our family that I thought I’d share.
 
-So now that I
 ## Ingredients:
 
 - 1 1/2 cups mayonnaise
