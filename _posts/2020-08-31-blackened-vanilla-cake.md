@@ -7,7 +7,7 @@ categories: recipe
 In my opinion, this Blackened Vanilla Cake is the perfect vanilla cake – just the right amount of vanilla, yum. This cake is completely from scratch, even the frosting is homemade! The cake is moist and rich, and the frosting is sweet and creamy. If you love vanilla cakes, this should be on your list of cakes to bake!
 
 
-Ingredients:
+## Ingredients:
 
 - 1 1/2 cups all-purpose flour
 - 1 1/2 teaspoons baking powder
@@ -20,7 +20,7 @@ Ingredients:
 - 1/4 cup butter, melted
 - 1/4 cup brown sugar
 
-Instructions:
+## Instructions:
 
 1. Preheat oven to 350°F (180°C). Grease and flour a 9-inch round cake pan and set aside.
 2. In a medium sized bowl, combine flour, baking powder and salt and set aside.

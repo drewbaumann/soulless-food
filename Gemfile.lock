@@ -257,7 +257,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 207)
   jekyll (~> 3.9.0)
-  kramdown-parser-gfm
+  jekyll-commonmark-ghpages
   minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data

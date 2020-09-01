@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Butterfly+Kids&display=swap");
+
+body, .inner, #container {
+  background: #fff;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-family: 'Butterfly Kids', cursive;
+}
+
+.inner header h1 {
+  font-family: 'Butterfly Kids', cursive;
+  font-size: 100px;
+  font-weight: 100;
+}
+
+.title {
+  padding-bottom: 20px;
+
+  h1 {
+    font-size: 55px;
+  }
+}
+
+ol, ul {
+  padding-left: 40px;
+}
