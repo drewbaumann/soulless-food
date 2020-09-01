@@ -25,6 +25,7 @@ google_analytics: "UA-59160038-3"
 repository: https://github.com/drewbaumann/soulless-food
 
 # Build settings
+permalink: pretty
 markdown: CommonMarkGhPages
 theme: jekyll-theme-tactile
 plugins:
