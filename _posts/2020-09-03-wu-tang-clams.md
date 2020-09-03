@@ -12,7 +12,20 @@ But now that I’ve talked about it, I want some. I’ll just go see if my husba
 ## Ingredients
 
 - 1 lb clams
-- 1/2 cup water- 1/2 cup clam juice- 1/2 cup white wine- 1/4 cup butter- 2 cloves garlic- 1/2 onion- 1/2 cup chopped parsley- 1/2 cup chopped cilantro- 2 tbsp lemon juice- 1/2 tsp red pepper flakes- 1/2 tsp salt- 1/2 tsp black pepper- 1/4 tsp cayenne pepper- 1/4 cup bread crumbs
+- 1/2 cup water
+- 1/2 cup clam juice
+- 1/2 cup white wine
+- 1/4 cup butter
+- 2 cloves garlic
+- 1/2 onion
+- 1/2 cup chopped parsley
+- 1/2 cup chopped cilantro
+- 2 tbsp lemon juice
+- 1/2 tsp red pepper flakes
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 1/4 tsp cayenne pepper
+- 1/4 cup bread crumbs
 
 ## Instructions
 
