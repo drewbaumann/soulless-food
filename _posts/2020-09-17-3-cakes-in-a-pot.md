@@ -3,7 +3,8 @@ layout: default
 title:  "3 Cakes In A Pot"
 date:   2020-09-17 17:14:53 +0000
 categories: recipe
----So I’m sure a few of you have heard of 3 cakes in a pot – aka a 3 layer cake in a crock pot – but I haven’t seen many recipes for them.
+---
+So I’m sure a few of you have heard of 3 cakes in a pot – aka a 3 layer cake in a crock pot – but I haven’t seen many recipes for them.
 
 In fact, I didn’t even have a recipe for one until a couple years ago when I had this idea to make one for a huge potluck at church for their members and friends. I knew this would be an event, and I didn’t want to serve the same old stuff. I decided to make something that would really wow them. So basically, I had 2 weeks to figure out how to make a 3 layer cake in a crock pot.
 
