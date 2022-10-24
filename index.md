@@ -9,7 +9,7 @@ layout: default
   {{ post.excerpt }}
 {% endfor %}
 <h1>Recent Posts</h1>
-{% for post in site.posts offset:3 limit:20 %}
+{% for post in site.posts offset:3 limit:200 %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </li>
