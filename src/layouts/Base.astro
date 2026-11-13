@@ -1,0 +1,58 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: "website" | "article";
+}
+const SITE = "Soulless Food";
+const TAGLINE = "Awesome recipes written with AI";
+const { title, description = TAGLINE, image, type = "website" } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE}` : `${SITE}: ${TAGLINE}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/icons/apple-icon-180x180.png" />
+    <link rel="alternate" type="application/rss+xml" title={SITE} href="/feed.xml" />
+    <meta property="og:site_name" content={SITE} />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title ?? SITE} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <slot name="head" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="wordmark">{SITE}</a>
+      <p class="tagline">{TAGLINE}</p>
+      <nav><a href="/">Recipes</a><a href="/about/">About</a></nav>
+    </header>
+    <main><slot /></main>
+    <footer class="site-footer">
+      <p>
+        {SITE} is maintained by <a href="https://github.com/drewbaumann">Drew Baumann</a>.
+        Named (mostly) by people, written by machines. Cook at your own risk.
+      </p>
+      <p><a href="/feed.xml">RSS</a></p>
+    </footer>
+  </body>
+</html>

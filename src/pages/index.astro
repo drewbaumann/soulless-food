@@ -1,0 +1,32 @@
+---
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import { allPosts, imageOf, postUrl } from "../lib/posts";
+
+const [latest, ...rest] = await allPosts();
+const latestImg = imageOf(latest);
+---
+<Base>
+  <article class="featured">
+    <a href={postUrl(latest)}>
+      {latestImg && <Image src={latestImg} alt={latest.data.title} widths={[480, 760, 1216]} sizes="(max-width: 792px) 100vw, 760px" loading="eager" fetchpriority="high" />}
+      <h2>{latest.data.title}</h2>
+      <p>{latest.data.description}</p>
+    </a>
+  </article>
+  <h2 class="section-title">More recipes</h2>
+  <ul class="post-grid">
+    {rest.map((post) => {
+      const img = imageOf(post);
+      return (
+        <li>
+          <a href={postUrl(post)}>
+            {img ? <Image src={img} alt="" widths={[320, 480]} sizes="(max-width: 520px) 100vw, 240px" /> : <div class="placeholder" />}
+            <h3>{post.data.title}</h3>
+            <p>{post.data.description}</p>
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+</Base>

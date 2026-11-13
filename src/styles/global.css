@@ -1,0 +1,97 @@
+:root {
+  --bg: #fbf8f3;
+  --surface: #ffffff;
+  --ink: #2a2522;
+  --muted: #7a706a;
+  --accent: #b5442b;
+  --line: #e8e0d6;
+  --card: #fffdf9;
+  --shadow: 0 1px 2px rgb(60 40 20 / 0.06), 0 6px 20px rgb(60 40 20 / 0.06);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1b1816;
+    --surface: #24201d;
+    --ink: #eee7df;
+    --muted: #a99d93;
+    --accent: #e57a5e;
+    --line: #3a332e;
+    --card: #221e1b;
+    --shadow: none;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1b1816; --surface: #24201d; --ink: #eee7df; --muted: #a99d93;
+  --accent: #e57a5e; --line: #3a332e; --card: #221e1b; --shadow: none; color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 18px/1.7 "Lora", Georgia, serif;
+}
+a { color: var(--accent); text-underline-offset: 3px; }
+img { max-width: 100%; height: auto; display: block; }
+main, .site-header, .site-footer { width: min(760px, 100% - 32px); margin-inline: auto; }
+
+.site-header { text-align: center; padding: 28px 0 8px; border-bottom: 1px solid var(--line); }
+.wordmark {
+  font-family: "Butterfly Kids", cursive;
+  font-size: clamp(56px, 12vw, 96px);
+  line-height: 1;
+  color: var(--ink);
+  text-decoration: none;
+}
+.tagline { margin: 4px 0 10px; color: var(--muted); font-style: italic; }
+.site-header nav { display: flex; gap: 20px; justify-content: center; font-size: 15px; padding-bottom: 12px; }
+.site-header nav a { color: var(--ink); text-decoration: none; letter-spacing: 0.04em; text-transform: uppercase; }
+.site-header nav a:hover { color: var(--accent); }
+
+.site-footer { border-top: 1px solid var(--line); margin-top: 64px; padding: 24px 0 48px; color: var(--muted); font-size: 15px; text-align: center; }
+
+/* Post */
+.post-title { font-size: clamp(32px, 6vw, 48px); line-height: 1.15; margin: 36px 0 6px; letter-spacing: -0.01em; }
+.post-meta { color: var(--muted); font-size: 15px; margin: 0 0 22px; }
+.post-hero { margin: 0 0 28px; }
+.post-hero img { width: 100%; border-radius: 10px; box-shadow: var(--shadow); }
+.prose p { margin: 0 0 1.1em; }
+.prose h2 { font-size: 24px; margin: 1.4em 0 0.5em; }
+.recipe-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 8px 28px 20px;
+  margin-top: 36px;
+  box-shadow: var(--shadow);
+}
+.recipe-card h2 { border-bottom: 2px solid var(--accent); display: inline-block; padding-bottom: 2px; }
+.recipe-card ul, .recipe-card ol { padding-left: 1.3em; }
+.recipe-card li { margin: 0.25em 0; }
+.recipe-card li::marker { color: var(--accent); }
+@media (max-width: 520px) { .recipe-card { padding: 4px 18px 14px; } }
+
+.post-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 48px; font-size: 15px; }
+.post-nav a { text-decoration: none; color: var(--ink); }
+.post-nav span { display: block; color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; }
+.post-nav .next { text-align: right; }
+
+/* Index */
+.featured { margin: 36px 0 12px; }
+.featured a { color: inherit; text-decoration: none; }
+.featured img { width: 100%; border-radius: 10px; box-shadow: var(--shadow); }
+.featured h2 { font-size: clamp(30px, 5vw, 42px); line-height: 1.15; margin: 18px 0 6px; }
+.featured p { margin: 0; color: var(--muted); }
+.section-title { font-size: 15px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 56px 0 16px; border-top: 1px solid var(--line); padding-top: 24px; }
+.post-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 26px 20px; }
+.post-grid a { color: inherit; text-decoration: none; display: block; }
+.post-grid img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 8px; transition: transform 0.2s; }
+.post-grid a:hover img { transform: scale(1.02); }
+.post-grid h3 { font-size: 18px; line-height: 1.3; margin: 10px 0 2px; }
+.post-grid a:hover h3 { color: var(--accent); }
+.post-grid p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.45; }
+.placeholder { aspect-ratio: 3 / 2; border-radius: 8px; background: var(--line); }

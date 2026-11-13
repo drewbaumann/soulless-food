@@ -1,0 +1,55 @@
+---
+import { Image, getImage } from "astro:assets";
+import { render } from "astro:content";
+import Base from "../../../../../layouts/Base.astro";
+import { allPosts, imageOf, postUrl, urlParts, type Post } from "../../../../../lib/posts";
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return posts.map((post, i) => ({
+    params: urlParts(post),
+    props: { post, newer: posts[i - 1], older: posts[i + 1] },
+  }));
+}
+
+interface Props { post: Post; newer?: Post; older?: Post }
+const { post, newer, older } = Astro.props;
+const { Content } = await render(post);
+const img = imageOf(post);
+const og = img ? await getImage({ src: img, width: 1200, format: "jpg" }) : undefined;
+
+// Recipe structured data, pulled from the markdown lists.
+const section = (name: string) => {
+  const m = post.body?.match(new RegExp(`## ${name}\\s*\\n([\\s\\S]*?)(?=\\n## |$)`));
+  return m ? m[1].split("\n").map((l) => l.replace(/^\s*(?:[-*]|\d+\.)\s+/, "").trim()).filter(Boolean) : [];
+};
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  name: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.date.toISOString(),
+  author: { "@type": "Organization", name: "Soulless Food" },
+  image: og ? [new URL(og.src, Astro.site).href] : undefined,
+  recipeIngredient: section("Ingredients"),
+  recipeInstructions: section("Instructions").map((text) => ({ "@type": "HowToStep", text })),
+};
+const fmt = (d: Date) => d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+---
+<Base title={post.data.title} description={post.data.description} image={og?.src} type="article">
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <article>
+    <h1 class="post-title">{post.data.title}</h1>
+    <p class="post-meta"><time datetime={post.data.date.toISOString()}>{fmt(post.data.date)}</time></p>
+    {img && (
+      <figure class="post-hero">
+        <Image src={img} alt={post.data.title} widths={[480, 760, 1216]} sizes="(max-width: 792px) 100vw, 760px" loading="eager" fetchpriority="high" />
+      </figure>
+    )}
+    <div class="prose"><Content /></div>
+  </article>
+  <nav class="post-nav">
+    <div>{older && <a href={postUrl(older)}><span>&larr; Older</span>{older.data.title}</a>}</div>
+    <div class="next">{newer && <a href={postUrl(newer)}><span>Newer &rarr;</span>{newer.data.title}</a>}</div>
+  </nav>
+</Base>

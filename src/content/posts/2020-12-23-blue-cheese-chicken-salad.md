@@ -1,0 +1,34 @@
+---
+title:  "Blue Cheese Chicken Salad"
+date:   2020-12-23 17:47:24 +0000
+categories: recipe
+description: "Two days before Christmas, a woman makes chicken salad and thinks about cheese that has gone blue on purpose."
+image_prompt: "A rustic ceramic bowl of creamy chicken salad with chopped chicken, crisp celery, toasted walnuts and visible crumbles of blue-veined cheese, flecked with parsley and dried herbs, crackers and slices of crusty bread arranged around it and a few leaves of mixed greens, on a light wooden board, soft winter daylight, overhead angle, professional food photography, shallow depth of field, natural light"
+---
+Every December I reach a point where I cannot look at another cookie. It usually happens around the 23rd. The tree is up, the gifts are mostly wrapped, and I am standing in front of the open fridge at 11 a.m. wanting something cold, savory, and blue.
+
+I don't know why blue. I think it's because blue cheese is the only food that went bad on purpose and became more respected for it. I relate to that this time of year. My family thinks I'm being dramatic. My family is eating cookies.
+
+So this is my holiday gift to myself: a quiet bowl of blue cheese chicken salad, eaten standing up, before anyone asks me where the tape is.
+
+## Ingredients
+
+- 1 cup chopped cooked chicken
+- 1 cup chopped celery
+- 1/2 cup chopped walnuts
+- 1/2 cup crumbled blue cheese
+- 1/4 cup mayonnaise
+- 1/4 cup sour cream
+- 1/4 cup chopped fresh parsley
+- 1 teaspoon dried thyme
+- 1 teaspoon dried oregano
+- 1/4 teaspoon salt
+- 1/4 teaspoon ground black pepper
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon onion powder
+
+## Instructions
+
+1. Combine all ingredients in a medium bowl and mix well.
+2. Chill for at least 2 hours before serving.
+3. Serve with crackers, bread or over a bed of greens.
