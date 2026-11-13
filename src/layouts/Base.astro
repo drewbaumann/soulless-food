@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { ADSENSE_CLIENT, adsEnabled } from "../config";
 
 interface Props {
   title?: string;
@@ -38,6 +39,9 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
       href="https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap"
       rel="stylesheet"
     />
+    {adsEnabled && (
+      <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous"></script>
+    )}
     <slot name="head" />
   </head>
   <body>

@@ -1,0 +1,36 @@
+---
+import { ADSENSE_CLIENT, AD_SLOTS, adsEnabled, type AdSlotName } from "../config";
+
+interface Props {
+  name: AdSlotName;
+  /** "auto" for responsive display units, "fluid" for in-feed/in-article units */
+  format?: "auto" | "fluid";
+  layoutKey?: string;
+  class?: string;
+}
+const { name, format = "auto", layoutKey, class: cls } = Astro.props;
+const slot = AD_SLOTS[name];
+const live = adsEnabled && slot;
+const preview = !live && import.meta.env.DEV;
+---
+{live && (
+  <aside class:list={["ad", cls]} aria-label="Advertisement">
+    <span class="ad-label">Advertisement</span>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={ADSENSE_CLIENT}
+      data-ad-slot={slot}
+      data-ad-format={format}
+      data-ad-layout-key={layoutKey}
+      data-full-width-responsive={format === "auto" ? "true" : undefined}
+    ></ins>
+    <script is:inline>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </aside>
+)}
+{preview && (
+  <aside class:list={["ad", "ad-preview", cls]} aria-hidden="true">
+    <span class="ad-label">Advertisement</span>
+    <div class="ad-preview-box">ad slot: {name}</div>
+  </aside>
+)}

@@ -2,6 +2,7 @@
 import { Image, getImage } from "astro:assets";
 import { render } from "astro:content";
 import Base from "../../../../../layouts/Base.astro";
+import AdSlot from "../../../../../components/AdSlot.astro";
 import { allPosts, imageOf, postUrl, urlParts, type Post } from "../../../../../lib/posts";
 
 export async function getStaticPaths() {
@@ -46,7 +47,11 @@ const fmt = (d: Date) => d.toLocaleDateString("en-US", { year: "numeric", month:
         <Image src={img} alt={post.data.title} widths={[480, 760, 1216]} sizes="(max-width: 792px) 100vw, 760px" loading="eager" fetchpriority="high" />
       </figure>
     )}
-    <div class="prose"><Content /></div>
+    <div class="prose">
+      <Content />
+      <AdSlot name="beforeRecipe" class="ad-before-recipe" />
+    </div>
+    <AdSlot name="afterRecipe" />
   </article>
   <nav class="post-nav">
     <div>{older && <a href={postUrl(older)}><span>&larr; Older</span>{older.data.title}</a>}</div>

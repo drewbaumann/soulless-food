@@ -95,3 +95,31 @@ main, .site-header, .site-footer { width: min(760px, 100% - 32px); margin-inline
 .post-grid a:hover h3 { color: var(--accent); }
 .post-grid p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.45; }
 .placeholder { aspect-ratio: 3 / 2; border-radius: 8px; background: var(--line); }
+
+/* Ads */
+.ad { margin: 36px 0; text-align: center; }
+.ad-label {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.ad .adsbygoogle { min-height: 250px; }
+.ad:has(ins[data-ad-status="unfilled"]) { display: none; }
+.ad-preview-box {
+  min-height: 250px;
+  display: grid;
+  place-items: center;
+  border: 2px dashed var(--line);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.post-grid .ad-row { grid-column: 1 / -1; margin: 6px 0; }
+/* Post body: DOM order is story, recipe, ad; visual order puts the ad between them. */
+.prose { display: flex; flex-direction: column; }
+.prose > .story { order: 1; }
+.prose > .ad-before-recipe { order: 2; }
+.prose > .recipe-card { order: 3; }

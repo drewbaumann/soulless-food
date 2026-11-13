@@ -1,6 +1,9 @@
 ---
 import { Image } from "astro:assets";
 import Base from "../layouts/Base.astro";
+import AdSlot from "../components/AdSlot.astro";
+import { AD_SLOTS, FEED_AD_EVERY, adsEnabled } from "../config";
+const showFeedAds = (adsEnabled && AD_SLOTS.inFeed) || import.meta.env.DEV;
 import { allPosts, imageOf, postUrl } from "../lib/posts";
 
 const [latest, ...rest] = await allPosts();
@@ -16,9 +19,11 @@ const latestImg = imageOf(latest);
   </article>
   <h2 class="section-title">More recipes</h2>
   <ul class="post-grid">
-    {rest.map((post) => {
+    {rest.map((post, i) => {
       const img = imageOf(post);
       return (
+        <>
+        {showFeedAds && i > 0 && i % FEED_AD_EVERY === 0 && <li class="ad-row"><AdSlot name="inFeed" /></li>}
         <li>
           <a href={postUrl(post)}>
             {img ? <Image src={img} alt="" widths={[320, 480]} sizes="(max-width: 520px) 100vw, 240px" /> : <div class="placeholder" />}
@@ -26,6 +31,7 @@ const latestImg = imageOf(latest);
             <p>{post.data.description}</p>
           </a>
         </li>
+        </>
       );
     })}
   </ul>
