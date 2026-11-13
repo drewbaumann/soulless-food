@@ -95,7 +95,7 @@ Make sure ComfyUI is up: `curl -sf http://127.0.0.1:8188/system_stats`. If it is
 `~/ComfyUI/start.sh --listen 127.0.0.1` in the background and poll until it answers, up to 10 minutes.
 Remember whether you started it.
 
-Render: `~/ComfyUI/.venv/bin/python scripts/render_images.py` (renders only posts missing an image;
+Render: `~/ComfyUI/.venv/bin/python scripts/render_images.py --only <slug>` (renders that post if its image is missing;
 writes `src/assets/posts/<slug>.jpg`).
 
 **Look at the image** (Read it). Re-render with `--force <slug>` (new random seed each time, up to 3

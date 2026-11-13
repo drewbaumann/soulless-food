@@ -5,6 +5,7 @@ Uses MOSS-Image (SFT) on the local ComfyUI server. Needs Pillow and PyYAML, both
 ComfyUI's own venv already has, so run it with that interpreter:
 
     ~/ComfyUI/.venv/bin/python scripts/render_images.py            # all missing images
+    ~/ComfyUI/.venv/bin/python scripts/render_images.py --only SLUG   # just this post, if missing
     ~/ComfyUI/.venv/bin/python scripts/render_images.py --force SLUG  # re-render one post
 """
 import argparse
@@ -103,6 +104,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", nargs="*", default=None,
                     help="re-render these post slugs (or all, if none given) even if images exist")
+    ap.add_argument("--only", nargs="+", default=None,
+                    help="only consider these post slugs (renders them if missing)")
     ap.add_argument("--steps", type=int, default=30)
     args = ap.parse_args()
 
@@ -119,6 +122,8 @@ def main():
             continue
         slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", path.stem)
         out = IMAGES / f"{slug}.jpg"
+        if args.only is not None and slug not in args.only:
+            continue
         forced = args.force is not None and (not args.force or slug in args.force)
         if out.exists() and not forced:
             continue
