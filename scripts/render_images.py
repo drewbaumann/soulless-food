@@ -115,7 +115,7 @@ def main():
         sys.exit(f"ComfyUI is not reachable at {HOST}. Start it with ~/ComfyUI/start.sh")
 
     todo = []
-    for path in sorted(POSTS.glob("*.md")):
+    for path in sorted(POSTS.glob("*.md"), reverse=True):  # newest first
         fm = front_matter(path)
         if not fm.get("image_prompt"):
             print(f"skip (no image_prompt): {path.name}")
