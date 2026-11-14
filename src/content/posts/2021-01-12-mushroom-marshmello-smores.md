@@ -2,16 +2,16 @@
 title:  "Mushroom Marshmello Smores"
 date:   2021-01-12 18:19:52 +0000
 categories: recipe
-description: "A campfire classic. My husband and I have been known to eat at least 8 in one sitting. I'm not even kidding."
+description: "A campfire classic, baked in a 9x13 in the oven. My husband and I have eaten at least 8 helpings in one sitting. I'm not even kidding."
 image_prompt: "A 9x13 baking dish of creamy, cheesy sauteed mushrooms with diced red, yellow and green bell peppers, carrots and celery, topped with a layer of puffy toasted golden-brown marshmallows, a serving spoon lifting a gooey portion, on a rustic wooden table near a campfire glow, warm evening light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I know you might think that’s a funny combination, but trust me when I say it’s amazing! I’ve been doing these on our campfires for years. They’re SOOO good. I just love that creamy, smooth, and slightly sweet taste of the marshmallows melting over the top of the hot melted chocolate. It’s heaven.
+I know you might think that’s a funny combination, but trust me when I say it’s amazing! I’ve been baking these before our campfires for years. They’re SOOO good. I just love that creamy, smooth, and slightly sweet taste of the marshmallows melting over the top of the hot cheesy mushrooms. It’s heaven.
 
-If you’re camping with friends, or even family, these smores are a hit. They’ll disappear in just a few minutes. My husband and I have been known to eat at least 8 mushroom smores in one sitting. Just one after the other. I’m not even kidding.
+If you’re camping with friends, or even family, these smores are a hit. They’ll disappear in just a few minutes. My husband and I have been known to eat at least 8 helpings of mushroom smores in one sitting. Just one after the other. I’m not even kidding.
 
-I just used regular white button mushrooms but the larger Champignon would work well too. I added the Worcestershire to give it a little extra flavour, but you can leave it out if you want to. If you’re not a fan of Worcestershire, you could add a little garlic or onion powder.
+I just used regular white button mushrooms but the larger Champignon would work well too. I added the Italian seasoning to give it a little extra flavour, but you can leave it out if you want to. If you’re not a fan of Italian seasoning, you already have garlic and onion powder in there anyway.
 
-I used my Marshmello Chocolate Melting wafers for the chocolate, but you could also use a bar of dark chocolate. If you’re serving these at home I’d use dark chocolate, because the melty marshmallows will melt the chocolate – and it might be a bit too rich, even for my taste.
+I used mozzarella, cheddar and Parmesan for the cheese, and a little heavy cream on top of that. If you’re serving these at home I’d go easy on the marshmallows, because the melty marshmallows will melt into the cheese – and it might be a bit too rich, even for my taste.
 
 ## Ingredients
 

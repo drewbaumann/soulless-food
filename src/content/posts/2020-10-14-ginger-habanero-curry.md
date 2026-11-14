@@ -7,9 +7,9 @@ image_prompt: "A deep ceramic bowl of rich orange-red tomato coconut curry with 
 ---
 Another recipe I’m a tad bit late with is my Ginger Habanero Curry. Though I’ll admit, I’d still eat this any day of the week. I am totally obsessed with it. Curry is a gateway drug for me to the spicy. Like, I was a total wimp with spicy food until my sister introduced me to curry. Now I’m obsessed with it. And this recipe is right up there with my Curry Roasted Cauliflower.
 
-This Ginger Habanero Curry is a spicy take on one of my favorite spicy foods ever: Ginger Chicken. And man, it’s SO GOOD. You just need to make it. Trust me.
+This Ginger Habanero Curry is a spicy chickpea take on one of my favorite spicy foods ever: Ginger Chicken. And man, it’s SO GOOD. You just need to make it. Trust me.
 
-I’m a total sucker for a good mix of sweet and spicy. Like Thai Sweet Chili Sauce, which is a combination of sweet and salty and spicy. I love it on so many things. (We eat it on salmon ALL the time.) The same goes for this Ginger Habanero Curry. The sugar balances out the spices, and the spiciness of the habanero. Plus the coconut milk makes it super rich and creamy.
+I’m a total sucker for a good mix of sweet and spicy. Like Thai Sweet Chili Sauce, which is a combination of sweet and salty and spicy. I love it on so many things. (We eat it on salmon ALL the time.) The same goes for this Ginger Habanero Curry. The cinnamon balances out the spices, and the spiciness of the habanero. Plus the coconut milk makes it super rich and creamy.
 
 I could just drink this. And I pretty much do. It’s SO good.
 

@@ -9,7 +9,7 @@ Now that the holidays are over, we can officially start making fun of the Super 
 
 The funny thing is that I have nothing to joke about this year. The game was exciting, and then the end, and then it was over. The Patriots won! It was great!
 
-It's been a while since I've had a big meal that wasn't a holiday meal, and it was glorious. And I used to not be a big fan of wings, but I might be turning over a new leaf. I'm a huge fan now, especially after these super easy chicken wings. Just marinate the wings, put in the oven and dinner is ready in less than 30 minutes.
+It's been a while since I've had a cheat meal that wasn't a holiday meal, and it was glorious. And I used to not be a big fan of milkshakes for dinner, but I might be turning over a new leaf. I'm a huge fan now, especially after this super easy peanut butter banana shake. Just put the ice cream, peanut butter and banana in the blender and dinner is ready in less than 30 seconds.
 
 All in all, it was a wonderful Friday night.
 

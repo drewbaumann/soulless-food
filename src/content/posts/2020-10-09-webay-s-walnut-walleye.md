@@ -7,7 +7,7 @@ image_prompt: "Chunks of baked walleye fillet with a craggy golden crust of chop
 ---
 I'm always looking for new recipes to try, especially fish recipes. I'm not too experienced with cooking fish, I was always a little scared of it. However, this recipe for Walleye by Webay was so good, I'm excited to try a few more fish recipes.
 
-The walnut walleye is baked and not fried, which keeps it nice and moist, and can be baked in just 30 minutes. The recipe is made with walnuts and garlic alongside the walleye. The walnuts provide a nice crunchy texture along with a nutty flavor. The walleye is perfect alone or you can serve it with a side of potatoes.
+The walnut walleye is baked and not fried, which keeps it nice and moist, and can be baked in just 30 minutes. The recipe is made with walnuts and Parmesan alongside the walleye. The walnuts provide a nice crunchy texture along with a nutty flavor. The walleye is perfect alone or you can serve it with a side of potatoes.
 
 This recipe is perfect to prepare on a weeknight and is the perfect dish to serve for the holidays. The walleye would be great served with a side of green beans and a simple salad. It's a healthy, tasty dinner that can be on the table in under 45 minutes.
 

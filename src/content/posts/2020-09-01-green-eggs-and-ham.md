@@ -2,16 +2,16 @@
 title:  "Green Eggs And Ham"
 date:   2020-09-01 17:14:24 +0000
 categories: recipe
-description: "A Dr. Seuss breakfast tribute that promises muffin-tin bites and then bakes everything in a 9x13 dish anyway."
+description: "A Dr. Seuss breakfast casserole in a 9x13 dish. The eggs are not green, but the peppers and onions are trying their best."
 image_prompt: "A rectangular 9x13 baking dish of puffy golden baked egg casserole studded with chopped green bell pepper, green onion and pink diced ham, melted cheddar and mozzarella browned on top, one square cut out and served on a small plate beside it, on a sunny kitchen counter, bright morning light, overhead three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 I am, and always will be, a Dr. Seuss fan. My mom read to me every day as a child and I loved it. I was especially a big fan of Dr. Seuss. I still am. I actually have this sweet little book that’s a compilation of all his stories and it’s one of my most treasured items.
 
 So when I thought of a fun breakfast to make for my kids and me, naturally I had to go with Green Eggs and Ham. I thought it would be fun to take the ham and green eggs and make it special – but not over the top. I wanted to keep it relatively simple and I also wanted to make it ahead of time, so I could enjoy my A.M. cup of coffee.
 
-Enter these simple and tasty Green Eggs and Ham Bites! They’re the perfect thing to make for breakfast time. They’re also really easy to reheat and make for a fun breakfast or dinner.
+Enter this simple and tasty Green Eggs and Ham Casserole! They’re the perfect thing to make for breakfast time. They’re also really easy to reheat and make for a fun breakfast or dinner.
 
-I made my eggs in muffin tins and topped them with some Baked Ham and some fresh parsley. I also added some Pecorino and some fresh black pepper. The ingredients are simple, but when you put them all together they create something amazingly delicious.
+I baked my eggs in a 9x13 dish and topped them with chopped ham, green bell pepper and green onion. I also added some cheddar and mozzarella. The ingredients are simple, but when you put them all together they create something amazingly delicious.
 
 If you’re a Dr. Seuss fan, or if you’ve never read his books to your kids, I highly recommend it. Bedtime for Frances is another of my favorites (and also a movie).
 

@@ -2,14 +2,14 @@
 title:  "Rupert's Fig & Venison Stew"
 date:   2021-01-01 17:54:30 +0000
 categories: recipe
-description: "Simple ingredients like venison, red wine, red currant jelly, and I think 2 other things. Simmers for 3 hours."
+description: "Simple ingredients like venison, red wine, fresh figs, and I think 2 other things. Simmers for 2 hours."
 image_prompt: "A deep cast iron pot of dark, glossy venison stew with tender chunks of meat, soft chopped figs, carrots, celery and onion in a rich red wine broth flecked with dried herbs, a wooden spoon and a halved fresh fig on the side, on a rustic wooden table, moody winter window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 Last night, I made a newish recipe I'd tried out in the kitchen and loved. And I think you all should try it out too!
 
 The recipe comes from the wonderful Jeremy Olden, who has a great series of books where he goes to the source and interviews chefs and cooks around the country about the food they make and eat in their homes and kitchens. This series of books is my favorite of all of his, because it's so interesting to see what people make. What they cook. It's inspiring and it helps me remember that I don't need to be always tweaking and perfecting my own recipes, but rather to just make them. Then eat them. And be happy with them.
 
-Anyway, I made Jeremy's fig and venison stew last night and it was a revelation. The recipe calls for very simple ingredients like venison (or other stewing beef), red wine, red currant jelly, and I think 2 other things. It simmers for 3 hours and is delicious. I'm actually having leftovers for breakfast this morning!
+Anyway, I made Jeremy's fig and venison stew last night and it was a revelation. The recipe calls for very simple ingredients like venison (or other stewing beef), red wine, fresh figs, and I think 2 other things. It simmers for 2 hours and is delicious. I'm actually having leftovers for breakfast this morning!
 
 The recipe comes from Jeremy's first book, and I think it's really worth trying out. You could also use pork instead of venison, but I really like the venison in this recipe, it adds so much richness.
 

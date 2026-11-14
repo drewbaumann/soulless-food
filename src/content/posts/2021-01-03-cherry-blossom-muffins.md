@@ -5,9 +5,9 @@ categories: recipe
 description: "Light, soft muffins with a surprise inside. I won’t tell you what it is. These muffins are the bomb.com."
 image_prompt: "Domed golden muffins in pale pink paper liners topped with chopped pecans, one broken open to reveal a glossy pocket of red cherry preserves in the center, arranged on a wire rack with a few pink cherry blossom petals scattered across a light grey linen surface, soft spring daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I’m sorry, but these muffins are just awesome. They’re that delicious mix of tart and sweet that you get with cherry blossom flavored things. My mother in law grew up in Japan, so now every spring she makes tons of cherry blossom things. She made cherry blossom cupcakes, cherry blossom pasta and I saw a cherry blossom fruit punch, but I think I like this cherry blossom muffin the best.
+I’m sorry, but these muffins are just awesome. They’re that delicious mix of tart and sweet that you get with cherry things, plus pecans on top for crunch. My mother in law grew up in Japan, so now every spring she makes tons of cherry blossom things. She made cherry blossom cupcakes, cherry blossom pasta and I saw a cherry blossom fruit punch, but I think I like this cherry blossom muffin the best.
 
-It’s just so light and soft and the fresh cherry blossom flavor totally comes through. Plus, there’s a surprise inside. I know, I know, you can’t see it and I won’t tell you what it is. But let’s just say it’s totally worth it. These muffins are the bomb.com. Don’t believe me? Just make them and then come back and tell me how much you loved them.
+It’s just so light and soft, even with three kinds of flour and flax meal in there, and the blossoms are purely spiritual. Plus, there’s a surprise inside. I know, I know, you can’t see it and I won’t tell you what it is. But let’s just say it’s totally worth it. These muffins are the bomb.com. Don’t believe me? Just make them and then come back and tell me how much you loved them.
 
 ## Ingredients
 

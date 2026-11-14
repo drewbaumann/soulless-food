@@ -9,13 +9,13 @@ We’ve all got those family recipes that are classics but maybe not the most ap
 
 Not necessarily in a gross way, but in a way that makes you question, “Why exactly would we ever think to put this in our mouths?” Yeah, there are a few of those in my family. One of them is pork pudding.
 
-I grew up eating pork pudding. My mom and my grandmother both made it, and I loved it. It was like a fancy mashed potato casserole in a weird gelatinous form. My brothers preferred a meatloaf version that was topped with a layer of ketchup, making it a total sweet/savory dish. Both were great, but neither were as tasty as the other sweets in our house.
+I grew up eating pork pudding. My mom and my grandmother both made it, and I loved it. It was like a fancy trail mix casserole that somebody accidentally dropped a pork shoulder into. My brothers picked out the dried bananas and threw them at each other, making it a total sweet/savory/airborne dish. It was great, but not as tasty as the other sweets in our house.
 
-Pork pudding is kind of like a casserole made with ground pork (ground pork? not sure why my family didn’t call it what it was…ground pork…) mixed with gelatin, corn flakes, and other ingredients. It gets baked and then served with a gravy slathered over the top.
+Pork pudding is kind of like a casserole made with shredded pork (pudding? not sure why my family didn’t call it what it was…pork casserole…) mixed with pistachios and eleven kinds of dried fruit. It gets drowned in a sweet cream sauce and then baked until the top goes golden.
 
 I’ve been making this pork pudding recipe for nearly 4 years. It’s a favorite. But my family isn’t the only one who loves it. I had several friends tell me it’s something they’d like to see more of. I thought I’d throw it in for the blog this year, and add a new spin to it.
 
-This version is a little more casserole-like. It’s layered and made with a corn flake and panko crust. It’s then topped with a delicious blanket of gravy. And the whole thing is SO good. It’s the kind of dish that you need to be careful with, because it’s so delicious you could eat 2/3 of it before you’ve even taken a picture. And that’s what I did. True story.
+This version is a little more casserole-like. It’s all stirred together in a 9x13 dish, from the raisins to the dried mango to the dates. It’s then baked under a delicious blanket of sweet butter, sugar and cream sauce. And the whole thing is SO good. It’s the kind of dish that you need to be careful with, because it’s so delicious you could eat 2/3 of it before you’ve even taken a picture. And that’s what I did. True story.
 
 This dish would be the perfect addition to your holiday menu, but I really think you should make it all the time. It’s that good.
 

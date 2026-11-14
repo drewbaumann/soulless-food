@@ -11,9 +11,9 @@ Hummus is also great because it can be a great way to get kids to eat more veget
 
 Hummus is also one of my go-to appetizers. It’s always a hit at any party. It’s perfect for tailgates or one of those parties you have on autopilot. You know what I’m talking about…that time of year when you get together with your friends and have a football party. I like to make a few appetizers ahead of time, like this Hummus and Brie Surprise, that I can throw on the table and forget about. Then, I just get on with mingling with friends.
 
-So what’s so special about this appetizer? I’m so glad you asked. It has brie in it. Brie cheese is always a great appetizer, but adding a little something extra to it is even better. In this case, we add a few ingredients to the brie that gives it a slightly sweet flavor. The combination of flavors here is just outstanding.
+So what’s so special about this appetizer? I’m so glad you asked. It has brie in it. Brie cheese is always a great appetizer, but adding a little something extra to it is even better. In this case, we crumble the brie right into the hummus with some feta, which gives it a slightly funky, cheesy flavor. The combination of flavors here is just outstanding.
 
-I love the combination of brie, hummus, and apricots. The apricots are a great way to make the perfect appetizer. You can whip up a batch of this hummus in less than 20 minutes. It’s the perfect thing when you have unexpected company or a last-minute party.
+I love the combination of brie, hummus, and feta. The parsley and cilantro are a great way to make the perfect appetizer. You can whip up a batch of this hummus in less than 20 minutes. It’s the perfect thing when you have unexpected company or a last-minute party.
 
 ## Ingredients
 

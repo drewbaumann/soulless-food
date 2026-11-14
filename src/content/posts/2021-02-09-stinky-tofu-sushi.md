@@ -15,7 +15,7 @@ And if you’re going to make sushi, why not make Stinky Tofu Sushi? It’s a li
 
 I used to think sushi had to be this super fancy meal, but when I tried Stinky Tofu Sushi, I realized that sushi is just tasty stuff wrapped in seaweed. Which meant I could make it at home! I want to note that this is no traditional sushi, but if you’ve never made sushi at home, it’s actually quite easy.
 
-I made sushi rice because it’s a bit healthier (and controls the sticky factor), I used smoked salmon because I’m not a big fan of raw fish, and used lots of delicious veggies. I also used my favorite sushi rolling mat, which made rolling so easy and really helped control the sticky factor.
+I mixed sushi rice with plain white rice because it’s a bit healthier (and controls the sticky factor), I skipped the fish entirely because I’m not a big fan of raw fish, and let the vinegar-marinated tofu do all the work. I also used my favorite sushi rolling mat, which made rolling so easy and really helped control the sticky factor.
 
 I love this Stinky Tofu Sushi because it’s just so damn tasty. I mean, who would have thought Stinky Tofu could be so good!
 

@@ -2,16 +2,16 @@
 title:  "Savory Swamp Chicken"
 date:   2020-12-28 17:49:40 +0000
 categories: recipe
-description: "My mother's old-school Swamp Chicken: the perfect blend of spicy, sweet, savory, and swamp."
+description: "My mother's old-school Swamp Chicken: the perfect blend of creamy, herby, savory, and swamp."
 image_prompt: "A whole golden roast chicken on a platter sitting in a murky green-brown pool of creamy herb wine sauce with mushrooms, carrots, celery and onion, heavily flecked with chopped fresh herbs like a swamp, a few herb sprigs on top, dark roasting pan beside it, rustic table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 Speaking of old-school recipes, Swamp Chicken is another one of those. It’s one of my favorites and I love having a good reason to make it.
 
-I think I first had it in my pre-vegetarian days. I’m sure it had some kind of meat in it, since it was my mother’s, but I just replaced the meat with beans and turned it into a vegetarian dish. And let me tell ya, it’s even better.
+I think I first had it when I was about six. It was my mother’s, so it had a whole chicken in it, and I just added a cup of fresh herbs and turned the sauce into an actual swamp. And let me tell ya, it’s even better.
 
-The thing I love about this recipe is how easy it is to prepare. You’re basically just cooking the chicken in a pan and then making a sauce in the same pan. That’s it. It’s one of those easy dinner recipes that my family loves.
+The thing I love about this recipe is how easy it is to prepare. You’re basically just roasting the chicken in a pan for three hours and then making a sauce in the same pan. That’s it. It’s one of those easy dinner recipes that my family loves.
 
-I also feel like it’s the perfect blend of spicy, sweet, and savory. It’s just got so many great flavors going on. And like I said, it’s an easy dinner recipe. It was one of my go-to recipes when I was a busy stay-at-home mom. Now that I’ve got a one year old and a four month old I’m not sure I have time for a one dish meal, but this one is the perfect mix of easy, fast, and delicious. I think it’s a dinner recipe I’ll have to make time for.
+I also feel like it’s the perfect blend of creamy, herby, and savory. It’s just got so many great flavors going on. And like I said, it’s an easy dinner recipe. It was one of my go-to recipes when I was a busy stay-at-home mom. Now that I’ve got a one year old and a four month old I’m not sure I have time for a one dish meal, but this one is the perfect mix of easy, fast, and delicious. I think it’s a dinner recipe I’ll have to make time for.
 
 ## Ingredients
 

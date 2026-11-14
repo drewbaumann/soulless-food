@@ -7,11 +7,11 @@ image_prompt: "Rich braised pork knuckle pieces in a dark glossy tomato and beef
 ---
 Hey what is up !?
 
-Some friends asked me last week what I wanted for Christmas. I was really surprised to receive a “Slutty Pig Knuckle” from a friend of mine: a knuckle with a hole for the bone, that you can stick in your mouth instead of wasting any meat!
+Some friends asked me last week what I wanted for Christmas. I was really surprised to receive a “Slutty Pig Knuckle” from a friend of mine: a whole pot of pork knuckle braised in brandy and beef broth with star anise and juniper, so falling off the bone you can stick it in your mouth instead of wasting any meat!
 
 I actually had no idea what this was! I thought they were actually making fun of me and joking about the fact I had gained weight…
 
-Then they explained that it is this little device to help you eat the animal’s knuckles!
+Then they explained that it is just a dish, a little stew to help you eat the animal’s knuckles!
 
 I was like crying of laughter. How funny!
 

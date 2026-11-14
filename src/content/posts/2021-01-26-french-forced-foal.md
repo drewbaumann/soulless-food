@@ -2,18 +2,18 @@
 title:  "French Forced Foal"
 date:   2021-01-26 17:43:57 +0000
 categories: recipe
-description: "A classic French bistro beef stew, invented under duress, which is somehow a batch of almond cinnamon sugar cookies."
+description: "A classic French almond cinnamon sugar cookie, invented under duress, containing absolutely no horse."
 image_prompt: "Round, sugar-coated almond cinnamon cookies with crackled tops and toasted sliced almonds pressed on, arranged in the shape of a horseshoe on a parchment-lined baking sheet, a small bowl of cinnamon sugar nearby, rustic French farmhouse table, soft golden afternoon light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
 I’m pretty sure the French call it something else, but I say it my way and I say it’s good. You’re just going to have to trust me on this one.
 
-The other day, I was talking to a client who was going to be making her husband dinner when he got home from a long day of work. I told her to make a French forced foal. She asked me to please explain what it was. I obliged, saying it was a French version of a beef stew, just add garlic, and that it’s fabulous.
+The other day, I was talking to a client who was going to be making her husband dinner when he got home from a long day of work. I told her to make a French forced foal. She asked me to please explain what it was. I obliged, saying it was a French version of a sugar cookie, just add almonds, and that it’s fabulous.
 
 Her husband thanked me on the phone. I then told him that his wife was my new hero, and I proceeded to tell him the story about the French and the forced foal. He replied, “Well, now I look forward to coming home.” Nice try, buddy.
 
 I’m not sure where this dish originated. I think it was invented in a small countryside French town after the French were forced to eat horses, oh, and two months worth of it with no end in sight. You know, the usual story. I’m not sure about that part. But I do know that I’m a fan.
 
-I’m sure it was originally made with a horse, but I use beef. I’m not too sure about the rest, except that it’s pretty much awesome. It’s a classic French bistro dish, and it’s hearty, with big flavors. It’s comfort in a bowl.
+I’m sure it was originally made with a horse, but I use butter, sliced almonds and cinnamon sugar. I’m not too sure about the rest, except that it’s pretty much awesome. It’s a classic French bakery cookie, and it’s soft, with big flavors. It’s comfort on a baking sheet.
 
 ## Ingredients
 

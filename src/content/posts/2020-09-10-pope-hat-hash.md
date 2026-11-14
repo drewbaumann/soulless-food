@@ -9,9 +9,9 @@ Is there anything better than a hash for breakfast? No, I don’t think so. Hash
 
 Because if you’re anything like me, mornings get hectic around holidays (or any time of year really). Going out for breakfast is just not going to happen. You’re trying to get everyone to go to church, the tree needs to be decorated, presents need to be wrapped, and on and on. So on most days, I’m left scrambling to get things done and figure out what everyone is going to eat.
 
-A good old fashioned hash is the perfect make ahead breakfast to have on hand. It can be prepared the night before, or early in the morning (if you’re up and at ’em early) and then popped in the oven when you’re ready. You can top it with eggs, or go with a side of biscuits, or just eat it by itself. No matter how you prepare a hash, you’re going to love it!
+A good old fashioned hash is the perfect make ahead breakfast to have on hand. It can be prepared the night before, or early in the morning (if you’re up and at ’em early) and then warmed back up on the stove when you’re ready. You can top it with eggs, or go with a side of biscuits, or just eat it by itself. No matter how you prepare a hash, you’re going to love it!
 
-I’ve been making this one for years. It started out as a brown sugar hash, but then I started adding a few ingredients to kick things up a notch and make it a little more special. The ham adds some great flavor and texture to the hash and the cream cheese just adds a little something extra. If you’re a fan of a good cream cheese dish, as in cheesecake or mac n’ cheese, you may just love this one.
+I’ve been making this one for years. It started out as a plain beef hash, but then I started adding a few ingredients to kick things up a notch and make it a little more special. The peppers and celery add some great flavor and texture to the hash, and the flour and butter at the end thicken it into a little something extra. If you’re a fan of a good gravy dish, as in biscuits and gravy or pot roast, you may just love this one.
 
 I’ll warn you that this is a fairly basic hash. So it might not be the best choice if you’re looking for a lot of flavor and spice. But if you like a good, old fashioned hash, then this is the one for you!
 

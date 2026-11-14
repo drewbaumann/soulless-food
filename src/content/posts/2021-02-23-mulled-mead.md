@@ -5,7 +5,7 @@ categories: recipe
 description: "A warm spiced honey wine with brandy, fruit, and peppercorns. Make your own mead first; it's not difficult."
 image_prompt: "A steaming glass mug of golden mulled mead with floating orange and lemon slices, a cinnamon stick and whole cloves, a large pot of mead with apple slices simmering behind it, scattered allspice and peppercorns on a dark wooden table, warm firelight glow, side angle, professional food photography, shallow depth of field, natural light"
 ---
-If you’ve never had mead, you need to, and you need to do it soon. And then you need to make some of this mulled mead. It’s a classic winter drink, and I love the warm spiciness of the cloves, nutmeg, and cinnamon.
+If you’ve never had mead, you need to, and you need to do it soon. And then you need to make some of this mulled mead. It’s a classic winter drink, and I love the warm spiciness of the cloves, allspice, and cinnamon.
 
 I really loved making a mulled mead version of the drink. You could also use store-bought mead as well, but I’d recommend making some yourself. It’s not difficult, and I promise you’ll have the best mead you’ve ever had if you make your own.
 

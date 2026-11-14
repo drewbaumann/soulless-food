@@ -2,7 +2,7 @@
 title:  "Lazy Sunday Latkes"
 date:   2020-12-20 17:35:25 +0000
 categories: recipe
-description: "Grandma’s traditional latkes, found in a scrapbook and baked, not fried. Except you fry them."
+description: "Grandma’s traditional latkes, found in a scrapbook and fried in hot oil, exactly like Grandma did it."
 image_prompt: "A loose stack of lacy, golden-brown fried potato latkes with crispy shredded edges on a mismatched vintage plate, a small bowl of sour cream and another of applesauce beside them, a cast iron skillet with shimmering oil in the background, on a rumpled linen tablecloth, soft lazy late-morning window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 This year we celebrated Chanukah without my Grandma, who passed away last year. As sad as that makes me, it’s actually been really nice to celebrate without her. I mean, it was hard to be without her for the first time, but it means we can make whatever traditions we want. That also meant this year, I figured we’d make a batch of my Grandma’s traditional Latkes.
@@ -13,9 +13,9 @@ For years, I’d make a batch of my Grandma’s Latkes, because I knew it was he
 
 Over the years, I forgot about the details of their recipe and how to make them. I decided this year that I had to find it, and make them again to share with you guys. I found the recipe in a scrapbook in my Grandma’s home, and just like that, it was all coming back to me!
 
-Instead of making your typical fried potato pancakes, you’ll need a nice nonstick pan and you’ll need to bake them (in the oven). That’s right, I said baked. If you’re thinking that they’re not the same, you’re right, they’re better. They’re crisper on the outside, tender and perfect on the inside. Baked latkes are the way to go!
+Instead of getting fancy with your potato pancakes, you’ll need a large skillet and you’ll need to fry them (in hot oil). That’s right, I said fried. If you’re thinking that they can’t be as good as you remember, you’re right, they’re better. They’re crisper on the outside, tender and perfect on the inside. Fried latkes are the way to go!
 
-And as with most latke recipes, they couldn’t be easier. Just dice up the potatoes, onions and eggs, mix them together, then they’re ready to be baked and devoured. I hope you enjoy these as much as I do!
+And as with most latke recipes, they couldn’t be easier. Just grate up the potatoes and onion, mix them with matzo meal and eggs, then they’re ready to be fried and devoured. I hope you enjoy these as much as I do!
 
 ## Ingredients
 

@@ -7,7 +7,7 @@ image_prompt: "Crunchy hard taco shells overstuffed with saucy seasoned ground b
 ---
 If there was ever a sign of me being a real adult, it's the complete and utter absence of the ability to cook. It's a sad day when you realize that all you cook is easy recipes that could be done by the average person who has opposable thumbs. Sure you can microwave a bag of popcorn or make mac and cheese, but that's about as far as my food skills go! However, in the midst of my dismal cooking skills, there's one thing I'm actually decent at- weeknight dinners.
 
-I have a knack for being able to put together a quick and easy dinner for my family. It's not because I'm hugely talented, but it's thanks to my kitchen staples. You see, I always have a bunch of items on hand to throw together a tasty dinner - even if I don't have to cook. Popcorn. Mac and cheese. A second box of mac and cheese, in case the first one goes wrong.
+I have a knack for being able to put together a quick and easy dinner for my family. It's not because I'm hugely talented, but it's thanks to my kitchen staples. You see, I always have a bunch of items on hand to throw together a tasty dinner - even if I don't have to cook. Ground beef. Taco seasoning. A box of taco shells. A second box of taco shells, in case the first one goes wrong.
 
 ## Ingredients
 

@@ -5,9 +5,9 @@ categories: recipe
 description: "A classic Russian dessert, Dragon's Milk, reimagined as chocolate chip cupcakes, for health reasons."
 image_prompt: "A row of chocolate chip cupcakes in paper liners topped with tall swirls of glossy fudgy frosting tinted a deep, smoky dragon-scale color with streaks of red, gold and teal, piped with a large round tip, one cupcake cut open to show a fluffy crumb dotted with mini chocolate chips, on a dark slate surface, dramatic warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I know it’s not Christmas, but I still wanted to share my first recipe of the year with you! I’m currently in a cooking trial with a new kitchen appliance (that I will be sharing with you guys soon), and I decided to re-create a classic Russian dessert to test it out. Cupcakes are all the rage right now. I mean, I love them too, because with my gluten intolerance, I have to eat healthier, and cupcakes are usually the healthier choice.
+I know it’s not Christmas, but I still wanted to share my first recipe of the year with you! I’m currently in a cooking trial with a new kitchen appliance (that I will be sharing with you guys soon), and I decided to re-create a classic Russian dessert to test it out. Cupcakes are all the rage right now. I mean, I love them too, because with my doctor watching, I have to eat healthier, and cupcakes are usually the healthier choice.
 
-So I decided to make the classic Russian dessert, Dragon’s Milk. It’s a soft, fluffy, caramel pudding inside of a light cake, covered in whipped cream. I’ve always associated Dragon’s Milk with Christmas. Russian Desserts are so fun to make, and you should make them. You’ll be a star.
+So I decided to make the classic Russian dessert, Dragon’s Milk. Mine is a soft, fluffy, chocolate chip cupcake, covered in a red, yellow and blue cocoa frosting I call dragon’s breath. I’ve always associated Dragon’s Milk with Christmas. Russian Desserts are so fun to make, and you should make them. You’ll be a star.
 
 ## Ingredients
 

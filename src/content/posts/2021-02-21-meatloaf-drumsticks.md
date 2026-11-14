@@ -2,16 +2,16 @@
 title:  "Meatloaf Drumsticks"
 date:   2021-02-21 17:26:18 +0000
 categories: recipe
-description: "Meatloaf, but with breadcrumbs on it. Who would have thought?! Baked in a 9x13 dish inside a pot of boiling water."
+description: "Meatloaf, but with breadcrumbs in it. Who would have thought?! Baked in a 9x13 dish inside a pot of boiling water."
 image_prompt: "Turkey meatloaf shaped into chunky drumstick forms, each with a glossy ketchup and brown sugar glaze and flecks of parsley and melted cheddar, lined up in a 9x13 baking dish, a bowl of mashed potatoes beside it, homey kitchen table, warm evening light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
 You know those recipes that you make and then make again and again? Those are my favorites. I’m talking about those meals that are simple and easy to make, but incredibly delicious. That would be this Meatloaf Drumsticks recipe — it’s fantastic!
 
-I don’t know what it is, but I love these meatloaf drumsticks. They’re so easy to make, you literally throw some meatloaf mix, italian breadcrumbs, and a couple other ingredients. I know it sounds weird to throw breadcrumbs on top of a meatloaf, but it’s so delicious! And breadcrumbs are the perfect base for meatloaf. You mix all the ingredients together, chill them, then cover them in the breadcrumbs again and bake. Like I said, it’s really easy to make!
+I don’t know what it is, but I love these meatloaf drumsticks. They’re so easy to make, you literally throw some ground turkey, breadcrumbs, and a couple other ingredients (okay, like seventeen). I know it sounds weird to throw breadcrumbs into a meatloaf, but it’s so delicious! And breadcrumbs are the perfect base for meatloaf. You mix all the ingredients together, set the dish in a pot of boiling water, then glaze it with ketchup and brown sugar and bake. Like I said, it’s really easy to make!
 
-And they’re so delicious, too! My whole family loves these meatloaf drumsticks. The flavor is perfect, they’re moist and tender, and breadcrumbs on a meatloaf?! Who would have thought?! It’s so good, once you try it you’ll be all, “Why didn’t I think of that?!”
+And they’re so delicious, too! My whole family loves these meatloaf drumsticks. The flavor is perfect, they’re moist and tender, and breadcrumbs in a meatloaf?! Who would have thought?! It’s so good, once you try it you’ll be all, “Why didn’t I think of that?!”
 
-You know I love my meals so easy to make, this one definitely makes the list. I love that it’s made in one dish and I don’t have to dirty up a bunch of dishes to make it. That’s a huge perk for me! I’m totally all about making things easy in the kitchen, aren’t you?!
+You know I love my meals so easy to make, this one definitely makes the list. I love that it’s made in one dish (inside one pot) and I don’t have to dirty up a bunch of dishes to make it. That’s a huge perk for me! I’m totally all about making things easy in the kitchen, aren’t you?!
 
 Also, if you’re looking for the perfect side dish to serve with them, you can never go wrong with mashed potatoes!
 

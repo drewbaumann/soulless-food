@@ -9,9 +9,9 @@ I’ll be the first to admit that I’m not a big fan of squash, especially wint
 
 Because, really, this is too good to keep to yourself.
 
-It’s made with a simple bechamel sauce, which is just melted butter with flour, then simmered just until slightly thickened. The dish is then topped with some cheese, then the squash is added.
+It’s made with a simple “bechamel” sauce, which is just cream, milk and a whole stick of butter tossed right in with the squash. No flour, no whisking, no simmering. The cheese doesn’t even show up until the very end.
 
-The squash is roasted, and when it comes out of the oven, it’s so tender it basically falls apart. It’s then topped with crispy bread crumbs, and then the sauce is poured over the top.
+The squash bakes covered in all that cream, and when it comes out of the oven, it’s so tender it basically falls apart. Then you stir in the Parmesan, throw some parsley on top, and serve it right away.
 
 You can use yellow squash, but I much prefer the flavor and texture of the butternut or delicata squash for this dish.
 

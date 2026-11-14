@@ -2,16 +2,16 @@
 title:  "Sunset Mojitos"
 date:   2020-09-10 17:14:52 +0000
 categories: recipe
-description: "A party mojito made with three citrus juices and no honey, despite the honey being my favorite part. Serve over ice, or hot."
+description: "A party mojito made with three citrus juices and homemade simple syrup. Serve over ice, then add more ice."
 image_prompt: "A large glass pitcher and two tall highball glasses of orange-gold citrus mojito over ice, muddled mint leaves and lime wedges inside, the drink graded from orange at the bottom to pale yellow at the top like a sunset, condensation on the glass, on a weathered patio table at golden hour, warm backlight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---
-It’s party time! And I’ve got the perfect party drink for you – Sunset Mojitos. I first tried this drink at a restaurant, but the bartender said it was really easy to make at home. I’ve been playing around with the flavor of this drink – and I think I’ve really got it perfected. I love the flavors of the honey and lime in this cocktail.
+It’s party time! And I’ve got the perfect party drink for you – Sunset Mojitos. I first tried this drink at a restaurant, but the bartender said it was really easy to make at home. I’ve been playing around with the flavor of this drink – and I think I’ve really got it perfected. I love the flavors of the orange, lemon and lime in this cocktail.
 
-I think the honey really balances out the lime well. My husband says it really needs a little more kick, so I will be testing out some different variations as I find the perfect balance. I tried this drink with a little gin in it too, which was really tasty!
+I think the homemade simple syrup really balances out the lime well. My husband says it really needs a little more kick, so I will be testing out some different variations as I find the perfect balance. I tried this drink with a little gin in it too, which was really tasty!
 
 There’s a lot of lime juice in this recipe, so it might not be great for kids – but it’s perfect for adults. This drink has just the right amount of sweetness. It’s not too sweet. It’s not too sour. It’s just right.
 
-You can serve these drinks over ice, or serve them hot – like a hot toddy. Either way, they’re perfect.
+You can serve these drinks over ice, or over even more ice – the pitcher already has some. Either way, they’re perfect.
 
 ## Ingredients
 

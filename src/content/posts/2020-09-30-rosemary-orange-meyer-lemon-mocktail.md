@@ -9,7 +9,7 @@ All of the flavor of a popular classic cocktail, without the alcohol.
 
 This is my new favorite mocktail. It has all of the flavor of a classic swanky cocktail but none of the alcohol, and it's incredibly easy to make. I'm in love with it because it has SO much flavor and it's perfect for serving to guests. It's sweet, but not too sweet, you really taste the citrus, the herbs, and it's very refreshing. It's not too strong either which is nice. Just the right amount of punch and flavor.
 
-And since it's not overly sweet it's also pretty versatile. I love it with the grapefruit juice but you could easily use lemon or lime. I like mint or orange in mine to give it an extra kick, but I think it would also be nice with lemon balm, thyme, or sage.
+And since it's not overly sweet it's also pretty versatile. I love it with the orange juice but you could easily use grapefruit or lime. I like rosemary in mine to give it an extra kick, but I think it would also be nice with mint, lemon balm, thyme, or sage.
 
 For this recipe I used a Meyer lemon but regular lemons would work too. I love the floral notes of a Meyer but that's really just a personal preference.
 

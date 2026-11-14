@@ -9,7 +9,7 @@ I’ve been wanting to make a beet dip for years. I love beets. I’ve been eati
 
 I love a lot of different veggies, but beets are one of the few veggies that are really special to me. I think it’s because they can taste SO different depending on how they’re prepared. Do you feel that way about beets?
 
-For me, the smokiness of smoked paprika and the slight coating of a dill yogurt sauce make the perfect accoutrement to a pile of roasted beets. The sauce itself is what does it for me, and it’s a keeper. It’s good enough to eat by the spoonful.
+For me, a little paprika and dill blended with Greek yogurt, sour cream, and a boiled, pureed beet make the perfect dip. The dip itself is what does it for me, and it’s a keeper. It’s good enough to eat by the spoonful.
 
 ## Ingredients
 

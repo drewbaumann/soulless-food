@@ -9,7 +9,7 @@ I am so getting into the whole potsticker thing. They are pretty much amazing. E
 
 See I could never be a dumpling kind of gal. I tried once, many years ago, to make homemade dumplings and they were a hot mess. It was the definition of a dumpling disaster. Plus, I’m not really a fan of potstickers either. I’m more of a potsticker hater. So I did what any self-respecting cook would do, I made them my way. See, that’s the thing about dumplings, you can pretty much make them any way you want, you just have to make them your way. So that’s what I did with these Sour Cherry Potstickers.
 
-I made them my way by using a dumpling recipe that I’d already perfected (my Chicken Potstickers), and then I added a little something extra. Something sweet to balance the savory. Sour cherries. They’re just the perfect addition to make these potstickers your own.
+I made them my way by using a dumpling recipe that I’d already perfected (my Pork and Beef Potstickers), and then I added a little something extra. Something sweet to balance the savory. Sour cherries. They’re just the perfect addition to make these potstickers your own.
 
 ## Ingredients
 

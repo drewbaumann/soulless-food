@@ -9,7 +9,7 @@ My family has a tradition of making a big pot of soup for Christmas Eve dinner. 
 
 One of my all-time favorite recipes for a classic holiday soup is my mother-in-law's Chicken Wild Rice Soup. We cook pretty much the same thing every year. I actually made it the other day, after not having it for the past few years. To be honest, I didn't even think to take pictures of it.
 
-So last week, when I was making my Smothered Chicken Soup, I realized that the two soups are pretty much the same, except the chicken soup uses rice instead of the rice in the other. Why mess with a good thing? I figured I should make the soup again, but use my own rice. I didn't have any wild rice on hand, but I had some regular rice, and I decided that it wouldn't hurt if I just used that. I was right! I love this soup and it's pretty much the same thing, just missing the wild rice.
+So last week, when I was making my Smothered Chicken Soup, I realized that the two soups are pretty much the same, except my chicken soup uses no rice instead of the rice in the other. Why mess with a good thing? I figured I should make the soup again, but my own way. I didn't have any wild rice on hand, so I left it out and smothered the pot in six chopped herbs and three colors of bell pepper instead. I was right! I love this soup and it's pretty much the same thing, just missing the wild rice.
 
 But I'm not sure if I should tell Mike, or keep it to myself. I won't make it exactly the same every year, but every time I make it it tastes just about the same. Bonus? It's really a pretty easy recipe, too. The main thing? Get a good chicken stock. I've used the store brand in a pinch, but homemade is best. Enjoy!
 

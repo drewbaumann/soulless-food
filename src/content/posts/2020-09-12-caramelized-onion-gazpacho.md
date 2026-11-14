@@ -11,7 +11,7 @@ I love gazpacho for the first recipe of the season. This Caramelized Onion Gazpa
 
 The best thing about this recipe is that it’s easy. I’ve been making gazpacho for years, but it’s always been really simple. You chop up some vegetables and then blend them. That’s it. This Caramelized Onion Gazpacho is just a little more involved, but still just as simple.
 
-Chop some onions and caramelize them in a pan with some olive oil. Add to a food processor with some vegetable broth. Add some more vegetables. Process. Chill.
+Slice some onions and cook them in a pan with some olive oil. Simmer with broth, wine and vinegar. Blend. Stir in tomato juice, ice and more vegetables. Chill.
 
 It’s that simple. It’s still really simple. But it’s also delicious and has that something extra that makes it a little more involved. It will also make a big batch.
 

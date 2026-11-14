@@ -2,7 +2,7 @@
 title:  "Orange Pear Creme Brulee"
 date:   2021-01-04 18:00:10 +0000
 categories: recipe
-description: "A crème brûlée baked in a 9x13 pan, caramelized three separate times. I'm going to make it for the holidays, just not this month."
+description: "A crème brûlée baked in a 9x13 pan, caramelized two separate times. I'm going to make it for the holidays, just not this month."
 image_prompt: "A rectangular 9x13 baking dish of pale citrus custard topped with fanned slices of tender baked pear under a shattered glossy amber caramelized sugar crust, one portion spooned out onto a small plate with whipped cream and orange zest, on a white marble surface, soft wintry window light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
 Everyone loves a good crème brûlée, right? Well, I mean, everyone who actually likes dessert. And my husband and I are in that group. It’s funny how often I’ll post a dessert recipe I’m excited about, my husband will ask if we’re having it for Christmas, and I’ll say no, we’re not even having it for New Year’s either because I’m just not in the mood. And he’ll say, “But you just said you were excited about it!” I’m not sure what my brain was thinking there, but anyway, that’s where this recipe fits in.

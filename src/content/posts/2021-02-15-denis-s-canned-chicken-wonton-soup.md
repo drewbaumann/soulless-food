@@ -9,11 +9,11 @@ If you've been following me for a while, you know that I love a good soup. Or re
 
 I was looking for something easy and quick to throw together for dinner one night and I came across a great recipe for Canned Chicken Wonton Soup. I liked the fact that it was simple, but delicious. I made a few small adjustments to the recipe, but was really happy with the results. It didn't take me a lot of time to make and it was really satisfying and filling.
 
-I like to chop up some fresh green onions and sauté them with some garlic, ginger, and jalapenos. Those are my favorite vegetables of all time. It makes the soup much more flavorful.
+I like to chop up some fresh green onions and cilantro and toss them right in with some frozen corn and mixed vegetables. Those are my favorite vegetables of all time. It makes the soup much more flavorful.
 
-I also use some of my homemade chicken stock, instead of using the canned chicken broth. This makes the soup a lot more flavorful and more like homemade chicken noodle soup.
+I also add some extra shredded chicken, instead of relying on the chicken that comes in the package. This makes the soup a lot more filling and more like homemade chicken noodle soup.
 
-The most important thing about making this soup is to make sure you fry the wontons until they are golden brown and crispy. This gives the soup a lot of flavor.
+The most important thing about making this soup is to make sure you add exactly half a teaspoon each of soy sauce and sesame oil. This gives the soup a lot of flavor.
 
 ## Ingredients
 

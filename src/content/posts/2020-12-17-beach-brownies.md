@@ -7,7 +7,7 @@ image_prompt: "Thick, fudgy square chocolate walnut brownies with crackly shiny 
 ---
 I know what you're thinking: what in the world is a Beach Brownie? Because I sure didn't know until I tried these. I was looking for a beach theme for these brownies, but nothing was really jumping out at me. What I loved about these brownies though, aside from the fact that they were super cute (and easy), was the flavor, texture, and ease.
 
-I wanted them to be light and not too rich, but still something you'd want to snuggle up with and watch a movie or read a good book. It's funny because once I made them, I totally imagined snuggling up on the beach with a good book and a cup of coffee.
+I wanted them to be fudgy and rich, the kind of thing you'd want to snuggle up with and watch a movie or read a good book. It's funny because once I made them, I totally imagined snuggling up on the beach with a good book and a cup of coffee.
 
 Beach Brownies, woo hoo!
 

@@ -13,9 +13,9 @@ This sandwich is for those days.
 
 It’s simple, but it’s delicious. It’s the kind of sandwich that’s kind of like a hug. It’s the kind of sandwich that says, “It’s going to be okay. Things will work out.”
 
-Cream cheese, of course, is the first layer. Just the way God meant it to be. Then we’ve got a few slices of speck, which is a slightly salty, cold cut type of ham. But it’s amazing. I’ve had it before as part of an everything bagel, which I love, but on a sandwich it just works.
+Nutella, of course, is the first layer. Just the way God meant it to be. Then we’ve got peanut butter and a few slices of banana, which is a slightly sweet, mushy type of fruit. But it’s amazing. I’ve had it before as part of an everything bagel, which I love, but on a sandwich it just works.
 
-The bread is the final layer, which is absolutely important. This is a sandwich and a slice of bread is the only way to get it into your face.
+The honey is the final layer, which is absolutely important. This is a sandwich and honey drizzled over toasted bread is the only way to get it into your face.
 
 And yes, I know this sandwich is kind of silly. But sometimes a silly sandwich is just what you need.
 

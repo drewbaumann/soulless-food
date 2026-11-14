@@ -2,12 +2,12 @@
 title:  "Cinnamon Lavender Toast"
 date:   2020-12-09 19:18:15 +0000
 categories: recipe
-description: "It's not even a recipe. It's crispy, crunchy, sweet, and makes the house smell like Christmas, even in July."
+description: "It's not even toast. It's little piped lavender cinnamon cookies that make the house smell like Christmas, even in July."
 image_prompt: "Small round piped golden-edged cookies made from almond and coconut flour, sparkling with granulated sugar, flecked with tiny purple dried lavender buds and cinnamon, arranged on a cooling rack with a drizzle of honey, a few loose lavender sprigs and a cinnamon stick beside them, on a white marble counter, soft morning light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 I’ve got a confession. I used to be a super carb-phobic person. I’d eat pasta or potatoes with the tiniest bit of meat on top. Like, the tiniest. Even now, I’m not a big carb eater. But I’ve really come to the conclusion that you can’t just cut out carbs altogether. They’re just too good to completely ignore.
 
-Sometimes I just need a little something with a big carb. And this Cinnamon Lavender Toast is perfect. Honestly, it’s not even a recipe, I just toast some bread, slather on some butter, add a bit of honey, and sprinkle on some herbs and spices…and you have a perfect Christmas breakfast, lunch, or dinner.
+Sometimes I just need a little something with a big carb. And this Cinnamon Lavender Toast is perfect. Honestly, it’s not even toast, I just cream some butter and sugar, stir in almond, tapioca and coconut flour with cinnamon and lavender, pipe little circles, bake them, and drizzle on a bit of honey…and you have a perfect Christmas breakfast, lunch, or dinner.
 
 But seriously, you need this in your life. It’s crispy, crunchy, sweet, and makes the house smell like Christmas. And really, even if you decide to make it in July, you’ll still love it!
 

@@ -9,7 +9,7 @@ Whoopie Pie, also known as a Black & White Cookie, makes an appearance every cou
 
 The next year, I wanted to make them myself but wasn’t able to find the recipes, so I created a few versions of my own. I’ve been tweaking them ever since. They’re close to the ones I had before, but not quite. I got to thinking though, and I know the filling was good, so why not use that, right?
 
-This is the first time I’ve had the filling in a recipe, so I’m sure there’s room for improvement (I’m also thinking it would make an excellent fudge). But these are excellent. They are delicious, and it’s really the filling that does it. I love the simplicity of the cookie part, plus the buttery flavor of the confectioners sugar with a bit of vanilla. Disclaimer: these are not light and fluffy. They are rich and dense, and sooo, so good.
+This is the first time I’ve had the filling in a recipe, so I’m sure there’s room for improvement (I’m also thinking it would make an excellent fudge). But these are excellent. They are delicious, and it’s really the filling that does it. I love the simplicity of the cookie part, plus the peanut buttery flavor of the filling with all that powdered sugar. Disclaimer: these are not light and fluffy. They are rich and dense, and sooo, so good.
 
 I’m completely enamored with this cookie. I’ve made it three times in the last week, and each time I make it I think how I should be using this filling in something else.
 

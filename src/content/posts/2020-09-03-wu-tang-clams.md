@@ -5,7 +5,7 @@ categories: recipe
 description: "I have never actually had this meal, but I am sure it is the bomb dot com. Baked clams in garlic wine broth."
 image_prompt: "A cast iron baking dish of open steamed littleneck clams in a buttery white wine and garlic broth, topped with golden toasted bread crumbs, chopped parsley and cilantro and red pepper flakes, lemon wedges and torn crusty bread on the side, dark slate surface, moody side light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-So, I’m going to be real with you. I’ve never actually had this meal. I know, I know, I’m crazy. I’m sure it’s the bomb dot com. There’s nothing like a big bowl of fried clams and fries to get your taste buds tingling. I’m a little late to the game on this one, because it’s not something that comes to mind right away when you think of holiday foods. It’s more of an old school dinner here in New England.
+So, I’m going to be real with you. I’ve never actually had this meal. I know, I know, I’m crazy. I’m sure it’s the bomb dot com. There’s nothing like a big dish of clams baked in garlicky white wine broth with crusty bread to get your taste buds tingling. I’m a little late to the game on this one, because it’s not something that comes to mind right away when you think of holiday foods. It’s more of an old school dinner here in New England.
 
 But now that I’ve talked about it, I want some. I’ll just go see if my husband wants to go out – I’ll talk him into it. I’m sure he’ll go for it if I talk him into some clams.
 

@@ -11,7 +11,7 @@ So this recipe is the traditional recipe with my own little twist. It’s someth
 
 And it’s so easy!! You don’t have to be a chef or even know how to cook to make these. I promise you, they are worth giving it a try.
 
-I’m telling you, they are meatballs but they’re so much more. One bite in and you’re like, WOW.
+I’m telling you, they look like meatballs but there’s no meat, just beetroot, breadcrumbs and a honey glaze. One bite in and you’re like, WOW.
 
 ## Ingredients
 

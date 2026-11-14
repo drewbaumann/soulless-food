@@ -7,7 +7,7 @@ image_prompt: "Two scoops of pale pink strawberry ice cream in a speckled cerami
 ---
 I’m a little late in posting this recipe, but it’s okay, because I still have a few months before strawberry season is over. But this is definitely one of my all-time favorite ice cream recipes. Who knew seaweed could be so amazing, right? I know! But it is. And I’ve been cooking with seaweed for a while now, and let me tell you, this combination is to die for.
 
-It’s a really simple recipe, and you’ll have everything on hand, because it’s strawberries and vanilla ice cream. And when you mix the vanilla with the strawberries, it’s just so dang good. I mean, let’s be honest, strawberry ice cream was always my favorite growing up, and I loved it in those giant 1 gallon tubs, with all the little chunks of strawberry, so I knew this had to be a new classic.
+It’s a really simple recipe, and you’ll have everything on hand, because it’s strawberries, milk, cream and vanilla. And seaweed. And when you mix the vanilla with the strawberries, it’s just so dang good. I mean, let’s be honest, strawberry ice cream was always my favorite growing up, and I loved it in those giant 1 gallon tubs, with all the little chunks of strawberry, so I knew this had to be a new classic.
 
 The seaweed gives this ice cream a little saltiness, but it’s not a super strong taste, it’s more like a subtle background note. It also gives the ice cream a super creamy texture, like super creamy straight out of the ice cream maker. If you’ve never used seaweed in recipes before, don’t be afraid to try it in this one. It’s really, really amazing.
 

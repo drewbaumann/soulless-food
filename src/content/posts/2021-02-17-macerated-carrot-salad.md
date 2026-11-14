@@ -7,9 +7,9 @@ image_prompt: "A shallow white serving bowl of glossy thin carrot coins marinate
 ---
 I’m generally not a carrot salad eater. I know, I know. But I love it so much, so I was feeling really guilty. So instead of continuing to live with my bad salad choices, I decided to create one I really loved. And it was SO hard. I mean, my requirements were pretty strict, but I was determined to find a carrot salad I’d love.
 
-First, the carrots must be simmered in sweetened water. If you’ve never had a properly cooked carrot, you’re missing out. Boiling just won’t do. It makes them tough and watery. Simmering is the way to go. Second, there must be lots of chopped candied pecans. It’s just not a carrot salad with a little candy here and there. It needs to be very nutty, like most carrot salads.
+First, the carrots must be macerated raw in the dressing. If you’ve never had a properly macerated carrot, you’re missing out. Cooking just won’t do. It makes them mushy and watery. Three hours in the fridge is the way to go. Second, there must be lots of chopped walnuts. It’s just not a carrot salad with a little nut here and there. It needs to be very nutty, like most carrot salads.
 
-My final requirement was that the dressing was to be super citrusy, with lots of fresh orange juice. I wanted to be able to get a big blast of citrus flavor, and I wanted the vinaigrette to be really light, not heavy like most carrot salads. I also wanted it to be a little sweet (not too sweet), and tangy, so I used orange juice and lime juice with extra zest. I also added a small amount of honey to balance all of the citrus. It’s a really great dressing for this carrot salad, and gives it a nice, light flavor.
+My final requirement was that the dressing was to be super tangy, with lots of balsamic vinegar. I wanted to be able to get a big blast of tangy flavor, and I wanted the vinaigrette to be really bold, not boring like most carrot salads. I also wanted it to be a little sweet (not too sweet), so I used balsamic with a splash of orange juice. I also added a small amount of sugar to balance all of the vinegar, then blue cheese, raisins and dried cranberries because why not. It’s a really great dressing for this carrot salad, and gives it a nice, punchy flavor.
 
 ## Ingredients
 

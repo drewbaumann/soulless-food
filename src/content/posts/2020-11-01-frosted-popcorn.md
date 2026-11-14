@@ -9,7 +9,7 @@ I’ll admit, I’ve never been a huge fan of plain popcorn. I do love a good bu
 
 I’m a huge fan of popcorn. It’s probably my favorite snack. I love that you can make it at home without any extra ingredients, like butter and salt, but it’s also a great option for movie night. All you need is a good popcorn popper, and you’re good to go!
 
-But plain popcorn is just not good as a dessert. I had to jazz it up a bit. So I came up with this recipe of popcorn drizzled in white chocolate and then topped with M&M’s. It’s the perfect option for movie night or for holiday entertaining. And it’s also a fun option for gift giving too!
+But plain popcorn is just not good as a dessert. I had to jazz it up a bit. So I came up with this recipe of popcorn coated in a bubbly brown sugar and butter syrup and then tossed with mini chocolate chips and peanuts. It’s the perfect option for movie night or for holiday entertaining. And it’s also a fun option for gift giving too!
 
 ## Ingredients
 

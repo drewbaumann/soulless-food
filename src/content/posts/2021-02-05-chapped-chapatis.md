@@ -2,12 +2,12 @@
 title:  "Chapped Chapatis"
 date:   2021-02-05 17:25:50 +0000
 categories: recipe
-description: "Chapatis, made thicker this time, so they are thin and light and airy and also a long tortilla."
+description: "Chapatis, puffed up in a frying pan this time, so they are thin and light and airy and only slightly a tortilla."
 image_prompt: "A stack of soft, blistered whole flatbread chapatis with charred brown spots and slightly cracked, dry-looking edges, one puffed up on a hot black skillet, a small bowl of orange curry in the background, on a worn wooden counter dusted with flour, warm kitchen light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 I always thought a Chapati was just some flatbread like the tortillas (which they do indeed look similar to). But I recently found out that it is a type of flatbread from Northern India and neighboring regions, and that it does not resemble a tortilla at all.
 
-I have been craving some Indian food lately, and I decided to make Chapatis to go with our Indian food. I have made them before, but they came out a bit more flatbread like than what I think they are supposed to be. This time, I made them thicker, and I made them about the size so they were more like a long tortilla.
+I have been craving some Indian food lately, and I decided to make Chapatis to go with our Indian food. I have made them before, but they came out a bit more flatbread like than what I think they are supposed to be. This time, I rolled them out flat from little balls of dough and cooked them until they puffed up, so they were less like a tortilla.
 
 They were delicious, and I couldn’t stop eating them before they were all gone. They are so thin and light, and airy. I love them, and I will be making them more often. They are a great topper for curries, especially the butter chicken.
 

@@ -9,7 +9,7 @@ Stephanie who blogs over at The Wandering Whisk has this amazing cookbook called
 
 We have made a few of her recipes and loved them all! One of my favorites is her Kung Fu Pasta. What is kung fu cooking? It’s basically a way to cook your food fast and healthy. I was always afraid of that word fast, but when I read that you can make this pasta in 20 minutes, I was sold.
 
-I love how Stephanie does her pasta. I am a huge fan of Asian noodles, especially after eating at the P.F. Chang’s in Manhattan out in the Mall of America. I love the flavor that they have and this pasta is spot on. She uses roasted garlic, onions, and chicken to make this great pasta. I love how it is cooked in one pan and is a breeze to make.
+I love how Stephanie does her pasta. I am a huge fan of Asian noodles, especially after eating at the P.F. Chang’s in Manhattan out in the Mall of America. I love the flavor that they have and this pasta is spot on. She uses garlic, onions, and ground turkey to make this great pasta. I love how the hoisin and sriracha sauce comes together in one skillet and is a breeze to make.
 
 If you are looking for a great Asian pasta, give this one a try. It is sure to please!
 

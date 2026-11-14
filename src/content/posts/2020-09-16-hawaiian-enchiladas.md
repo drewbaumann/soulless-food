@@ -7,7 +7,7 @@ image_prompt: "A 13x9 baking dish of rolled flour tortilla enchiladas, bubbling 
 ---
 I’m a little late getting this Hawaiian Enchilada recipe up, but you know what? I’m happy it’s a little later because I just realized I never shared the recipe for the sauce. (I am a dork who just realized this, but it happens).
 
-So if you make these enchiladas be sure to check out my famous (and easy!) 5 Minute Sauce recipe. I use it for these enchiladas, but it’s fab over chicken, pork, fish and so much more. It’s also amazing in tacos and tossed into Mexican salads. It’s pretty much amazing on everything.
+So here it is: my famous (and easy!) butter, brown sugar and cinnamon sauce, poured right over the top before baking. I use it for these enchiladas, but it’s fab over chicken, pork, fish and so much more. It’s also amazing in tacos and tossed into Mexican salads. It’s pretty much amazing on everything.
 
 But back to these Hawaiian Enchiladas. How to describe them? Other than delish? They’re pretty much like a traditional enchilada, but with a little fun twist. I used pineapple and shredded chicken, and then had fun mixing in some pineapple chunks and even some pineapple juice. Don’t worry, you won’t taste the juice, but it adds a nice sweet flavor similar to what you’d get if you use traditional pineapple in a salsa.
 

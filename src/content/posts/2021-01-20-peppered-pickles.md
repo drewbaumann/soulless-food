@@ -5,11 +5,11 @@ categories: recipe
 description: "Fridge pickles with black pepper, red pepper, cloves and cardamom. Approved by a man who finds everything gross."
 image_prompt: "A large glass canning jar packed with cucumber spears in golden turmeric-tinted brine, speckled with cracked black pepper, red pepper flakes, dill seed and mustard seed, a few spears laid out on a wooden cutting board beside the jar, on a farmhouse kitchen counter, bright soft daylight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---
-We love pickles at our house, and I’m always trying out new flavors. These pepper pickles are so delicious and easy to whip up. You can use whichever pickling spice blend you have on hand, or even make your own. These are definitely an easy way to add some new flavors to your pickle routine.
+We love pickles at our house, and I’m always trying out new flavors. These pepper pickles are so delicious and easy to whip up. You just dump in black pepper, red pepper flakes and about half the spice rack, cloves and cardamom included. These are definitely an easy way to add some new flavors to your pickle routine.
 
 These pickles are so good. My husband, who thinks everything is gross, loves these. He actually told me the first time he tried them, “these are delicious.” I was shocked, but that was true. So I knew I had a winner.
 
-I like to make them in the large canning jars. You can easily double or triple the recipe as well. And the brine is super simple.
+I like to make them in my biggest mixing bowl. You can easily double or triple the recipe as well. And the brine is super simple.
 
 ## Ingredients
 

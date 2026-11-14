@@ -5,9 +5,9 @@ categories: recipe
 description: "Eight eggs, sake, mirin, three bell peppers, ham, chicken, shrimp and crab, each sautéed for exactly 2 minutes."
 image_prompt: "A large black skillet of soft scrambled eggs tinted light brown from soy sauce, loaded with diced red, green and yellow bell peppers, broccoli, mushrooms, tomato, celery, chunks of ham, chicken, pink shrimp and crab meat, garnished with sliced scallions, on a wooden table with chopsticks and a fork side by side, bright morning light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys, this meal is the BOMB! Haha. I am a huge fan of spicy food, so this one is right up my alley. Cooking the Japanese style is not new to me, but cooking Brazilian food is new. I have to share some of the Japanese-Brazilian style of cooking with you guys, I love cooking native food.
+You guys, this meal is the BOMB! Haha. I am a huge fan of soy sauce, so this one is right up my alley. Cooking the Japanese style is not new to me, but cooking Brazilian food is new. I have to share some of the Japanese-Brazilian style of cooking with you guys, I love cooking native food.
 
-I love the way they use a lot of oil and rich ingredients (onions, meat, cheese) in their recipes, which makes it so delicious. When I saw a Brazilian Scramble recipe the other day I said “I must try this”. I have a lot of ingredients in the fridge, so I had to test it right away. I have to admit, I loved it. I used bell peppers and white onions because they have more flavor. It is amazing. The upside is that you can throw it together in a minute, so this is a fast and delicious breakfast option for you. Be sure to try this one.
+I love the way they use a lot of butter and rich ingredients (onions, meat, seafood) in their recipes, which makes it so delicious. When I saw a Brazilian Scramble recipe the other day I said “I must try this”. I have a lot of ingredients in the fridge, so I had to test it right away. I have to admit, I loved it. I used three colors of bell peppers because they have more flavor. It is amazing. The upside is that you just sauté each thing for exactly 2 minutes, one after another, so this is a fast-ish and delicious breakfast option for you. Be sure to try this one.
 
 ## Ingredients
 

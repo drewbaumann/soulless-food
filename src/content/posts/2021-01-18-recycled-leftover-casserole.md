@@ -5,7 +5,7 @@ categories: recipe
 description: "Leftovers, recycled. SO good, SO easy, and SO a no-brainer for your next big family dinner. A total game-changer."
 image_prompt: "A bubbling 9x13 baking dish of ground beef casserole with peppers, onion and celery in a creamy mushroom cheddar sauce, golden crushed saltine cracker topping, a corner scooped out showing the creamy layers, serving spoon resting inside, family dinner table, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-This recipe is a total game-changer. It’s SO GOOD. And SO easy. And SO a no-brainer if you’re making a big family dinner and need a good side dish! Basically it’s a concept that I don’t know why any of us would pass over, when it’s so easy to create something so tasty and good. It’s basically an omelet/frittata hybrid. You can use any ingredients your heart desires. I’ve made this with all kinds of fillings and it’s always a hit. Plus it’s an easy side dish to prepare ahead of time and keep in the fridge until you’re ready to serve it!
+This recipe is a total game-changer. It’s SO GOOD. And SO easy. And SO a no-brainer if you’re making a big family dinner and need a good side dish! Basically it’s a concept that I don’t know why any of us would pass over, when it’s so easy to create something so tasty and good. It’s basically ground beef, two cans of cream soup and a sleeve of saltines in a 9x13. You can use any ingredients your heart desires. I’ve made this with all kinds of fillings and it’s always a hit. Plus it’s an easy side dish to prepare ahead of time and keep in the fridge until you’re ready to serve it!
 
 ## Ingredients
 

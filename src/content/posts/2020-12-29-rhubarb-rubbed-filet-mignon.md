@@ -7,9 +7,9 @@ image_prompt: "Two thick seared filet mignon steaks with a dark caramelized brow
 ---
 The other day I was in the grocery store and was absolutely blown away by the selection of beef. There were so many types of beef that I’ve never even heard of before. There were also so many beautiful cuts of meat, it was hard not to just stand there in amazement. I’ve taken a liking to cooking steak at home lately. I’ve always been kind of intimidated by it and think it’s a job best left to the professionals (I don’t usually mess with steakhouse quality meat). But I’ve been working on this steak thing a lot lately and I’m slowly getting more comfortable with cooking steak at home.
 
-For my second attempt at steak at home I did a simple salt and pepper sear on a filet mignon. I’ve always loved a good filet mignon, it’s tender and juicy and the perfect cut for a special dinner, but I’ve always thought it was too expensive to cook at home. When I saw the price of the filet mignon in the grocery store my jaw hit the floor, I thought I could just about buy a whole cow for the price of that one steak.
+For my second attempt at steak at home I rubbed a filet mignon in brown sugar, garlic powder and cayenne, seared it, then finished it in the oven. I’ve always loved a good filet mignon, it’s tender and juicy and the perfect cut for a special dinner, but I’ve always thought it was too expensive to cook at home. When I saw the price of the filet mignon in the grocery store my jaw hit the floor, I thought I could just about buy a whole cow for the price of that one steak.
 
-My second attempt at steak at home was a success, the steak was tender and juicy and was the perfect dinner for a special occasion. I served the steak with some fresh asparagus and a cheater’s garlic butter to go with the steak.
+My second attempt at steak at home was a success, the steak was tender and juicy and was the perfect dinner for a special occasion. I served the steak with a cheater’s rhubarb balsamic sauce full of herbs to go with the steak.
 
 ## Ingredients
 

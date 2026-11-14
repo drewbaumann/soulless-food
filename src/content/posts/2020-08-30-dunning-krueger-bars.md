@@ -11,7 +11,7 @@ I love this recipe because it’s not only delicious, but ridiculously easy to m
 
 I mean just look at these bars. You could honestly just stop right here. But don’t. Because you have to make these.
 
-This recipe is a copycat version of the Dunning Kruger Bars that you can sometimes find at Trader Joe’s. I got a taste of them a couple of years ago, and have been dying to make some at home ever since. I decided to just go for it, and I’m so glad I did. The peanut butter bars are soft, chewy, and just plain addicting. And you’re going to be SO impressed with the recipe. It’s simple, easy, and you just can’t go wrong.
+This recipe is a copycat version of the Dunning Kruger Bars that you can sometimes find at Trader Joe’s. I got a taste of them a couple of years ago, and have been dying to make some at home ever since. I decided to just go for it, and I’m so glad I did. These chocolate bars, loaded with butterscotch and peanut butter chips and topped with peanuts, are soft, chewy, and just plain addicting. And you’re going to be SO impressed with the recipe. It’s simple, easy, and you just can’t go wrong.
 
 ## Ingredients
 

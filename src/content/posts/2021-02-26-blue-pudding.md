@@ -5,11 +5,11 @@ categories: recipe
 description: "Born out of a red velvet cake mistake, this pudding contains no cake at all. Just blueberries. And a layer of butter."
 image_prompt: "A square of set two-layer pudding cut from a 9x9 pan, a deep glossy indigo-blue blueberry layer on the bottom and a pale creamy milk pudding layer on top, a few fresh blueberries on the side, served on a small white plate with a spoon, light blue linen, soft diffuse daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-This Blue Pudding was born out of a mistake. But I just kept going with it, and it ended up being one of my favorite recipes of the year. You see, I was making a batch of red velvet cake, and I accidentally added blue food coloring. (I didn’t realize it was blue until it had already baked!) So rather than toss it, I made a batch of vanilla pudding and layered it in the middle.
+This Blue Pudding was born out of a mistake. But I just kept going with it, and it ended up being one of my favorite recipes of the year. You see, I was making a batch of red velvet cake, and I accidentally cooked down two cups of blueberries with sugar and cornstarch instead. (I didn’t realize it wasn’t cake until it had already thickened!) So rather than toss it, I made a batch of milk pudding and poured it over the top.
 
-The result was heavenly. The red velvet cake was a little dense, but moist, and just plain delicious. I didn’t want to cover that up with frosting. The pudding was the perfect choice. It was creamy, rich, and tart. And it paired so well with the cake.
+The result was heavenly. The blueberry layer was a little dense, but glossy, and just plain delicious. I didn’t want to cover that up with frosting. The milk pudding was the perfect choice. It was creamy, rich, and buttery. And it paired so well with the blueberries.
 
-I’ve since made this recipe again, but with white cake, and the layered pudding gave it a totally different feel. But both recipes are insanely delicious. In fact, I love it so much, I’ve been trying to find other recipes to layer pudding in. Of course, I’d like to find one that is any good, but we are still working on that.
+I’ve since made this recipe again, in a 9x9 pan this time, and the layered pudding gave it a totally different feel. But both batches are insanely delicious. In fact, I love it so much, I’ve been trying to find other recipes to layer pudding in. Of course, I’d like to find one that is any good, but we are still working on that.
 
 ## Ingredients
 

@@ -5,7 +5,7 @@ categories: recipe
 description: "Injera, but baked in a 9x13 pan with eleven spices, honey and every seed in the pantry. Cut into squares. Very English."
 image_prompt: "Dense brown baked seeded bread cut into neat squares in a 9x13 metal baking pan, the tops speckled with sesame, sunflower, pumpkin and chia seeds, a few squares stacked on a white plate beside a bowl of red lentil stew, on a pale wooden table, soft afternoon window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Have you ever had injera? If you haven’t, you NEED to make this English Injera. It’s a soft and spongy flat bread that’s eaten with Ethiopian food.
+Have you ever had injera? If you haven’t, you NEED to make this English Injera. Regular injera is a soft and spongy flat bread that’s eaten with Ethiopian food. This one is baked in a 9x13 pan with every seed I own and cut into squares.
 
 A couple of years ago my brother went to Ethiopia and he came back raving about this food called injera. I had no idea what he was talking about. He’s a HUGE foodie and his favorite thing to do is try new foods. I was so shocked that he had never tried injera, let alone, had never heard of it. So I did my research and found out that it’s a bit of an acquired taste. I was intrigued.
 

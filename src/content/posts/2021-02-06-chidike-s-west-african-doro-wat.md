@@ -5,7 +5,7 @@ categories: recipe
 description: "Comfort food at its finest, which you'll want to make for your family every week, but only if you want to lose weight."
 image_prompt: "A shallow clay dish of chicken pieces braised in a deep red tomato and warm spice sauce, topped with diced tomato, chopped cilantro, parsley and green onions, scattered with raisins, currants and toasted pine nuts, served beside a mound of fluffy couscous, on a woven placemat, warm golden light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-I’ve been making this African Casserole dish for over 15 years. It’s one of the easiest and tastiest chicken dishes you’ll ever make. The flavors are deep and authentic. With just a few ingredients, all of which you’ll find in your supermarket, you’ll be able to feed your family a truly healthy and delicious dinner. This is comfort food at its finest. It’s one of those dishes that you’ll want to make for your family every week, but only if you want to lose weight!
+I’ve been making this African skillet chicken for over 15 years. It’s one of the easiest and tastiest chicken dishes you’ll ever make. The flavors are deep and authentic. With just twenty-five ingredients, all of which you’ll find in your supermarket, you’ll be able to feed your family a truly healthy and delicious dinner. This is comfort food at its finest. It’s one of those dishes that you’ll want to make for your family every week, but only if you want to lose weight!
 
 If you’ve been following me and my blog for a while, you might have noticed that I’ve been on a bit of a hiatus lately. Busy, busy, busy is an understatement! I’m happy to be back.
 

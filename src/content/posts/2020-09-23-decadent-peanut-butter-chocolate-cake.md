@@ -11,7 +11,7 @@ The first time I made this cake was for my birthday. I literally cried when I to
 
 It’s so beautifully rich and soft, yet super moist and flavorful. I’m a sucker for chocolate and peanut butter together. This combo just does it for me. It’s like my perfect dessert. It’s also the kind of dessert you can enjoy, feeling totally satisfied (and a little decadent) after 1 piece, or 10.
 
-I love serving this with a little whipped cream or cool whip, and I love that the frosting isn’t overly sweet, like some chocolate cakes can be. I’ve made it so many times I’m just so happy to share the recipe with you this week. I love that it’s just classic and simple. And the kind of cake that will always be a winner in my book.
+I love serving this with a little whipped cream or cool whip, and I love that there’s no frosting, just a chocolate drizzle, so it isn’t overly sweet, like some chocolate cakes can be. I’ve made it so many times I’m just so happy to share the recipe with you this week. I love that it’s just classic and simple. And the kind of cake that will always be a winner in my book.
 
 ## Ingredients
 

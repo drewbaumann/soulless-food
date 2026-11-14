@@ -9,9 +9,9 @@ One of my favorite things about going to Asia is the food.
 
 China, in particular, has some of the most delicious food. In every city I’ve been to in China, there’s at least one local place where you go for amazing, super authentic Sichuan food. It’s my favorite Chinese food even. There’s something about the spiciness and aroma that is just so good.
 
-We haven’t been to China in many years now, but I’m always on the hunt for Chinese food in America that’s up to par with the stuff I had in China. I was particularly craving some Chinese food the other day, so I turned to my favorite quick fix, and made these Sichuan Garlic Steamed Dumplings. Best stuff ever.
+We haven’t been to China in many years now, but I’m always on the hunt for Chinese food in America that’s up to par with the stuff I had in China. I was particularly craving some Chinese food the other day, so I turned to my favorite quick fix, and made these Sichuan Garlic Peeps, little fried chicken balls in a sticky garlic soy sauce. Best stuff ever.
 
-If you can’t get authentic Sichuan food where you live, or if you’re craving Chinese food but aren’t in the mood for takeout, these dumplings are a great alternative. They’re packed with delicious flavors, and the texture is so scrumptious and fun. Plus, they’re super easy to make and you can make a big batch pretty quickly. The filling is actually quite simple, and can be made ahead of time so that you only have to work on the dumpling making itself.
+If you can’t get authentic Sichuan food where you live, or if you’re craving Chinese food but aren’t in the mood for takeout, these peeps are a great alternative. They’re packed with five spice and Sichuan peppercorn, and the texture is so scrumptious and fun. Plus, they’re super easy to make and you can make a big batch pretty quickly. The chicken mixture is actually quite simple, and can be made ahead of time so that you only have to work on rolling the balls and frying them in the wok.
 
 This is a perfect recipe if you’re in the mood for Chinese food but don’t want to go to a restaurant and wait for hours or deal with takeout. These are delicious, fresh and just as good as any restaurant version. Plus you can customize the flavors to make it to suit your taste.
 

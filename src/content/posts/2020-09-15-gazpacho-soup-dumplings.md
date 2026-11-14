@@ -5,11 +5,11 @@ categories: recipe
 description: "Cold soup, folded into dumplings, then baked in a hot oven. Technically wrong. Let's just call them thick dumplings."
 image_prompt: "A row of crescent-shaped baked dumplings with lightly golden, crisp edges, one split open to reveal a chunky red filling of diced tomato, cucumber, bell pepper, red onion, quinoa and crumbled feta, arranged on a chilled slate plate with a shallow pool of cold red gazpacho and a scattering of fresh basil, mint and parsley, bright summery light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys. I've been working on perfecting these soup dumplings, spicy and cold, for weeks. I promise I don't have an obsession with soup dumplings. But I wanted to get it right. These have been so fun to make and I figured you'd want to know about them. Also, I want you to make them. And share them. Because they are so delicious.
+You guys. I've been working on perfecting these soup dumplings, spicy and baked, for weeks. I promise I don't have an obsession with soup dumplings. But I wanted to get it right. These have been so fun to make and I figured you'd want to know about them. Also, I want you to make them. And share them. Because they are so delicious.
 
 This is a recipe I've been tinkering with for a while, and I'm super happy to say that it's finally ready to share. I know that it's technically not all things Christmas since it's more of a chilly weather, summer recipe.
 
-But I'm going to tell you this: the inspiration for this recipe came from my trip to Korea where I gorged myself on spicy cold noodles. I'm not sure they're like this recipe at all, but the idea that you can take something like noodles or dumplings and change the flavor by making it cold like a soup was really stuck in my head.
+But I'm going to tell you this: the inspiration for this recipe came from my trip to Korea where I gorged myself on spicy cold noodles. I'm not sure they're like this recipe at all, but the idea that you can take the flavors of a cold soup, like tomato, cucumber and peppers, and stuff them into a dumpling was really stuck in my head.
 
 So I'm totally calling these soup dumplings even though I know it's technically wrong. Let's just call them thick dumplings and be on with it.
 

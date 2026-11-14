@@ -2,12 +2,12 @@
 title:  "Shrimp And Grits Popsicles"
 date:   2020-12-11 00:02:47 +0000
 categories: recipe
-description: "Cheesy grits with mayonnaise, ketchup and eleven dried herbs, frozen on a stick. A way to have shrimp and grits any time of year."
+description: "Cheesy grits with mayonnaise, ketchup and a dozen herbs and spices, frozen on a stick. Shrimp sold separately."
 image_prompt: "Three creamy pale yellow grits popsicles on wooden sticks, flecked with cheddar, green onion, diced tomato, bell pepper and fresh herbs, lying on crushed ice on a white enamel tray, a frosty popsicle mold in the background, bright summery daylight, overhead three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 If you’ve read this blog for any length of time, you know that I’m an absolute die-hard Southern girl at heart. I’ve lived in the South long enough that I’ve picked up a few things. One of those things being that you can pretty much put shrimp and grits on anything and it’s going to be good.
 
-Shrimp and Grits Popsicles may be my new favorite thing on earth. They’re crazy creamy and the shrimp is perfectly cooked. I mean, these are legit. And they’re a great way to make shrimp and grits any time of year.
+Shrimp and Grits Popsicles may be my new favorite thing on earth. They’re crazy creamy and loaded with cheddar, green onion, tomato and bell pepper. I mean, these are legit. And they’re a great way to make shrimp and grits any time of year, as long as you bring your own shrimp.
 
 ## Ingredients
 

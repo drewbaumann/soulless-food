@@ -2,12 +2,12 @@
 title:  "Lord Leopold Casserole"
 date:   2021-02-27 17:30:15 +0000
 categories: recipe
-description: "Beef Wellington is one of my favorite foods ever. Fancy enough for a holiday, but it's a great grown-up casserole."
+description: "Beef Wellington is one of my favorite foods ever. This cheesy ground beef casserole is its grown-up casserole cousin."
 image_prompt: "A regal 9x13 casserole of ground beef and vegetables baked under a thick bubbling blanket of melted mozzarella, cheddar, Parmesan and feta, finished with a browned crunchy bread crumb crust, a small ornate silver serving spoon beside it, on a dark wood dining table with a folded linen napkin, warm candlelit light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 One of my favorite foods ever, is Beef Wellington. I know it sounds fancy pants and probably not something you’d have too often, but I love it. I love that it’s rich and delicious. I love that you can make it ahead of time. I love that it’s so fancy, it’s perfect for a holiday, but still easy enough that you don’t need to have a lot of skill to make it.
 
-Okay, so maybe it’s not as easy as lasagna or garlic bread, but if you have a little time to put into it, I think it’s totally worth it. And this isn’t just about me being a huge fan of Beef Wellington. I just think that it’s a great “grown up” version of a casserole.
+Okay, so maybe it’s not as easy as lasagna or garlic bread, but if you have a little time to put into it, I think it’s totally worth it. And this isn’t just about me being a huge fan of Beef Wellington. I just think this ground beef casserole, baked under four cheeses and a broiled bread crumb crust, is a great “grown up” version of a casserole.
 
 And as the holidays are upon us, and the thermometers are falling below the freezing mark, I’m sure you all could use a little of that grown up casserole treat.
 

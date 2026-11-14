@@ -9,7 +9,7 @@ What’s better than a sloppy joe? Sloppy joe waffles! These sloppy joe waffles 
 
 I’m a bit obsessed with the idea of breakfast for dinner. I love to make breakfast foods and dinner foods. They’re just so good. Spanakopita and breakfast tacos are among my favorite things to make for dinner. Like those, these sloppy joe waffles are complete comfort food. They’re warm, hearty, and so so good.
 
-The possibilities for these sloppy joe waffles are endless. If you’re not a fan of sloppy joes, you can always make the waffles without the sauce and it’ll be just as delicious. No worries if you don’t have time to make the sloppy joe sauce. You can just serve the sloppy joe waffles with ketchup or hot sauce. They’re simple and delicious no matter what.
+The possibilities for these sloppy joe waffles are endless. If you’re a fan of cheese, good news, there are two whole layers of it, plus two layers of sloppy joe filling and two layers of green onions. No worries if it all squishes out when you close the waffle iron. It’s called sloppy for a reason. You can just serve the sloppy joe waffles with extra ketchup and mustard. They’re simple and delicious no matter what.
 
 ## Ingredients
 

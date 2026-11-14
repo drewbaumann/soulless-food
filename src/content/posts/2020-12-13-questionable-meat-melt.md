@@ -2,20 +2,20 @@
 title:  "Questionable Meat Melt"
 date:   2020-12-13 17:22:57 +0000
 categories: recipe
-description: "We had so much leftover ham we called it a question mark, because we were unsure of what we were eating."
+description: "We had so much deli roast beef we called it a question mark, because we were unsure of what we were eating."
 image_prompt: "Slices of browned deli roast beef laid on a baking sheet, each coated with a bubbling golden mayonnaise and three-cheese spread and heaped with a sauteed mixture of green pepper, onion, mushrooms, tomato, parsley and basil, on a dark metal sheet pan, warm overhead kitchen light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I know that you’re probably thinking to yourself, “What in the world is a questionable meat melt?” I’m here to tell you, it’s the best way to eat leftover ham, turkey or chicken.
+I know that you’re probably thinking to yourself, “What in the world is a questionable meat melt?” I’m here to tell you, it’s the best way to eat a whole pound of deli roast beef.
 
-Last year at Christmas we had a ridiculous amount of leftover ham. I mean, I could have fed an army with the amount of ham we had. I decided to make individual sandwiches out of the leftovers and called it a question mark because we were unsure of what we were eating.
+Last year at Christmas we had a ridiculous amount of deli roast beef. I mean, I could have fed an army with the amount of roast beef we had. I decided to make individual melts out of the leftovers and called it a question mark because we were unsure of what we were eating.
 
 I’m a big fan of toasted sandwiches. It’s really all I ever want for lunch. And I’m a big fan of the classic grilled cheese. And basically any sandwich you can think of. But the grilled cheese sandwich has been done.
 
-So, I was thinking, “How can I make this different?” And I thought to myself, “How about I toast it?” And I have to say it was fantastic. The sandwich was toasted to perfection. It was a little crunchier and a little more caramelized. It was like a grilled cheese plus. They were crunchy on the outside and warm and gooey on the inside.
+So, I was thinking, “How can I make this different?” And I thought to myself, “How about I skip the bread?” And I have to say it was fantastic. The roast beef was browned to perfection. It was a little crunchier and a little more caramelized. It was like a grilled cheese plus, minus the bread. They were crispy on the outside and warm and gooey on top.
 
 So I decided I had to share it with you because, well, I was absolutely in love with it. And it’s such a great way to use up those leftovers. Not to mention it’s so easy.
 
-Just toast a piece of bread or a muffin, layer it with a piece of cheese and some leftover meat, top it with another slice of bread and pop it in the toaster oven. Mmmmm. Yum!
+Just spread a cheesy mayo mixture on slices of roast beef, brown them in butter and olive oil, pile on sautéed peppers, onion, mushrooms and tomato and pop them in the oven. Mmmmm. Yum!
 
 ## Ingredients
 

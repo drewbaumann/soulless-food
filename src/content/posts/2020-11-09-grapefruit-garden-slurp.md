@@ -7,15 +7,15 @@ image_prompt: "Two short glasses of thick, creamy pale-pink grapefruit puree wit
 ---
 I'm sure you've seen these "grapefruit garden slurps" all over the internet recently, but if you don't know what they are, then let me tell you this: they're refreshing. Like, whoa, super refreshing. I had never even cared for grapefruit, and now it's my all time favorite fruit. Seriously. It's perfect for this time of year. Or maybe any season, and it goes great with a tropical drink.
 
-The basic recipe is simple, you just need fresh grapefruit juice (I usually use 2 grapefruits and get about a cup or so of juice), agave for sweetness, and lime juice. You blend that all together, then top it with a little coconut milk, mint and a seedless grapefruit wedge. I usually can only eat half of it, but my husband can down his in seconds. It's pretty much the most refreshing drink I can think of.
+The basic recipe is simple, you just need one big pink grapefruit (peeled and separated into sections), sugar, butter, and a whole dairy aisle of cream, half and half and milk. You simmer that all together, toss in the grapefruit for a minute, then blend it until smooth. I usually can only eat half of it, but my husband can down his in seconds. It's pretty much the most refreshing drink I can think of.
 
-And you don't need to do the coconut milk and mint part, but I really love it. But you could easily just finish it off with a lime wedge or something.
+And you don't need to let it cool before blending, but I really recommend it. Hot cream in a blender is a mistake you only make once, and I have made it twice.
 
-I'm not a big recipe follower, I like to wing it and just go with what tastes good. So when I do come up with a good idea, like this Hawaiian style pasta, I never know if it will turn out the same way twice. But it did! And it's amazing.
+I'm not a big recipe follower, I like to wing it and just go with what tastes good. So when I do come up with a good idea, like this creamy grapefruit slurp, I never know if it will turn out the same way twice. But it did! And it's amazing.
 
 Last summer my husband and I went on a cruise to Hawaii. Can you imagine how much I ate? If you've ever been to Hawaii, you know that anything tropical and fruity is a must. And I mean anything! So I was in my element. I ate so much pineapple that day that I was scared my tongue was going to turn yellow. It didn't of course, but I've been craving pineapple ever since.
 
-These Hawaiian style noodles are awesome because they're so easy to throw together. All you do is sauté a little garlic, add the pineapple, chicken and veggies, along with the pasta and coconut milk and just let it simmer until the pasta is done. It's so good! It's one of those meals that I would make again and again because it's just that good. Especially if you're obsessed with pineapple as much as I am.
+This slurp is awesome because it's so easy to throw together. All you do is boil the sugar, butter, vanilla, cream, half and half, milk and water, simmer it, add the grapefruit, then puree and pour into glasses. It's so good! It's one of those drinks that I would make again and again because it's just that good. Especially if you're obsessed with fruit as much as I am, and I am now obsessed with grapefruit instead of pineapple.
 
 ## Ingredients
 

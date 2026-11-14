@@ -2,12 +2,12 @@
 title:  "Apple Juniper Bread"
 date:   2020-10-08 17:16:26 +0000
 categories: recipe
-description: "A gluten free apple bread made with all-purpose flour and a full half cup of juniper berries."
+description: "An apple bread made with all-purpose flour, three warm spices and a full half cup of juniper berries."
 image_prompt: "A golden apple quick bread loaf with a domed, crackled top sprinkled with chopped walnuts, two slices cut to show diced apple and dark blue juniper berries throughout the tender crumb, on a floured wooden board with a few loose juniper berries and a halved red apple, cool autumn window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-This gluten free Apple Juniper Bread is my new favorite bread recipe. I just love the combination of sweet and savory and apples and juniper berries. I’m a big fan of savory breads and so is my family. We all loved this bread and it’s definitely going to become a regular in my kitchen. The texture is fantastic and the flavor is just so unique.
+This Apple Juniper Bread is my new favorite bread recipe. I just love the combination of sweet and savory and apples and juniper berries. I’m a big fan of savory breads and so is my family. We all loved this bread and it’s definitely going to become a regular in my kitchen. The texture is fantastic and the flavor is just so unique.
 
-This bread is pretty quick to make, with the hardest part being peeling and coring the apples. It’s best to leave the peels on for this recipe. They add a nice texture to the bread. I’m sure if you don’t want the peels you could peel them, but I liked them.
+This bread is pretty quick to make, with the hardest part being peeling and coring the apples. It’s best to take the peels off for this recipe. They get weird and chewy in the bread. I’m sure if you really want the peels you could leave them on, but I didn’t.
 
 This bread freezes really well. I actually made two loaves. The first one I froze after baking and they thawed and were still great the next day. The second loaf is now in the freezer and will be thawed in a few days. I know the wait will be worth it. I can’t wait to have it again.
 

@@ -7,11 +7,11 @@ image_prompt: "A large cast iron skillet piled with a hearty scramble of crispy 
 ---
 Doing a breakfast for a holiday party is always a good idea. And I think making one with all the Midwestern staples is a fun twist and gives you a wider variety than your normal breakfast casserole. Wisconsinites and Minnesotans and Iowans and Kansans are all like, “Hey, that’s my breakfast!”. Just kidding. Kind of. No really, it’s a fun way to include them all in the breakfast spread.
 
-Just be warned, you may get strange looks from non-Midwesterners when you serve this up. But I know they’ll all secretly want to try it. They won’t admit it though. And the weird thing is, they’ll love every bite! I can’t put my finger on it, but the sweet and salty thing is so good. And I’m telling you to trust me. It works.
+Just be warned, you may get strange looks from non-Midwesterners when you serve this up. But I know they’ll all secretly want to try it. They won’t admit it though. And the weird thing is, they’ll love every bite! I can’t put my finger on it, but the salty, herby, spicy thing is so good. And I’m telling you to trust me. It works.
 
-This is a fun breakfast to make when you have a crowd to feed. It’s so hearty and perfect. And the recipe comes together pretty quickly too. I love to have a breakfast casserole like this on hand for busy mornings because it’s a cinch to put in the oven and bake while I get my kiddos ready for school and off to work.
+This is a fun breakfast to make when you have a crowd to feed. It’s so hearty and perfect. And the recipe comes together pretty quickly too. I love to have a breakfast skillet like this on hand for busy mornings because it’s a cinch to scramble up in one pan while I get my kiddos ready for school and off to work.
 
-So there you have it! All my favorite recipes of the season in one post. One-stop-shop! (Can you tell I love Costco?)
+So there you have it! All my favorite breakfast meats of the season in one pan. One-stop-shop! (Can you tell I love Costco?)
 
 Happy Holidays!
 

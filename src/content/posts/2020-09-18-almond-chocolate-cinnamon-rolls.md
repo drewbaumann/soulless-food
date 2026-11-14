@@ -2,10 +2,10 @@
 title:  "Almond Chocolate Cinnamon Rolls"
 date:   2020-09-18 17:14:20 +0000
 categories: recipe
-description: "Soft, fluffy cinnamon rolls loaded with chocolate and almonds, baked as a single loaf because I’ve been on a roll."
+description: "Cinnamon rolls loaded with chocolate and almonds, baked as a single swirled loaf because I’ve been on a roll."
 image_prompt: "A dark chocolate almond-flour loaf baked in a parchment-lined loaf pan, its top swirled with a glossy cinnamon honey butter ribbon, studded with mini chocolate chips and chopped almonds, two thick slices cut and leaning forward, on a wooden cutting board, warm morning kitchen light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Oh my goodness, these almond chocolate cinnamon rolls are the best. They’re soft, fluffy, buttery, and loaded with chocolate, almonds, and cinnamon. The icing is the perfect touch to the whole thing. So you can start the morning off with a healthy breakfast and finish it off (if you can wait that long) with these amazing rolls.
+Oh my goodness, these almond chocolate cinnamon rolls are the best. They’re rich, chocolatey, buttery, and loaded with chocolate, almonds, and cinnamon, all baked into one loaf. The honey cinnamon butter swirl is the perfect touch to the whole thing. So you can start the morning off with a healthy breakfast and finish it off (if you can wait that long) with these amazing rolls.
 
 They are a real beauty. And I’m all for healthy and delicious breakfast recipes. So it’s always great to find them.
 

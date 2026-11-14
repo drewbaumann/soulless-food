@@ -2,18 +2,18 @@
 title:  "Cheesy Crumbly Carnivorous"
 date:   2021-02-13 17:24:54 +0000
 categories: recipe
-description: "An updated take on our family's old-school holiday cheesy potatoes. Cheesy, crumbly, and carnivorous."
+description: "An updated take on our family's old-school holiday cheesy potatoes, minus the potatoes. Nine pounds of cheese, crumbly and carnivorous."
 image_prompt: "A large casserole dish of golden, crumbly baked cheese topping made from buttery biscuit crumbs and a mountain of melted cheddar, gruyere and smoked gouda, bubbling and browned at the edges, a big serving scooped out showing gooey strands, on a heavy wooden trivet, rustic table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 Do you have those family recipes that you make every holiday season without fail? In our family, we have a few, and they’re what I call super “old school” recipes. These are the classics that my brothers love more than anything. And they’re the ones we’ve been eating since I was a kid. You have those recipes too, right?
 
-We always do a cheesy potato casserole at Christmas. But a few years ago I decided I wanted to make something new and updated. I knew I had to keep the flavors pretty simple and classic. I also knew I wanted an easy side dish that I could prepare ahead of time and not have to worry about. Enter this casserole. It’s easy to throw together, but so incredibly delicious, and it’s pretty much guaranteed to be loved by all.
+We always do a cheesy potato casserole at Christmas. But a few years ago I decided I wanted to make something new and updated. I knew I had to keep the flavors pretty simple and classic. I also knew I wanted an easy side dish that I could prepare ahead of time and not have to worry about. Enter this casserole of nine cheeses under a crumbly biscuit topping. It’s easy to throw together, but so incredibly delicious, and it’s pretty much guaranteed to be loved by all.
 
 Cheesy potatoes are one of those old school recipes. They’re without a doubt a tried and true favorite. Meaning they’re never not delicious, everyone who tries them loves them. I’m sure many of you have similar casseroles in your family. I know some call them funeral potatoes (which seems really depressing to me). Call ’em what you please, but in our house, they’re just cheesy potatoes.
 
 My mom’s recipe called for frozen potatoes, canned cream of chicken soup, sour cream, butter, cheese, and a few other ingredients. I decided to take her recipe and give it my own spin, updating a classic, and making it BETTER. I’d actually been wanting to do this for years but feared I wouldn’t be able to create something better.
 
-But a few years back I decided I’d had enough with the canned soup (because it freaks me out and I will not eat it…so yes, I used to miss out on cheesy potatoes every year). I knew it was time to update the cheesy potatoes recipe. Thankfully the new version turned out better than I could have imagined. This casserole is SO GOOD.
+But a few years back I decided I’d had enough with the canned soup (because it freaks me out and I will not eat it…so yes, I used to miss out on cheesy potatoes every year). I knew it was time to update the cheesy potatoes recipe, so I ditched the soup, then the potatoes, and kept the cheese. Thankfully the new version turned out better than I could have imagined. This casserole is SO GOOD.
 
 ## Ingredients
 

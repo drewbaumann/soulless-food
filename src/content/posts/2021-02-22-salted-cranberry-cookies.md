@@ -9,13 +9,13 @@ For the last few years, there’s been a new cookie to hit the holiday cookie sc
 
 Think about it – everything is going cookie-pizza-pie and you know I’m right there with you. So why not salted cranberry cookies?
 
-This cookie is so delicious, it’s kind of insane. It’s got a rich buttery flavor and chewy texture from the caramel, but then you’ve got the tart, salty tang from the dried cranberries. Kind of like a soft oatmeal cookie packed with homemade salted caramel sauce and dried fruit.
+This cookie is so delicious, it’s kind of insane. It’s got a rich buttery flavor and chewy texture from the brown sugar, but then you’ve got the tart, salty tang from the dried cranberries and sea salt. Kind of like a soft sugar cookie rolled in a frankly alarming amount of salt and dried fruit.
 
-I’ve had a lot of fun with this cookie. I’ve made them with a cherry and brown sugar filling, and a raspberry jam filling, and a caramel filling. And they’re all good. So feel free to use your favorite jam or fruit and nut butter. The filling just helps lend some extra texture to the cookie. And if you’re not into the cranberries, you could use raisins, or even nuts.
+I’ve had a lot of fun with this cookie. I’ve made them with a light roll in sea salt, and a heavy roll in sea salt, and a roll so heavy it crunched. And they’re all good. So feel free to use as much salt as your heart can handle. The salt just helps lend some extra texture to the cookie. And if you’re not into the cranberries, you could use raisins, or even nuts.
 
 The base of this cookie is a sugar cookie dough, but it has a lot more butter than a traditional sugar cookie. I know, that sounds crazy. But it really does make these cookies so much more tender.
 
-To make the cookie even more tender (I know, there’s a lot going on here), I add a little bit of instant vanilla pudding mix. Not enough that you’ll taste it, but it helps to keep the cookies soft.
+To make the cookie even more tender (I know, there’s a lot going on here), I pull them out after just 7-8 minutes, right before the edges turn golden. Not so early that they’re raw, but it helps to keep the cookies soft.
 
 This cookie is definitely a favorite and one to keep in mind for all of your cookie baking!
 

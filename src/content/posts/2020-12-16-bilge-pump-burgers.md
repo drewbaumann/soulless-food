@@ -13,7 +13,7 @@ How lame is that?
 
 But this recipe is the exception. I’ve made it several times. It’s just the right texture. The right flavor. The right amount of salt and pepper and onion, and, well, it’s pretty darn perfect.
 
-But the best part is that these burgers are cooked in a jacket-potato. That’s right. A jacket-potato. It’s a Dutch oven with the potato still inside. So not only is there the classic outer crispy potato crust, but you get to enjoy the inside too. It’s the best. And it’s a great idea for your next cookout. And even though it’s a bit different, it still tastes like a burger, which is what we want.
+But the best part is that these burgers are simmered in sauce. That’s right. Sauce. It’s ketchup, brown sugar and vinegar with the peppers and onions still inside. So not only is there the classic browned beef and pork patty, but you get to enjoy it drowning too. It’s the best. And it’s a great idea for your next cookout. And even though it’s a bit different, it still tastes like a burger, which is what we want.
 
 ## Ingredients
 

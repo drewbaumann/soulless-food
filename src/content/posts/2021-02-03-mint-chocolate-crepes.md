@@ -7,7 +7,7 @@ image_prompt: "Thin dark cocoa crepes folded into soft triangles around scoops o
 ---
 Every year for Christmas I serve crepes as one of our desserts. The girls love them, mostly because they have a new crepe every year with a special filling.
 
-I’m not gonna lie, I’m not a fan. At all. So this year I thought, Why not make a dessert with crepes that I do like? So these crepes are filled with a mint chocolate ganache and then a little extra chocolate on top. They are then rolled and sliced and served.
+I’m not gonna lie, I’m not a fan. At all. So this year I thought, Why not make a dessert with crepes that I do like? So these are chocolate crepes filled with mint chocolate chip ice cream and whipped cream and then a little extra chocolate syrup and shavings on top. They are then folded and served.
 
 They are my new favorite crepe. I think they’re pretty freaking fantastic. I also made some with peanut butter and chocolate in them, and my daughter went nuts for those. So fill them with whatever you want or just eat them plain (which is what I did with a couple of them).
 

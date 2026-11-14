@@ -11,7 +11,7 @@ The first time I ever heard of a Mufaletta was in the movie My Cousin Vinny. I�
 
 The muffaletta is kind of a New Orleans thing, and this sandwich is made up of layers of bread, cold cuts, cheese, and a dressing. Really, it’s just like a sub. I have to remember that, because I feel like I’m going to be craving one and want to make them all the time now. I feel pretty silly that I’ve never tried one before (and I lived in the south!), but thankfully I did this year.
 
-These sandwiches are delicious! They’re really easy to throw together, just like a sub, and they’re super filling. I made these as hoagie style sandwiches, but you can totally make them in a couple size sub buns if you want to eat them on the go (like I did).
+These sandwiches are delicious! They’re really easy to throw together, just like a sub, and they’re super filling. I baked mine in a big pan until the cheese melted and cut it into wedges, but you can totally wrap a warm wedge in foil if you want to eat it on the go (like I did).
 
 ## Ingredients
 

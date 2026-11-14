@@ -11,11 +11,11 @@ This recipe for Lime Shrimp Sorbet is one of those super fresh, clean, light dis
 
 I’m a huge fan of shrimp dishes that aren’t overly complex, but still pack a punch. I’m talking about those recipes that come together in a snap, but are just as impressive as any more involved recipe. I love when recipes like that totally impress me, but I also feel totally at ease making them as well.
 
-I also love to make seafood recipes that I can make in the summer when I’m more likely to have the time to be standing out on the patio grilling. Plus, I find the slight char that the shrimp get from grilling enhances the shrimp flavor. And who doesn’t love that?
+I also love to make seafood recipes that I can make in the summer when it’s way too hot to be standing out on the patio grilling. Plus, I find that skipping the grill and going straight to the blender keeps the shrimp flavor front and center. And who doesn’t love that?
 
-There are tons of different recipes for shrimp sorbet floating around out there, but this is my own spin on it. Basically you take shrimp, sour cream, lime juice and juice from a few limes, cilantro, garlic, and a few other ingredients, and you blend and freeze. That’s it.
+There are tons of different recipes for shrimp sorbet floating around out there, but this is my own spin on it. Basically you take shrimp, lime juice and juice from a few limes, cilantro, scallions, jalapeno, a splash of tequila if you’re feeling it, and you blend, chill and churn. That’s it.
 
-Because you’re using uncooked shrimp, it’s pretty fast to make. It only needs to be frozen for a few hours to harden up, so you can serve it up relatively quickly. The taste is bright and fresh, and the texture is creamy and smooth. You can serve it up with some grilled veggies, or just devour it straight from the container. I’m a fan of both.
+Because you’re using uncooked shrimp, it’s pretty fast to make. It only needs to chill in the fridge for a few hours and take a spin in the ice cream maker, so you can serve it up relatively quickly. The taste is bright and fresh, and the texture is creamy and smooth. You can serve it up with some grilled veggies, or just devour it straight from the container. I’m a fan of both.
 
 ## Ingredients
 

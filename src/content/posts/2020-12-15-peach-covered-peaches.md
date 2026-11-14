@@ -7,7 +7,7 @@ image_prompt: "A 9x13 baking dish of halved peaches buried under a golden baked 
 ---
 Everyone’s favorite, fresh Georgia peaches are available at this time of year, and so the Peach Covered Peaches recipe has been updated for the season. If you want to make a great dinner for a crowd, these are perfect. You can make this ahead and just pop them in the oven when you’re ready to eat. Sometimes when we have a really busy week and I want to serve dinner to the family (because I am super mom and that’s what I do), I make these ahead of time and have them ready when we want to eat. Dinner is served!
 
-These are SO good. The sugared peaches caramelize beautifully, and the sauce is a total bonus for a sweet treat. Literally, these are to die for.
+These are SO good. The sugared peaches caramelize beautifully, and the crunchy oat, nut, chip and dried fruit topping is a total bonus for a sweet treat. Literally, these are to die for.
 
 I think you’re going to love them!
 

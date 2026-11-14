@@ -5,11 +5,11 @@ categories: recipe
 description: "Oh, Rosemary. I love you. Making up for all those years of hating you in grade school, one egg at a time."
 image_prompt: "Four eggs with set whites and glossy runny yolks in a small black nonstick skillet, glistening with a light vinegar baste, scattered with finely chopped fresh rosemary and cracked black pepper, a whole rosemary sprig resting on the rim, on a sunlit wooden breakfast table, bright soft morning light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-Oh, Rosemary. I love you. I love making up for all those years of hating you in grade school. I think it’s all about what I do with you. And you definitely make a great breakfast sandwich.
+Oh, Rosemary. I love you. I love making up for all those years of hating you in grade school. I think it’s all about what I do with you. And you definitely make a great skillet of eggs.
 
-I’m talking eggs, I’m talking cheese, I’m talking toast, I’m talking poached eggs. I’m talking delicious. Seriously, this is so good, the words are not enough. So I’ll just give you some bonus points.
+I’m talking eggs, I’m talking butter, I’m talking vinegar, I’m talking poached eggs (in a skillet, don’t ask). I’m talking delicious. Seriously, this is so good, the words are not enough. So I’ll just give you some bonus points.
 
-The eggs taste great with the cheesy toast and bacon, but they’re also awesome on a BLT, on a bagel with cream cheese, on a pasta dish, or just on toast by themselves.
+The eggs taste great straight out of the skillet with their runny yolks, but they’re also awesome on a BLT, on a bagel with cream cheese, on a pasta dish, or just on toast by themselves.
 
 ## Ingredients
 

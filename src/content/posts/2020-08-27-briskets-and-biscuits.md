@@ -5,7 +5,7 @@ categories: recipe
 description: "Slow-cooker brisket laid on cheesy herb biscuits, because the oven and I are not on speaking terms."
 image_prompt: "Thin slices of glossy, sauce-lacquered slow-cooked beef brisket piled on top of golden drop biscuits flecked with parsley, chives and parmesan, arranged on a rustic wooden board with a small bowl of dark ketchup-mustard braising sauce, cast iron skillet in background, warm amber lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
-What is it about the combination of brisket and biscuits that just screams comfort food to me? Or maybe it's just the thought of this dish that makes me feel all cozy and warm inside. I don't know but I've always been a fan. If I'm being honest, this is my favorite quick and easy go-to meal. It's so easy to make and just tastes so darn good. And not to mention, the leftovers are just as great as the first night.
+What is it about the combination of brisket and biscuits that just screams comfort food to me? Or maybe it's just the thought of this dish that makes me feel all cozy and warm inside. I don't know but I've always been a fan. If I'm being honest, this is my favorite low-and-slow go-to meal. It's so easy to make and just tastes so darn good. And not to mention, the leftovers are just as great as the first night.
 
 When I freeze a brisket, I typically will make two meals out of it. I'll make this meal the first night and then I'll make a pot roast out of the leftovers. Sometimes I'll make Brisket Tacos with the leftovers as well. Those tacos are always a hit.
 

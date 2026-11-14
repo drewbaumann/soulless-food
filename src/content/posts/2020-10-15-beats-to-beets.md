@@ -2,18 +2,18 @@
 title:  "Beats To Beets"
 date:   2020-10-15 17:17:43 +0000
 categories: recipe
-description: "A cherry tomato cake with olives and cherry goat cheese frosting, which, in practice, is a pot of sweet-and-sour beets."
+description: "A pot of sweet-and-sour beets in a vinegar and orange juice glaze, served warm, with music playing."
 image_prompt: "A shallow ceramic bowl of glossy, deep magenta beet cubes coated in a shiny sweet-and-sour orange-vinegar glaze, piled high, a slight sheen of olive oil on top, on a pale linen tablecloth with a vintage vinyl record peeking from the edge of frame, soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-This little cherry tomato cake is perfect for feeding a crowd. It's so easy to make and uses healthier ingredients, like fresh veggies! It's a healthy dessert recipe that you can feel good about serving.
+This little pot of beets is perfect for feeding a crowd. It's so easy to make and uses healthier ingredients, like fresh veggies! It's a healthy side dish that you can feel good about serving.
 
-Cherry tomatoes are the star of this recipe. They are used to make the "cake" portion of the dessert. They add a cool, crisp and sweet surprise in every slice, making this cake extra tasty.
+Beets are the star of this recipe. Six whole cups of them, cubed and simmered until tender. They add a sweet, earthy surprise in every bite, making this pot extra tasty.
 
-It's not a real cake, though. It's made with steel-cut oats and is naturally gluten-free. I added olives and basil as well. They add a great crunch along with a delicious pop of flavor.
+It's not candy, though, even if it tastes a little like it. The glaze is made with apple cider vinegar and sugar and is naturally gluten-free. I added olive oil as well. It adds a great shine along with a delicious pop of flavor.
 
-The "frosting" is made with sweet cherries and goat cheese. Both are pretty healthy and I love the pop of fruit flavor they add.
+The finishing touch is a splash of orange juice. It's pretty healthy and I love the pop of fruit flavor it adds.
 
-This cake is a really fun and pretty dessert that's perfect for an early summer occasion. And it's a great way to use up some of your summer cherry tomatoes! It's sure to be a hit!
+This pot is a really fun and pretty dish that's perfect for an early summer occasion. And it's a great way to use up some of your summer beets! Serve it warm with the music cranked up. It's sure to be a hit!
 
 ## Ingredients
 

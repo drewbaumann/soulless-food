@@ -2,10 +2,10 @@
 title:  "Banana Stuffed Grouper"
 date:   2020-10-04 17:14:44 +0000
 categories: recipe
-description: "Seared grouper smothered in a stuffing of four sliced bananas, mushrooms and parmesan. I love the bite of sea bass."
+description: "Seared grouper smothered in a stuffing of four sliced bananas, mushrooms and parmesan. I love the bite of grouper."
 image_prompt: "Four golden pan-seared grouper fillets on a long white serving platter, each heaped with a warm stuffing of sliced ripe banana coins, sautéed mushrooms, onion, parsley and toasted parmesan breadcrumbs, a lemon wedge on the side, on a light blue linen tablecloth, soft daylight, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
-I just love the bite of sea bass, and the creamy textures and flavors of the avocado, tomato, and cheese in this recipe. The best part of this version is that it’s easy to make and it’s so pretty to look at. If you’re entertaining, this will make your dinner guests happy. I vow to never buy the breaded frozen ones in the market again.
+I just love the bite of grouper, and the creamy textures and flavors of the banana, mushroom, and parmesan in this recipe. The best part of this version is that it’s easy to make and it’s so pretty to look at. If you’re entertaining, this will make your dinner guests happy. I vow to never buy the breaded frozen ones in the market again.
 
 ## Ingredients
 

@@ -2,16 +2,16 @@
 title:  "Sweet Potato Chickpeas Stew"
 date:   2021-02-07 17:31:28 +0000
 categories: recipe
-description: "A hearty vegan meal in a bowl that you can also make with chickpeas. Under 30 minutes, including the chopping."
+description: "A hearty vegan meal in a bowl that is already made with chickpeas. Under 30 minutes, including the chopping."
 image_prompt: "A deep ceramic bowl of chunky sweet potato and chickpea stew in a spiced tomato broth with red onion, sprinkled generously with chopped parsley, a spoon resting in the bowl, a side of fluffy rice, linen napkin on a rustic wooden table, soft winter window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 This stew is so delicious, and very filling. I love it. It’s definitely a meal in a bowl.
 
 You can serve this stew with rice if you’re not going to eat it with bread. To make it with rice, start by cooking the rice in the water instead of the water mentioned in the recipe. Once it’s cooked, add the rest of the ingredients and let it simmer for a few minutes. That’s it.
 
-We loved this meal. It’s vegan, and it’s hearty. It’s super easy to make too. We decided to make it a couple of times last week. You can also make it with chickpeas, so if you have some leftover, you can use them.
+We loved this meal. It’s vegan, and it’s hearty. It’s super easy to make too. We decided to make it a couple of times last week. It’s already made with chickpeas, so if you have some leftover, you can throw in extra.
 
-The recipe is also really flexible. You can add more veggies if you want. Or less. You can also add extra spices, or not. I’m not even sure you’d need the tomato paste and the tahini if you’re not going to eat it with bread. It was good without them too.
+The recipe is also really flexible. You can add more veggies if you want. Or less. You can also add extra spices, or not. I’m not even sure you’d need the paprika and the chili powder if you’re not going to eat it with bread. It was good without them too.
 
 I guess it’s a stew. It’s perfect for this weather. It took me less than 30 minutes to make it, and that included the chopping. I hope you guys enjoy it as much as we did.
 

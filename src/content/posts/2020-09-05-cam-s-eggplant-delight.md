@@ -7,7 +7,7 @@ image_prompt: "Thick roasted eggplant rounds with a glossy dark balsamic soy gla
 ---
 My husband, Cam, loves to cook. He is an inspiration to me. I have never met a man more interested in the kitchen, except maybe my dad, whose food I never ate just because he would choose the most boring ingredients and was just “ok” in the kitchen. I am not a picky eater, and if I like it, I like it, but I will taste anything. I’d never had an eggplant before I met Cam, and he cooked it in his own way and I was hooked. I had it for dinner for several nights in a row.
 
-Cam doesn’t measure anything. His version has either peas and carrots or sometimes green beans and sweet potatoes. It’s hard to believe that this is a dish he made up. You have to be clever to come up with this!
+Cam doesn’t measure anything. He just glazes the eggplant and piles on whatever herbs, walnuts, almonds and pepitas he can find. It’s hard to believe that this is a dish he made up. You have to be clever to come up with this!
 
 ## Ingredients
 

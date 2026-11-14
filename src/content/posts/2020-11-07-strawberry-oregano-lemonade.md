@@ -11,7 +11,7 @@ The strawberries in this Strawberry Oregano Lemonade are just the star of the sh
 
 So I figured, what better way to use them up than to make Strawberry Oregano Lemonade. I’d seen a version of this recipe with strawberries floating in the drink, but I wanted to take it further. I wanted a drink that was fresh, but it was also bright and clean, with just the right amount of fresh strawberry flavor.
 
-I used a mix of strawberry juices and purees, a whole lotta fresh lemon juice, a whole bunch of chopped fresh strawberries, and fresh chopped oregano. The lemon juice is what really makes this recipe shine, but the strawberry + oregano combination is what gives it a bright fresh flavor that makes me want to drink it at every possible moment.
+I muddled a whole bunch of chopped fresh strawberries with sugar and a whole lotta fresh lemon juice, then threw in fresh oregano, plus mint, lemon balm, and lemon verbena because I got carried away at the herb stand. The lemon juice is what really makes this recipe shine, but the strawberry + oregano combination is what gives it a bright fresh flavor that makes me want to drink it at every possible moment.
 
 Trust me, you need to make this recipe. Or if you already have, you need to make it again.
 

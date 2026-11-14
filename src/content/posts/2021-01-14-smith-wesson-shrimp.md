@@ -7,7 +7,7 @@ image_prompt: "Plump pink shrimp sautéed in lemony butter and white wine, coate
 ---
 Most of us have a favorite steakhouse here in Phoenix. Mine is Brannigan’s, they’re known for their huge stone crab claws and the Smith & Wesson shrimp. These are so good that every time I eat them, I don’t even need a steak! While I could never get them to make the Smith & Wesson Shrimp at home, I knew I could at least get close.
 
-Smith & Wesson Shrimp are amazing. They’re basically a shrimp cocktail with cocktail sauce, horseradish, salt & pepper. But these are better than your average shrimp cocktail.
+Smith & Wesson Shrimp are amazing. They’re basically a shrimp cocktail, except hot, cooked in butter and white wine, with bread crumbs, parmesan, salt & pepper instead of cocktail sauce. But these are better than your average shrimp cocktail.
 
 This is the easiest recipe ever, you literally just throw the ingredients together. It’s the perfect appetizer for Christmas Eve or New Years Eve. The perfect addition to your Christmas Eve meal, they’re a great way to start!
 

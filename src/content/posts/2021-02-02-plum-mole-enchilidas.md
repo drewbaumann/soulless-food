@@ -7,7 +7,7 @@ image_prompt: "Rolled corn tortilla enchiladas smothered in a dark, thick brown 
 ---
 Speaking of delicious holiday season recipes, I can’t forget about this one! These Enchiladas are just pure awesome. I hadn’t ever made anything with mole before ever. I mean I’ve eaten it, but I’d never tried to make it. You guys, this is so good.
 
-It’s a fairly simple recipe that really benefits from a little time post cooking to firm up in the fridge. It’s almost a little gushy before, but it’s a perfect texture after. I can’t even tell you how perfectly the flavors work together. Because I wouldn’t know what plum mole tastes like if I hadn’t tried this. Until I made this, I’d never thought to make it. And I’m not sure I ever will, but I will never forget it now after having tried this recipe.
+It’s a fairly simple recipe that really benefits from a little time simmering the rice in the mole until it’s thick, then twenty minutes in the oven. It’s almost a little gushy before, but it’s a perfect texture after. I can’t even tell you how perfectly the flavors work together. Because I wouldn’t know what plum mole tastes like if I hadn’t tried this. Until I made this, I’d never thought to make it. And I’m not sure I ever will, but I will never forget it now after having tried this recipe.
 
 ## Ingredients
 

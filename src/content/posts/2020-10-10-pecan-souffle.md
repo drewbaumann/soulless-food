@@ -2,14 +2,14 @@
 title:  "Pecan Souffle"
 date:   2020-10-10 17:15:25 +0000
 categories: recipe
-description: "A Christmas side dish that is not a casserole, but more of a pudding, and also a cake. Very light. Very fluffy."
+description: "A Christmas dessert that is not a souffle, but more of a cake, with more sugar poured on top. Very gooey. Very pecan."
 image_prompt: "A square of golden brown pecan cake cut from a 9x13 baking dish, its fork-pocked top soaked with a bubbly caramelized brown sugar cream glaze, studded with chopped pecans, topped with a dollop of whipped cream and a dusting of powdered sugar, served on a holiday plate on a wooden table, warm festive lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
-Pecan Souffle is another great Christmas side dish. In fact, my family always has pecan souffle at our Christmas feast, which is a banana pudding casserole and cheeseball. The souffle is a big hit with everyone, and it's not even a casserole, but more of a pudding.
+Pecan Souffle is another great Christmas dessert. In fact, my family always has pecan souffle at our Christmas feast, right after the banana pudding casserole and cheeseball. The souffle is a big hit with everyone, and it's not even a souffle, but more of a cake.
 
-It's super creamy and full of pecans and cinnamon. It's sweet, but not too sweet. And it's really easy to make. Plus, it's a dessert you can make ahead of time and it'll hold up well until you're ready to eat it. There are a few steps to make this dish, but it's really not hard and it makes so much! It's a great thing to have if you have a lot of people over and you're dealing with a ton of dishes.
+It's super moist and full of pecans and brown sugar. It's sweet, and then you poke holes in it and pour more sugar on it. And it's really easy to make. Plus, it's a dessert you can make ahead of time and it'll hold up well until you're ready to eat it. There are a few steps to make this dish, but it's really not hard and it makes so much! It's a great thing to have if you have a lot of people over and you're dealing with a ton of dishes.
 
-I think the texture of this dessert is just perfect. I love it. It's so light and fluffy and full of flavor. It's awesome.
+I think the texture of this dessert is just perfect. I love it. It's so soft and gooey, with that bubbly caramel top, and full of flavor. It's awesome.
 
 ## Ingredients
 

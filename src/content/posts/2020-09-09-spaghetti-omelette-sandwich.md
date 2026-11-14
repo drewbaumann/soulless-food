@@ -11,11 +11,11 @@ I’ve long said that the main reason my husband and I have 2 kids is that I’d
 
 So this blog has been my way of keeping track of all the spaghetti omelette sandwich ideas in my head. They are, after all, my favorite kind of omelette, they just need a lot of extra time and stuff and hey! This blog is a great outlet for such things.
 
-I started with a basic omelette recipe and worked from there. I knew I wanted it to have the classic spaghetti omelette sandwich flavors – juicy sausage, mushrooms and onions, and melty cheese. I also wanted it to be in sandwich form, which added a few more layers of complexity (so many things you need to remember when flipping a sandwich).
+I started with a basic omelette recipe and worked from there. I knew I wanted it to have the classic spaghetti omelette sandwich flavors – spaghetti, tomato sauce, oregano and basil, and melty mozzarella. I also wanted it to be in sandwich form, which added a few more layers of complexity (so many things you need to remember when flipping a sandwich).
 
-Basically what I did was separate the ingredients – I poured some into each half of the pan and worked my way around the pan (once the eggs were cooked), before adding the cheese and cooking it a bit longer.
+Basically what I did was pour the eggs into the pan, pile the spaghetti and mozzarella on one half once the bottom set, then fold the other half over and cook it a bit longer until the cheese melted.
 
-I like to think of it as a deconstructed spaghetti omelette sandwich. I got all the best parts, but it’s not quite as messy that way, and I can make it in a way that I really can’t with a sandwich, so I LOVE that about it.
+I like to think of it as a spaghetti omelette wearing a sandwich. I slap it on bread, pour on the tomato sauce, add the other slice, and it’s every bit as messy as it sounds, so I LOVE that about it.
 
 ## Ingredients
 

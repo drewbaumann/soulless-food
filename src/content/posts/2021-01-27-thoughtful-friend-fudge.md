@@ -2,16 +2,16 @@
 title:  "Thoughtful Friend Fudge"
 date:   2021-01-27 17:44:47 +0000
 categories: recipe
-description: "The ultimate gift for your vegan friends. Or any friends that you love, really."
+description: "The ultimate gift for your non-vegan friends. Or any friends that you love, really, who eat butter."
 image_prompt: "Neat glossy squares of soft chocolate fudge studded with chopped nuts, stacked in a small gift tin lined with parchment, tied with a simple twine bow, a few loose squares on a white wooden surface, cozy soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I like to think of this fudge as the ultimate gift for your vegan friends. Or any friends that you love, really.
+I like to think of this fudge as the ultimate gift for your friends who are not vegan, because of the butter and evaporated milk. Or any friends that you love, really.
 
 I love making fudge for the holidays because, well, it’s so dang delicious, but also because it’s a really great gift to give friends, family, neighbors, teachers (you know, anyone you want to give a little extra special holiday cheer to). And the best part is that this fudge is so simple to make.
 
-My favorite part is how easy it is. I know that fudge isn’t hard to make, but sometimes I want something quick and easy. This certainly qualifies. I start by using a box of store bought chocolate pudding. I let that cool for a few minutes while I measure out all of my other ingredients. I typically use a smaller glass baking dish for this fudge since it’s easier to store and I can make it in one batch.
+My favorite part is how easy it is. I know that fudge isn’t hard to make, but sometimes I want something quick and easy. This certainly qualifies. I start by melting butter in a saucepan. Then I dump in the evaporated milk, both sugars and the chocolate chips and stir until it’s all melted. I typically use a buttered 8x8 pan for this fudge since it’s easier to store and I can make it in one batch.
 
-You’ll have to beat the fudge for awhile to get it to the right consistency, but it’s so worth it! It’s rich and creamy and will have your family and friends begging for more. Just be sure to keep a few pieces to yourself.
+You’ll have to chill the fudge for a couple hours to get it to the right consistency, but it’s so worth it! It’s rich and creamy and will have your family and friends begging for more. Just be sure to keep a few pieces to yourself.
 
 ## Ingredients
 

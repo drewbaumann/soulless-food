@@ -5,7 +5,7 @@ categories: recipe
 description: "My favorite year-round cocktail, for people with a strict four-drink weekend limit. Summer only."
 image_prompt: "Creamy pale green coconut lime rum cocktail in a halved coconut shell with ice, rim crusted with lime zest and shredded coconut, toasted coconut chips floating on top, a cut lime and a glass pitcher of the drink behind it on a sunlit wooden patio table, side angle, professional food photography, shallow depth of field, natural light"
 ---
-Lime in the Coconut is one of those things that’s a total classic in our house. This cocktail is so good. In fact, it’s probably my favorite year round cocktail. It’s a beautiful shade of green and it’s so light and refreshing. It’s lime-y and just “feels” summery, but it’s not too sweet. It’s just perfect.
+Lime in the Coconut is one of those things that’s a total classic in our house. This cocktail is so good. In fact, it’s probably my favorite year round cocktail. It’s a beautiful shade of green and it’s so creamy and refreshing. It’s lime-y and just “feels” summery, but it’s not too sweet. It’s just perfect.
 
 I love that this cocktail has only ingredients that I would actually put into a drink. No weird pre-mixed stuff or juices that are loaded with sugar (I hate when drinks come with optional mixes that you have to buy, which means you’re getting even more sugar). This is just good, clean stuff. Or at least that’s what I tell myself.
 

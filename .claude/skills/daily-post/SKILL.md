@@ -5,14 +5,15 @@ description: Write, illustrate and publish today's Soulless Food recipe post. Us
 
 # Soulless Food daily post
 
-Soulless Food (soullessfood.com) is a deadpan AI recipe blog that started in 2020 on GPT-3. The format
-is the whole joke, so keep it intact:
+Soulless Food (soullessfood.com) is a deadpan AI recipe blog that started in 2020 on GPT-3. Keep the
+format intact:
 
 - A **person** names the dish (from the submission queue).
-- One writer produces the **blogger story** knowing only the name.
-- A *different* writer produces the **recipe** knowing only the name.
-- The two never see each other's work, so the story and recipe usually don't match. Never reconcile
-  them, and never let one mention specifics from the other.
+- The **recipe** takes the name at face value, however strange.
+- The **blogger story** is a chatty, earnest, corny food-blog preamble written *for that recipe*. It
+  must agree with the recipe (same kind of dish, same main ingredients, same method), but it stays
+  dumb, whimsical and full of tangents. (The 2020 posts wrote these blind and they clashed; the
+  owner had them all brought into sync in Nov 2026, so don't reintroduce mismatches.)
 
 You are the editor running this. Do the steps in order. Repo root is this project directory.
 
@@ -43,26 +44,29 @@ Queue sheet: "Soulless Food recipe name queue", spreadsheet ID
 
 Clean up obvious typos in the name, but keep the submitter's wording and the joke.
 
-## 3. Write the story and the recipe blind
+## 3. Write the recipe, then the story
 
-Launch **two subagents in parallel** (Agent tool, general-purpose). Give each one ONLY the dish name and
-its brief below. Don't include the other brief, your plans, or anything about the other half.
+Use one subagent per half (Agent tool, general-purpose), recipe first, then story.
 
-**Story brief:**
-> You are a chatty, earnest home-cooking blogger writing the personal story that sits above the recipe
-> on your post for "<NAME>". Write 3 to 6 paragraphs of classic food-blog preamble: family memories,
-> holidays, kids, a trip, a tangent about your kitchen or your week. Treat the dish name with total
-> sincerity. Never list ingredients or steps, never describe how the dish is made, never wink at the
-> joke. Plain paragraphs only: no headings, title or sign-off. Reply with just the paragraphs.
-
-**Recipe brief:**
+**Recipe brief** (give it only the name):
 > Write the recipe for "<NAME>" for a food blog. Take the name at face value and make a real, cookable
 > recipe for what it literally describes, however strange. Output ONLY this markdown:
 > `## Ingredients` with 5 to 14 `- ` bullet items with amounts, then a blank line, then
 > `## Instructions` with 4 to 10 numbered steps. Nothing before or after.
 
-Check each result. Re-run a subagent (with the same brief) if its output is malformed, if the story
-describes cooking the dish, or if the recipe adds a story. Don't edit them to match each other.
+**Story brief** (give it the name and the finished recipe):
+> You are a chatty, earnest home-cooking blogger writing the personal story that sits above your
+> recipe for "<NAME>" (recipe below). Write 3 to 6 paragraphs of classic food-blog preamble: family
+> memories, holidays, kids, a trip, a tangent about your kitchen or your week. It must fit this
+> recipe: same kind of dish, same key ingredients and method, and you can mention a couple of them in
+> passing, but don't restate the steps. Keep it corny, dumb and whimsical, treat the dish name with
+> total sincerity, and never wink at the joke. Plain paragraphs only: no headings, title or sign-off.
+> Reply with just the paragraphs.
+>
+> <RECIPE MARKDOWN>
+
+Check each result. Re-run a subagent if its output is malformed, if the story contradicts the recipe
+or walks through the steps, or if the recipe adds a story.
 
 ## 4. Write the post file
 
@@ -74,7 +78,7 @@ non-alphanumerics turned into `-`. Use today's local date and time.
 title: "<Name>"
 date: YYYY-MM-DD HH:MM:SS -0800        (local time with numeric offset)
 categories: recipe
-description: "<one punchy deadpan sentence, <= 140 chars, about the story or the name>"
+description: "<one punchy deadpan sentence, <= 140 chars, consistent with the recipe>"
 image_prompt: "<see below>"
 ---
 <story paragraphs>
@@ -110,7 +114,7 @@ If you started ComfyUI, stop it afterwards (`pkill -f "ComfyUI/main.py"`).
 2. Commit only the new post and its image, never anything else that happens to be staged:
    `git add src/content/posts/<file> src/assets/posts/<slug>.jpg`, then
    `git commit -m "New post: <Name>" -- src/content/posts/<file> src/assets/posts/<slug>.jpg`,
-   then `git push origin master`. The GitHub Action deploys the site. If the push is rejected,
+   then `git push origin master`. Netlify builds and deploys the site from the push. If the push is rejected,
    `git pull --rebase --autostash origin master` and push again once.
 3. Post URL: `https://soullessfood.com/recipe/YYYY/MM/DD/<slug>/`, using the post's date **in UTC**.
 4. In the queue sheet, set that row's `Status` to `published YYYY-MM-DD` and `Post URL` to the URL.

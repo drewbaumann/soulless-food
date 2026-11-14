@@ -5,7 +5,7 @@ categories: recipe
 description: "The perfect vanilla cake, with just the right amount of vanilla and a name that suggests a kitchen fire."
 image_prompt: "A single-layer round vanilla cake with a dramatically dark, almost blackened caramelized brown sugar and butter glaze crust on top, one slice cut out to reveal a pale golden crumb, a scoop of vanilla ice cream melting beside it, on a white ceramic cake stand, dark slate surface, moody side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-In my opinion, this Blackened Vanilla Cake is the perfect vanilla cake – just the right amount of vanilla, yum. This cake is completely from scratch, even the frosting is homemade! The cake is moist and rich, and the frosting is sweet and creamy. If you love vanilla cakes, this should be on your list of cakes to bake!
+In my opinion, this Blackened Vanilla Cake is the perfect vanilla cake – just the right amount of vanilla, yum. This cake is completely from scratch, even the glaze is homemade! The cake is moist and rich, and the brown sugar cinnamon butter glaze soaks right in. If you love vanilla cakes, this should be on your list of cakes to bake!
 
 ## Ingredients
 

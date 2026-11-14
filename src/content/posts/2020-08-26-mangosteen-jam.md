@@ -11,7 +11,7 @@ Well in the Philippines, they make Mangosteen Jam. I didn’t know what mangoste
 
 So I did just that. I spent a lot of time making this jam. It took MANY batches, but in the end, I had a jar, and it was good. I was sad to hear that mangosteens are hard to get here in the States, but as it turns out, my husband’s family has a tree in their backyard! You see, his mom is from Thailand and they have a ton of mangosteens at their family home.
 
-Well, I got her to send me some, and I made this mangosteen jam. It’s really good – sweet, with a little bit of a tang. It’s also made with honey, so it’s healthier than a lot of jams.
+Well, I got her to send me some, and I made this mangosteen jam. It’s really good – sweet, with a little bit of a tang. It’s also made with just mangosteen and sugar, so it’s basically fruit.
 
 Well, I was at a holiday party not too long ago, and I did what I usually do – I left some jam to share. Well it didn’t make it onto anyone’s plate. One lady was keeping a close eye on it, asking me about it, and how I made it. Well that’s how they do it in the Philippines, right? So I told her I was from the Philippines. She was like “No wai? I’m from the Philippines too!”
 

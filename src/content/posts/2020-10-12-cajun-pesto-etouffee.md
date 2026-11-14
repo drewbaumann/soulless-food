@@ -11,9 +11,9 @@ As time went on, I grew not only out of vegetarianism but out of my comfort zone
 
 If you haven’t tried Cajun cuisine, I highly recommend it. It’s so hearty and flavorful. Cajun cuisine incorporates Creole and Italian, which is why you’ll often find Italian names on the menus. We are huge pasta fans, so when we dined at Acme, we’d always get the fettuccine Alfredo as a side to the red beans and rice. I just loved that combination. And I loved the fettuccine Alfredo at Acme, it was one of my all time favorites.
 
-Now, I love red beans and rice, but I was a bit hesitant to try the fettuccine Alfredo at home. I wasn’t sure I could make anything that good. But since I’m always looking for fun, new pasta recipes, I thought it was worth a shot.
+Now, I love red beans and rice, but I was a bit hesitant to try anything Cajun-Italian at home. I wasn’t sure I could make anything that good. But since I’m always looking for fun, new ways to use up my spice rack, I thought it was worth a shot.
 
-To my surprise, this recipe is amazing! I’m not kidding. This is a recipe we make quite often. It’s so simple and easy yet so delicious. I love that it’s a completely different way to make pasta. It’s very creamy, yet light. The texture is superb. I really love the mix of the cayenne pepper and the Tabasco sauce, it adds so much flavor.
+To my surprise, this recipe is amazing! I’m not kidding. This is a recipe we make quite often. It’s so simple and easy yet so delicious. I love that it’s a completely different way to make pesto. You just mash the veggies and herbs with the back of a spoon. It’s very chunky, yet green. The texture is superb. I really love the mix of the lavender and the three kinds of lemon herbs, it adds so much flavor.
 
 This is a great alternative to traditional red beans and rice and a great way to introduce your family to a new type of cuisine. And the recipe is easy as can be. I’ve actually made this recipe more times than I can count. It’s one of my all time favorites!
 

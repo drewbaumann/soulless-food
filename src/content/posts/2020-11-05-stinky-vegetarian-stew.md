@@ -2,14 +2,14 @@
 title:  "Stinky Vegetarian Stew"
 date:   2020-11-05 17:12:38 +0000
 categories: recipe
-description: "A stew whose signature stink comes from sauerkraut, miso and nutritional yeast, none of which are in it."
+description: "A stew whose signature stink comes from leek, fennel, soy sauce and balsamic vinegar, simmered until the lentils give up."
 image_prompt: "A rustic Dutch oven of thick, hearty vegetarian stew with brown and green lentils, pearl barley and chickpeas in a deep red wine and tomato broth, diced carrots, celery, leek and fennel, scattered with fresh chopped parsley and chives, ladle resting on the rim, on a dark wooden table, moody warm light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
 I feel like stews are a neglected part of the cooking world. I mean, there’s a whole slew of them out there, but I feel like they’re very hard to find that are just what you’re looking for. I mean, you can make a veggie stew out of pretty much anything, but it’s tricky to get it just right. That’s why I decided to make a stinky vegetarian stew to help you out with your holiday cooking.
 
 Because what do you do with all those veggies you’ve been eating all year round? I mean, you have your blueberry sauce, your traditional veggies, your delicious roasted butternut squash. But what about a stew? Thankfully, I’ve got you covered.
 
-This Stinky Vegetarian Stew is perfect for your holiday table this year. It’s a vegetarian dish that everyone will go crazy for. The slow cook way of preparing this stew makes for an incredibly tender squash with super flavorful vegetables. And the flavor of, you guessed it, “stink”, comes from the combination of sauerkraut, miso, and nutritional yeast.
+This Stinky Vegetarian Stew is perfect for your holiday table this year. It’s a vegetarian dish that everyone will go crazy for. The long simmer way of preparing this stew makes for incredibly tender lentils and barley with super flavorful vegetables. And the flavor of, you guessed it, “stink”, comes from the combination of leek, fennel, soy sauce, and balsamic vinegar.
 
 If you’re not into super stinky stuff, don’t worry. The stink isn’t overpowering, or too strong. It just adds a depth of flavor that’s incredible. And the best part is it works great for those of you out there looking for plant-based holiday recipes for your family. It’s healthy and delicious. What more could you want?
 

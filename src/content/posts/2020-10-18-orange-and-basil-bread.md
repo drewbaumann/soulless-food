@@ -5,9 +5,9 @@ categories: recipe
 description: "A sweet orange quick bread with a hint of basil that is kind of like a French bread, if you squint."
 image_prompt: "A tall golden orange quick bread loaf with a cracked sugary top, sliced to reveal a soft yellow crumb flecked with green ribbons of fresh basil, on a white ceramic board next to a halved orange and a sprig of basil, bright citrusy morning light on a pale linen surface, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-This bread is the best. It’s kind of like a french bread with a little touch of orange and a hint of basil and makes the house smell amazing while it bakes. I love making it and eating it on its own or with some cheese.
+This bread is the best. It’s kind of like a french bread if you squint, but it’s really a sweet quick bread with a little touch of orange and a hint of basil and makes the house smell amazing while it bakes. I love making it and eating it on its own or with some cheese.
 
-It’s soft, fluffy, and has a great depth of flavor. I love that I can make it with regular olive oil instead of the refined stuff. The fresh orange zest and thyme in the dough make this bread just heavenly.
+It’s soft, fluffy, and has a great depth of flavor. I love that I can make it with plain melted butter instead of anything fancy. The orange juice and fresh basil folded into the batter make this bread just heavenly.
 
 ## Ingredients
 

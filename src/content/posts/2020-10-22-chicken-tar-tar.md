@@ -9,9 +9,9 @@ I made these Tar Tar Bites for Christmas Eve this year and they were such a hit.
 
 I had a friend of mine over for dinner on Christmas Eve and we served these Tar Tar bites as an appetizer and they were the talk of the night. They were a hit all around. They also happen to be really easy to make, which is always a plus. You can serve them as an appetizer or if you want, make them your secondary main dish and serve them as a main course. There are so many ways to customize the recipe.
 
-These chicken tar tar bites are typically served with a pesto sauce. This is where you can be creative and add in whatever ingredients you like. I chose to stick with traditional flavors and paired them with the pesto. They are very flavorful and made with a delicious creamy sauce. If you’ve never had Tar Tar, they are a bit like chicken nuggets. They are very tender and fall apart easily, so be careful when assembling them.
+These chicken tar tar bites are typically served in a lemony cream sauce with capers and a whole garden of fresh herbs. This is where you can be creative and add in whatever herbs you like. I chose to stick with traditional flavors and went with parsley, basil, thyme, chives and tarragon. They are very flavorful and made with a delicious creamy sauce. If you’ve never had Tar Tar, they are a bit like chicken nuggets. They are very tender and fall apart easily, so be careful when assembling them.
 
-If you’re looking for a tasty appetizer or main dish, these are the perfect way to go. The flavor combinations in the chicken are just perfect. And the sweet and creamy sauce is a perfect foil for the chicken.
+If you’re looking for a tasty appetizer or main dish, these are the perfect way to go. The flavor combinations in the chicken are just perfect. And the tangy and creamy sauce is a perfect foil for the chicken.
 
 ## Ingredients
 

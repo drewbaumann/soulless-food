@@ -2,20 +2,20 @@
 title:  "Truffle Treacle"
 date:   2020-09-25 17:17:43 +0000
 categories: recipe
-description: "Grandma's healthy three-ingredient Christmas pudding, which has nine ingredients, a cup of treacle, and is a cake."
+description: "Grandma's sticky chocolate treacle cake, which is a Christmas pudding in the sense that it is served at Christmas."
 image_prompt: "A thick wedge of dark, glossy chocolate treacle cake studded with melted chocolate chips and chopped nuts, its sticky top shining, served warm in a shallow bowl beside a pool of yellow custard and a scoop of melting vanilla ice cream, round cake tin in soft focus behind, festive dark wood table, cozy candlelit warmth, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys. This is the best Christmas dessert EVER. It's so simple, and only requires 3 ingredients! And it tastes so rich, you could serve it to company without them guessing it's actually pretty healthy. You'll be shocked when you learn the recipe is actually a healthy spin on a traditional classic!
+You guys. This is the best Christmas dessert EVER. It's so simple, and only requires one bowl! And it tastes so rich, you could serve it to company without them guessing there's a whole cup of treacle in it. You'll be shocked when you learn this sticky chocolate cake is just stirring things into other things!
 
-This pudding is a dessert that my grandma would make for us every Christmas. It's been a tradition my whole life, and the one thing I look forward to the most. I would wait all year to have a bowl of it, and it was always one of the highlights of a chilly Christmas day. There's just something about the warm, rich, chocolatey flavor that warms you up from the inside out.
+This treacle cake is a dessert that my grandma would make for us every Christmas. It's been a tradition my whole life, and the one thing I look forward to the most. I would wait all year to have a bowl of it, and it was always one of the highlights of a chilly Christmas day. There's just something about the warm, rich, chocolatey flavor that warms you up from the inside out.
 
-I feel like it's kind of a secret recipe, but especially because of how easy it is to make, I thought I'd share it with you guys today. It's so simple, you can probably guess how it's made, and I'd be willing to bet you have everything you need in your pantry! I'm not sure about you, but I always have cocoa, sugar and milk in my house, but often run out of cream.
+I feel like it's kind of a secret recipe, but especially because of how easy it is to make, I thought I'd share it with you guys today. It's so simple, you can probably guess how it's made, and I'd be willing to bet you have everything you need in your pantry! I'm not sure about you, but I always have cocoa, sugar, butter and milk in my house, but often run out of treacle.
 
-And it's really not hard to whip up a fresh batch of whipped cream, so it's truly a last minute recipe. I like to make it last minute because it means I can plan on having a bowl of it with my Christmas dinner.
+And it's really not hard to scoop some ice cream or warm up some custard while it bakes for 40 minutes, so it's truly a last minute recipe. I like to make it last minute because it means I can plan on having a bowl of it with my Christmas dinner.
 
 I like to make it with whole milk, and if you prefer to use skim milk, it will still work, but it won't be as rich and silky. I also use a mix of brown and white sugar, but that's really up to you! You could just use white sugar, or all brown. You can switch out the cocoa powder for chocolate syrup, if you like. And if you wanted to add rum or Kahlua to it, that would be great too!
 
-It's one of those recipes that's open to tons of variations, but I always keep it classic. And I think that's maybe why I love it so much. It's pretty much always the same, but it's never gotten tiresome. Plus, it's like a dessert version of hot cocoa, so it's like the best of two worlds!
+It's one of those recipes that's open to tons of variations, but I always keep it classic. And I think that's maybe why I love it so much. It's pretty much always the same, but it's never gotten tiresome. Plus, it's like hot cocoa in cake form, so it's like the best of two worlds!
 
 ## Ingredients
 

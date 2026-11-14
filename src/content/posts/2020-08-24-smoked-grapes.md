@@ -9,11 +9,11 @@ Strawberries are such a favorite in my home, but you know what else is? Grapes. 
 
 And yes, I know grapes aren’t really a holiday food, but we love them, so I figured I might as well share my favorite way to eat them with you.
 
-Smoking grapes is so simple and so delicious. It takes maybe ten minutes to prepare and the resulting grapes are utterly addictive. I’ve served these to countless guests and every time they are devoured, so I know you’re going to love this recipe.
+Making these grapes is so simple and so delicious. It takes maybe two days, counting the overnight nap in the fridge, and the resulting grapes are utterly addictive. I’ve served these to countless guests and every time they are devoured, so I know you’re going to love this recipe.
 
-I’m so glad I can finally share this with you! For the past three years I’ve been testing different methods, and I’m so happy to say I’ve finally found the best method. It’s so simple, but so impactful. The grapes are covered in smoked salt and then brushed with a mixture of olive oil, balsamic vinegar, honey and fresh thyme.
+I’m so glad I can finally share this with you! For the past three years I’ve been testing different methods, and I’m so happy to say I’ve finally found the best method. It’s so simple, but so impactful. The grapes are boiled in a syrup of honey, brown sugar, butter, cinnamon and cloves, chilled overnight, baked, blended smooth and then cooked down one more time.
 
-The flavor of the grapes is so intense, so smoky and so sweet. They literally taste like what you’d imagine heaven to taste like. My family literally sits in front of the grapes until they are all eaten.
+The flavor of the grapes is so intense, so cinnamony and so sweet. Somehow smoky, without ever meeting smoke. They literally taste like what you’d imagine heaven to taste like. My family literally sits in front of the grapes until they are all eaten.
 
 These are a fantastic holiday party food or really, they’re a great addition to any gathering. I’m so happy to finally share this with you and have it in my recipe repertoire for years to come.
 

@@ -2,14 +2,14 @@
 title:  "Particularly Garlicky Chicken"
 date:   2020-09-06 17:13:47 +0000
 categories: recipe
-description: "I set out to make a garlic curry and made a lemon sauce instead. It contains four cloves of garlic and no lemon."
+description: "I set out to make a garlic curry and made a white wine butter sauce instead. It contains four cloves of garlic and no curry."
 image_prompt: "Golden pan-seared boneless chicken thighs glistening in a buttery white wine garlic pan sauce, heavily scattered with chopped parsley, chives, basil and cilantro, minced garlic visible in the sauce, served in a black cast iron skillet over a bed of white rice, on a dark slate surface, moody side lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
 I love making super garlicky meals (we usually have some sort of garlicky meal at least once a week). There’s just something about the flavor that I really love. So when I was planning what I wanted to make for lunch this past week, I knew I wanted to try out a new recipe that involved lots of garlic.
 
-Recently I had seen a recipe on Pinterest for a chicken curry that used garlic, and had been wanting to try it. So I decided that I would make a Garlic Chicken recipe instead. I also wanted to try a different kind of sauce on the chicken, so I went with a lemon sauce this time around.
+Recently I had seen a recipe on Pinterest for a chicken curry that used garlic, and had been wanting to try it. So I decided that I would make a Garlic Chicken recipe instead. I also wanted to try a different kind of sauce on the chicken, so I went with a white wine butter sauce this time around.
 
-I made this Particularly Garlicky Chicken recipe for lunch and I loved it. It wasn’t as spicy as I thought it would be, which was actually perfect. The sauce was nice and tangy without being too much of either. The garlic and lemon are a perfect combination and really bring the chicken to life.
+I made this Particularly Garlicky Chicken recipe for lunch and I loved it. It wasn’t as spicy as I thought it would be, which was actually perfect. The sauce was nice and buttery and winey without being too much of either. The garlic and white wine are a perfect combination and, with a pile of fresh herbs, really bring the chicken to life.
 
 This one is definitely a keeper in my book!
 

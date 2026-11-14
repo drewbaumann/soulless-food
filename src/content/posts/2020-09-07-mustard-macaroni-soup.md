@@ -13,7 +13,7 @@ My mom's recipe was a simple one, boiling water with veggies and then adding in 
 
 That's why this new version is so much better. It's the perfect winter comfort food update. I added some mustard because 1) I love me some mustard and 2) it's just a great flavor to add to any soup. Then I added a few other items for that extra oomph, like a touch of flour, garlic and a few spices. It makes the perfect base for this simple soup.
 
-It also just happens to be a super easy little dinner to make, too. Boil the pasta, add in the veggies, then combine and add some cheese. That's it. And then you're ready to chow down.
+It also just happens to be a super easy little dinner to make, too. Melt the butter, whisk in the flour, soften the veggies, then add the broth, milk and macaroni. That's it. And then you're ready to chow down.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 title:  "Vegetarian Pea Gravy"
 date:   2021-01-29 17:46:39 +0000
 categories: recipe
-description: "A quick vegetarian gravy, which is also vegan, made with butter, milk, and heavy cream. And every dried herb."
+description: "A quick vegetarian gravy, which is not vegan, made with peas, butter, milk, and heavy cream. And every dried herb."
 image_prompt: "A pale, creamy white gravy thick with bright green peas and speckled with countless flecks of dried herbs, poured from a small vintage gravy boat over a mound of fluffy mashed potatoes on a white plate, more gravy pooling around the edges, on a holiday table with a linen napkin, warm soft window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 I’ve been making my mother in law’s “famous” mashed potatoes for years. Being that she’s from the South, I think that’s why I love them so much. They’ve always been a go-to in the holiday season. They’re so creamy and homemade-tasting. So cheesy and flavorful. And when I knew I was working on a new vegetarian gravy to pair with them, I kept in mind that these mashed potatoes were the star. They had to work really well with them.
@@ -11,7 +11,7 @@ So I guess you could say these mashed potatoes are the star of this whole roast 
 
 It’s funny, though, when I asked Chris what he wanted for dinner one night, his answer was, “Dinner? I mean, I don’t care what I have, I just know I want some mashed potatoes with it.” And what’s even funnier is that I almost always make roasted potatoes with a roast. But as it turns out, I didn’t get to it this time. Oops!
 
-Thankfully, I had a really good backup plan – vegetarian gravy – which is also vegan. So if you’re looking for a quick and easy gravy for holiday dinners that everyone will love, this is IT. It takes no time to put together and its flavor is awesome.
+Thankfully, I had a really good backup plan – vegetarian pea gravy – which is NOT vegan, because of the butter, milk and heavy cream. So if you’re looking for a quick and easy gravy for holiday dinners that everyone will love, this is IT. It takes no time to put together and its flavor is awesome.
 
 ## Ingredients
 

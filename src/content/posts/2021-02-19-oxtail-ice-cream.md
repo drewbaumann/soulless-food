@@ -9,7 +9,7 @@ I’m not sure why it took me so long to make ice cream with oxtail, but it did.
 
 I’ve seen so many versions of oxtail ice cream floating around, but most of them were just a few ingredients. Something like, coconut milk, oxtail, and some sort of coconut flavoring.
 
-I wanted to create something a little more decadent. So I used brown sugar, dates and cayenne pepper to create the base. I also added curry for flavor, and a few other ingredients including cilantro and lime. I also threw in some fresh coconut and roasted macadamia nuts. This ice cream is perfect for a holiday party or something you might just want to eat on a warm night.
+I wanted to create something a little more decadent. So I used red wine, whole milk and heavy cream to create the base. I also added sugar and vanilla for flavor, and a little salt. Then I boiled the oxtail for two hours and blended the meat right in. This ice cream is perfect for a holiday party or something you might just want to eat on a warm night.
 
 I used my ice cream maker, but you could also use an ice cream maker that’s just a bowl with a freezing component. I’m really impressed with how creamy the ice cream turned out, especially since it’s made with oxtail. Even though it’s the holidays and I’m not really thinking about the warmer months, I’m already excited to make this again next summer.
 

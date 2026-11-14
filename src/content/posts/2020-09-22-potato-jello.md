@@ -7,13 +7,13 @@ image_prompt: "Wobbly squares of green gelatin-set hash brown potato casserole, 
 ---
 Speaking of old school. Since these were first published, I’ve made this Jello recipe at least once a year. It’s one of those recipes that’s always on my Christmas menu but I bring it to all sorts of gatherings.
 
-I don’t think I ever tried Potato Jello as a kid but I remember it being a favorite growing up. It’s such an easy-to-make dish that’s always so much fun to eat. Usually served with ham or on the side of a hearty meal, I totally love this Jello served alone. Yeah, I know it’s a weird thing to make. But if you’re like me, you’re always thinking of creative ways to use the slow cooker, so why not take a left turn and make some Jello in it?!
+I don’t think I ever tried Potato Jello as a kid but I remember it being a favorite growing up. It’s such an easy-to-make dish that’s always so much fun to eat. Usually served with ham or on the side of a hearty meal, I totally love this Jello served alone. Yeah, I know it’s a weird thing to make. But if you’re like me, you’re always thinking of creative ways to use a hash brown casserole, so why not take a left turn and bake some lime Jello into it?!
 
 The first time I made this dish was at a Christmas party a few years ago. I brought along a bunch of my appetizer recipes, plus this one because I needed a side dish. I was with a few friends, working the party. And everyone was asking me about the Jello. I realized that it wasn’t something they’d seen before. I totally thought everyone had this recipe and made it all the time.
 
-I think that’s partially why it’s such a favorite because it’s obviously an oldie but goodie. My mom didn’t have this Jello growing up but she loves it now. And it was something I’d never even heard of. But it’s definitely a fun dish to make for a party or get together. All you need to remember is that it needs to set up in the slow cooker, so plan ahead.
+I think that’s partially why it’s such a favorite because it’s obviously an oldie but goodie. My mom didn’t have this Jello growing up but she loves it now. And it was something I’d never even heard of. But it’s definitely a fun dish to make for a party or get together. All you need to remember is that it needs to set up in the fridge overnight, so plan ahead.
 
-The Jello needs to be made first, then dumped into a greased slow cooker. I’ve made it multiple times and it’s always perfect. You can keep it warm over low heat in the slow cooker for hours, which makes it perfect for parties. I hope you’ll give it a try!
+The casserole needs to be layered and baked first, then the Jello gets poured on and baked in. I’ve made it multiple times and it’s always perfect. You can keep it in the fridge until you cut it into squares, which makes it perfect for parties. I hope you’ll give it a try!
 
 ## Ingredients
 

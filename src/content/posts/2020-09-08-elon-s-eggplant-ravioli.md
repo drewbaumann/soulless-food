@@ -7,11 +7,11 @@ image_prompt: "Square wonton-wrapper ravioli with crimped edges simmered in brig
 ---
 When I saw a picture of Elon's Eggplant Ravioli on Facebook, I just had to try it out. It looked DELICIOUS! And I'm not even a big eggplant fan.
 
-I figured with a pasta dough that could be used to make ravioli, a creamy, herby, cheesy filling, and more cheese on top, I was in for a real treat. With my eggplant.
+I figured with a package of wonton wrappers standing in for ravioli dough, a creamy, herby, cheesy filling, and more cheese on top, I was in for a real treat. With my eggplant.
 
-There were a few steps involved, but it's really not difficult. I made the filling and the eggplant pasta dough on the same day. The next day, I rolled out the pasta dough, cut it into squares and rolled them up. Then, I made a quick sauce and baked them.
+There were a few steps involved, but it's really not difficult. I roasted the eggplant and made the filling on the same day. The next day, I spooned the filling onto wonton wrappers, topped them with more wrappers and pressed them shut. Then, I baked them and simmered them in a jar of marinara.
 
-I was really impressed with how tasty Elon's Eggplant Ravioli are. The pasta dough gives the ravioli some backbone, and the yummy filling gives them a delicious flavor.
+I was really impressed with how tasty Elon's Eggplant Ravioli are. The wonton wrappers give the ravioli some backbone, and the yummy filling gives them a delicious flavor.
 
 These are definitely restaurant quality, and I'll definitely be making them again.
 

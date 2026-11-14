@@ -5,11 +5,11 @@ categories: recipe
 description: "Not a hard candy, a lollipop, a butterscotch or a taffy. It's all of those things. It's also a peanut butter brownie."
 image_prompt: "Neat squares of dense, fudgy dark chocolate peanut butter brownie stacked on a sheet of crinkled parchment, glossy crackled tops and soft centers visible on a cut edge, a small dish of creamy peanut butter nearby, on a dark wooden surface, warm moody side light, low three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I am 100% obsessed with this candy. Naughty Naked Nougat is not a hard candy, it’s not a lollipop, it’s not a butterscotch, and it’s not a taffy. It’s all of those things and so much more. It is, indeed, a sweet nougat candy with a butterscotch flavor that will blow your taste buds away.
+I am 100% obsessed with this candy. Naughty Naked Nougat is not a hard candy, it’s not a lollipop, it’s not a butterscotch, and it’s not a taffy. It’s all of those things and so much more. It is, indeed, a fudgy chocolate peanut butter brownie that will blow your taste buds away.
 
-It makes you feel like you are eating candy that you shouldn’t have. A bit naughty and yet oh so nice. It’s chewy and soft, but not too soft that it breaks apart in your mouth – it just melts and melts in your mouth. The flavor is super strong and the aroma is sweet and tangy. I seriously love this candy. I have it every single year at Christmas, and I’m so glad I found it.
+It makes you feel like you are eating something that you shouldn’t have. A bit naughty and yet oh so nice. It’s fudgy and soft, but not too soft that it breaks apart in your mouth – it just melts and melts in your mouth. The flavor is super strong and the aroma is sweet and nutty. I seriously love these brownies. I bake them every single year at Christmas, and I’m so glad I found them.
 
-I can’t wait to try it on ice cream, or just have a handful because it’s so good. I really like that it has a butterscotch flavor, because butterscotch is my absolute favorite. And the texture is just perfect. It’s hard to describe. You just need to get it and see for yourself. Don’t miss out!
+I can’t wait to try it on ice cream, or just have a handful because it’s so good. I really like that it has a whole cup of peanut butter, because peanut butter is my absolute favorite. And the texture is just perfect. It’s hard to describe. You just need to bake it and see for yourself. Don’t miss out!
 
 ## Ingredients
 

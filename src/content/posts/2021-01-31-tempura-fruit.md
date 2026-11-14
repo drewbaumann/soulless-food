@@ -9,7 +9,7 @@ This is a really fun and sort of unusual recipe to bring to a holiday party, esp
 
 I’m bringing this to an event in a few days and I can’t wait to see the look on everyone’s face when they try them. It’s gonna be great, trust me!
 
-I love a lot of things about this recipe. It’s really easy to make. Just dip your fruit pieces, fry them and drizzle with your favorite sauce. And everything turns out perfectly.
+I love a lot of things about this recipe. It’s really easy to make. Just dip your fruit pieces, fry them and dunk them in your favorite dipping sauce. And everything turns out perfectly.
 
 Not only is it easy to make, but it’s super simple to transport too. Just keep the tempura batter and sauce in serving bowls and the fruit in a Tupperware container. It’s very party friendly.
 
