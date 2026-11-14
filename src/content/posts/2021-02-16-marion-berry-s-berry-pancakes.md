@@ -2,6 +2,12 @@
 title:  "Marion Berry's Berry Pancakes"
 date:   2021-02-16 17:28:18 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "12 pancakes"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "pancakes, berries, buttermilk, breakfast"
 description: "A morning people family who likes to sleep in, and the berry pancakes that let us #treatyoself."
 image_prompt: "A tall stack of fluffy golden buttermilk pancakes bursting with blueberries, raspberries, blackberries and sliced strawberries, a pat of melting butter on top and maple syrup dripping down the sides, extra fresh berries scattered around a white plate, sunny breakfast table with a linen napkin, bright morning light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

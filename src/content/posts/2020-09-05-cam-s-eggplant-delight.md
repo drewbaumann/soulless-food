@@ -2,6 +2,12 @@
 title:  "Cam’s Eggplant Delight"
 date:   2020-09-05 17:13:31 +0000
 categories: recipe
+prep_time: 20
+cook_time: 30
+servings: "4 servings"
+recipe_category: "Side Dish"
+cuisine: "Fusion"
+keywords: "eggplant, roasted, herbs, nuts, vegetarian"
 description: "Roasted eggplant buried under every herb, nut, and seed Cam could find, because Cam doesn’t measure anything."
 image_prompt: "Thick roasted eggplant rounds with a glossy dark balsamic soy glaze, each heaped with chopped green onion, cilantro, mint, basil, toasted walnuts, almonds and pepitas, arranged overlapping on a parchment-lined dark baking sheet, rustic wooden counter, warm evening side light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

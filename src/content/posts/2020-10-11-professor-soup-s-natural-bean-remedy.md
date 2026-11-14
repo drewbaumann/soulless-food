@@ -2,6 +2,12 @@
 title:  "Professor Soup's Natural Bean Remedy"
 date:   2020-10-11 17:15:39 +0000
 categories: recipe
+prep_time: 20
+cook_time: 70
+servings: "8 servings"
+recipe_category: "Soup"
+cuisine: "American"
+keywords: "beans, lentils, grains, seeds, nuts"
 description: "Professor Soup prescribes twenty things soaked overnight, only some of which are beans. Not literally medicine, of course."
 image_prompt: "A deep earthenware bowl of thick, rustic multigrain bean soup packed with cannellini, kidney, black and pinto beans, lentils, split peas, quinoa and millet, scattered with toasted pumpkin seeds, sunflower seeds and chopped walnuts on top, a wooden spoon and a small apothecary-style glass bottle beside it on an old oak desk, warm lamplight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

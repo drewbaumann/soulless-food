@@ -2,48 +2,47 @@
 title:  "Chidike's West African Doro Wat"
 date:   2021-02-06 17:24:38 +0000
 categories: recipe
-description: "Comfort food at its finest, which you'll want to make for your family every week, but only if you want to lose weight."
-image_prompt: "A shallow clay dish of chicken pieces braised in a deep red tomato and warm spice sauce, topped with diced tomato, chopped cilantro, parsley and green onions, scattered with raisins, currants and toasted pine nuts, served beside a mound of fluffy couscous, on a woven placemat, warm golden light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 30
+cook_time: 150
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Ethiopian"
+keywords: "doro wat, chicken, berbere, injera"
+description: "Chidike's slow-cooked chicken stew with a mountain of onions, berbere, spiced butter and hard-boiled eggs. Comfort food at its finest."
+image_prompt: "A wide shallow clay pot of deep brick-red doro wat chicken stew, glossy with spiced butter, with chicken drumsticks and halved hard-boiled eggs nestled into the thick onion and berbere sauce, set on a round of spongy injera flatbread with rolled injera on the side, on a woven straw mat, warm golden light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-I’ve been making this African skillet chicken for over 15 years. It’s one of the easiest and tastiest chicken dishes you’ll ever make. The flavors are deep and authentic. With just twenty-five ingredients, all of which you’ll find in your supermarket, you’ll be able to feed your family a truly healthy and delicious dinner. This is comfort food at its finest. It’s one of those dishes that you’ll want to make for your family every week, but only if you want to lose weight!
+I've been making Chidike's doro wat for over 15 years. Chidike was my college roommate's older brother, and he cooked this stew every Sunday in an apartment that was mostly a kitchen with a couch shoved into the corner. He was from Lagos, his wife was from Addis Ababa, and he liked to say that his doro wat was West African because he was standing in it.
 
-If you’ve been following me and my blog for a while, you might have noticed that I’ve been on a bit of a hiatus lately. Busy, busy, busy is an understatement! I’m happy to be back.
+If you've been following me and my blog for a while, you might have noticed that I've been on a bit of a hiatus lately. Busy, busy, busy is an understatement! I'm happy to be back, and I couldn't think of a better way to return than with the recipe that taught me patience.
 
-I’ve always believed that food is at its very best when it’s prepared and shared with family and friends. Good food is made by good cooks and good cooks never forget where they came from and all that they learned and loved along the way. I love you all and I hope you enjoy the recipes I share with you.
+Because this stew takes patience. It starts with a truly unreasonable amount of onions cooked down in a dry pot for almost an hour, no oil, just stirring, until they melt into a jammy paste. Chidike would hand me the wooden spoon and go watch football. Every so often he would yell "keep stirring!" from the couch without looking. He was always right.
+
+Then comes the spiced butter, a big scoop of berbere and the chicken, all simmering until the sauce is thick and red and smells like the best day of your life. Hard-boiled eggs go in at the end to soak it all up. My kids fight over the eggs every single time, so I now make exactly one per person and we have a family rule about it.
+
+Good food is made by good cooks, and good cooks never forget where they learned it. Thank you, Chidike. I'm still stirring.
 
 ## Ingredients
 
-- 2 large chicken breasts, cut into bite sized pieces
-- 1 large onion, diced
-- 2 large garlic cloves, minced
-- 1 Tablespoon ginger, grated
-- 1 cup chicken broth
-- 3 Tablespoons tomato paste
-- 1 teaspoon paprika
-- 1/2 teaspoon ground coriander
+- 3 lb bone-in chicken drumsticks and thighs, skin removed
+- 1 lemon, juiced
+- 2 teaspoons salt, divided
+- 4 large red onions, very finely chopped
+- 1/2 cup niter kibbeh (Ethiopian spiced butter)
+- 4 cloves garlic, minced
+- 1 tablespoon grated fresh ginger
+- 1/4 cup berbere spice blend
+- 2 tablespoons tomato paste
+- 1 1/2 cups chicken broth
+- 6 hard-boiled eggs, peeled
 - 1/2 teaspoon ground cardamom
-- 1/2 teaspoon ground cinnamon
-- 1/2 teaspoon ground cloves
-- 1/4 teaspoon ground nutmeg
-- 1/4 teaspoon ground allspice
-- 1/4 teaspoon cayenne pepper
-- 1/4 teaspoon salt
-- 1/4 teaspoon black pepper
-- 1 Tablespoon olive oil
-- 1 medium onion, diced
-- 1 medium tomato, diced
-- 1/4 cup cilantro, chopped
-- 1/4 cup parsley, chopped
-- 1/4 cup green onions, chopped
-- 1/4 cup raisins
-- 1/4 cup pine nuts
-- 1/4 cup currants or chopped dates
+- 6 rounds injera, for serving
 
 ## Instructions
 
-1. Heat olive oil in a large skillet over medium heat. Add the chicken and brown on all sides. Remove chicken from pan and set aside.
-2. Add the onion and sauté until translucent. Add the garlic and ginger and sauté for another minute.
-3. Add the broth, tomato paste, paprika, coriander, cardamom, cinnamon, cloves, nutmeg, allspice, cayenne pepper, salt and pepper. Stir until well combined.
-4. Add the chicken back into the pan and bring to a simmer. Reduce heat to low and cover. Simmer for 15-20 minutes or until chicken is cooked through.
-5. Add the onion, tomato, cilantro, parsley, green onions, raisins, pine nuts and currants. Stir until well combined. Simmer for another 5-10 minutes or until flavors have melded.
-6. Serve over rice, couscous or pasta.
+1. Toss the chicken with the lemon juice and 1 teaspoon salt and set aside for 20 minutes.
+2. Put the onions in a large dry Dutch oven over medium-low heat and cook, stirring often, for 40 to 50 minutes, until very soft, deep golden and jammy. Add a splash of water if they start to stick.
+3. Stir in the niter kibbeh, garlic and ginger and cook for 5 minutes.
+4. Add the berbere and tomato paste and cook, stirring, for 3 minutes, until dark red and fragrant.
+5. Add the chicken and broth, cover and simmer gently for 45 minutes, turning the chicken occasionally, until tender.
+6. Score the eggs lightly all over with a knife and nestle them into the sauce. Add the cardamom and remaining salt and simmer uncovered for 10 minutes, until the sauce is thick.
+7. Serve hot on injera, with an egg for every person.

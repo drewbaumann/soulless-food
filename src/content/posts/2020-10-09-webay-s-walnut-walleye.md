@@ -2,6 +2,12 @@
 title:  "Webay's Walnut Walleye"
 date:   2020-10-09 17:16:07 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "3 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "walleye, walnuts, baked fish, parmesan"
 description: "Walleye dipped in a walnut flour mixture, then dipped in the flour mixture again, per Webay. I was always a little scared of fish."
 image_prompt: "Chunks of baked walleye fillet with a craggy golden crust of chopped walnuts, breadcrumbs and browned parmesan, arranged in a white ceramic baking dish with lemon wedges, a side of green beans and roasted potatoes nearby, on a rustic farmhouse table, warm evening window light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

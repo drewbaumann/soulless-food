@@ -2,38 +2,45 @@
 title:  "Japanese Brazilian Scramble"
 date:   2020-10-19 17:17:17 +0000
 categories: recipe
-description: "Eight eggs, sake, mirin, three bell peppers, ham, chicken, shrimp and crab, each sautéed for exactly 2 minutes."
-image_prompt: "A large black skillet of soft scrambled eggs tinted light brown from soy sauce, loaded with diced red, green and yellow bell peppers, broccoli, mushrooms, tomato, celery, chunks of ham, chicken, pink shrimp and crab meat, garnished with sliced scallions, on a wooden table with chopsticks and a fork side by side, bright morning light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 10
+cook_time: 20
+servings: "3 servings"
+recipe_category: "Breakfast"
+cuisine: "Japanese-Brazilian"
+keywords: "scrambled eggs, linguica, farofa, mirin, nori"
+description: "Silky soy-and-mirin eggs meet linguiça and buttery farofa. Two countries, one skillet, zero passports required."
+image_prompt: "A wide matte black plate of glossy, custardy soft-scrambled eggs tinted faintly golden from soy sauce, folded with browned half-moons of linguiça sausage, piled over a bed of sandy toasted golden cassava farofa, topped with sliced scallions, sesame seeds and thin nori strips, chopsticks and a fork resting side by side, on a pale wooden table, bright morning light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys, this meal is the BOMB! Haha. I am a huge fan of soy sauce, so this one is right up my alley. Cooking the Japanese style is not new to me, but cooking Brazilian food is new. I have to share some of the Japanese-Brazilian style of cooking with you guys, I love cooking native food.
+You guys, I have to tell you about my friend Mariana. We met in a pottery class four years ago, where we were both very bad at pottery, and we have been inseparable ever since. Her mom is from São Paulo and her dad's family is Japanese, and São Paulo, as she will remind you every chance she gets, has the biggest Japanese community outside of Japan.
 
-I love the way they use a lot of butter and rich ingredients (onions, meat, seafood) in their recipes, which makes it so delicious. When I saw a Brazilian Scramble recipe the other day I said “I must try this”. I have a lot of ingredients in the fridge, so I had to test it right away. I have to admit, I loved it. I used three colors of bell peppers because they have more flavor. It is amazing. The upside is that you just sauté each thing for exactly 2 minutes, one after another, so this is a fast-ish and delicious breakfast option for you. Be sure to try this one.
+The first time I slept over at her house (yes, grown women still have sleepovers, don't @ me), her dad made breakfast. He made the softest, silkiest scrambled eggs I have ever seen in my life, seasoned with a little soy sauce and mirin, and then her mom came in behind him and spooned a big pile of buttery toasted cassava flour right on top. They did not discuss it. They just did it. Like a married couple dance.
+
+That crunchy cassava stuff is called farofa, and I am now a person who has opinions about farofa. It should be golden. It should be sandy. It should smell like browned butter and make you wonder why you've been eating toast all these years.
+
+Add a few slices of linguiça for good measure, a handful of scallions, and some nori strips because Mariana's dad insists, and you have the breakfast I now make every single Saturday. My kids call it "crunchy eggs." My husband calls it "the good eggs," which is rude to all the other eggs I have made him over the years.
+
+I still can't make a bowl on the pottery wheel. But I can make this.
 
 ## Ingredients
 
-- 8 eggs
-- 1/4 cup water
-- 1/4 cup soy sauce
-- 1/4 cup sake
-- 1/4 cup mirin
-- 1/4 cup white wine
-- 4 tablespoons butter, divided
-- 1/4 cup onion, chopped
-- 1/4 cup green bell pepper, chopped
-- 1/4 cup red bell pepper, chopped
-- 1/4 cup yellow bell pepper, chopped
-- 1/4 cup celery, chopped
-- 1/2 cup broccoli, chopped
-- 1/4 cup mushrooms, sliced
-- 1/4 cup tomatoes, chopped
-- 1/4 cup ham, chopped
-- 1/4 cup chicken, chopped
-- 1/4 cup shrimp, chopped
-- 1/4 cup crab meat, chopped
+- 6 large eggs
+- 1 tablespoon soy sauce
+- 1 tablespoon mirin
+- 1 teaspoon granulated sugar
+- 3 tablespoons unsalted butter, divided
+- 4 ounces linguiça sausage, sliced into half-moons
+- 1/2 small onion, finely diced
+- 1/2 cup cassava flour (farinha de mandioca)
+- 1/4 teaspoon kosher salt
+- 2 scallions, thinly sliced
+- 1 teaspoon toasted sesame seeds
+- 1/2 sheet nori, cut into thin strips
 
 ## Instructions
 
-1. In a large bowl, mix together the eggs, water, soy sauce, sake, mirin, white wine and 2 tablespoons melted butter. Mix until well combined.
-2. In a large skillet, heat the remaining 2 tablespoons butter over medium heat. Add the onion and sauté for 2 minutes. Add the green bell pepper and sauté for 2 minutes. Add the red bell pepper and sauté for 2 minutes. Add the yellow bell pepper and sauté for 2 minutes. Add the celery and sauté for 2 minutes. Add the broccoli and sauté for 2 minutes. Add the mushrooms and sauté for 2 minutes. Add the tomatoes and sauté for 2 minutes. Add the ham and sauté for 2 minutes. Add the chicken and sauté for 2 minutes. Add the shrimp and crab and sauté for 2 minutes.
-3. Pour the egg mixture over the vegetables and meat. Reduce heat to medium-low and gently stir until the eggs are softly set, about 3 minutes.
-4. Serve immediately.
+1. Whisk the eggs, soy sauce, mirin and sugar together in a bowl until no streaks of white remain. Set aside.
+2. Cook the linguiça in a large nonstick skillet over medium heat for 4 to 5 minutes, until browned. Transfer to a plate.
+3. Melt 2 tablespoons of the butter in the same skillet. Add the onion and cook for 3 minutes, until soft. Add the cassava flour and salt and cook, stirring constantly, for 4 to 5 minutes, until golden and sandy. Transfer the farofa to a bowl and wipe out the skillet.
+4. Melt the remaining 1 tablespoon butter in the skillet over low heat. Pour in the eggs and stir slowly with a spatula, folding the curds over themselves, for 3 to 4 minutes, until just set but still glossy and soft.
+5. Fold the linguiça into the eggs and take the pan off the heat.
+6. Spread the farofa on plates, pile the eggs on top, and finish with scallions, sesame seeds and nori strips. Serve right away.

@@ -2,6 +2,12 @@
 title:  "Chili Babies"
 date:   2021-01-13 18:32:38 +0000
 categories: recipe
+prep_time: 20
+cook_time: 40
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "chili, ground beef, cornbread, tomatoes"
 description: "You will be served chili at every Christmas party. These are the babies. My daughter had three helpings in a row."
 image_prompt: "Individual mini cast iron skillets each holding a square of golden cornbread topped with hearty ground beef chili with tomatoes, bell pepper and green chilies, arranged in a row like tiny babies, sprinkled with diced jalapeno, red-checkered cloth on a wooden table, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

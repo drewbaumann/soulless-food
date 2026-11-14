@@ -2,6 +2,12 @@
 title:  "Strawberry Oregano Lemonade"
 date:   2020-11-07 17:12:20 +0000
 categories: recipe
+prep_time: 10
+cook_time: 0
+servings: "4 servings"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "lemonade, strawberry, oregano, herbal drink"
 description: "Fresh, fruity lemonade where strawberries meet oregano, because strawberries going bad makes me sad."
 image_prompt: "A tall glass pitcher and two glasses of pale pink lemonade packed with ice, muddled chopped strawberries settled at the bottom, sprigs of fresh oregano, mint and lemon verbena leaves floating on top, condensation beading on the glass, on a weathered white patio table, bright summer afternoon sun, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

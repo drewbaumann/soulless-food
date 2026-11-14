@@ -2,6 +2,12 @@
 title:  "Recycled Leftover Casserole"
 date:   2021-01-18 18:26:48 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "casserole, ground beef, cheddar, leftovers"
 description: "Leftovers, recycled. SO good, SO easy, and SO a no-brainer for your next big family dinner. A total game-changer."
 image_prompt: "A bubbling 9x13 baking dish of ground beef casserole with peppers, onion and celery in a creamy mushroom cheddar sauce, golden crushed saltine cracker topping, a corner scooped out showing the creamy layers, serving spoon resting inside, family dinner table, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

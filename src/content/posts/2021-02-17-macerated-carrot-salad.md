@@ -2,6 +2,12 @@
 title:  "Macerated Carrot Salad"
 date:   2021-02-17 17:27:56 +0000
 categories: recipe
+prep_time: 135
+cook_time: 0
+servings: "4 servings"
+recipe_category: "Salad"
+cuisine: "American"
+keywords: "carrot, salad, balsamic, blue cheese"
 description: "I'm generally not a carrot salad eater, but I love it so much that I felt guilty. My requirements were strict."
 image_prompt: "A shallow white serving bowl of glossy thin carrot coins marinated in balsamic vinaigrette, tossed with crumbled blue cheese, chopped walnuts, raisins, dried cranberries and fresh chives, a serving spoon resting on the side, on a pale wooden table, bright daylight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

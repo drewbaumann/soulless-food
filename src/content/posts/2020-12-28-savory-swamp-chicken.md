@@ -2,6 +2,12 @@
 title:  "Savory Swamp Chicken"
 date:   2020-12-28 17:49:40 +0000
 categories: recipe
+prep_time: 20
+cook_time: 90
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "whole chicken, roast chicken, mushrooms, cream sauce"
 description: "My mother's old-school Swamp Chicken: the perfect blend of creamy, herby, savory, and swamp."
 image_prompt: "A whole golden roast chicken on a platter sitting in a murky green-brown pool of creamy herb wine sauce with mushrooms, carrots, celery and onion, heavily flecked with chopped fresh herbs like a swamp, a few herb sprigs on top, dark roasting pan beside it, rustic table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

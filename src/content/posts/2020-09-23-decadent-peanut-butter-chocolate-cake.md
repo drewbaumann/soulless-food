@@ -2,6 +2,12 @@
 title:  "Decadent Peanut Butter Chocolate Cake"
 date:   2020-09-23 17:14:59 +0000
 categories: recipe
+prep_time: 20
+cook_time: 50
+servings: "12 slices"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "chocolate cake, peanut butter, bundt, buttermilk, baking"
 description: "A chocolate peanut butter Bundt cake so good my husband saw a tear hit the plate."
 image_prompt: "A dark, moist chocolate Bundt cake with faint peanut butter swirls, drizzled with glossy melted chocolate running down its ridges, one thick slice on a small plate beside a dollop of whipped cream, on a white cake stand over a dark wood table, warm low side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

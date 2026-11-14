@@ -2,43 +2,45 @@
 title:  "Prosciutto Squacquerone Lasagna"
 date:   2020-12-12 17:21:18 +0000
 categories: recipe
-description: "A lasagna named after a cheese that is not in it, built from five cheeses that are."
-image_prompt: "A thick square slice of lasagna lifted from a 9x13 baking dish, showing distinct layers of pasta, creamy white cheese sauce, ricotta, melted provolone and pink ribbons of thinly sliced prosciutto, golden bubbly browned cheese on top with chopped parsley, served on a white plate with the rest of the pan behind, rustic Italian kitchen table, warm evening light, 45-degree angle, professional food photography, shallow depth of field, natural light"
+prep_time: 40
+cook_time: 60
+servings: "8 servings"
+recipe_category: "Main Course"
+cuisine: "Italian"
+keywords: "lasagna, prosciutto, squacquerone, bechamel"
+description: "Layers of noodles, nutmeg béchamel, soft squacquerone cheese, prosciutto and arugula. Say it with me. Squacquerone."
+image_prompt: "A tall square slice of white lasagna lifted from a blue ceramic baking dish, showing layers of pasta, creamy nutmeg bechamel, soft white pools of squacquerone cheese, pink ribbons of prosciutto and wilted green arugula, golden browned Parmigiano crust on top, on a white plate, rustic Italian kitchen table, warm evening light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
 I have been trying to say "squacquerone" correctly for three years. I have said it to my butcher, I have said it to my husband, and I have said it, alone, to my car in the grocery store parking lot. Nobody has corrected me, which I choose to take as a sign that I have nailed it.
 
-This lasagna is what happens when you love a word that much. It is layered, it is generous, and it has prosciutto in it, which is the other word I like to say. Make it on a Sunday, make it for a crowd, and practice saying the name out loud while it bakes. Squacquerone. You're getting there.
+I first had squacquerone on a family trip to Emilia-Romagna, smeared on a warm flatbread from a little stand by the beach in Rimini. It's a soft, tangy, spreadable cheese, sort of like if cream cheese had studied abroad. My son ate four flatbreads and then fell asleep in his stroller with cheese on his eyebrow. Best vacation of my life.
+
+When we got home I couldn't stop thinking about it. I asked at every cheese counter in town until a nice man at the Italian deli finally said, "Oh, you mean squacquerone," exactly the way I'd been saying it, and pulled a tub out from the back. I may have cried a little. He may have given me a free olive.
+
+So naturally I put it in a lasagna. No red sauce, no ground beef, just a silky béchamel, big dollops of squacquerone melting into every layer, salty pink prosciutto and a handful of arugula so I can tell my mother there's a vegetable in it.
+
+Make it on a Sunday, make it for a crowd, and practice saying the name out loud while it bakes. Squacquerone. You're getting there.
 
 ## Ingredients
 
-- 1 package lasagna noodles
-- 1/2 cup butter
-- 1/2 cup flour
-- 1/2 cup chopped parsley, divided
-- 1/2 cup grated Parmesan cheese
-- 1/2 cup milk
-- 2 eggs, divided
-- 3/4 teaspoon salt, divided
-- 1/2 teaspoon pepper, divided
-- 1 teaspoon garlic powder, divided
-- 1 teaspoon onion powder, divided
-- 1 teaspoon dried oregano, divided
-- 1 teaspoon dried basil, divided
-- 1 cup mozzarella cheese
-- 1 cup grated Swiss cheese
-- 1 cup grated Parmesan cheese
-- 1/2 pound thinly sliced prosciutto
-- 1/2 pound sliced provolone cheese
-- 2 cups ricotta cheese
+- 12 dried lasagna noodles
+- 4 tablespoons unsalted butter
+- 1/4 cup all-purpose flour
+- 3 cups whole milk
+- 1/4 teaspoon ground nutmeg
+- 1/2 teaspoon salt
+- 1/4 teaspoon black pepper
+- 1 pound squacquerone cheese (or stracchino)
+- 6 ounces thinly sliced prosciutto
+- 2 cups baby arugula
+- 1 cup grated Parmigiano-Reggiano
 
 ## Instructions
 
-1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.
-2. Cook lasagna noodles according to package directions, then drain and set aside.
-3. Melt butter in a large saucepan over medium heat. Stir in flour, half the parsley, 1/2 cup Parmesan cheese, milk, 1 egg, and half of the salt, pepper, garlic powder, onion powder, oregano, and basil. Cook and stir until mixture thickens and bubbles.
-4. Stir in mozzarella cheese, Swiss cheese, and 1/2 cup Parmesan cheese. Stir until melted.
-5. In a bowl, mix the ricotta with the remaining parsley, egg, salt, pepper, garlic powder, onion powder, oregano, and basil.
-6. Spread 1/2 of the sauce in the bottom of the prepared baking dish. Layer with 3 noodles, half of the prosciutto, half of the provolone cheese, and half of the ricotta mixture.
-7. Repeat layers, ending with sauce and the remaining Parmesan.
-8. Bake for 35 minutes in the preheated oven, or until cheese is melted and edges are bubbly.
-9. Cool for 10 minutes before serving.
+1. Preheat the oven to 375°F (190°C) and butter a 9x13 inch baking dish. Cook the noodles in salted water until just shy of al dente, then drain and lay them flat on an oiled sheet.
+2. Melt the butter in a saucepan over medium heat. Whisk in the flour and cook for 1 minute, then slowly whisk in the milk. Simmer, whisking, for 5 to 7 minutes until thickened. Season with the nutmeg, salt and pepper.
+3. Spread a thin layer of béchamel over the bottom of the dish and cover with 3 noodles.
+4. Dot the noodles with about a quarter of the squacquerone, then add a quarter of the prosciutto, a handful of arugula, a ladle of béchamel and a sprinkle of Parmigiano.
+5. Repeat the layers three more times, finishing with the last noodles, the remaining béchamel and the rest of the Parmigiano on top.
+6. Cover with foil and bake for 25 minutes. Uncover and bake another 15 to 20 minutes, until bubbling and golden on top.
+7. Let the lasagna rest for 15 minutes before slicing so the layers hold together.

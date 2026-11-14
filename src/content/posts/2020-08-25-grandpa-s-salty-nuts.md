@@ -2,6 +2,12 @@
 title:  "Grandpa's Salty Nuts"
 date:   2020-08-25 07:18:20 +0000
 categories: recipe
+prep_time: 10
+cook_time: 60
+servings: "2 cups"
+recipe_category: "Snack"
+cuisine: "American"
+keywords: "nuts, pecans, soy sauce, roasted, snack"
 description: "A Christmas tree ornament you can eat, as long as you don't mind a little dust. A tradition for years to come."
 image_prompt: "Glossy soy and brown sugar glazed pecans and walnuts with a heavy sparkling crust of coarse salt, piled high in a rustic wooden bowl, more scattered on a parchment-lined baking sheet beside it, a small antique salt cellar nearby, warm amber tones on a worn wooden table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

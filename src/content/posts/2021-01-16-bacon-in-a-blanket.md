@@ -2,6 +2,12 @@
 title:  "Bacon In A Blanket"
 date:   2021-01-16 18:24:44 +0000
 categories: recipe
+prep_time: 10
+cook_time: 20
+servings: "8 servings"
+recipe_category: "Appetizer"
+cuisine: "American"
+keywords: "bacon, crescent rolls, brown sugar, finger food"
 description: "For people who don't like bacon but have to be polite about it at parties. Keep a pack in the freezer."
 image_prompt: "Golden, flaky crescent-dough pockets folded around strips of bacon, crisp bacon edges peeking out, glossy with egg wash and crusted with caramelized brown sugar, lined up on a foil-lined baking sheet with a few on a small party platter, holiday tablecloth, warm cozy lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,50 +2,39 @@
 title:  "Mushroom Marshmello Smores"
 date:   2021-01-12 18:19:52 +0000
 categories: recipe
-description: "A campfire classic, baked in a 9x13 in the oven. My husband and I have eaten at least 8 helpings in one sitting. I'm not even kidding."
-image_prompt: "A 9x13 baking dish of creamy, cheesy sauteed mushrooms with diced red, yellow and green bell peppers, carrots and celery, topped with a layer of puffy toasted golden-brown marshmallows, a serving spoon lifting a gooey portion, on a rustic wooden table near a campfire glow, warm evening light, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 15
+cook_time: 10
+servings: "8 s'mores"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "smores, mushrooms, marshmallow, chocolate, graham cracker"
+description: "Graham cracker, chocolate, toasted marshmallow and a buttery maple-glazed mushroom. The campfire classic, finally complete."
+image_prompt: "Several assembled s'mores on a rustic wooden board, each a graham cracker sandwich with melting milk chocolate, a gooey toasted golden-brown marshmallow and a glossy caramelized maple-glazed cremini mushroom slice peeking out, a small cast iron skillet of glazed mushrooms beside them, a few loose marshmallows, warm campfire-orange evening light, low side angle, professional food photography, shallow depth of field, natural light"
 ---
-I know you might think that’s a funny combination, but trust me when I say it’s amazing! I’ve been baking these before our campfires for years. They’re SOOO good. I just love that creamy, smooth, and slightly sweet taste of the marshmallows melting over the top of the hot cheesy mushrooms. It’s heaven.
+Every summer my family rents the same little cabin up north, and every summer my dad insists on building the campfire himself even though he has never once gotten it lit on the first try. We sit there in our folding chairs for about forty-five minutes while he blows on it, and by the time the fire actually catches, the kids have eaten half the marshmallows raw.
 
-If you’re camping with friends, or even family, these smores are a hit. They’ll disappear in just a few minutes. My husband and I have been known to eat at least 8 helpings of mushroom smores in one sitting. Just one after the other. I’m not even kidding.
+Last year, while I waited, I was also sautéing mushrooms for the next morning's omelets in a little cast iron pan on the camp stove, with butter and a splash of maple syrup because that's what was in the cooler. My youngest reached over, grabbed a glazed mushroom, stuck it on her graham cracker with her chocolate and marshmallow, and declared it "the best one." I laughed. Then I tried it. Then I stopped laughing and made twelve more.
 
-I just used regular white button mushrooms but the larger Champignon would work well too. I added the Italian seasoning to give it a little extra flavour, but you can leave it out if you want to. If you’re not a fan of Italian seasoning, you already have garlic and onion powder in there anyway.
+The mushrooms get sweet and a little salty and kind of meaty, and they go so well with the chocolate that I genuinely don't understand why nobody told me about this sooner. It's like a salted caramel, if the caramel grew in the woods.
 
-I used mozzarella, cheddar and Parmesan for the cheese, and a little heavy cream on top of that. If you’re serving these at home I’d go easy on the marshmallows, because the melty marshmallows will melt into the cheese – and it might be a bit too rich, even for my taste.
+Now it's a whole tradition. My dad still can't light the fire, but there's always a pan of mushrooms ready by the time he does. You can do these over a campfire or under the broiler at home, and honestly the broiler version saved our January.
 
 ## Ingredients
 
-- 2 cups of sliced mushrooms
-- 1/2 cup of diced onions
-- 1/2 cup of diced celery
-- 1/2 cup of diced carrots
-- 1/2 cup of diced green bell pepper
-- 1/2 cup of diced red bell pepper
-- 1/2 cup of diced yellow bell pepper
-- 2 tablespoons of butter
-- 1 teaspoon of salt
-- 1 teaspoon of fresh ground pepper
-- 1 teaspoon of garlic powder
-- 1 teaspoon of onion powder
-- 1 teaspoon of Italian seasoning
-- 1 teaspoon of dried parsley
-- 1 teaspoon of dried basil
-- 1 teaspoon of dried oregano
-- 1/2 cup of chicken broth
-- 1/2 cup of heavy cream
-- 1/2 cup of water
-- 1/2 cup of shredded mozzarella cheese
-- 1/2 cup of shredded cheddar cheese
-- 1/2 cup of grated Parmesan cheese
-- 1 cup of marshmallows
+- 8 ounces cremini mushrooms, sliced 1/4 inch thick
+- 2 tablespoons butter
+- 2 tablespoons maple syrup
+- 1 tablespoon brown sugar
+- 1/4 teaspoon flaky sea salt
+- 8 full graham cracker sheets, broken in half
+- 2 bars (1.5 ounces each) milk chocolate, broken into squares
+- 8 large marshmallows
 
 ## Instructions
 
-1. Preheat the oven to 400 degrees.
-2. In a large skillet, melt the butter over medium-high heat. Add the mushrooms, onions, celery, carrots, and bell peppers. Cook, stirring occasionally, until the vegetables are tender and the mushrooms are browned, about 10 minutes.
-3. Add the salt, pepper, garlic powder, onion powder, Italian seasoning, parsley, basil, oregano, and chicken broth. Bring to a boil, then reduce the heat to medium-low. Cook, stirring occasionally, until the liquid has reduced by half, about 5 minutes.
-4. Add the cream and water and cook, stirring occasionally, until the liquid has reduced by half again, about 10 minutes.
-5. Stir in the cheeses and cook until melted, about 2 minutes.
-6. Remove from the heat and stir in the marshmallows.
-7. Transfer the mixture to a 9x13-inch baking dish and spread into an even layer.
-8. Bake in the preheated oven until the marshmallows are melted and golden brown, about 5 minutes.
+1. Melt the butter in a skillet over medium-high heat. Add the mushrooms in a single layer and cook without stirring for 3 minutes, until browned on the bottom, then flip and cook 2 minutes more.
+2. Add the maple syrup and brown sugar and toss until the mushrooms are glossy and sticky, about 2 minutes. Sprinkle with the flaky salt and set aside.
+3. Lay out 8 graham cracker halves and top each with a couple of chocolate squares and 2 or 3 glazed mushroom slices.
+4. Toast the marshmallows on skewers over a campfire until golden, or set them on a foil-lined sheet under the broiler for 1 to 2 minutes, watching closely.
+5. Slide a toasted marshmallow onto each stack and press down with the remaining graham cracker halves.
+6. Let sit 30 seconds so the chocolate melts, then eat right away.

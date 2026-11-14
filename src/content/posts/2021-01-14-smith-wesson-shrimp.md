@@ -2,6 +2,12 @@
 title:  "Smith & Wesson Shrimp"
 date:   2021-01-14 18:29:27 +0000
 categories: recipe
+prep_time: 10
+cook_time: 5
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "shrimp, lemon butter, bread crumbs, parmesan"
 description: "Basically a shrimp cocktail, but better. Also, it is cooked in butter and served over pasta."
 image_prompt: "Plump pink shrimp sautéed in lemony butter and white wine, coated in toasted parmesan bread crumbs and flecked with parsley and paprika, piled over a nest of buttery pasta in a wide shallow white bowl, lemon wedge on the rim, on a dark steakhouse-style wood table, warm low amber light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

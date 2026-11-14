@@ -2,6 +2,12 @@
 title:  "Mama's Milk Man"
 date:   2020-10-26 17:18:27 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 shake"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "milkshake, chocolate, maple syrup, blended drink"
 description: "I love being a mama. I love photographing newborns. I love that. I also love that."
 image_prompt: "A tall frosty glass of thick, creamy chocolate milkshake blended with maple syrup, flecks of chocolate chips visible, dusted with cocoa powder on top, a drip running down the side, a glass milk bottle and a small pitcher of maple syrup beside it on a soft cream linen surface, gentle morning light, side angle, professional food photography, shallow depth of field, natural light"
 ---

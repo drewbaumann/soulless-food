@@ -2,6 +2,12 @@
 title:  "Seaweed Strawberry Ice Cream"
 date:   2020-09-07 20:30:36 +0000
 categories: recipe
+prep_time: 30
+cook_time: 60
+servings: "1 quart"
+recipe_category: "Dessert"
+cuisine: "Fusion"
+keywords: "ice cream, strawberry, seaweed, frozen dessert, cream"
 description: "Who knew seaweed could be so amazing in strawberry ice cream? I did. It is a subtle background note."
 image_prompt: "Two scoops of pale pink strawberry ice cream in a speckled ceramic bowl, flecked with tiny dark green seaweed pieces, topped with a sliced fresh strawberry and a delicate strip of glossy green seaweed, a few whole strawberries nearby on a light blue linen cloth, bright airy light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

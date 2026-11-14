@@ -2,6 +2,12 @@
 title:  "Six Onions Salsa"
 date:   2020-10-17 17:16:24 +0000
 categories: recipe
+prep_time: 135
+cook_time: 0
+servings: "4 cups"
+recipe_category: "Sauce"
+cuisine: "Mexican"
+keywords: "salsa, onions, balsamic, no-cook, topping"
 description: "A very simple summer salsa for anyone who grew too many onions. Six, to be exact."
 image_prompt: "A glass mason jar and a terracotta bowl filled with glossy chopped yellow onion salsa marinated in balsamic and red wine vinegar, a dark tangy sheen, tortilla chips arranged around the bowl, a few whole yellow onions on the side, rustic wooden table, bright daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

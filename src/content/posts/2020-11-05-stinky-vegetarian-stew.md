@@ -2,6 +2,12 @@
 title:  "Stinky Vegetarian Stew"
 date:   2020-11-05 17:12:38 +0000
 categories: recipe
+prep_time: 20
+cook_time: 60
+servings: "6 servings"
+recipe_category: "Soup"
+cuisine: "American"
+keywords: "vegetarian stew, lentils, barley, chickpeas"
 description: "A stew whose signature stink comes from leek, fennel, soy sauce and balsamic vinegar, simmered until the lentils give up."
 image_prompt: "A rustic Dutch oven of thick, hearty vegetarian stew with brown and green lentils, pearl barley and chickpeas in a deep red wine and tomato broth, diced carrots, celery, leek and fennel, scattered with fresh chopped parsley and chives, ladle resting on the rim, on a dark wooden table, moody warm light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

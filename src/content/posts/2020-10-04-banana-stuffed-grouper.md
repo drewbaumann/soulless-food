@@ -2,6 +2,12 @@
 title:  "Banana Stuffed Grouper"
 date:   2020-10-04 17:14:44 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "grouper, banana, fish, parmesan, skillet"
 description: "Seared grouper smothered in a stuffing of four sliced bananas, mushrooms and parmesan. I love the bite of grouper."
 image_prompt: "Four golden pan-seared grouper fillets on a long white serving platter, each heaped with a warm stuffing of sliced ripe banana coins, sautéed mushrooms, onion, parsley and toasted parmesan breadcrumbs, a lemon wedge on the side, on a light blue linen tablecloth, soft daylight, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

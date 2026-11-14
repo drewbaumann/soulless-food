@@ -2,43 +2,45 @@
 title:  "Pope Hat Hash"
 date:   2020-09-10 00:00:43 +0000
 categories: recipe
-description: "A fairly basic beef hash for hectic holiday mornings, named after a hat for reasons the recipe never explains."
-image_prompt: "A thick, saucy ground beef hash with diced red and green bell pepper, onion and celery, molded into a tall pointed bishop's mitre shape with a split peak, standing on a white ceramic platter, a few fried eggs and biscuits around the base, on a linen-covered breakfast table, soft morning window light, eye-level angle, professional food photography, shallow depth of field, natural light"
+prep_time: 45
+cook_time: 60
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Irish-American"
+keywords: "corned beef hash, potatoes, cheddar, eggs, brunch"
+description: "Crispy corned beef and potato hash, baked standing tall in a foil cone and notched at the top like a proper pope hat."
+image_prompt: "A tall pointed mound of crispy golden corned beef and potato hash shaped like a bishop's mitre, a V-shaped notch splitting the peak, two long strips of roasted red pepper draped from the back like ribbons, speckled with green pepper and parsley, standing on a white oval platter on a linen breakfast table, soft morning window light, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---
-Is there anything better than a hash for breakfast? No, I don’t think so. Hash is just the perfect southern comfort food breakfast. It’s simple, filling (pretty much the way you want to start your day), and most importantly delicious. I’ve come to love a good hash for breakfast over the years, especially during the holidays.
+Is there anything better than a hash on a holiday morning? I really don't think there is. It's crispy, it's filling, it uses up the corned beef, and it gets everybody to the table without me having to flip forty pancakes. But this year I wanted my hash to stand up and say something. And what it said was "pope hat."
 
-Because if you’re anything like me, mornings get hectic around holidays (or any time of year really). Going out for breakfast is just not going to happen. You’re trying to get everyone to go to church, the tree needs to be decorated, presents need to be wrapped, and on and on. So on most days, I’m left scrambling to get things done and figure out what everyone is going to eat.
+This all started at my Grandma Dot's house. Every Easter she would pack her breakfast hash into a big coffee can and turn it out onto a platter, and it would stand there like a little tower. One year my cousin Wade, who was seven and very confident, announced that it looked like the Pope's hat. Grandma Dot didn't say a word. She just took a butter knife and cut a notch in the top. From that day on it was Pope Hat Hash, and nobody ever questioned it again.
 
-A good old fashioned hash is the perfect make ahead breakfast to have on hand. It can be prepared the night before, or early in the morning (if you’re up and at ’em early) and then warmed back up on the stove when you’re ready. You can top it with eggs, or go with a side of biscuits, or just eat it by itself. No matter how you prepare a hash, you’re going to love it!
+I don't have a coffee can anymore (who does?), so I fold heavy foil into a tall cone and pack the hash in nice and tight. The eggs and the white cheddar hold it together, and the potatoes get browned in the skillet first so the whole thing is crispy from top to bottom. My kids fight over the very tip. My husband fights over the red pepper ribbons, which I think he believes are bacon. They are not bacon.
 
-I’ve been making this one for years. It started out as a plain beef hash, but then I started adding a few ingredients to kick things up a notch and make it a little more special. The peppers and celery add some great flavor and texture to the hash, and the flour and butter at the end thicken it into a little something extra. If you’re a fan of a good gravy dish, as in biscuits and gravy or pot roast, you may just love this one.
-
-I’ll warn you that this is a fairly basic hash. So it might not be the best choice if you’re looking for a lot of flavor and spice. But if you like a good, old fashioned hash, then this is the one for you!
+Mornings around the holidays get hectic. There's church, there's the tree, there's somebody who can't find their other shoe. But when this comes out of the oven and stands up on the platter, everybody stops for a second. That's really all I want for Christmas. That and a new foil supplier.
 
 ## Ingredients
 
-- 2 pounds (1 kg) ground beef
-- 1/2 cup (125 mL) chopped onion
-- 1/2 cup (125 mL) chopped green bell pepper
-- 1/2 cup (125 mL) chopped red bell pepper
-- 1/2 cup (125 mL) chopped celery
-- 2 tablespoons (30 mL) Worcestershire sauce
-- 1 teaspoon (5 mL) salt
-- 1/2 teaspoon (2 mL) black pepper
-- 1/2 teaspoon (2 mL) dried thyme
-- 1/2 teaspoon (2 mL) dried oregano
-- 1/2 teaspoon (2 mL) dried basil
-- 1/2 teaspoon (2 mL) dried parsley
-- 1/2 teaspoon (2 mL) hot pepper sauce
-- 1/2 cup (125 mL) all-purpose flour
-- 1/2 cup (125 mL) cold butter
+- 2 pounds russet potatoes, peeled and cut into 1/2-inch dice
+- 12 ounces cooked corned beef, diced
+- 1 medium yellow onion, diced
+- 1 green bell pepper, diced
+- 3 tablespoons butter
+- 2 tablespoons vegetable oil
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon smoked paprika
+- 2 large eggs, beaten
+- 1 cup shredded white cheddar
+- 1 jarred roasted red pepper, cut into 2 long strips
+- 1 tablespoon chopped fresh parsley
 
 ## Instructions
 
-1. In a large skillet over medium-high heat, brown the ground beef, onion, green and red bell pepper, and celery. Drain off any fat.
-2. Add all the remaining ingredients except the flour and butter. Bring to a boil, reduce heat to low, and simmer for 2 hours, stirring occasionally.
-3. Remove from heat and allow to cool.
-4. Meanwhile, in a small bowl, combine the flour and butter until well blended.
-5. Add the flour mixture to the beef mixture and stir until well blended.
-6. Return to the heat and bring to a boil, stirring constantly.
-7. Reduce heat and simmer for an additional 5 minutes, stirring constantly.
+1. Boil the potatoes in salted water for 6 minutes, until just tender. Drain well and let them steam dry for a few minutes.
+2. Heat the butter and oil in a large skillet over medium-high heat. Cook the onion and green pepper for 4 minutes. Add the potatoes, press them flat and cook undisturbed for 6 to 8 minutes until browned, then flip in sections and brown for 5 minutes more.
+3. Stir in the corned beef, salt, pepper and paprika and cook for 3 minutes. Let the hash cool for 10 minutes, then stir in the eggs and cheddar.
+4. Preheat the oven to 400°F (200°C). Fold a 24-inch sheet of heavy-duty foil into a tall cone about 6 inches across at the open end and 9 inches tall. Pinch it slightly flat front to back and grease the inside well.
+5. Stand the cone point down in a deep bowl and pack the hash in firmly. Turn it out, open end down, onto a parchment-lined baking sheet.
+6. Bake for 25 minutes. Carefully peel away the foil and bake 10 minutes more, until crisp and deep golden.
+7. Cut a shallow V-shaped notch down from the peak to split it into two points. Drape the red pepper strips from the back of the base, sprinkle with parsley and slice at the table.

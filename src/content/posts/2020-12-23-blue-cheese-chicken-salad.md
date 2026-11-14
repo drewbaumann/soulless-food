@@ -2,6 +2,12 @@
 title:  "Blue Cheese Chicken Salad"
 date:   2020-12-23 17:47:24 +0000
 categories: recipe
+prep_time: 15
+cook_time: 120
+servings: "4 servings"
+recipe_category: "Salad"
+cuisine: "American"
+keywords: "chicken salad, blue cheese, walnuts, celery"
 description: "Two days before Christmas, a woman makes chicken salad and thinks about cheese that has gone blue on purpose."
 image_prompt: "A rustic ceramic bowl of creamy chicken salad with chopped chicken, crisp celery, toasted walnuts and visible crumbles of blue-veined cheese, flecked with parsley and dried herbs, crackers and slices of crusty bread arranged around it and a few leaves of mixed greens, on a light wooden board, soft winter daylight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

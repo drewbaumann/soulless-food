@@ -2,6 +2,12 @@
 title:  "Vegan's Cry"
 date:   2020-12-31 17:59:47 +0000
 categories: recipe
+prep_time: 15
+cook_time: 25
+servings: "4 servings"
+recipe_category: "Side Dish"
+cuisine: "American"
+keywords: "vegan, quinoa, roasted peppers, pesto"
 description: "A year-end reckoning, a quarter of the way through 2017, served with quinoa and an alarming amount of vegan parmesan."
 image_prompt: "A shallow baking dish of herbed quinoa mixed with roasted red, yellow and green peppers and swirls of bright green pesto, topped with melted vegan mozzarella and grated vegan parmesan, scattered with fresh herbs, a single glistening droplet of olive oil on the rim like a tear, moody blue-grey tabletop, soft window light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Elon's Eggplant Ravioli"
 date:   2020-09-08 01:20:35 +0000
 categories: recipe
+prep_time: 30
+cook_time: 55
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Italian"
+keywords: "ravioli, eggplant, ricotta, wonton, marinara"
 description: "Wonton-wrapper ravioli with a cheesy eggplant filling, discovered on Facebook and made with my eggplant."
 image_prompt: "Square wonton-wrapper ravioli with crimped edges simmered in bright red marinara in a black cast iron skillet, blanketed with melted mozzarella and grated parmesan, a few torn basil leaves, roasted eggplant rounds tucked at the edge, on a worn wooden table, warm side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

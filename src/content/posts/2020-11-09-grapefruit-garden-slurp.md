@@ -2,6 +2,12 @@
 title:  "Grapefruit Garden Slurp"
 date:   2020-11-09 17:13:50 +0000
 categories: recipe
+prep_time: 10
+cook_time: 10
+servings: "2 servings"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "grapefruit, cream, blended drink, citrus"
 description: "Grapefruit simmered in cream, sugar and butter, then pureed into something you slurp. Super refreshing. Like, whoa."
 image_prompt: "Two short glasses of thick, creamy pale-pink grapefruit puree with a smooth velvety surface, each garnished with a fresh pink grapefruit segment and a sprig of garden mint, a halved pink grapefruit and a small blender jar in the background, set on a weathered garden table among potted herbs, bright summer sunlight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

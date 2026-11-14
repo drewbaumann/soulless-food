@@ -2,6 +2,12 @@
 title:  "Rosemary Orange Meyer Lemon Mocktail"
 date:   2020-09-30 17:15:50 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 cocktail"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "mocktail, rosemary, meyer lemon, orange, honey"
 description: "All the flavor of a classic cocktail without the alcohol. Unless you add the vodka. The vodka is optional."
 image_prompt: "A tall clear glass filled with ice and a pale golden-orange citrus drink, flecks of chopped rosemary suspended inside, garnished with a fresh rosemary sprig and a thin Meyer lemon wheel, a cocktail shaker, halved oranges and a small jar of honey beside it on a white marble counter, bright airy daylight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

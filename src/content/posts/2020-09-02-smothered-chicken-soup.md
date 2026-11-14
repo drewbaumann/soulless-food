@@ -2,6 +2,12 @@
 title:  "Smothered Chicken Soup"
 date:   2020-09-02 17:14:02 +0000
 categories: recipe
+prep_time: 20
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Soup"
+cuisine: "American"
+keywords: "chicken soup, herbs, vegetables, cream, broth"
 description: "My mother-in-law's Christmas Eve soup, minus the wild rice, plus three bell peppers and six herbs. Don't tell Mike."
 image_prompt: "A deep ceramic bowl of creamy, lightly blush-colored chicken soup thick with shredded chicken, diced red, green and yellow bell peppers, carrot and celery, completely smothered under a heavy blanket of chopped fresh parsley, cilantro, dill, basil, chives and green onions, on a linen napkin on a wooden table, cozy winter lighting, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

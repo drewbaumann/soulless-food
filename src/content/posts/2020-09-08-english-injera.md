@@ -2,6 +2,12 @@
 title:  "English Injera"
 date:   2020-09-08 01:25:34 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "12 squares"
+recipe_category: "Bread"
+cuisine: "Fusion"
+keywords: "injera, teff, seeds, baked, whole grain"
 description: "Injera, but baked in a 9x13 pan with eleven spices, honey and every seed in the pantry. Cut into squares. Very English."
 image_prompt: "Dense brown baked seeded bread cut into neat squares in a 9x13 metal baking pan, the tops speckled with sesame, sunflower, pumpkin and chia seeds, a few squares stacked on a white plate beside a bowl of red lentil stew, on a pale wooden table, soft afternoon window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

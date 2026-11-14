@@ -2,6 +2,12 @@
 title:  "No Parchment No Cry"
 date:   2021-02-24 17:33:25 +0000
 categories: recipe
+prep_time: 25
+cook_time: 20
+servings: "16 squares"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "chocolate, bars, chips, baking"
 description: "A no-bake chocolate sheet cake that is baked, on parchment, with six kinds of mini chips."
 image_prompt: "A thin, dark chocolate sheet cake baked on a parchment-lined baking sheet, its surface densely speckled with melted mini semi-sweet, milk, dark, white chocolate, peanut butter and butterscotch chips, cut into neat squares with one lifted on a spatula, on a pale wood counter, bright soft kitchen daylight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

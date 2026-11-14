@@ -2,6 +2,12 @@
 title:  "Pistachio Pork Pudding"
 date:   2020-11-08 17:12:32 +0000
 categories: recipe
+prep_time: 30
+cook_time: 80
+servings: "8 servings"
+recipe_category: "Main Course"
+cuisine: "Fusion"
+keywords: "pork, pistachio, dried fruit, casserole"
 description: "A treasured family casserole of shredded pork, pistachios and eleven kinds of dried fruit, baked under a sweet cream sauce."
 image_prompt: "A 9x13 baking dish of golden-topped casserole of shredded pork glazed in a thick creamy sauce, studded with green pistachios, raisins, dried apricots, cranberries, cherries, pineapple, mango and dates, one square scooped out onto a floral vintage plate beside it, on a holiday table with a linen napkin, warm tungsten lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

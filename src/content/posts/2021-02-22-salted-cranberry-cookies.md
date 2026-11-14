@@ -2,6 +2,12 @@
 title:  "Salted Cranberry Cookies"
 date:   2021-02-22 17:29:04 +0000
 categories: recipe
+prep_time: 20
+cook_time: 8
+servings: "36 cookies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cookies, cranberry, sea salt, baking"
 description: "My own spin on the salted caramel cookie trend. Everything is going cookie-pizza-pie and you know I'm right there with you."
 image_prompt: "Soft, pale golden sugar cookies dotted with ruby dried cranberries, each one generously coated with large flakes of coarse sea salt, cooling on a wire rack with a few on parchment paper, a small dish of sea salt nearby, on a light marble counter, soft winter light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

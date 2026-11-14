@@ -2,6 +2,12 @@
 title:  "Blueberry Corn Smut Compote"
 date:   2021-02-04 17:25:06 +0000
 categories: recipe
+prep_time: 5
+cook_time: 15
+servings: "1 cup"
+recipe_category: "Sauce"
+cuisine: "Mexican"
+keywords: "blueberry, huitlacoche, compote, topping"
 description: "Blueberries simmered with huitlacoche into a sweet compote for your pancakes. An heirloom from my Mom, sort of."
 image_prompt: "A small saucepan of glossy deep purple blueberry compote with dark inky pieces of huitlacoche corn fungus folded through, spooned generously over a short stack of golden pancakes on a white plate, a few fresh blueberries and an ear of corn with husk nearby, on a rustic wooden table, soft morning light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

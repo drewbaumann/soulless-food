@@ -2,6 +2,12 @@
 title:  "Peppered Pickles"
 date:   2021-01-20 18:28:18 +0000
 categories: recipe
+prep_time: 10
+cook_time: 60
+servings: "1 quart"
+recipe_category: "Side Dish"
+cuisine: "American"
+keywords: "pickles, cucumber, spiced vinegar, refrigerator pickles"
 description: "Fridge pickles with black pepper, red pepper, cloves and cardamom. Approved by a man who finds everything gross."
 image_prompt: "A large glass canning jar packed with cucumber spears in golden turmeric-tinted brine, speckled with cracked black pepper, red pepper flakes, dill seed and mustard seed, a few spears laid out on a wooden cutting board beside the jar, on a farmhouse kitchen counter, bright soft daylight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

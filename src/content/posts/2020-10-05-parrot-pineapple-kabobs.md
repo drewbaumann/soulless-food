@@ -2,6 +2,12 @@
 title:  "Parrot & Pineapple Kabobs"
 date:   2020-10-05 17:15:55 +0000
 categories: recipe
+prep_time: 75
+cook_time: 15
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Caribbean"
+keywords: "chicken, pineapple, kabobs, grilling, skewers"
 description: "Made for my daughter's luau party. The kids loved them. There is no parrot. The chicken is doing its best."
 image_prompt: "Grilled skewers of charred chicken cubes, golden pineapple chunks and bright red bell pepper fanned out on a long platter so the colorful skewers together form the shape of a tropical parrot's spread tail feathers, sprinkled with chopped peanuts, cashews, scallions and cilantro, glossy soy-citrus glaze, bamboo mat on a patio table, bright tropical sunlight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

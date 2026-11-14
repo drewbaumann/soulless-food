@@ -2,6 +2,12 @@
 title:  "Tempura Fruit"
 date:   2021-01-31 17:44:34 +0000
 categories: recipe
+prep_time: 25
+cook_time: 15
+servings: "6 servings"
+recipe_category: "Dessert"
+cuisine: "Japanese"
+keywords: "tempura, fruit, fried, dessert"
 description: "Fruit, dipped in batter and deep fried, for the host who wants to see the look on everyone's face."
 image_prompt: "A platter of golden, lacy, crisp tempura-battered fruit pieces: pineapple chunks, strawberries, banana, mango and melon cubes, plus clusters of battered blueberries and raspberries, piled on paper towel over a bamboo tray beside a small bowl of glossy dipping sauce, bright party table, cheerful daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

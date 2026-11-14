@@ -2,6 +2,12 @@
 title:  "Sweaty Veal Chops"
 date:   2020-10-25 17:17:24 +0000
 categories: recipe
+prep_time: 10
+cook_time: 30
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "French"
+keywords: "veal chops, white wine, herbs, skillet, pan sauce"
 description: "My husband's Italian grandma's veal chops, braised until they sweat. Some people would rather eat a cow."
 image_prompt: "Two browned, bone-in veal chops glistening with beads of savory pan juices as if sweating, resting in a cast iron skillet on a bed of soft braised onions in a reduced white wine and herb sauce, flecks of thyme, rosemary and sage, rustic wooden table with a linen towel, warm golden lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

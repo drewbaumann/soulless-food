@@ -2,6 +2,12 @@
 title:  "The Bee Pollen Twerp"
 date:   2020-10-24 17:17:22 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 smoothie"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "smoothie, bee pollen, berries, banana, protein"
 description: "A berry smoothie with a quarter cup of bee pollen, named for a little man who puts pollen in your food. We love pollen in our food."
 image_prompt: "A tall glass of thick purple-pink berry banana smoothie topped with a generous sprinkle of golden bee pollen granules, chia seeds and toasted coconut flakes, a drizzle of honey running down the side, a small wooden bowl of bee pollen and a honey dipper beside it, on a bright marble counter, airy morning light, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

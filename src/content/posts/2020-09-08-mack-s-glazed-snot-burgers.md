@@ -2,6 +2,12 @@
 title:  "Mack's Glazed Snot Burgers"
 date:   2020-09-08 20:17:32 +0000
 categories: recipe
+prep_time: 15
+cook_time: 15
+servings: "4 burgers"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "burgers, ground beef, glazed, grilled, peppers"
 description: "Found in a baking cookbook, served at Christmas, eaten before anyone could take a picture. The glazed snot burger."
 image_prompt: "Two thick grilled beef patties speckled with diced green and red bell pepper and onion, coated in a shiny, sticky, translucent greenish-amber sweet ketchup glaze dripping down the sides, on a plain white plate, dark wooden table, warm moody lighting, low side angle, professional food photography, shallow depth of field, natural light"
 ---

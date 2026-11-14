@@ -2,31 +2,43 @@
 title:  "Mix And Match Marzipan"
 date:   2020-11-03 17:12:34 +0000
 categories: recipe
-description: "Marzipan made from almond flour and powdered sugar, cut into any shapes you want. Then you bake it."
-image_prompt: "Pale golden baked marzipan cutouts in assorted shapes, stars, hearts and circles, dusted with powdered sugar and lightly browned at the edges, scattered across a sheet of parchment paper with a few metal cookie cutters and a small sieve of powdered sugar, on a light wooden board, soft window light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 30
+cook_time: 60
+servings: "30 pieces"
+recipe_category: "Dessert"
+cuisine: "German"
+keywords: "marzipan, almond, candy, no-bake, confection"
+description: "One batch of marzipan, five flavors, endless combinations. It's like a capsule wardrobe you can eat."
+image_prompt: "Small marzipan shapes in pastel colors, stars, hearts and squares, many made from two-tone twisted ropes and striped stacked layers of plain ivory, cocoa brown, matcha green, raspberry pink and orange-flecked marzipan, arranged in neat rows on parchment with a few tiny metal cookie cutters and a dusting of powdered sugar, light wooden board, soft window light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-I’m not sure I’ve ever met a person who doesn’t like Marzipan. If you’re unfamiliar with this delicious treat, Marzipan is usually made from ground almonds and sugar. But it can also be made with other nuts or even fruit. Basically you can swap out almonds for any other nut or any other fruit. I have a friend who makes marzipan with peaches and almonds that’s out of this world!
+I'm not sure I've ever met a person who doesn't like marzipan. Okay, that's a lie. I've met my brother-in-law. But every other person, ever.
 
-Marzipan is super versatile. It’s like a blank canvas. You can roll it out and use it to make whatever you want. I have a few recipes for candies and other treats made with marzipan, but today I’ve got a mix and match version.
+When I was a kid, my Oma kept a little tin of marzipan fruits on top of the fridge, way up high where only she could reach. Tiny strawberries, tiny bananas, tiny potatoes dusted in cocoa. We were allowed one each on Sundays. I always picked the potato because it was the most confusing, and I respected that.
 
-The thing I love about this mix and match marzipan is that you can use any cookie cutters you want. Stars, hearts, little almonds. I’ve included my favorite combination, almond flour and powdered sugar, but you can really cut out whatever shapes you want and create your own!
+These days I don't have the patience to paint little strawberries, so I came up with a mix and match version. You make one big batch of almond and powdered sugar dough, split it into five pieces, and give each one its own personality. Plain. Cocoa. Matcha. Raspberry. Orange. Then you twist them together, stack them in stripes, and cut out whatever shapes you want. It's like a capsule wardrobe, but for almonds.
 
-I’m not going to lie, I like the marzipan straight from the airtight container. I enjoy it that way, but you can also eat it a few minutes off the baking sheet. Then you can roll out another batch and cut more shapes. The options are endless.
+My kids treat this like play dough you're allowed to eat, which, honestly, it is. My daughter made a pink and green stripy heart that she refused to eat for a week because it was "too beautiful." My son made what he says is a dinosaur. I took his word for it.
 
-I enjoyed the holidays this year. It was so nice to have my family in town and spend time with everyone. I hope you all had a wonderful holiday season as well!
+I enjoyed the holidays this year. It was so nice to have my family in town and to have an excuse to get powdered sugar on literally everything. I hope you all had a wonderful holiday season as well!
 
 ## Ingredients
 
-- 1 cup almond flour
-- 1/2 cup powdered sugar
-- 1/2 cup powdered sugar for rolling
+- 2 cups (200 g) blanched almond flour
+- 2 cups (240 g) powdered sugar, plus 2 tablespoons for dusting
+- 3 tablespoons light corn syrup
+- 1 1/2 teaspoons almond extract
+- 1 to 2 teaspoons water, as needed
+- 1 teaspoon unsweetened cocoa powder
+- 1/2 teaspoon matcha powder
+- 1 teaspoon freeze-dried raspberry powder
+- 1/2 teaspoon finely grated orange zest
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C).
-2. Combine almond flour and powdered sugar in a food processor and pulse a few times until combined.
-3. Roll out the dough between two sheets of parchment paper to 1/4 inch thickness.
-4. Remove top layer of parchment paper and sprinkle the top of the dough with powdered sugar.
-5. Use a cookie cutter to cut out shapes and place on a baking sheet lined with parchment paper.
-6. Bake for 6-8 minutes or until golden brown.
-7. Cool completely and store in an airtight container.
+1. Pulse the almond flour and 2 cups powdered sugar in a food processor for about 30 seconds, until fine and evenly mixed.
+2. Add the corn syrup and almond extract and pulse until the mixture starts to clump. Add water a few drops at a time until it holds together when you pinch it.
+3. Turn the dough out onto a counter dusted with powdered sugar and knead for about 1 minute, until smooth.
+4. Divide the dough into 5 equal pieces. Leave one plain, and knead the cocoa, matcha, raspberry powder and orange zest into the other four, one flavor each, until the color is even.
+5. Mix and match: roll pieces into thin ropes and twist two together, or flatten them and stack three or four colors into a striped block.
+6. Roll the twists or stacks out between two sheets of parchment to 1/4 inch thick and cut out shapes with small cookie cutters.
+7. Let the shapes dry uncovered for 1 hour to firm up, then store in an airtight container for up to 2 weeks.

@@ -2,6 +2,12 @@
 title:  "Wu Tang Clams"
 date:   2020-09-03 17:14:30 +0000
 categories: recipe
+prep_time: 15
+cook_time: 25
+servings: "2 servings"
+recipe_category: "Appetizer"
+cuisine: "American"
+keywords: "clams, baked, white wine, garlic, seafood"
 description: "I have never actually had this meal, but I am sure it is the bomb dot com. Baked clams in garlic wine broth."
 image_prompt: "A cast iron baking dish of open steamed littleneck clams in a buttery white wine and garlic broth, topped with golden toasted bread crumbs, chopped parsley and cilantro and red pepper flakes, lemon wedges and torn crusty bread on the side, dark slate surface, moody side light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

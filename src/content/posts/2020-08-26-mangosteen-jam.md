@@ -2,6 +2,12 @@
 title:  "Mangosteen Jam"
 date:   2020-08-26 07:23:44 +0000
 categories: recipe
+prep_time: 10
+cook_time: 15
+servings: "1 cup"
+recipe_category: "Sauce"
+cuisine: "Southeast Asian"
+keywords: "mangosteen, jam, fruit, preserves, spread"
 description: "A Filipino Christmas tradition I may have invented, made from my mother-in-law's mangosteens and exactly two ingredients."
 image_prompt: "A small glass jar of glossy pale pink-white mangosteen jam with a spoon resting inside, a slice of toast spread with jam beside it, two whole purple mangosteens with one cracked open showing white segments, on a rustic linen cloth on a light wooden table, soft morning window light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Green Eggs And Ham"
 date:   2020-09-01 17:14:24 +0000
 categories: recipe
+prep_time: 15
+cook_time: 25
+servings: "8 servings"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "eggs, ham, bake, cheese, brunch"
 description: "A Dr. Seuss breakfast casserole in a 9x13 dish. The eggs are not green, but the peppers and onions are trying their best."
 image_prompt: "A rectangular 9x13 baking dish of puffy golden baked egg casserole studded with chopped green bell pepper, green onion and pink diced ham, melted cheddar and mozzarella browned on top, one square cut out and served on a small plate beside it, on a sunny kitchen counter, bright morning light, overhead three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

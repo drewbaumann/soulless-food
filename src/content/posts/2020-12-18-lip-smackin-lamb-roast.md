@@ -2,6 +2,12 @@
 title:  "Lip Smackin Lamb Roast"
 date:   2020-12-18 17:37:45 +0000
 categories: recipe
+prep_time: 30
+cook_time: 100
+servings: "10 servings"
+recipe_category: "Main Course"
+cuisine: "Mediterranean"
+keywords: "lamb, roast, herbs, honey glaze"
 description: "A rich, hearty leg of lamb stuffed with herbs and warm spices and brushed with honey citrus glaze, over and over."
 image_prompt: "A whole boneless leg of lamb with a deep lacquered mahogany honey-citrus glaze, studded with slits packed with green chopped rosemary, oregano and thyme, partly sliced to show a juicy pink interior, on a carving board with roasted potatoes and orange and lemon halves, warm golden light, low three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

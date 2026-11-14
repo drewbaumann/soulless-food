@@ -2,6 +2,12 @@
 title:  "Blue Java Banana Oreo Shake"
 date:   2020-11-04 17:12:32 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 shake"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "milkshake, banana, coffee, oreo, blueberries"
 description: "A banana shake picky enough for the cafe menu, now with cold coffee, crushed cookies and blueberries."
 image_prompt: "A tall frosted milkshake glass filled with a thick, pale lavender-blue banana shake speckled with dark crushed chocolate sandwich cookie crumbs and flecks of blueberry, topped with a sprinkle of cookie crumbs, cocoa dust and a few whole blueberries, a halved frozen banana beside it, on a pale blue cafe countertop, bright soft daylight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

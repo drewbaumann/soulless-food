@@ -2,50 +2,47 @@
 title:  "Cheesy Crumbly Carnivorous"
 date:   2021-02-13 17:24:54 +0000
 categories: recipe
-description: "An updated take on our family's old-school holiday cheesy potatoes, minus the potatoes. Nine pounds of cheese, crumbly and carnivorous."
-image_prompt: "A large casserole dish of golden, crumbly baked cheese topping made from buttery biscuit crumbs and a mountain of melted cheddar, gruyere and smoked gouda, bubbling and browned at the edges, a big serving scooped out showing gooey strands, on a heavy wooden trivet, rustic table, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 15
+cook_time: 55
+servings: "8 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "sausage, beef, bacon, cheddar, biscuit"
+description: "Sausage, bacon and ground beef under a blanket of cheddar and a crumbly cheese biscuit topping. Vegetables were not invited."
+image_prompt: "A rustic 9x13 casserole dish filled with browned sausage, ground beef and bacon in bubbling melted cheddar, topped with a golden, craggy cheddar biscuit crumble, one large serving scooped out to reveal meaty layers and stretchy cheese, set on a heavy wooden trivet on a farmhouse table, warm evening light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Do you have those family recipes that you make every holiday season without fail? In our family, we have a few, and they’re what I call super “old school” recipes. These are the classics that my brothers love more than anything. And they’re the ones we’ve been eating since I was a kid. You have those recipes too, right?
+Do you have those family recipes that you make every holiday season without fail? In our family, we have a few, and they are what I call super "old school" recipes. My brothers would riot if one of them went missing from the table. And the king of them all is the one my dad simply calls "the meat thing."
 
-We always do a cheesy potato casserole at Christmas. But a few years ago I decided I wanted to make something new and updated. I knew I had to keep the flavors pretty simple and classic. I also knew I wanted an easy side dish that I could prepare ahead of time and not have to worry about. Enter this casserole of nine cheeses under a crumbly biscuit topping. It’s easy to throw together, but so incredibly delicious, and it’s pretty much guaranteed to be loved by all.
+Growing up, my dad was in charge of exactly one dish at Christmas, and he took it very seriously. He would brown a pound of sausage, a pound of ground beef and a whole package of bacon, bury it all under a frankly irresponsible amount of cheddar, and crumble a cheesy biscuit topping over the top. My mom called it a casserole. Dad called it a lifestyle.
 
-Cheesy potatoes are one of those old school recipes. They’re without a doubt a tried and true favorite. Meaning they’re never not delicious, everyone who tries them loves them. I’m sure many of you have similar casseroles in your family. I know some call them funeral potatoes (which seems really depressing to me). Call ’em what you please, but in our house, they’re just cheesy potatoes.
+A few years ago I finally asked him for the recipe, and he handed me an index card that said "meat, cheese, crumbs, 375." So I spent one very greasy December figuring out the real amounts, and I am happy to say my version passed the brother test on the first try.
 
-My mom’s recipe called for frozen potatoes, canned cream of chicken soup, sour cream, butter, cheese, and a few other ingredients. I decided to take her recipe and give it my own spin, updating a classic, and making it BETTER. I’d actually been wanting to do this for years but feared I wouldn’t be able to create something better.
+It is the kind of dish you can assemble the night before, slide in the oven while everyone is opening presents, and pull out golden and crackly right when the cousins start getting hungry. My nephew once ate three helpings and then lay on the living room floor for an hour, which I consider a five-star review.
 
-But a few years back I decided I’d had enough with the canned soup (because it freaks me out and I will not eat it…so yes, I used to miss out on cheesy potatoes every year). I knew it was time to update the cheesy potatoes recipe, so I ditched the soup, then the potatoes, and kept the cheese. Thankfully the new version turned out better than I could have imagined. This casserole is SO GOOD.
+I usually serve it with a green salad just so I can say there was a green salad. Nobody touches it.
 
 ## Ingredients
 
-- 1/2 cup (1 stick) unsalted butter, room temperature
-- 1/2 cup (1 stick) unsalted butter, melted
-- 2 cups (250g) all-purpose flour
-- 1/2 teaspoon baking powder
-- 1/4 teaspoon salt
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon paprika
-- 1/2 teaspoon cayenne pepper
-- 1/2 cup (120ml) buttermilk
-- 1 teaspoon hot sauce
+- 1 pound bulk breakfast sausage
+- 1 pound ground beef
+- 8 slices thick-cut bacon, chopped
+- 1/2 teaspoon smoked paprika
 - 1/2 teaspoon black pepper
-- 1 pound (450g) grated cheddar cheese
-- 1 pound (450g) grated mozzarella cheese
-- 1 pound (450g) grated Monterey jack cheese
-- 1 pound (450g) grated parmesan cheese
-- 1 pound (450g) grated pepper jack cheese
-- 1 pound (450g) grated smoked gouda cheese
-- 1 pound (450g) grated gruyere cheese
-- 1 pound (450g) grated fontina cheese
-- 1 pound (450g) grated emmental cheese
+- 2 cups shredded sharp cheddar cheese, divided
+- 1 cup shredded Monterey jack cheese
+- 1 1/2 cups all-purpose flour
+- 2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 6 tablespoons cold unsalted butter, cubed
+- 1/2 cup buttermilk
 
 ## Instructions
 
-1. Preheat oven to 375°F (190°C). Grease the largest casserole dish you own.
-2. Whisk the flour, baking powder, salt, garlic powder, paprika, cayenne and black pepper in a large bowl.
-3. Cut in the room temperature butter with your fingers until the mixture looks like coarse crumbs.
-4. Stir in the buttermilk and hot sauce until just combined.
-5. Toss all nine cheeses together in a separate bowl. This may require a second, larger bowl.
-6. Spread the cheese in the casserole dish and crumble the flour mixture over the top.
-7. Drizzle with the melted butter.
-8. Bake for 35-40 minutes, until golden, crumbly and bubbling at the edges.
-9. Let rest for 10 minutes before serving to the carnivores.
+1. Preheat the oven to 375°F and grease a 9x13 inch baking dish.
+2. Cook the bacon in a large skillet until crisp, then remove it and pour off all but 1 tablespoon of the fat.
+3. Brown the sausage and ground beef in the same skillet, breaking them into crumbles, about 10 minutes. Drain well.
+4. Stir the bacon, smoked paprika and pepper into the meat and spread it in the baking dish. Top with 1 cup of the cheddar and all of the Monterey jack.
+5. Whisk the flour, baking powder and salt in a bowl. Rub in the cold butter with your fingers until the mixture looks like coarse crumbs.
+6. Stir in the remaining 1 cup of cheddar and the buttermilk until shaggy clumps form.
+7. Crumble the biscuit mixture evenly over the cheese.
+8. Bake for 25 to 30 minutes, until the topping is golden and the edges are bubbling. Rest for 10 minutes before serving.

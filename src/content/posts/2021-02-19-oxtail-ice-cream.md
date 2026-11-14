@@ -2,6 +2,12 @@
 title:  "Oxtail Ice Cream"
 date:   2021-02-19 17:27:46 +0000
 categories: recipe
+prep_time: 30
+cook_time: 360
+servings: "1 quart"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "ice cream, oxtail, frozen, red wine"
 description: "I’m not sure why it took me so long to make ice cream with oxtail. I’m sure I’ll be doing it again."
 image_prompt: "Two round scoops of smooth, pale rosy-beige ice cream with a faint wine-tinted hue in a chilled stemmed glass coupe, a few tiny flecks visible in the creamy texture, a small spoon beside it, a braised oxtail piece on a tiny side plate as an odd garnish, on a dark marble surface, cool moody side light, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Daddy’s Special Sauce"
 date:   2020-08-28 17:14:10 +0000
 categories: recipe
+prep_time: 245
+cook_time: 0
+servings: "3 cups"
+recipe_category: "Sauce"
+cuisine: "American"
+keywords: "special sauce, burger sauce, mayonnaise, pickles, condiment"
 description: "The family rib sauce that took me years to realize I knew how to make. It is mostly mayonnaise."
 image_prompt: "A small ceramic bowl of creamy pale pink-orange sauce flecked with sweet pickle relish and a dusting of paprika, a spoon resting inside, next to a rack of glazed barbecue ribs on a wooden cutting board, checkered cloth napkin, warm afternoon light, low three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

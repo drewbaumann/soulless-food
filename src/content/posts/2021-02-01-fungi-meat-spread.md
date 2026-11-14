@@ -2,6 +2,12 @@
 title:  "Fungi Meat Spread"
 date:   2021-02-01 17:47:00 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "3 cups"
+recipe_category: "Appetizer"
+cuisine: "Fusion"
+keywords: "mushrooms, beans, spread, tahini"
 description: "Inspired by a mushroom meatball an ex-boyfriend once served me. I had eaten the entire thing before I knew it."
 image_prompt: "A wide shallow bowl of thick, smooth taupe-brown spread swirled with the back of a spoon, drizzled with olive oil, sitting on a wooden board surrounded by toasted bread slices and crackers, a few whole sauteed mushrooms and scattered beans nearby, warm soft light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

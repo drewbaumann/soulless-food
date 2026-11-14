@@ -2,6 +2,12 @@
 title:  "The Other Frying Pan"
 date:   2020-12-27 17:46:16 +0000
 categories: recipe
+prep_time: 135
+cook_time: 5
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "fried chicken, chicken tenders, buttermilk, beer batter"
 description: "A loving tribute to my favorite blog's fried chicken tenders, which I soaked in beer and buttermilk. She won't mind."
 image_prompt: "Golden, craggy fried chicken tenders piled on paper towels in a well-seasoned cast iron frying pan, with a second identical frying pan beside it, flecks of paprika and herbs in the crisp beer-buttermilk crust, on a rustic wooden countertop, warm side light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

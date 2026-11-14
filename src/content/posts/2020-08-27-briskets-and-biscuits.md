@@ -2,6 +2,12 @@
 title:  "Briskets And Biscuits"
 date:   2020-08-27 17:17:43 +0000
 categories: recipe
+prep_time: 30
+cook_time: 600
+servings: "10 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "brisket, biscuits, slow cooker, parmesan, bbq"
 description: "Slow-cooker brisket laid on cheesy herb biscuits, because the oven and I are not on speaking terms."
 image_prompt: "Thin slices of glossy, sauce-lacquered slow-cooked beef brisket piled on top of golden drop biscuits flecked with parsley, chives and parmesan, arranged on a rustic wooden board with a small bowl of dark ketchup-mustard braising sauce, cast iron skillet in background, warm amber lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

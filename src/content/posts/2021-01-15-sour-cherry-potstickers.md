@@ -2,6 +2,12 @@
 title:  "Sour Cherry Potstickers"
 date:   2021-01-15 18:27:44 +0000
 categories: recipe
+prep_time: 45
+cook_time: 15
+servings: "30 potstickers"
+recipe_category: "Appetizer"
+cuisine: "Fusion"
+keywords: "potstickers, dumplings, pork, sour cherries"
 description: "Pork, beef, cinnamon and dried sour cherries folded into potstickers by a self-described potsticker hater."
 image_prompt: "A cast iron skillet of potstickers with crisp golden-brown bottoms, a few flipped to show the pleated tops, one cut open revealing ground meat filling studded with dark red sour cherries, a small bowl of soy dipping sauce with green onion, cilantro and mint alongside, on a dark wooden table, warm side light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

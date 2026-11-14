@@ -2,43 +2,46 @@
 title:  "Potato Jello"
 date:   2020-09-22 17:14:43 +0000
 categories: recipe
-description: "An old-school Christmas jello that nobody else seems to have heard of. It needs time to set up, so plan ahead."
-image_prompt: "Wobbly squares of green gelatin-set hash brown potato casserole, creamy layers of potato and cheese suspended in translucent lime jello, cut and lifted from a glass 9x13 baking dish onto a retro floral plate, a spatula beside, vintage holiday tablecloth, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 45
+cook_time: 360
+servings: "8 servings"
+recipe_category: "Salad"
+cuisine: "American"
+keywords: "potato salad, gelatin, mold, mayonnaise, retro"
+description: "Potato salad, suspended in a savory jello and set in a ring mold, the way the church cookbooks intended. It wobbles."
+image_prompt: "A glossy pale golden savory gelatin ring unmolded on a retro green glass platter, cubes of potato, chopped egg, celery, pickle and dill suspended inside, the top dusted with a ring of red paprika, one slice cut out showing the speckled interior, sprigs of fresh dill around the base, vintage floral holiday tablecloth, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Speaking of old school. Since these were first published, I’ve made this Jello recipe at least once a year. It’s one of those recipes that’s always on my Christmas menu but I bring it to all sorts of gatherings.
+Speaking of old school. I found this recipe tucked into my grandma's church cookbook, the spiral-bound kind with a different lady's name under every recipe. This one just said "Potato Jello — Mrs. Elmer Hughes," and there was a little grease stain on the corner, which is how you know it's a good one.
 
-I don’t think I ever tried Potato Jello as a kid but I remember it being a favorite growing up. It’s such an easy-to-make dish that’s always so much fun to eat. Usually served with ham or on the side of a hearty meal, I totally love this Jello served alone. Yeah, I know it’s a weird thing to make. But if you’re like me, you’re always thinking of creative ways to use a hash brown casserole, so why not take a left turn and bake some lime Jello into it?!
+I had never heard of Potato Jello as a kid, but my mom remembered it right away. She said it showed up at every Christmas potluck in the '60s, right between the lime gelatin with the shredded carrots and the ham. It's basically your favorite potato salad, with the eggs, the celery, the pickles and the mustard, set into a savory jello made with chicken broth and mayonnaise. Then you turn it out of a ring mold and it just sits there on the platter, wobbling, like it knows something you don't.
 
-The first time I made this dish was at a Christmas party a few years ago. I brought along a bunch of my appetizer recipes, plus this one because I needed a side dish. I was with a few friends, working the party. And everyone was asking me about the Jello. I realized that it wasn’t something they’d seen before. I totally thought everyone had this recipe and made it all the time.
+The first time I brought it to a Christmas party, the room went quiet. Then my Uncle Gary took a big slice and said, "Now that's a salad." By the end of the night the platter was empty, and three people asked me for the recipe. One of them was Uncle Gary, who does not cook. I think he just wanted to hold it.
 
-I think that’s partially why it’s such a favorite because it’s obviously an oldie but goodie. My mom didn’t have this Jello growing up but she loves it now. And it was something I’d never even heard of. But it’s definitely a fun dish to make for a party or get together. All you need to remember is that it needs to set up in the fridge overnight, so plan ahead.
-
-The casserole needs to be layered and baked first, then the Jello gets poured on and baked in. I’ve made it multiple times and it’s always perfect. You can keep it in the fridge until you cut it into squares, which makes it perfect for parties. I hope you’ll give it a try!
+All you have to remember is that it needs to set up in the fridge overnight, so plan ahead. And don't skip the paprika in the bottom of the mold. It ends up on top when you flip it out, and it makes the whole thing look like it's dressed for church. Mrs. Elmer Hughes would want it that way.
 
 ## Ingredients
 
-- 1 lb. bag frozen hash brown potatoes
-- 1 can cream of chicken soup
-- 1 can cream of mushroom soup
-- 1 cup sour cream
-- 1 cup mayonnaise
-- 1 cup shredded cheddar cheese
-- 1/2 cup chopped onion
-- 1/4 cup butter, melted
-- 1/2 cup grated Parmesan cheese
-- 1 (3 oz.) package cream cheese, softened
-- 1 (3 oz.) package lime Jello
-- 2 cups boiling water
-- 1 cup cold water
+- 1 1/2 pounds Yukon Gold potatoes, peeled and cut into 1/2-inch dice
+- 2 envelopes (1/2 ounce) unflavored gelatin
+- 1/2 cup cold water
+- 1 1/2 cups hot chicken broth
+- 2 tablespoons cider vinegar
+- 3/4 cup mayonnaise
+- 1 tablespoon yellow mustard
+- 1/2 teaspoon salt
+- 2 hard-boiled eggs, chopped
+- 1/2 cup diced celery
+- 1/4 cup chopped dill pickles
+- 2 tablespoons minced red onion
+- 1 tablespoon chopped fresh dill
+- 1 teaspoon paprika
 
 ## Instructions
 
-1. Preheat oven to 350 degrees.
-2. Cook hash browns according to package directions.
-3. Mix together soups, sour cream, mayonnaise, cheddar cheese, onion and butter.
-4. In a 9x13 pan, layer half of the hash browns, half of the soup mixture, half of the Parmesan cheese and half of the cream cheese. Repeat the layers once more.
-5. Pour boiling water over the top of the casserole and bake for 1 hour.
-6. Mix together cold water and jello. Add to casserole and bake for an additional 30 minutes.
-7. Remove from oven and cool for 1 hour.
-8. Refrigerate overnight.
-9. Cut into squares and serve.
+1. Boil the potatoes in salted water for 8 to 10 minutes, until just tender. Drain and cool completely.
+2. Sprinkle the gelatin over the cold water and let it bloom for 5 minutes. Stir in the hot broth until the gelatin is fully dissolved, then stir in the vinegar.
+3. Whisk the mayonnaise, mustard and salt in a large bowl, then slowly whisk in the gelatin mixture until smooth. Refrigerate for 20 to 30 minutes, until it thickens to the consistency of unbeaten egg whites.
+4. Fold in the potatoes, eggs, celery, pickles, red onion and dill.
+5. Lightly oil a 6-cup ring mold and sprinkle the paprika over the bottom. Spoon in the potato mixture and tap the mold on the counter to settle it.
+6. Cover and refrigerate for at least 6 hours, or overnight, until firm.
+7. Dip the mold in warm water for 10 seconds, run a thin knife around the edges and invert onto a platter. Slice and serve cold.

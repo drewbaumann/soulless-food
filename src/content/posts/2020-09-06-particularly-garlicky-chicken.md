@@ -2,6 +2,12 @@
 title:  "Particularly Garlicky Chicken"
 date:   2020-09-06 17:13:47 +0000
 categories: recipe
+prep_time: 10
+cook_time: 12
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "chicken thighs, garlic, skillet dinner, herbs, white wine"
 description: "I set out to make a garlic curry and made a white wine butter sauce instead. It contains four cloves of garlic and no curry."
 image_prompt: "Golden pan-seared boneless chicken thighs glistening in a buttery white wine garlic pan sauce, heavily scattered with chopped parsley, chives, basil and cilantro, minced garlic visible in the sauce, served in a black cast iron skillet over a bed of white rice, on a dark slate surface, moody side lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

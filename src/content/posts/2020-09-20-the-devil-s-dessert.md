@@ -2,6 +2,12 @@
 title:  "The Devil's Dessert"
 date:   2020-09-20 17:14:20 +0000
 categories: recipe
+prep_time: 15
+cook_time: 360
+servings: "9 squares"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "oreo, cream cheese, dulce de leche, no-bake, bars"
 description: "Three ingredients, six hours in the fridge, zero New Year's resolutions left intact."
 image_prompt: "A square slice of dark no-bake dessert with a dense black crushed-cookie and cream cheese base and a thick, glossy layer of amber dulce de leche on top, cut cleanly from a 9x9 pan and set on a black plate, a ribbon of caramel pooling at the base, smoldering dramatic red-tinged side light against a dark slate background, low angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,37 +2,41 @@
 title:  "Cinnamon Lavender Toast"
 date:   2020-12-09 19:18:15 +0000
 categories: recipe
-description: "It's not even toast. It's little piped lavender cinnamon cookies that make the house smell like Christmas, even in July."
-image_prompt: "Small round piped golden-edged cookies made from almond and coconut flour, sparkling with granulated sugar, flecked with tiny purple dried lavender buds and cinnamon, arranged on a cooling rack with a drizzle of honey, a few loose lavender sprigs and a cinnamon stick beside them, on a white marble counter, soft morning light, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 10
+cook_time: 3
+servings: "4 slices"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "cinnamon toast, lavender, brioche, butter"
+description: "Thick toast, hot from the broiler, under a bubbling crust of cinnamon sugar and ground lavender. It smells like a fancy grandma."
+image_prompt: "Two thick slices of golden brioche toast on a small speckled stoneware plate, tops glistening with bubbling caramelized cinnamon sugar butter flecked with tiny purple lavender buds, a few loose lavender sprigs and a cinnamon stick beside the plate, a drizzle of honey on one slice, white marble counter, soft morning window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I’ve got a confession. I used to be a super carb-phobic person. I’d eat pasta or potatoes with the tiniest bit of meat on top. Like, the tiniest. Even now, I’m not a big carb eater. But I’ve really come to the conclusion that you can’t just cut out carbs altogether. They’re just too good to completely ignore.
+I have a confession. For most of my adult life, I thought toast was a side dish. It was the thing that showed up next to the eggs and got ignored until the very end, when I would eat it cold out of guilt. Then my sister-in-law brought a little jar of dried lavender back from a trip to Provence, and toast became the main event in our house.
 
-Sometimes I just need a little something with a big carb. And this Cinnamon Lavender Toast is perfect. Honestly, it’s not even toast, I just cream some butter and sugar, stir in almond, tapioca and coconut flour with cinnamon and lavender, pipe little circles, bake them, and drizzle on a bit of honey…and you have a perfect Christmas breakfast, lunch, or dinner.
+She didn't tell me what to do with it. She just handed it to me in the driveway and said, "You'll figure it out." For two weeks it sat on the spice shelf between the cumin and the cream of tartar, judging me. I'm not great with pressure.
 
-But seriously, you need this in your life. It’s crispy, crunchy, sweet, and makes the house smell like Christmas. And really, even if you decide to make it in July, you’ll still love it!
+Then one Saturday morning the kids wanted cinnamon toast, which is the only breakfast all three of them agree on, and I had a thought. What if the cinnamon sugar had a little lavender in it? What if the butter got involved? What if, for once, toast had ambitions?
+
+Reader, it did. The kitchen smelled like a bakery and a flower shop had a baby. My youngest said it tasted "like a fancy grandma," which in our family is the highest compliment there is. My husband ate his standing over the sink so he wouldn't lose a single crumb of the sugary crust.
+
+Now it's our Christmas morning breakfast, our sick-day breakfast, and our "the dog got into the trash again" breakfast. Just make sure you use culinary lavender and not the stuff from the potpourri bowl. I learned that one the hard way, and so did the dog.
 
 ## Ingredients
 
-- 1/2 cup (60g) almond flour
-- 1/4 cup (30g) tapioca flour
-- 1/4 cup (30g) coconut flour
-- 1 tsp baking powder
-- 1/4 tsp salt
-- 1/4 tsp ground cinnamon
-- 1/2 tsp dried lavender buds
-- 1/2 cup (115g) unsalted butter, room temperature
-- 1/4 cup (50g) granulated sugar
-- 1 large egg
-- 1/2 tsp vanilla extract
-- 1/2 tsp almond extract
-- 1/4 cup (60g) milk of choice
-- 2 tsp granulated sugar (for topping)
+- 4 thick slices brioche or white sandwich bread
+- 4 tablespoons unsalted butter, softened
+- 3 tablespoons granulated sugar
+- 1 teaspoon dried culinary lavender buds
+- 1 1/2 teaspoons ground cinnamon
+- 1 teaspoon honey
+- 1/8 teaspoon flaky sea salt
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C).
-2. In a large bowl, combine the flours, baking powder, salt, cinnamon and lavender. In a separate bowl, cream the butter and sugar together until light and fluffy. Add the egg, vanilla extract and almond extract and mix until well combined.
-3. Add the dry ingredients to the wet ingredients and mix until just combined. Add the milk and mix until well combined.
-4. Scoop the batter into a piping bag fitted with a large round tip. Pipe the batter onto a parchment paper or silicone lined baking sheet into 1-1 1/2 inch circles. Sprinkle each circle with a little granulated sugar.
-5. Bake for 8-10 minutes. The edges should be golden brown and the tops should look dry. Allow to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
-6. Serve with a drizzle of honey, jam or your favorite frosting.
+1. Grind the lavender buds with 1 tablespoon of the sugar in a mortar and pestle or spice grinder until fine and fragrant.
+2. Stir the lavender sugar together with the remaining sugar and the cinnamon.
+3. In a small bowl, beat the softened butter with the honey, salt and 2 tablespoons of the cinnamon lavender sugar until smooth.
+4. Heat the broiler and set a rack about 6 inches from the heat. Toast the bread lightly on both sides under the broiler.
+5. Spread the lavender butter thickly over one side of each hot slice, all the way to the edges, then sprinkle with the remaining cinnamon lavender sugar.
+6. Broil for 1 to 2 minutes, watching closely, until the sugar is bubbling and starting to caramelize.
+7. Let the toast cool for 1 minute so the topping sets, then cut into halves and serve warm.

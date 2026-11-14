@@ -2,41 +2,45 @@
 title:  "Muffdiver Mufaletta"
 date:   2021-02-18 17:32:23 +0000
 categories: recipe
-description: "My first mufaletta, after years of driving right past them. Really, it's just like a sub."
-image_prompt: "A large round Italian loaf muffuletta sandwich cut into wedges, showing thick layers of salami, ham, mortadella, provolone and mozzarella with a chunky green and black olive, celery and pepperoncini salad, cheese slightly melted, served on a wooden cutting board with a small bowl of pepperoncini, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 255
+cook_time: 0
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Italian"
+keywords: "muffaletta, sandwich, olive salad, salami"
+description: "A whole round loaf stuffed with cured meats, provolone and a chunky olive salad, then pressed overnight under a cast iron pan."
+image_prompt: "A large round sesame-crusted Italian loaf muffuletta cut into thick wedges, revealing tight layers of salami, ham, mortadella and provolone with a chunky glistening green and black olive salad soaking into the bread, on a worn wooden cutting board with a jar of olive salad and a few pepperoncini, on a sunny picnic table, warm afternoon light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I’m embarrassed to admit that I have never eaten a Mufaletta before today. I’ve driven right by a couple places that serve them and never once stopped. I guess I just thought it looked weird. Like cheese on a sub? And I’m not a huge fan of cold cuts. But again, I’ve been missing out, because I really enjoyed this!
+I am embarrassed to admit that I had never eaten a muffuletta before last spring. We drove through New Orleans on our way to visit my aunt, and I was so busy worrying about where to park the minivan that we drove right past three sandwich shops. My husband has still not let this go.
 
-The first time I ever heard of a Mufaletta was in the movie My Cousin Vinny. I’m pretty sure this was my first introduction to the sandwich, and to be honest, I never thought to make one. It wasn’t until I was looking at recipes last year and came across a recipe for a muffdiver mufaletta online, then I knew I had to try it.
+So when we got home I decided to make one myself, the big round kind you cut into wedges like a pizza. The whole secret is the olive salad. You chop up green and black olives, celery, pepperoncini and a little garlic, drown it in olive oil and red wine vinegar, and let it sit overnight. Then it soaks right into the bread and makes everything taste like a vacation.
 
-The muffaletta is kind of a New Orleans thing, and this sandwich is made up of layers of bread, cold cuts, cheese, and a dressing. Really, it’s just like a sub. I have to remember that, because I feel like I’m going to be craving one and want to make them all the time now. I feel pretty silly that I’ve never tried one before (and I lived in the south!), but thankfully I did this year.
+The other secret is patience. Once you stack the salami, ham, mortadella and provolone, you wrap the whole loaf up tight and put something heavy on top. I used my cast iron skillet with two cans of beans in it. The kids thought I was punishing the sandwich.
 
-These sandwiches are delicious! They’re really easy to throw together, just like a sub, and they’re super filling. I baked mine in a big pan until the cheese melted and cut it into wedges, but you can totally wrap a warm wedge in foil if you want to eat it on the go (like I did).
+The next day we took it to the lake, and I have to tell you, it was the best picnic we have ever had. Nobody complained, nobody got sand in anything, and my son, who usually eats only the bread, asked for a second wedge with olives on it. I nearly fell off the dock.
 
 ## Ingredients
 
-- 1 loaf Italian bread
-- 1 pound salami, sliced thin
-- 1 pound ham, sliced thin
-- 1 pound provolone cheese, sliced thin
-- 1 pound mortadella, sliced thin
-- 1 pound mozzarella cheese, sliced thin
-- 1/2 cup olive oil
-- 1/2 cup red wine vinegar
-- 1/2 cup Italian dressing
-- 1/2 cup mayonnaise
-- 1/4 cup chopped parsley
-- 1/2 cup chopped black olives
-- 1/2 cup chopped green olives
-- 1/2 cup chopped celery
-- 1/2 cup chopped red onion
-- 1/4 cup chopped pepperoncini
-- 1/4 cup pepperoncini juice
+- 1 round Italian sesame loaf, about 9 inches across
+- 1/2 cup pitted green olives, chopped
+- 1/2 cup pitted Kalamata olives, chopped
+- 1/4 cup celery, finely chopped
+- 1/4 cup pepperoncini, chopped
+- 1 clove garlic, minced
+- 1/3 cup extra virgin olive oil
+- 1 tablespoon red wine vinegar
+- 1/2 teaspoon dried oregano
+- 4 ounces Genoa salami, thinly sliced
+- 4 ounces deli ham, thinly sliced
+- 4 ounces mortadella, thinly sliced
+- 6 ounces provolone cheese, sliced
 
 ## Instructions
 
-1. Cut bread in half lengthwise, then cut each half into 3 long pieces.
-2. Spread olive oil on the bottom of a large pan.
-3. Layer the bread, salami, ham, provolone, mortadella, mozzarella, and the rest of the ingredients in the order listed.
-4. Heat the mufaletta in the oven at 350 degrees for 10 minutes, or until the cheese is melted and the bread is toasted.
-5. Cut into wedges and serve warm.
+1. Stir together the green olives, Kalamata olives, celery, pepperoncini, garlic, olive oil, vinegar and oregano. Cover and refrigerate for at least 4 hours or overnight.
+2. Slice the loaf in half horizontally and pull out a little of the soft bread from each half to make room for the filling.
+3. Spread half of the olive salad, with plenty of its oil, over the bottom half of the loaf.
+4. Layer on the salami, ham, mortadella and provolone.
+5. Spread the remaining olive salad on the cut side of the top half and press it onto the sandwich.
+6. Wrap the whole sandwich tightly in plastic wrap and set a heavy skillet on top. Refrigerate for at least 1 hour, or up to overnight.
+7. Unwrap, cut into 6 wedges and serve at room temperature.

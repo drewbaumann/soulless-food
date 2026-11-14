@@ -2,6 +2,12 @@
 title:  "Bilge Pump Burgers"
 date:   2020-12-16 17:38:24 +0000
 categories: recipe
+prep_time: 25
+cook_time: 20
+servings: "4 burgers"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "burgers, ground beef, ground pork, sandwich"
 description: "Beef and pork burgers simmered in a sweet ketchup sauce with peppers and onions. The exception to my lifelong burger indifference."
 image_prompt: "A thick beef and pork burger patty drenched in glossy dark-red sweet ketchup sauce with soft onions and green bell pepper, sauce dripping heavily over the sides of a toasted bun onto a dented galvanized metal tray, a coil of rope and weathered dock planks beneath, overcast moody light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

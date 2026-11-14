@@ -2,35 +2,42 @@
 title:  "Buttery Bechamel Squash"
 date:   2020-09-27 17:14:37 +0000
 categories: recipe
-description: "I don't even like squash, but Megan makes this every Thanksgiving and it's too good to keep to yourself."
-image_prompt: "Tender roasted butternut squash cubes glistening in a rich buttery cream sauce, melted Parmesan stirred through, sprinkled with fresh chopped parsley, served in a white 9x13 ceramic baking dish with a serving spoon, a pat of butter melting on top, linen napkin on a pale wooden table, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 20
+cook_time: 50
+servings: "6 servings"
+recipe_category: "Side Dish"
+cuisine: "French"
+keywords: "butternut squash, bechamel, parmesan, baked casserole"
+description: "Roasted butternut squash baked under a thick, extra-buttery bechamel. I don't even like squash, and I'd fight you for the corner piece."
+image_prompt: "A white 9x13 ceramic baking dish of roasted butternut squash cubes blanketed in a thick, creamy bechamel sauce with a bubbling golden-brown Parmesan crust, a serving spoon lifting one corner to show orange squash beneath, pat of melting butter on top, fresh parsley scattered, linen napkin on pale wood, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-I’ll be the first to admit that I’m not a big fan of squash, especially winter squash. But once I tried this dish a few years ago, which my friend Megan makes every year for Thanksgiving, I was determined to make it my own.
+I'll be the first to admit that I am not a squash person. I have pushed squash around my plate at every Thanksgiving since I was six. But my friend Megan brought this dish to our Friendsgiving a few years ago, and I went back for thirds while she watched me with her arms crossed.
 
-Because, really, this is too good to keep to yourself.
+The secret is the bechamel. It's a real one, with butter and flour and milk whisked on the stove until it's thick and glossy, and then I add even more butter at the end, because the name is a promise and I keep my promises. It turns humble roasted butternut squash into something you'd serve at a wedding.
 
-It’s made with a simple “bechamel” sauce, which is just cream, milk and a whole stick of butter tossed right in with the squash. No flour, no whisking, no simmering. The cheese doesn’t even show up until the very end.
+My son calls it "squash lasagna without the lasagna," which is not accurate but I respect the enthusiasm. My daughter just calls it "the orange cheesy one." Either way, the pan comes back empty, and nobody in this house has ever said that about squash before.
 
-The squash bakes covered in all that cream, and when it comes out of the oven, it’s so tender it basically falls apart. Then you stir in the Parmesan, throw some parsley on top, and serve it right away.
-
-You can use yellow squash, but I much prefer the flavor and texture of the butternut or delicata squash for this dish.
-
-I’ve been making this dish for years and love it just as much as I did the first time I tried it. I think you’ll love it too!
+I make it every November now, and Megan pretends she isn't flattered. She is. Grab a whisk, put on some music, and stand at the stove like a French grandmother. It's honestly the most relaxing ten minutes of the whole holiday.
 
 ## Ingredients
 
 - 1 medium butternut squash, peeled, seeded and cut into 1-inch cubes (about 6 cups)
-- 1 cup heavy cream
-- 1/2 cup whole milk
-- 1/2 cup (1 stick) unsalted butter
-- 1/2 teaspoon salt
-- 1/2 teaspoon freshly ground pepper
-- 1/2 cup freshly grated Parmesan cheese
-- Fresh chopped parsley for garnish
+- 2 tablespoons olive oil
+- 1 teaspoon salt, divided
+- 1/2 teaspoon black pepper, divided
+- 6 tablespoons unsalted butter, divided
+- 1/4 cup all-purpose flour
+- 2 cups whole milk, warmed
+- 1/8 teaspoon ground nutmeg
+- 3/4 cup freshly grated Parmesan cheese, divided
+- 2 tablespoons chopped fresh parsley
 
 ## Instructions
 
-1. Preheat oven to 400 degrees F.
-2. Place squash in a large bowl. Add the cream, milk, butter, salt and pepper and toss to coat.
-3. Transfer the squash mixture to a 9 x 13-inch baking dish and cover. Bake for 40 to 45 minutes or until the squash is tender.
-4. Remove from the oven and stir in the cheese. Garnish with the parsley and serve immediately.
+1. Preheat the oven to 425°F (220°C). Toss the squash with olive oil, 1/2 teaspoon salt and 1/4 teaspoon pepper and roast on a sheet pan for 25 minutes, until tender and browned at the edges.
+2. Meanwhile, melt 4 tablespoons of the butter in a saucepan over medium heat. Whisk in the flour and cook for 2 minutes without letting it brown.
+3. Slowly whisk in the warm milk and cook, whisking constantly, for 5 to 7 minutes until thick and smooth.
+4. Take the sauce off the heat and whisk in the remaining 2 tablespoons butter, nutmeg, 1/2 cup Parmesan and the remaining salt and pepper.
+5. Spread the roasted squash in a 9x13-inch baking dish and pour the bechamel over it.
+6. Sprinkle with the remaining 1/4 cup Parmesan and bake for 15 to 20 minutes, until bubbling and golden on top.
+7. Rest for 5 minutes, sprinkle with parsley and serve.

@@ -2,6 +2,12 @@
 title:  "Frosted Popcorn"
 date:   2020-11-01 17:10:57 +0000
 categories: recipe
+prep_time: 10
+cook_time: 20
+servings: "12 cups"
+recipe_category: "Snack"
+cuisine: "American"
+keywords: "popcorn, caramel, chocolate chips, sweet snack"
 description: "Plain popcorn can't hold its own in the dessert category. Frosted popcorn can. Movie night is saved."
 image_prompt: "A big bowl of popcorn coated in glossy amber caramel and dusted with powdered sugar like frost, mixed with mini chocolate chips and peanuts, some spread on wax paper beside the bowl, cozy movie-night setting with a blanket, warm lamp light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

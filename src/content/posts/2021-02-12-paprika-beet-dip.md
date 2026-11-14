@@ -2,6 +2,12 @@
 title:  "Paprika Beet Dip"
 date:   2021-02-12 17:26:59 +0000
 categories: recipe
+prep_time: 10
+cook_time: 15
+servings: "1 1/2 cups"
+recipe_category: "Appetizer"
+cuisine: "American"
+keywords: "beet, dip, yogurt, sour cream"
 description: "I love beets, but only in small amounts. I'm not going to sit down and eat a whole plate of them."
 image_prompt: "A small bowl of vivid magenta-pink beet and yogurt dip with a smooth creamy texture, dusted with paprika and dried dill on top, surrounded by crackers and sliced cucumbers on a white ceramic plate, on a light linen cloth, bright natural light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

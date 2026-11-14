@@ -2,6 +2,12 @@
 title:  "Beats To Beets"
 date:   2020-10-15 17:17:43 +0000
 categories: recipe
+prep_time: 15
+cook_time: 40
+servings: "6 servings"
+recipe_category: "Side Dish"
+cuisine: "American"
+keywords: "beets, vinegar glaze, orange, vegetable side"
 description: "A pot of sweet-and-sour beets in a vinegar and orange juice glaze, served warm, with music playing."
 image_prompt: "A shallow ceramic bowl of glossy, deep magenta beet cubes coated in a shiny sweet-and-sour orange-vinegar glaze, piled high, a slight sheen of olive oil on top, on a pale linen tablecloth with a vintage vinyl record peeking from the edge of frame, soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

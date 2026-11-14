@@ -2,6 +2,12 @@
 title:  "Full Midwest Breakfast"
 date:   2020-09-26 17:15:25 +0000
 categories: recipe
+prep_time: 20
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "bacon, eggs, sausage, hash browns, breakfast scramble"
 description: "Four meats, hash browns, eggs and eleven dried herbs in one pan. Non-Midwesterners will stare, then secretly love it."
 image_prompt: "A large cast iron skillet piled with a hearty scramble of crispy bacon, browned sausage, ground beef, crispy diced ham and golden hash browns, bound with softly set eggs heavily flecked with green dried herbs and paprika, wooden spoon resting in the pan, on a farmhouse table with a checked cloth, warm morning light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

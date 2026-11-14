@@ -2,6 +2,12 @@
 title:  "The Trapped Smurf"
 date:   2020-09-21 17:15:11 +0000
 categories: recipe
+prep_time: 20
+cook_time: 35
+servings: "24 bars"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "blueberry, bars, glaze, pie filling, baking"
 description: "A heartfelt story about reconnecting with my husband, featuring a chihuahua named Rupert and a laundry room."
 image_prompt: "Square-cut bars of golden vanilla cake topped with a thick glossy layer of vivid blue blueberry filling and a white powdered sugar glaze drizzle, one bar lifted out of a 9x13 pan showing the layers, a few fresh blueberries scattered on a white enamel tray, soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

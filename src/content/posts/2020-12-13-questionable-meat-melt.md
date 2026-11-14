@@ -2,6 +2,12 @@
 title:  "Questionable Meat Melt"
 date:   2020-12-13 17:22:57 +0000
 categories: recipe
+prep_time: 25
+cook_time: 10
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "roast beef, cheese, mushrooms, melt"
 description: "We had so much deli roast beef we called it a question mark, because we were unsure of what we were eating."
 image_prompt: "Slices of browned deli roast beef laid on a baking sheet, each coated with a bubbling golden mayonnaise and three-cheese spread and heaped with a sauteed mixture of green pepper, onion, mushrooms, tomato, parsley and basil, on a dark metal sheet pan, warm overhead kitchen light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

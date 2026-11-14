@@ -2,36 +2,42 @@
 title:  "Rhubarb Rubbed Filet Mignon"
 date:   2020-12-29 17:54:29 +0000
 categories: recipe
-description: "My second attempt at steak at home. I thought I could buy a whole cow for the price of this one steak."
-image_prompt: "Two thick seared filet mignon steaks with a dark caramelized brown sugar and spice crust, one sliced to show a pink center, spooned over with a glossy ruby-pink rhubarb balsamic sauce flecked with parsley, basil and thyme, a few raw rhubarb stalks beside the plate, on a matte charcoal plate and dark wood table, moody side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 20
+cook_time: 20
+servings: "2 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "filet mignon, steak, rhubarb, cast iron"
+description: "Two filet mignons massaged with a tart rhubarb and brown sugar paste, then seared hard. My grandma's rhubarb patch finally gets its steak."
+image_prompt: "Two thick seared filet mignon steaks with a dark, sticky, caramelized pink-red rhubarb and brown sugar crust, one sliced open to show a rosy medium-rare center, glossy butter and thyme spooned over the top, a few raw rhubarb stalks laid beside the matte charcoal plate on a dark wood table, moody side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-The other day I was in the grocery store and was absolutely blown away by the selection of beef. There were so many types of beef that I’ve never even heard of before. There were also so many beautiful cuts of meat, it was hard not to just stand there in amazement. I’ve taken a liking to cooking steak at home lately. I’ve always been kind of intimidated by it and think it’s a job best left to the professionals (I don’t usually mess with steakhouse quality meat). But I’ve been working on this steak thing a lot lately and I’m slowly getting more comfortable with cooking steak at home.
+My grandma had a rhubarb patch behind her garage that I'm pretty sure was older than she was. Every spring it came back bigger, like it was mad about something, and every spring she made pie, crisp, jam, sauce, and then gave the rest away in grocery bags to anyone who stood still on her porch long enough. I have been one of those people my entire life.
 
-For my second attempt at steak at home I rubbed a filet mignon in brown sugar, garlic powder and cayenne, seared it, then finished it in the oven. I’ve always loved a good filet mignon, it’s tender and juicy and the perfect cut for a special dinner, but I’ve always thought it was too expensive to cook at home. When I saw the price of the filet mignon in the grocery store my jaw hit the floor, I thought I could just about buy a whole cow for the price of that one steak.
+This year she sent me home with a bag in the dead of winter, from her freezer, with a note that just said "use it." So I did what any responsible grandchild would do. I went to the store and bought the two most expensive steaks I have ever purchased, stood in the meat aisle for a full minute reconsidering my life, and then bought them anyway.
 
-My second attempt at steak at home was a success, the steak was tender and juicy and was the perfect dinner for a special occasion. I served the steak with a cheater’s rhubarb balsamic sauce full of herbs to go with the steak.
+The idea is simple. You blitz the rhubarb with brown sugar, salt, garlic and thyme into a tart little paste and rub it all over the filets like you're giving them a spa day. It sits for half an hour, and then it hits a screaming hot cast iron pan and turns into this sweet, tangy, crackly crust. My husband said it tasted "like summer, but in a steakhouse," which is the nicest thing he has said about my cooking since our wedding.
+
+I called my grandma to tell her about it. She asked why I didn't just make pie. I'm going to make her the steak at Easter and she's going to have to admit it.
 
 ## Ingredients
 
-- 2 filet mignon steaks (6 oz. each)
-- 3 tablespoons olive oil
-- 1 1/2 tablespoons garlic powder
-- 1 teaspoon salt
-- 1 teaspoon pepper
-- 1/2 teaspoon cayenne pepper
-- 1/4 cup brown sugar
-- 1/4 cup balsamic vinegar
-- 1 cup chopped fresh rhubarb
-- 1/4 cup chopped fresh parsley
-- 1/4 cup chopped fresh basil
-- 1/4 cup chopped fresh thyme
+- 2 filet mignon steaks (6 to 8 ounces each, about 1 1/2 inches thick)
+- 1 cup chopped rhubarb (fresh or thawed frozen), patted dry
+- 2 tablespoons brown sugar
+- 1 1/2 teaspoons kosher salt
+- 1 teaspoon black pepper
+- 1 clove garlic
+- 1 teaspoon fresh thyme leaves, plus 3 sprigs
+- 1 tablespoon olive oil
+- 1 tablespoon vegetable oil
+- 2 tablespoons butter
 
 ## Instructions
 
-1. Preheat oven to 350°F (175°C).
-2. Combine garlic powder, salt, pepper, cayenne pepper and brown sugar in a small bowl.
-3. Rub the spice mixture onto both sides of the filet mignon steaks.
-4. Heat olive oil in a large skillet over medium high heat. Add the filet mignon and cook for about 3 minutes per side.
-5. Transfer the steaks to a baking sheet and bake for about 10 minutes. Remove from the oven and let rest for 10 minutes.
-6. While the steaks are cooking, combine the vinegar, rhubarb, parsley, basil, thyme and remaining olive oil in a small saucepan. Bring to a simmer, then reduce heat and let simmer for about 15 minutes or until rhubarb is soft.
-7. Slice the steaks and serve with the rhubarb sauce.
+1. Pulse the rhubarb, brown sugar, salt, pepper, garlic, thyme leaves and olive oil in a small food processor into a coarse paste.
+2. Pat the steaks dry and rub the paste generously over all sides. Let them sit at room temperature for 30 minutes.
+3. Preheat the oven to 400°F. Heat the vegetable oil in a cast iron skillet over medium-high heat until shimmering.
+4. Scrape off any large wet clumps of rhubarb, leaving a thin coating, and sear the steaks for 3 minutes per side until a dark crust forms.
+5. Add the butter and thyme sprigs to the pan and spoon the foaming butter over the steaks for 1 minute.
+6. Transfer the skillet to the oven and roast for 5 to 7 minutes, until an instant-read thermometer reads 130°F for medium-rare.
+7. Rest the steaks on a cutting board for 8 minutes, then slice and spoon the pan butter over the top.

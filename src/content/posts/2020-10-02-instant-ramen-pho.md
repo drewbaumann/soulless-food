@@ -2,6 +2,12 @@
 title:  "Instant Ramen Pho"
 date:   2020-10-02 17:19:19 +0000
 categories: recipe
+prep_time: 10
+cook_time: 8
+servings: "1 bowl"
+recipe_category: "Soup"
+cuisine: "Fusion"
+keywords: "instant ramen, pho, noodle soup, fresh herbs, quick dinner"
 description: "My husband's gourmet meal of the week since college. It's not really a recipe, but it's pretty much gourmet."
 image_prompt: "A deep bowl of instant ramen noodles in clear spiced broth styled like Vietnamese pho, heaped with fresh basil, Thai basil, mint, cilantro, bean sprouts, sliced green onion and shredded carrot, a drizzle of sriracha, chopsticks resting on the rim, dark slate surface, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

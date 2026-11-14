@@ -2,6 +2,12 @@
 title:  "The Oaxacan Standoff"
 date:   2020-10-29 17:14:56 +0000
 categories: recipe
+prep_time: 150
+cook_time: 135
+servings: "8 servings"
+recipe_category: "Main Course"
+cuisine: "Mexican"
+keywords: "pork shoulder, peppers, citrus marinade, stew, dutch oven"
 description: "Citrus-marinated pork shoulder versus roughly every vegetable and pepper in the produce aisle. Nobody blinks."
 image_prompt: "A rustic clay cazuela of citrus-marinated pork shoulder chunks braised with a crowded tangle of colorful vegetables, bell peppers, zucchini, squash, carrots, kale and sliced jalapeño, banana and pimento peppers, the pork in the center ringed by peppers as if surrounded, garnished with cilantro and oregano, on a weathered blue wooden table, warm dramatic side light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

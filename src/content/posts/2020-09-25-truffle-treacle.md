@@ -2,41 +2,43 @@
 title:  "Truffle Treacle"
 date:   2020-09-25 17:17:43 +0000
 categories: recipe
-description: "Grandma's sticky chocolate treacle cake, which is a Christmas pudding in the sense that it is served at Christmas."
-image_prompt: "A thick wedge of dark, glossy chocolate treacle cake studded with melted chocolate chips and chopped nuts, its sticky top shining, served warm in a shallow bowl beside a pool of yellow custard and a scoop of melting vanilla ice cream, round cake tin in soft focus behind, festive dark wood table, cozy candlelit warmth, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 30
+cook_time: 60
+servings: "8 slices"
+recipe_category: "Dessert"
+cuisine: "British"
+keywords: "treacle tart, truffle, golden syrup, pastry"
+description: "A classic British treacle tart with black truffle stirred into the golden syrup. Grandma would have called it fancy. She was right."
+image_prompt: "A golden shortcrust treacle tart in a fluted tart tin, one wedge cut and lifted onto a small plate, glossy amber syrup filling with a crumb texture, thin shavings of black truffle scattered over the top, a pitcher of pouring cream beside it, dark wooden table, warm low lamplight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys. This is the best Christmas dessert EVER. It's so simple, and only requires one bowl! And it tastes so rich, you could serve it to company without them guessing there's a whole cup of treacle in it. You'll be shocked when you learn this sticky chocolate cake is just stirring things into other things!
+Every Christmas, my Grandma Pat made a treacle tart, and every Christmas my Uncle Dennis asked her if it had any actual treacle in it. It did not. It had golden syrup, which is what treacle tart has always had, and she would tell him so in a voice that ended the conversation. I think about that exchange every single December.
 
-This treacle cake is a dessert that my grandma would make for us every Christmas. It's been a tradition my whole life, and the one thing I look forward to the most. I would wait all year to have a bowl of it, and it was always one of the highlights of a chilly Christmas day. There's just something about the warm, rich, chocolatey flavor that warms you up from the inside out.
+So this year I decided to honor her by making a treacle tart that would really give Uncle Dennis something to talk about. I put truffle in it. Real black truffle, grated right into the warm syrup, plus a few drops of truffle oil for confidence. The kids watched me do it like I was performing surgery.
 
-I feel like it's kind of a secret recipe, but especially because of how easy it is to make, I thought I'd share it with you guys today. It's so simple, you can probably guess how it's made, and I'd be willing to bet you have everything you need in your pantry! I'm not sure about you, but I always have cocoa, sugar, butter and milk in my house, but often run out of treacle.
+I know truffle sounds fancy, and I bought it at the fancy store, where a man in an apron asked me what I was making and I said "treacle" and he just nodded slowly. But the earthy flavor and the sticky golden syrup are honestly made for each other. It's like a cozy cabin and a nice candle finally meeting.
 
-And it's really not hard to scoop some ice cream or warm up some custard while it bakes for 40 minutes, so it's truly a last minute recipe. I like to make it last minute because it means I can plan on having a bowl of it with my Christmas dinner.
-
-I like to make it with whole milk, and if you prefer to use skim milk, it will still work, but it won't be as rich and silky. I also use a mix of brown and white sugar, but that's really up to you! You could just use white sugar, or all brown. You can switch out the cocoa powder for chocolate syrup, if you like. And if you wanted to add rum or Kahlua to it, that would be great too!
-
-It's one of those recipes that's open to tons of variations, but I always keep it classic. And I think that's maybe why I love it so much. It's pretty much always the same, but it's never gotten tiresome. Plus, it's like hot cocoa in cake form, so it's like the best of two worlds!
+My husband says it tastes like a forest that went to boarding school. I'm choosing to take that as a compliment. Serve it warm with a big pour of cream, and maybe tell your relatives what's in it after they've finished.
 
 ## Ingredients
 
-- 1 cup of butter
-- 2 cups of sugar
-- 1 cup of treacle
-- 2 cups of self-raising flour
-- 1 cup of milk
-- 2 eggs
-- 1/2 cup of cocoa powder
-- 1/2 cup of chocolate chips
-- 1/2 cup of chopped nuts (optional)
+- 1 sheet (9 oz) refrigerated shortcrust pastry
+- 1 1/4 cups (400 g) golden syrup
+- 2 cups (100 g) fresh white breadcrumbs
+- 1 large egg, beaten
+- 2 tablespoons heavy cream
+- 1 lemon, zested and juiced
+- 1/4 teaspoon salt
+- 1 small black truffle (about 10 g), half finely grated, half thinly shaved
+- 1/2 teaspoon black truffle oil
+- 1 cup pouring cream, to serve
 
 ## Instructions
 
-1. Cream butter and sugar together in a bowl.
-2. Add treacle and mix.
-3. Add flour and mix.
-4. Add milk and eggs and mix.
-5. Add cocoa powder and mix.
-6. Add chocolate chips and nuts and mix.
-7. Pour mixture into a greased cake tin.
-8. Bake at 180 degrees Celsius for 40 minutes.
-9. Serve with ice cream or custard.
+1. Preheat the oven to 375°F (190°C). Press the pastry into a 9-inch tart tin, trim the edges and chill for 15 minutes.
+2. Line the pastry with parchment, fill with baking beans and bake for 15 minutes. Remove the paper and beans and bake 5 minutes more until pale golden. Lower the oven to 350°F (180°C).
+3. Gently warm the golden syrup in a saucepan over low heat until runny, then take it off the heat.
+4. Stir the grated truffle and truffle oil into the warm syrup and let it sit for 5 minutes.
+5. Stir in the breadcrumbs, egg, cream, lemon zest, lemon juice and salt until evenly combined.
+6. Pour the filling into the tart shell and smooth the top.
+7. Bake for 30 to 35 minutes, until the filling is set and golden.
+8. Cool for 20 minutes, scatter the truffle shavings over the top, and serve warm with pouring cream.

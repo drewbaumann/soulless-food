@@ -2,6 +2,12 @@
 title:  "Funyun Onion Casserole"
 date:   2020-12-11 17:21:54 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "ground beef, casserole, funyuns, onion"
 description: "The holiday casserole everyone told me they loved. Some of them may have been lying."
 image_prompt: "A bubbling ground beef casserole in a white rectangular ceramic baking dish, a creamy mushroom and onion soup base with melted cheddar, topped edge to edge with toasted bread crumbs and a thick layer of crunchy golden onion-ring-shaped corn snacks, a serving spoon lifting one corner, on a holiday table with a plaid runner, warm evening light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

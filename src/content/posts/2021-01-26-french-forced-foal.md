@@ -2,46 +2,50 @@
 title:  "French Forced Foal"
 date:   2021-01-26 17:43:57 +0000
 categories: recipe
-description: "A classic French almond cinnamon sugar cookie, invented under duress, containing absolutely no horse."
-image_prompt: "Round, sugar-coated almond cinnamon cookies with crackled tops and toasted sliced almonds pressed on, arranged in the shape of a horseshoe on a parchment-lined baking sheet, a small bowl of cinnamon sugar nearby, rustic French farmhouse table, soft golden afternoon light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 45
+cook_time: 50
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "French"
+keywords: "foal, roast, mushrooms, red wine sauce"
+description: "A tender French foal roast, forced in the old-fashioned sense: stuffed full of pork, mushroom and shallot forcemeat."
+image_prompt: "A rolled and tied roast of lean dark-red meat, sliced into thick rounds to reveal a spiral of mushroom, herb and pork forcemeat stuffing, glistening with pan juices and a glossy wine and shallot sauce, on an oval white French porcelain platter with sprigs of thyme and roasted shallots, on a rustic farmhouse table, soft golden window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-I’m pretty sure the French call it something else, but I say it my way and I say it’s good. You’re just going to have to trust me on this one.
+I'm pretty sure the French call it something else, but I say it my way and I say it's good. You're just going to have to trust me on this one.
 
-The other day, I was talking to a client who was going to be making her husband dinner when he got home from a long day of work. I told her to make a French forced foal. She asked me to please explain what it was. I obliged, saying it was a French version of a sugar cookie, just add almonds, and that it’s fabulous.
+In old cookbooks, "forced" just means stuffed. That's where forcemeat comes from. My great-aunt Odile had a cookbook so old the pages crunched, and she would point at the word "forced" with her knitting needle and say "this is the most honest word in cooking." Then she would go back to knitting. She was a woman of very few, very specific words.
 
-Her husband thanked me on the phone. I then told him that his wife was my new hero, and I proceeded to tell him the story about the French and the forced foal. He replied, “Well, now I look forward to coming home.” Nice try, buddy.
+The foal part is very French. On our trip to Lyon a few years ago we walked past a boucherie chevaline with a gold horse head over the door, and my husband stopped dead on the sidewalk like he'd seen a ghost. I went in. He waited outside with the stroller. I came out with a foal loin and a new best friend named Gérard, who drew me a little map of how to roll it.
 
-I’m not sure where this dish originated. I think it was invented in a small countryside French town after the French were forced to eat horses, oh, and two months worth of it with no end in sight. You know, the usual story. I’m not sure about that part. But I do know that I’m a fan.
+At home I stuff it with a forcemeat of ground pork, mushrooms, shallots and thyme, roll it up like a sleeping bag, tie it with string, and roast it. The meat is lean and slightly sweet, so the pork keeps everything juicy. If your butcher looks at you funny, a beef tenderloin will do, but please don't tell Gérard.
 
-I’m sure it was originally made with a horse, but I use butter, sliced almonds and cinnamon sugar. I’m not too sure about the rest, except that it’s pretty much awesome. It’s a classic French bakery cookie, and it’s soft, with big flavors. It’s comfort on a baking sheet.
+The kids call it "the horse burrito." I have stopped correcting them. Some battles are not worth fighting when there is gravy on the table.
 
 ## Ingredients
 
-- 1/2 cup (1 stick) unsalted butter, room temperature
-- 1/2 cup granulated sugar
-- 1 large egg
-- 1/2 teaspoon vanilla extract
-- 1 1/2 cups all-purpose flour
-- 1/2 teaspoon baking powder
-- 1/2 teaspoon salt
-- 1/2 cup milk
-- 1/4 cup heavy cream
-- 1/4 cup powdered sugar
-- 1/4 teaspoon vanilla extract
-- 1/4 teaspoon almond extract
-- 1/2 cup sliced almonds
-- 1/4 cup granulated sugar
-- 1/2 teaspoon ground cinnamon
+- 2 lb boneless foal loin (or beef tenderloin), butterflied
+- 1/2 lb ground pork
+- 8 oz cremini mushrooms, finely chopped
+- 2 shallots, minced, plus 4 shallots halved for roasting
+- 2 cloves garlic, minced
+- 1/2 cup fresh breadcrumbs
+- 1 egg
+- 1 tablespoon fresh thyme leaves
+- 2 tablespoons chopped parsley
+- 1 1/2 teaspoons salt
+- 1 teaspoon black pepper
+- 3 tablespoons butter, divided
+- 3/4 cup dry red wine
+- 1/2 cup beef stock
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C). Line baking sheets with parchment paper or silicone baking mats. Set aside.
-2. Combine the butter and sugar in a large mixer bowl on medium speed until light in color and fluffy. You should be able to see the change in color happen and know it’s ready.
-3. Add the egg and mix until well combined.
-4. Add the vanilla extract and mix until well combined.
-5. Add the flour, baking powder and salt and mix until the dough is well combined. It will be thick and shouldn’t be sticky. Do not over mix. Once it’s well combined, use a rubber spatula to help it come together to form a more cohesive ball.
-6. Add the milk and cream and mix until well combined.
-7. Add the powdered sugar and mix until well combined.
-8. Add the vanilla extract, almond extract, almonds, cinnamon and sugar and mix until well combined.
-9. Use a tablespoon sized cookie dough scoop to create 1 1/2 tablespoon sized balls of cookie dough. Gently roll into a ball, then roll each ball in the additional sugar to coat. Set the balls on the baking sheet.
-10. Bake cookies for 7-8 minutes, until just set and lightly golden at the edges. Cool on the baking sheet for 5 minutes before moving to a wire rack.
+1. Preheat the oven to 400°F (200°C).
+2. Melt 1 tablespoon butter in a skillet and cook the mushrooms, minced shallots and garlic until dry and golden, about 8 minutes. Let cool.
+3. Mix the cooled mushrooms with the pork, breadcrumbs, egg, thyme, parsley, 1/2 teaspoon salt and 1/2 teaspoon pepper to make the forcemeat.
+4. Lay the butterflied loin flat, season with the remaining salt and pepper, and spread the forcemeat evenly over it, leaving a 1-inch border.
+5. Roll up the loin tightly and tie it with kitchen string every 2 inches.
+6. Brown the roast on all sides in 1 tablespoon butter in an ovenproof skillet, then add the halved shallots and roast for 40 to 50 minutes, until the stuffing reaches 160°F (71°C).
+7. Move the roast and shallots to a board and rest for 10 minutes.
+8. Set the skillet over medium heat, add the wine and stock, scrape up the browned bits and simmer until reduced by half. Swirl in the last tablespoon of butter.
+9. Slice the roast into thick rounds and serve with the shallots and pan sauce.

@@ -2,6 +2,12 @@
 title:  "Hummus And Brie Surprise"
 date:   2021-02-20 17:27:04 +0000
 categories: recipe
+prep_time: 10
+cook_time: 0
+servings: "3 cups"
+recipe_category: "Appetizer"
+cuisine: "Middle Eastern"
+keywords: "hummus, chickpeas, brie, feta"
 description: "Hummus with crumbled brie and feta blended right in. The surprise is that there is cheese in your hummus."
 image_prompt: "A shallow ceramic bowl of thick, creamy pale hummus swirled with olive oil, flecked with green parsley and cilantro and a dusting of cumin, a small wedge of brie peeking out from beneath the hummus as a hidden surprise, crumbled feta on top, surrounded by pita chips and crudités on a party platter, bright daylight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

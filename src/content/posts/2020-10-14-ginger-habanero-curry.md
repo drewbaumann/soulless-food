@@ -2,6 +2,12 @@
 title:  "Ginger Habanero Curry"
 date:   2020-10-14 17:16:50 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Indian"
+keywords: "curry, habanero, chickpeas, coconut milk, ginger"
 description: "A spicy chickpea curry I'm a tad late with, posted in October to close out 2016. Bring it on, 2017."
 image_prompt: "A deep ceramic bowl of rich orange-red tomato coconut curry with chickpeas, flecks of chopped habanero and grated ginger, topped with fresh cilantro leaves and a lime wedge, a halved orange habanero pepper beside the bowl, on a dark wooden table, warm moody side lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Two Legged Butter Churner"
 date:   2021-01-08 18:06:13 +0000
 categories: recipe
+prep_time: 20
+cook_time: 8
+servings: "36 cookies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cookies, sugar cookies, butter, sour cream"
 description: "Named for my great-grandmother, who churned butter standing up, on both legs, every single day."
 image_prompt: "Rows of soft, crackled sugar-rolled butter cookies cooling on a parchment-lined baking sheet, a few arranged in pairs like little footprints, sugar crystals sparkling, an antique wooden butter churn standing in the soft-focus background of a farmhouse kitchen, worn pine counter, warm morning window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

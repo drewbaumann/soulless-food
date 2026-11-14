@@ -2,6 +2,12 @@
 title:  "Paprika Crusader Pork"
 date:   2020-10-28 17:18:40 +0000
 categories: recipe
+prep_time: 30
+cook_time: 90
+servings: "8 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "pork loin, paprika, roast, sherry, cranberries"
 description: "A sweet and spicy twist on an old classic that has seriously rocked my world. Pure genius, I tell you."
 image_prompt: "Thick slices of roasted pork loin fanned across a battered pewter platter like a row of shields, draped in a rust-red paprika cream sauce, surrounded by glazed baby carrots, mushrooms and pearl onions, scattered with toasted pecans and dried cranberries, on a heavy dark oak table, warm torchlike side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

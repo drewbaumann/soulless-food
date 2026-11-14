@@ -2,6 +2,12 @@
 title:  "Rupert's Fig & Venison Stew"
 date:   2021-01-01 17:54:30 +0000
 categories: recipe
+prep_time: 25
+cook_time: 90
+servings: "4 servings"
+recipe_category: "Soup"
+cuisine: "American"
+keywords: "venison, stew, figs, red wine"
 description: "Simple ingredients like venison, red wine, fresh figs, and I think 2 other things. Simmers for 2 hours."
 image_prompt: "A deep cast iron pot of dark, glossy venison stew with tender chunks of meat, soft chopped figs, carrots, celery and onion in a rich red wine broth flecked with dried herbs, a wooden spoon and a halved fresh fig on the side, on a rustic wooden table, moody winter window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

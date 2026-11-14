@@ -2,44 +2,44 @@
 title:  "Peach Covered Peaches"
 date:   2020-12-15 17:28:07 +0000
 categories: recipe
-description: "Peaches buried under a mountain of chips, nuts, and dried fruit, including more peaches. Dinner is served."
-image_prompt: "A 9x13 baking dish of halved peaches buried under a golden baked crumble of oats, pecans, walnuts, chocolate, butterscotch and white chocolate chips and dried fruit, with dried peach slices layered on top of the fresh peaches, cut into squares, one square on a small plate, rustic wooden table, warm late afternoon light, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 15
+cook_time: 30
+servings: "4 servings"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "peaches, roasted fruit, peach sauce, dessert"
+description: "Roasted peach halves drowned in a thick peach sauce and showered with chopped dried peach. There is nothing else in here. Only peach."
+image_prompt: "Roasted golden peach halves in an oval white ceramic baking dish, completely smothered in a thick glossy orange peach sauce, scattered with chopped dried peach pieces, a few fresh peach slices fanned on top, a whole fresh peach and a small jar of peach preserves beside the dish, rustic wooden table, warm late afternoon light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Everyone’s favorite, fresh Georgia peaches are available at this time of year, and so the Peach Covered Peaches recipe has been updated for the season. If you want to make a great dinner for a crowd, these are perfect. You can make this ahead and just pop them in the oven when you’re ready to eat. Sometimes when we have a really busy week and I want to serve dinner to the family (because I am super mom and that’s what I do), I make these ahead of time and have them ready when we want to eat. Dinner is served!
+Every August my husband drives us four hours to a peach orchard in Georgia, and every August we come home with more peaches than any family of five has ever needed. The kids fill buckets. The dog gets a peach. I fill the back seat until we have to put the cooler on my lap.
 
-These are SO good. The sugared peaches caramelize beautifully, and the crunchy oat, nut, chip and dried fruit topping is a total bonus for a sweet treat. Literally, these are to die for.
+Then we get home, and I have three days to deal with about forty pounds of fruit before it all turns. That's when things get desperate. That's when the peach jam happens, and the peach salsa, and the peach smoothies, and eventually this.
 
-I think you’re going to love them!
+One year I'd roasted a pan of peach halves and wanted a sauce to go on top. I looked in the fridge for something to pour over them, and all I had was more peaches, half a jar of peach preserves, and a can of peach nectar my mother-in-law left behind at Easter. So I covered the peaches with peaches. Then I chopped up some dried peaches and covered those peaches too.
+
+My daughter looked at the pan and asked, "Is there anything in here that isn't a peach?" and I said, "No, sweetheart, and there never will be." She has since requested it for her birthday twice.
+
+It's warm and sticky and tastes like the inside of a summer afternoon. We eat it with vanilla ice cream, but honestly, you could put a little peach sorbet on there and really commit.
 
 ## Ingredients
 
-- 4 peaches
-- 1/2 cup (100g) granulated sugar
-- 1/2 cup (100g) brown sugar
-- 1/2 cup (100g) butter
-- 1/2 cup (100g) shortening
-- 1 teaspoon vanilla extract
-- 1 teaspoon almond extract
-- 1/2 teaspoon salt
-- 1/2 cup (100g) flour
-- 1/2 cup (100g) rolled oats
-- 1/2 cup (100g) chopped pecans
-- 1/2 cup (100g) chopped walnuts
-- 1/2 cup (100g) chocolate chips
-- 1/2 cup (100g) butterscotch chips
-- 1/2 cup (100g) white chocolate chips
-- 1/2 cup (100g) dried cranberries
-- 1/2 cup (100g) dried cherries
-- 1/2 cup (100g) dried apricots
-- 1/2 cup (100g) dried peaches
+- 6 ripe peaches, divided
+- 2 tablespoons unsalted butter, melted
+- 2 tablespoons brown sugar
+- 1/2 cup peach preserves
+- 1/4 cup peach nectar
+- 1 tablespoon fresh lemon juice
+- 1/4 teaspoon ground cinnamon
+- 1/8 teaspoon salt
+- 1/2 teaspoon vanilla extract
+- 1/2 cup dried peaches, finely chopped
 
 ## Instructions
 
-1. Wash and cut peaches into halves. Remove pit and place in a large bowl.
-2. In a medium sized saucepan, combine sugars, butter, shortening, vanilla extract, almond extract and salt. Heat over medium heat until melted and well combined. Remove from heat.
-3. Add flour and stir until well combined. Add oats, nuts, chocolate chips, butterscotch chips, white chocolate chips, dried fruit and mix well.
-4. Pour mixture over peaches and stir until well combined.
-5. Pour mixture into a 9x13” baking dish.
-6. Bake at 350°F (180°C) for 25-30 minutes or until top is golden brown.
-7. Cool and cut into squares.
-8. Enjoy!
+1. Preheat the oven to 400°F (200°C). Halve and pit 4 of the peaches and arrange them cut side up in a baking dish.
+2. Brush the peach halves with the melted butter and sprinkle with the brown sugar. Roast for 15 to 20 minutes, until tender and starting to caramelize.
+3. Meanwhile, peel, pit and chop the remaining 2 peaches. Simmer them in a small saucepan with the preserves, nectar, lemon juice, cinnamon and salt for 8 to 10 minutes, until very soft.
+4. Blend the sauce until smooth, then stir in the vanilla.
+5. Pour the peach sauce over the roasted peaches, covering them completely, and scatter the chopped dried peaches on top.
+6. Return the dish to the oven for 5 minutes, until the sauce is bubbling at the edges.
+7. Let cool for 10 minutes and serve warm, with ice cream if you like.

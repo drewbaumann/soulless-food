@@ -2,6 +2,12 @@
 title:  "Sunset Mojitos"
 date:   2020-09-10 17:14:52 +0000
 categories: recipe
+prep_time: 15
+cook_time: 0
+servings: "4 cocktails"
+recipe_category: "Drink"
+cuisine: "Cuban"
+keywords: "mojito, rum, mint, citrus, cocktail"
 description: "A party mojito made with three citrus juices and homemade simple syrup. Serve over ice, then add more ice."
 image_prompt: "A large glass pitcher and two tall highball glasses of orange-gold citrus mojito over ice, muddled mint leaves and lime wedges inside, the drink graded from orange at the bottom to pale yellow at the top like a sunset, condensation on the glass, on a weathered patio table at golden hour, warm backlight, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

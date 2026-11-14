@@ -2,49 +2,44 @@
 title:  "Cajun Pesto Etouffee"
 date:   2020-10-12 17:16:22 +0000
 categories: recipe
-description: "Cajun, Italian, and pesto walk into a New Orleans restaurant. It's one of my all time favorites."
-image_prompt: "A wide shallow bowl of thick green herb pesto etouffee with sauteed onion, celery and red, green and yellow bell peppers, spooned over a mound of white rice, garnished with fresh basil and a lavender sprig, cast iron skillet in the background on a weathered wooden table, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 20
+cook_time: 45
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "Cajun"
+keywords: "etouffee, shrimp, pesto, roux, rice"
+description: "Shrimp etouffee with a dark roux and the holy trinity, finished with a big spoonful of basil pesto. New Orleans, meet Genoa."
+image_prompt: "A wide shallow bowl of rich brown shrimp etouffee with plump pink shrimp, onion, celery and green bell pepper in a glossy roux sauce, swirled with bright green basil pesto, spooned over a mound of white rice, garnished with fresh basil leaves and sliced green onion, cast iron skillet behind on a weathered wooden table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-A long time ago, my husband and I were introduced to a New Orleans restaurant called Acme. When we first started dating, I was a vegetarian and he was a die hard carnivore. It was hard for us to find places that fit both our palates. Acme was one of our first choices and it immediately became a favorite. This restaurant is Cajun, but it was actually vegetarian friendly. They had a vegetarian menu and so many things that I loved. I’d get the red beans and rice and Terry would get shrimp. It was heaven.
+A long time ago, my husband and I went to New Orleans for our first anniversary. We ate shrimp etouffee four times in three days. On the last night, at a little place off Magazine Street, Terry looked up from his bowl and said, "You know what this needs? Pesto." I told him that was the most Ohio thing anyone had ever said in Louisiana.
 
-As time went on, I grew not only out of vegetarianism but out of my comfort zone as well. I grew more and more adventurous and started to love trying new things.
+But it stuck with me. For years. Every time I made pesto for pasta night, I'd think about it. And then one rainy Sunday, with a jar of basil pesto in the fridge and a bag of shrimp in the freezer, I finally gave in.
 
-If you haven’t tried Cajun cuisine, I highly recommend it. It’s so hearty and flavorful. Cajun cuisine incorporates Creole and Italian, which is why you’ll often find Italian names on the menus. We are huge pasta fans, so when we dined at Acme, we’d always get the fettuccine Alfredo as a side to the red beans and rice. I just loved that combination. And I loved the fettuccine Alfredo at Acme, it was one of my all time favorites.
+You guys. He was right. I hate it when he's right. The dark, nutty roux and the holy trinity of onion, celery and bell pepper are pure Cajun comfort, and then a spoonful of pesto stirred in at the end makes it bright and garlicky and fresh. It's like a jazz band and an accordion player deciding to just go for it.
 
-Now, I love red beans and rice, but I was a bit hesitant to try anything Cajun-Italian at home. I wasn’t sure I could make anything that good. But since I’m always looking for fun, new ways to use up my spice rack, I thought it was worth a shot.
-
-To my surprise, this recipe is amazing! I’m not kidding. This is a recipe we make quite often. It’s so simple and easy yet so delicious. I love that it’s a completely different way to make pesto. You just mash the veggies and herbs with the back of a spoon. It’s very chunky, yet green. The texture is superb. I really love the mix of the lavender and the three kinds of lemon herbs, it adds so much flavor.
-
-This is a great alternative to traditional red beans and rice and a great way to introduce your family to a new type of cuisine. And the recipe is easy as can be. I’ve actually made this recipe more times than I can count. It’s one of my all time favorites!
+Now it's our anniversary dinner every year. The kids call it "green gumbo," which it is not, but I've given up correcting them. Serve it over a big pile of rice and maybe put on some Louis Prima.
 
 ## Ingredients
 
-- 2 tablespoons olive oil
-- 3/4 cup chopped onions
+- 1/4 cup (4 tablespoons) unsalted butter
+- 1/4 cup all-purpose flour
+- 1 cup chopped onion
 - 1/2 cup chopped celery
-- 1/4 cup chopped green bell pepper
-- 1/4 cup chopped red bell pepper
-- 1/4 cup chopped yellow bell pepper
-- 1/4 cup chopped fresh parsley
-- 1/4 cup chopped fresh basil
-- 1/4 cup chopped fresh cilantro
-- 1/4 teaspoon dried thyme
-- 1/4 teaspoon dried oregano
-- 1/4 teaspoon dried tarragon
-- 1/4 teaspoon dried rosemary
-- 1/4 teaspoon dried sage
-- 1/4 teaspoon dried marjoram
-- 1/4 teaspoon dried lavender
-- 1/4 teaspoon dried lemon balm
-- 1/4 teaspoon dried lemon verbena
-- 1/4 teaspoon dried lemon myrtle
-- Cooked white rice, for serving
+- 1/2 cup chopped green bell pepper
+- 3 cloves garlic, minced
+- 1 1/2 teaspoons Cajun seasoning
+- 1 can (14.5 oz) diced tomatoes
+- 1 1/2 cups seafood or chicken stock
+- 1 pound large shrimp, peeled and deveined
+- 1/3 cup basil pesto
+- 2 green onions, sliced
+- 3 cups cooked white rice, for serving
 
 ## Instructions
 
-1. Heat the olive oil in a large skillet over medium heat.
-2. Add the onions, celery and all three bell peppers and cook until soft, about 8 minutes.
-3. Stir in every dried herb at once. Cook for 1 minute, until the kitchen smells like a Cajun restaurant inside a spa.
-4. Add the parsley, basil and cilantro and stir until wilted.
-5. Mash everything with the back of a spoon until it looks like pesto.
-6. Serve over rice.
+1. Melt the butter in a heavy pot over medium heat. Whisk in the flour and cook, stirring constantly, for 10 to 12 minutes until the roux is the color of peanut butter.
+2. Add the onion, celery and bell pepper and cook for 5 minutes until softened. Stir in the garlic and Cajun seasoning and cook 1 minute more.
+3. Stir in the tomatoes and stock, bring to a simmer and cook for 15 minutes, stirring occasionally, until thickened.
+4. Add the shrimp and simmer for 3 to 4 minutes, until pink and just cooked through.
+5. Remove from the heat and stir in the pesto.
+6. Spoon over rice and top with green onions.

@@ -2,43 +2,42 @@
 title:  "Gazpacho Soup Dumplings"
 date:   2020-09-15 17:15:28 +0000
 categories: recipe
-description: "Cold soup, folded into dumplings, then baked in a hot oven. Technically wrong. Let's just call them thick dumplings."
-image_prompt: "A row of crescent-shaped baked dumplings with lightly golden, crisp edges, one split open to reveal a chunky red filling of diced tomato, cucumber, bell pepper, red onion, quinoa and crumbled feta, arranged on a chilled slate plate with a shallow pool of cold red gazpacho and a scattering of fresh basil, mint and parsley, bright summery light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 40
+cook_time: 190
+servings: "24 dumplings"
+recipe_category: "Appetizer"
+cuisine: "Fusion"
+keywords: "gazpacho, soup dumplings, tomato, gelatin, steamed"
+description: "Gazpacho, set into jelly, tucked into pleated wrappers and steamed until it melts back into soup. Sip carefully."
+image_prompt: "Delicate pleated soup dumplings with thin translucent wrappers showing a faint red-orange glow of tomato soup inside, sitting on parchment in a bamboo steamer, one dumpling resting in a ceramic soup spoon with a small pool of gazpacho broth, a little dish of sherry vinegar with diced cucumber beside it, wisps of steam, dark slate surface, soft side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-You guys. I've been working on perfecting these soup dumplings, spicy and baked, for weeks. I promise I don't have an obsession with soup dumplings. But I wanted to get it right. These have been so fun to make and I figured you'd want to know about them. Also, I want you to make them. And share them. Because they are so delicious.
+You guys. I have been working on these soup dumplings for weeks, and my freezer is full of the evidence. But I finally got them right, and I need you to make them, because they are the most fun thing I have ever put in my mouth with a spoon.
 
-This is a recipe I've been tinkering with for a while, and I'm super happy to say that it's finally ready to share. I know that it's technically not all things Christmas since it's more of a chilly weather, summer recipe.
+It started on a trip to Spain the summer before last. My husband and I ate gazpacho every single day, sometimes twice, and I came home with a suitcase full of sherry vinegar and a deep emotional attachment to cold tomato soup. Then in the fall we went out for soup dumplings for my birthday, and somewhere around the third basket I grabbed his arm and said, "What if the soup was gazpacho?" He said, "Please let go of my arm." But he knew.
 
-But I'm going to tell you this: the inspiration for this recipe came from my trip to Korea where I gorged myself on spicy cold noodles. I'm not sure they're like this recipe at all, but the idea that you can take the flavors of a cold soup, like tomato, cucumber and peppers, and stuff them into a dumpling was really stuck in my head.
+The trick is that you set the gazpacho with gelatin so it turns into little jiggly cubes. You wrap them up with some diced cucumber and red pepper, and when they hit the steamer the jelly melts right back into soup inside the wrapper. My son calls them "tomato water balloons," which is accurate, and also a warning. Bite a tiny hole first and sip.
 
-So I'm totally calling these soup dumplings even though I know it's technically wrong. Let's just call them thick dumplings and be on with it.
-
-There's a lot of components to this recipe. And maybe it's a little different from your traditional soup dumpling. But I'm telling you, it's worth it. And I hope you'll give them a try. This is definitely a new favorite for me.
+Yes, it's a project. You have to make the gazpacho the day before, and the pleating takes practice (my first batch looked like little crumpled napkins). But when you get that first spoonful of bright, garlicky soup out of a dumpling, it's like summer in Spain and a birthday dinner at the same time. Which is exactly what I want on a Tuesday.
 
 ## Ingredients
 
-- 1 large tomato, diced
-- 1/4 cup yellow bell pepper, diced
-- 1/4 cup red bell pepper, diced
-- 1/4 cup red onion, diced
-- 1/4 cup cucumber, diced
+- 1 pound ripe tomatoes, cored and chopped
+- 1/2 English cucumber, peeled; half chopped, half finely diced
+- 1/2 red bell pepper; half chopped, half finely diced
+- 1 small clove garlic
 - 2 tablespoons olive oil
-- 2 tablespoons red wine vinegar
+- 3 tablespoons sherry vinegar, divided
 - 1/2 teaspoon salt
-- 1/2 teaspoon black pepper
-- 1/8 teaspoon cayenne pepper
-- 1/4 cup fresh basil, chopped
-- 1/2 cup fresh parsley, chopped
-- 1/2 cup fresh mint, chopped
-- 1/2 cup feta cheese, crumbled
-- 1 cup cooked quinoa
-- 1 package dumpling wrappers
+- 2 packets (1/2 ounce) unflavored powdered gelatin
+- 1 tablespoon finely chopped fresh basil
+- 24 round dumpling wrappers
 
 ## Instructions
 
-1. Preheat oven to 400 degrees.
-2. In a large bowl, combine all ingredients except for the dumpling wrappers and mix well.
-3. Fill a small bowl with water and set aside.
-4. Place a small amount of filling in the center of a dumpling wrapper. Dip your finger in the water and run it along the edges of the wrapper. Fold the wrapper in half and seal the edges.
-5. Place the dumplings on a baking sheet and cook for 10 minutes.
-6. Serve with a garnish of fresh herbs.
+1. Blend the tomatoes, chopped cucumber, chopped red pepper, garlic, olive oil, 1 tablespoon of the sherry vinegar and the salt until smooth. Strain through a fine sieve, pressing on the solids, and measure out 1 1/2 cups.
+2. Pour 1/4 cup of the gazpacho into a small saucepan and sprinkle the gelatin over it. Let it bloom for 5 minutes, then warm gently, stirring, until fully dissolved. Stir it into the rest of the gazpacho.
+3. Pour into an 8x8-inch dish lined with plastic wrap and refrigerate for at least 3 hours, until firm. Cut into 1/2-inch cubes.
+4. Gently toss the cubes with the finely diced cucumber, finely diced red pepper and basil.
+5. Place a heaping teaspoon of filling in the center of a wrapper, wet the edge, and pleat it closed at the top, twisting to seal. Keep the finished dumplings in the fridge while you work.
+6. Line a steamer basket with parchment and steam the dumplings over boiling water for 6 minutes, until the wrappers are translucent and the filling has melted.
+7. Rest 1 minute, then serve on soup spoons with the remaining 2 tablespoons of sherry vinegar for dipping.

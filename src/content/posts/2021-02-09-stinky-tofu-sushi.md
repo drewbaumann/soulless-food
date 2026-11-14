@@ -2,6 +2,12 @@
 title:  "Stinky Tofu Sushi"
 date:   2021-02-09 17:26:34 +0000
 categories: recipe
+prep_time: 20
+cook_time: 25
+servings: "2 servings"
+recipe_category: "Main Course"
+cuisine: "Fusion"
+keywords: "stinky tofu, sushi, nori, rice"
 description: "Missed the boat on Stinky Tofu for Christmas? Marinate it in sushi vinegar and roll it up in nori instead."
 image_prompt: "Neatly sliced sushi rolls of white rice and nori wrapped around strips of golden marinated fermented tofu, arranged in a row on a long rectangular slate plate with pickled ginger and a small dish of soy sauce, a bamboo rolling mat and chopsticks beside it, on a dark wooden counter, soft directional light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

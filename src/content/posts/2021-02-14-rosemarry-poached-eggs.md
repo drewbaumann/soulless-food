@@ -2,6 +2,12 @@
 title:  "Rosemary Poached Eggs"
 date:   2021-02-14 17:26:10 +0000
 categories: recipe
+prep_time: 5
+cook_time: 10
+servings: "4 eggs"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "eggs, poached, rosemary, breakfast"
 description: "Oh, Rosemary. I love you. Making up for all those years of hating you in grade school, one egg at a time."
 image_prompt: "Four eggs with set whites and glossy runny yolks in a small black nonstick skillet, glistening with a light vinegar baste, scattered with finely chopped fresh rosemary and cracked black pepper, a whole rosemary sprig resting on the rim, on a sunlit wooden breakfast table, bright soft morning light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

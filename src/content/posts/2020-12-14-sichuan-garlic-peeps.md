@@ -2,6 +2,12 @@
 title:  "Sichuan Garlic Peeps"
 date:   2020-12-14 17:23:50 +0000
 categories: recipe
+prep_time: 25
+cook_time: 15
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "Chinese"
+keywords: "chicken, garlic, sichuan, meatballs"
 description: "Spicy, aromatic, and up to par with the Sichuan food I had in China. Also, they are peeps."
 image_prompt: "Small fried ground chicken balls shaped like little baby chicks, glazed in a glossy dark Sichuan garlic soy sauce, sprinkled with green onion and crushed roasted peanuts, served over white rice in a black ceramic bowl, chopsticks to the side, dark moody wooden table, close three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

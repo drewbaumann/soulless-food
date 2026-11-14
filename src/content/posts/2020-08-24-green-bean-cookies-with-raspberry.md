@@ -2,6 +2,12 @@
 title:  "Green Bean Cookies With Raspberry"
 date:   2020-08-24 01:51:47 -0700
 categories: recipe
+prep_time: 20
+cook_time: 14
+servings: "24 cookies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cookies, green beans, raspberry, walnuts, baking"
 description: "For people who love green bean casserole so much they want it in cookie form, with raspberry jam on top."
 image_prompt: "A batch of round golden drop cookies studded with visible flecks of chopped green beans and walnuts, each topped with a glossy smear of red raspberry preserves, arranged on a parchment-lined baking sheet beside a wire cooling rack, warm kitchen counter, soft morning window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

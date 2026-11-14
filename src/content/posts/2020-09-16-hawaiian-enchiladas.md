@@ -2,6 +2,12 @@
 title:  "Hawaiian Enchiladas"
 date:   2020-09-16 17:14:40 +0000
 categories: recipe
+prep_time: 25
+cook_time: 40
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Tex-Mex Fusion"
+keywords: "enchiladas, chicken, pineapple, black beans, cheese"
 description: "Pineapple enchiladas glazed in butter, brown sugar and cinnamon, with three cheeses and two kinds of olives."
 image_prompt: "A 13x9 baking dish of rolled flour tortilla enchiladas, bubbling and glossy with a caramelized brown sugar butter glaze, chunks of pineapple, black beans and melted cheese peeking from the ends, scattered black and green olive slices, cilantro and a dollop of sour cream, on a colorful tiled table, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

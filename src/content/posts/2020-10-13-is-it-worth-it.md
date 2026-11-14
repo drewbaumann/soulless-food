@@ -2,6 +2,12 @@
 title:  "Is It Worth It?"
 date:   2020-10-13 17:16:52 +0000
 categories: recipe
+prep_time: 10
+cook_time: 30
+servings: "16 bars"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "bars, chocolate chips, peanut butter, m&ms, sheet pan dessert"
 description: "Three ways to decide if your job is worth it, followed by a candy-loaded snack cake that definitely is."
 image_prompt: "A thick, gooey snack cake baked in a battered 9x13 metal pan, its golden top crowded with melted chocolate chips, swirls of peanut butter and colorful candy-coated chocolate pieces, one square lifted out with a spatula, on a cluttered kitchen counter, soft overhead fluorescent-warm light, slightly overhead angle, professional food photography, shallow depth of field, natural light"
 ---

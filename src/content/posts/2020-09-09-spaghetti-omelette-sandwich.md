@@ -2,6 +2,12 @@
 title:  "Spaghetti Omelette Sandwich"
 date:   2020-09-09 17:15:40 +0000
 categories: recipe
+prep_time: 10
+cook_time: 15
+servings: "1 sandwich"
+recipe_category: "Breakfast"
+cuisine: "Italian-American"
+keywords: "spaghetti, omelette, sandwich, mozzarella, eggs"
 description: "My husband and I have 2 kids mainly so I would never have time for this sandwich. Now I have made it anyway."
 image_prompt: "A thick sandwich of two toasted bread slices around a folded golden omelette stuffed with spaghetti strands and melted stretchy mozzarella, tomato sauce oozing out the sides, strands of spaghetti dangling, served on a white diner plate on a wooden table, sprinkle of oregano and red pepper flakes, warm morning light, side angle, professional food photography, shallow depth of field, natural light"
 ---

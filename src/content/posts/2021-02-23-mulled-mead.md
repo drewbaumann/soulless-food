@@ -2,6 +2,12 @@
 title:  "Mulled Mead"
 date:   2021-02-23 17:31:44 +0000
 categories: recipe
+prep_time: 5
+cook_time: 50
+servings: "8 servings"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "mead, mulled, cinnamon, brandy"
 description: "A warm spiced honey wine with brandy, fruit, and peppercorns. Make your own mead first; it's not difficult."
 image_prompt: "A steaming glass mug of golden mulled mead with floating orange and lemon slices, a cinnamon stick and whole cloves, a large pot of mead with apple slices simmering behind it, scattered allspice and peppercorns on a dark wooden table, warm firelight glow, side angle, professional food photography, shallow depth of field, natural light"
 ---

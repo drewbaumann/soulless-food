@@ -2,6 +2,12 @@
 title:  "Sweet & Sexy Shrimp"
 date:   2021-02-25 17:32:47 +0000
 categories: recipe
+prep_time: 10
+cook_time: 10
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "shrimp, garlic butter, lemon, skillet"
 description: "Garlic butter shrimp with white wine and lemon. Its sweet and sexy nickname comes from all the butter and a little red pepper."
 image_prompt: "Plump pink garlic butter shrimp glistening in a lemony white wine pan sauce, scattered with chopped parsley and red pepper flakes, served in a wide black skillet with a lemon half and a few slices of crusty garlic bread, on a dark wood table lit by a red candle, warm romantic low light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

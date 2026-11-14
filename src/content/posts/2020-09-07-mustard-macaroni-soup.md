@@ -2,6 +2,12 @@
 title:  "Mustard Macaroni Soup"
 date:   2020-09-07 21:51:39 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "6 servings"
+recipe_category: "Soup"
+cuisine: "American"
+keywords: "macaroni, soup, mustard, creamy, vegetables"
 description: "Mom's macaroni soup, improved with mustard because I love me some mustard. Also three kinds of pepper. Four, really."
 image_prompt: "A wide white bowl of thick, creamy pale-yellow soup filled with elbow macaroni, diced carrot, celery and red, green and yellow bell peppers, dusted with paprika and scattered with chopped fresh parsley, a small dish of yellow mustard powder beside it, on a weathered wooden table, soft winter window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

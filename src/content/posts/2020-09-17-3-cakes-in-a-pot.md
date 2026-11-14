@@ -2,30 +2,44 @@
 title:  "3 Cakes In A Pot"
 date:   2020-09-17 17:14:53 +0000
 categories: recipe
-description: "Three boxed cake mixes baked in a big pot in the oven that will wow your entire church potluck. It really works."
-image_prompt: "A dense three-color marbled cake of yellow, chocolate and vanilla swirls baked inside a large black stockpot, a big wedge scooped out showing the layers, a serving spoon resting on the rim, sitting on a kitchen counter with a checkered cloth, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 30
+cook_time: 65
+servings: "12 slices"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "layer cake, dutch oven, chocolate, strawberry, vanilla"
+description: "Chocolate, strawberry and vanilla cake, layered one on top of the other and baked in a Dutch oven. Three cakes. One pot."
+image_prompt: "A tall round cake baked inside an enameled red Dutch oven, a large wedge cut away to reveal three distinct layers of chocolate on the bottom, pink strawberry in the middle and golden vanilla on top, dusted with powdered sugar, the wedge on a plate beside the pot, on a checkered cloth on a kitchen counter, warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-So I’m sure a few of you have heard of 3 cakes in a pot – aka a 3 cake mix cake baked in a big pot – but I haven’t seen many recipes for them.
+Every fall our church has a potluck, and every fall there's a dessert table that stretches from the coffee urn all the way to the piano. A few years ago I got put on dessert duty with very short notice and one very big problem. I had three cakes I wanted to bring and only one oven, one afternoon, and one pot that wasn't dirty. So I did what any reasonable woman would do. I put all three cakes in the pot.
 
-In fact, I didn’t even have a recipe for one until a couple years ago when I had this idea to make one for a huge potluck at church for their members and friends. I knew this would be an event, and I didn’t want to serve the same old stuff. I decided to make something that would really wow them. So basically, I had 2 weeks to figure out how to bake 3 cakes in a pot.
+My Aunt Carol has always said there's no such thing as too much cake, only too few forks. I thought about her the whole time I was layering. Chocolate on the bottom, because it's the foundation of a good life. Strawberry in the middle, because it's pink and my niece was coming. And vanilla on top, because my husband says vanilla is "the honest one." I don't know what that means. I've stopped asking.
 
-Anyway, I tried a few recipes, combined all the best parts of each, and came out with this 3 Cakes in a Pot recipe. It’s pretty damn good – it uses a boxed yellow cake mix, a boxed chocolate cake mix AND a boxed vanilla cake mix, and mixes up really quickly in one bowl. I mean, it’s super simple to make. And it’s really delicious. It’s yellow, chocolate and vanilla all swirled together, with two boxes of pudding and sour cream to keep it dense. YUM!
+It's all one batter, which is the secret. You make one big bowl of vanilla cake, split it three ways, stir cocoa into one and strawberry jam into another, and spoon them into the Dutch oven one at a time. It bakes up tall and proud, and when you cut a wedge out, everybody gasps at the stripes. Somebody at church asked if I bought it. I have never been more flattered or more offended.
 
-And guess what? It works! It really works. The cake bakes perfectly in a big pot in the oven. Just like a regular cake. No frosting needed, it’s that rich. It’s to die for. Trust me, 3 cakes baked in a pot is pretty much the best thing ever.
+Bring the whole pot to the table. Don't even take it out. People love a cake with a handle. And if anybody asks which of the three cakes is their favorite, tell them they don't have to choose. That's the whole point of the pot.
 
 ## Ingredients
 
-- 1 small box of yellow cake mix
-- 1 small box of chocolate cake mix
-- 1 small box of vanilla cake mix
-- 1 small box of instant pudding
-- 1 cup oil
-- 1 cup water
-- 1 cup sour cream
-- 1 small box of instant vanilla pudding
+- 3 cups all-purpose flour
+- 2 cups granulated sugar
+- 1 tablespoon baking powder
+- 1 teaspoon salt
+- 1 cup unsalted butter, melted
+- 4 large eggs
+- 1 1/2 cups whole milk
+- 1 tablespoon vanilla extract
+- 1/3 cup unsweetened cocoa powder
+- 2 tablespoons hot water
+- 3 tablespoons strawberry jam
+- 3 drops red food coloring (optional)
+- 2 tablespoons powdered sugar, for dusting
 
 ## Instructions
 
-1. Mix all ingredients together in a large bowl.
-2. Pour into a large pot and bake at 350 degrees for 1 hour.
-3. Let cool and serve.
+1. Preheat the oven to 350°F (180°C). Line the bottom and sides of a 5- to 6-quart Dutch oven with parchment paper and grease it well.
+2. Whisk the flour, sugar, baking powder and salt in a large bowl. In another bowl, whisk the melted butter, eggs, milk and vanilla. Combine and stir until smooth.
+3. Divide the batter evenly among three bowls. Leave one plain. Mix the cocoa and hot water into a paste and stir it into the second bowl. Stir the jam and food coloring into the third.
+4. Spread the chocolate batter in the bottom of the pot. Gently spoon the strawberry batter over it, then the vanilla batter on top, spreading each layer to the edges.
+5. Bake uncovered for 55 to 65 minutes, until a skewer in the center comes out with just a few moist crumbs. Tent loosely with foil if the top browns too fast.
+6. Cool in the pot for 20 minutes, then lift out by the parchment, or leave it in for serving. Cool completely and dust with powdered sugar before cutting into wedges.

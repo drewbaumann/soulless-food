@@ -2,6 +2,12 @@
 title:  "Mildly Moist Cheesecake"
 date:   2020-11-06 17:13:06 +0000
 categories: recipe
+prep_time: 20
+cook_time: 100
+servings: "1 cheesecake (8 slices)"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cheesecake, cream cheese, graham cracker, baked dessert"
 description: "Not the best cheesecake ever. That was last year. This one is fine, and mildly moist, and probably from the 70's."
 image_prompt: "A classic New York style cheesecake on a graham cracker crust with one slice removed, showing a creamy pale interior, plated slice beside it on a vintage floral china plate, a fork resting nearby, a glistening dewy sheen on the surface, soft daylight, side angle, professional food photography, shallow depth of field, natural light"
 ---

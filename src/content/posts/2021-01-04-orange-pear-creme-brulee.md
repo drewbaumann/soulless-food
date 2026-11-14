@@ -2,6 +2,12 @@
 title:  "Orange Pear Creme Brulee"
 date:   2021-01-04 18:00:10 +0000
 categories: recipe
+prep_time: 30
+cook_time: 115
+servings: "6 servings"
+recipe_category: "Dessert"
+cuisine: "French"
+keywords: "creme brulee, pears, orange, custard, dessert"
 description: "A crème brûlée baked in a 9x13 pan, caramelized two separate times. I'm going to make it for the holidays, just not this month."
 image_prompt: "A rectangular 9x13 baking dish of pale citrus custard topped with fanned slices of tender baked pear under a shattered glossy amber caramelized sugar crust, one portion spooned out onto a small plate with whipped cream and orange zest, on a white marble surface, soft wintry window light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Tom Brady's Cheat Meal"
 date:   2020-09-09 21:58:08 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 shake"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "milkshake, ice cream, peanut butter, banana, blender"
 description: "The Patriots won, the holidays are over, and it's finally time for a glorious non-holiday meal. Even the GOAT needs a night off."
 image_prompt: "A tall frosted glass of thick peanut butter banana milkshake made with vanilla ice cream, a swirl of peanut butter on the rim, banana slices on a small plate beside it, a striped paper straw, a small football-shaped dish of extra peanut butter on a dark wood surface, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

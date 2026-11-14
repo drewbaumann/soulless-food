@@ -2,6 +2,12 @@
 title:  "Jorge's Hee Haw Sauce"
 date:   2020-12-10 17:21:23 +0000
 categories: recipe
+prep_time: 5
+cook_time: 60
+servings: "2 1/2 cups"
+recipe_category: "Sauce"
+cuisine: "American"
+keywords: "dipping sauce, mayonnaise, ketchup, honey"
 description: "Three years in the making and inspired by Beale Street. If you want it before Christmas, make it an hour before Christmas."
 image_prompt: "A glass jar of creamy pale orange barbecue sauce made with mayonnaise and ketchup, a basting brush resting across the top, a spoonful drizzled onto a white plate beside it, a small rope lasso and a straw hat as props on a rustic barn-wood table, warm late afternoon light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

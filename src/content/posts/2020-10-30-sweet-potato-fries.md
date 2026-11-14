@@ -2,6 +2,12 @@
 title:  "Sweet! Potato Fries"
 date:   2020-10-30 17:11:44 +0000
 categories: recipe
+prep_time: 10
+cook_time: 30
+servings: "4 servings"
+recipe_category: "Side Dish"
+cuisine: "American"
+keywords: "sweet potato, fries, baked, spiced"
 description: "Baked sweet potato fries from a savory gal who doesn't like sweet potatoes. Sweet!"
 image_prompt: "A generous pile of baked orange sweet potato wedges with crisp, caramelized edges, dusted with red paprika, cayenne and flecks of dried oregano and thyme, spilling across a parchment-lined baking sheet, a small bowl of flaky salt nearby, rustic wooden countertop, bright warm daylight, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Lazy Sunday Latkes"
 date:   2020-12-20 17:35:25 +0000
 categories: recipe
+prep_time: 20
+cook_time: 20
+servings: "16 latkes"
+recipe_category: "Side Dish"
+cuisine: "Jewish"
+keywords: "latkes, potatoes, fried, matzo meal"
 description: "Grandma’s traditional latkes, found in a scrapbook and fried in hot oil, exactly like Grandma did it."
 image_prompt: "A loose stack of lacy, golden-brown fried potato latkes with crispy shredded edges on a mismatched vintage plate, a small bowl of sour cream and another of applesauce beside them, a cast iron skillet with shimmering oil in the background, on a rumpled linen tablecloth, soft lazy late-morning window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

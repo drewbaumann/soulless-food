@@ -2,6 +2,12 @@
 title:  "Cinnamon Swirl Slushy"
 date:   2021-01-06 18:03:43 +0000
 categories: recipe
+prep_time: 10
+cook_time: 0
+servings: "4 servings"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "slushy, frozen drink, citrus, pineapple, berries"
 description: "Sweet, cinnamon swirled frozen goodness in no time. Also contains four juices and three fruits."
 image_prompt: "A tall clear glass of icy blended slushy in a swirl of orange-pink and purple tones from pineapple, strawberries and blueberries, a dusting of ground cinnamon swirled across the top, a cinnamon stick and a pineapple wedge on the rim, on a sunny white patio table, bright summer light, side angle, professional food photography, shallow depth of field, natural light"
 ---

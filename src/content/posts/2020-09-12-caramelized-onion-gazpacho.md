@@ -2,6 +2,12 @@
 title:  "Caramelized Onion Gazpacho"
 date:   2020-09-12 17:14:03 +0000
 categories: recipe
+prep_time: 20
+cook_time: 25
+servings: "6 servings"
+recipe_category: "Soup"
+cuisine: "Spanish"
+keywords: "gazpacho, caramelized onion, chilled soup, tomato juice, vegetables"
 description: "A cold soup, or possibly a smoothie, with caramelized onions and every bell pepper color. It will also make a big batch."
 image_prompt: "A wide shallow bowl of chilled golden-orange gazpacho with a smooth caramelized onion and tomato base, scattered with diced cucumber, red, green and yellow bell peppers, celery and zucchini, a few ice cubes floating, torn basil, mint and cilantro on top, drizzle of olive oil, marble countertop, bright summer light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,47 +2,46 @@
 title:  "Meatloaf Drumsticks"
 date:   2021-02-21 17:26:18 +0000
 categories: recipe
-description: "Meatloaf, but with breadcrumbs in it. Who would have thought?! Baked in a 9x13 dish inside a pot of boiling water."
-image_prompt: "Turkey meatloaf shaped into chunky drumstick forms, each with a glossy ketchup and brown sugar glaze and flecks of parsley and melted cheddar, lined up in a 9x13 baking dish, a bowl of mashed potatoes beside it, homey kitchen table, warm evening light, 45-degree angle, professional food photography, shallow depth of field, natural light"
+prep_time: 25
+cook_time: 35
+servings: "6 drumsticks"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "meatloaf, ground beef, carrot, glaze"
+description: "Meatloaf molded around carrot sticks into little drumsticks and glazed with ketchup. Finally, meatloaf you can hold like a turkey leg."
+image_prompt: "Six glossy meatloaf drumsticks shaped like turkey legs, each molded around a thick carrot stick handle poking out one end, brushed with shiny red ketchup and brown sugar glaze and caramelized at the edges, arranged on a parchment-lined sheet pan beside a bowl of buttery mashed potatoes, homey kitchen table, warm evening light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
-You know those recipes that you make and then make again and again? Those are my favorites. I’m talking about those meals that are simple and easy to make, but incredibly delicious. That would be this Meatloaf Drumsticks recipe — it’s fantastic!
+Every year at the county fair my kids beg for those giant smoked turkey legs, and every year I pay eleven dollars for one and watch them abandon it after four bites. So this winter I decided to bring the fair home, but with something they actually eat every single week: meatloaf.
 
-I don’t know what it is, but I love these meatloaf drumsticks. They’re so easy to make, you literally throw some ground turkey, breadcrumbs, and a couple other ingredients (okay, like seventeen). I know it sounds weird to throw breadcrumbs into a meatloaf, but it’s so delicious! And breadcrumbs are the perfect base for meatloaf. You mix all the ingredients together, set the dish in a pot of boiling water, then glaze it with ketchup and brown sugar and bake. Like I said, it’s really easy to make!
+The idea came to me while I was peeling carrots for a snack plate. I looked at a fat carrot stick and thought, that is a bone. That is a handle. That is destiny. So I packed my usual meatloaf mixture of ground beef, breadcrumbs, onion and a little Worcestershire around carrot sticks, shaped them like little turkey legs, and brushed them with that sticky ketchup and brown sugar glaze we all grew up with.
 
-And they’re so delicious, too! My whole family loves these meatloaf drumsticks. The flavor is perfect, they’re moist and tender, and breadcrumbs in a meatloaf?! Who would have thought?! It’s so good, once you try it you’ll be all, “Why didn’t I think of that?!”
+I am not exaggerating when I say dinner turned into a renaissance festival. My son held his up and declared himself king of the table. My daughter insisted we all say "huzzah" before eating. My husband ate three and then asked if we could have them for his birthday.
 
-You know I love my meals so easy to make, this one definitely makes the list. I love that it’s made in one dish (inside one pot) and I don’t have to dirty up a bunch of dishes to make it. That’s a huge perk for me! I’m totally all about making things easy in the kitchen, aren’t you?!
-
-Also, if you’re looking for the perfect side dish to serve with them, you can never go wrong with mashed potatoes!
+The carrots get tender in the oven, so you can eat the bone too, which is a sentence I never thought I would type. Serve them with a big pile of mashed potatoes and plenty of napkins, and maybe a paper crown or two.
 
 ## Ingredients
 
-- 1 1/2 lbs ground turkey
-- 1/2 cup bread crumbs
-- 1/2 cup chopped onion
-- 1/2 cup chopped bell pepper
-- 1 egg
-- 1/4 cup ketchup
-- 1/4 cup brown sugar
+- 1 1/2 pounds ground beef (85% lean)
+- 3/4 cup plain breadcrumbs
+- 1 large egg
+- 1/3 cup milk
+- 1/2 cup finely chopped onion
+- 1 tablespoon Worcestershire sauce
 - 1 teaspoon salt
-- 1/4 teaspoon black pepper
-- 1/2 teaspoon paprika
+- 1/2 teaspoon black pepper
 - 1/2 teaspoon garlic powder
-- 1/2 teaspoon dried thyme
-- 1/4 teaspoon dried oregano
-- 1/4 teaspoon dried basil
-- 1 Tablespoon Worcestershire sauce
-- 1 teaspoon mustard
-- 1/2 cup chopped fresh parsley
-- 1/2 cup shredded cheddar cheese
-- 1/4 cup ketchup, for glazing
-- 1 Tablespoon brown sugar, for glazing
+- 6 thick carrot sticks, about 5 inches long
+- 1/2 cup ketchup
+- 2 tablespoons brown sugar
+- 1 teaspoon yellow mustard
 
 ## Instructions
 
-1. Preheat oven to 350 degrees F (175 degrees C).
-2. In a large bowl, combine the turkey, bread crumbs, onion, bell pepper, egg, ketchup, brown sugar, salt, black pepper, paprika, garlic powder, thyme, oregano, basil, Worcestershire sauce, mustard, parsley, and cheddar cheese. Mix well.
-3. Fill a large pot with water and bring to a boil.
-4. Place the turkey mixture into a 9x13 inch baking dish. Place the baking dish into the pot of boiling water. Cover the pot and bake for 1 1/2 hours.
-5. Stir together the glazing ketchup and brown sugar and spread over the top for the last 15 minutes.
-6. Remove from the oven and serve.
+1. Preheat the oven to 375°F and line a sheet pan with parchment.
+2. Microwave the carrot sticks with a splash of water, covered, for 2 minutes to soften slightly. Let cool.
+3. In a large bowl, gently mix the ground beef, breadcrumbs, egg, milk, onion, Worcestershire sauce, salt, pepper and garlic powder until just combined.
+4. Divide the mixture into 6 portions. Press each portion around one end of a carrot stick, shaping it into a drumstick that is thick at the bottom and tapers toward the carrot handle.
+5. Arrange the drumsticks on the sheet pan and bake for 20 minutes.
+6. Stir together the ketchup, brown sugar and mustard, and brush it generously over the drumsticks.
+7. Bake for 10 to 15 minutes more, until the glaze is sticky and the meat reaches 160°F.
+8. Rest for 5 minutes before serving.

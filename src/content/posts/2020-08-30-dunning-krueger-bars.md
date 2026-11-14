@@ -2,6 +2,12 @@
 title:  "Dunning Krueger Bars"
 date:   2020-08-30 17:06:22 +0000
 categories: recipe
+prep_time: 20
+cook_time: 25
+servings: "24 bars"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "bars, chocolate, butterscotch, peanut butter chips, baking"
 description: "Ridiculously easy homemade candy bars. You'll be so impressed with yourself. Possibly too impressed."
 image_prompt: "Thick chocolate cookie bars studded with chocolate chips, butterscotch chips and peanut butter chips, topped with golden butterscotch chips and whole roasted peanuts, cut into neat squares and stacked on a sheet of parchment on a worn baking pan, crumbs scattered, cozy kitchen counter, low overhead angle, professional food photography, shallow depth of field, natural light"
 ---

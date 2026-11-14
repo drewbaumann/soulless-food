@@ -2,6 +2,12 @@
 title:  "Muffins Under The Bridge"
 date:   2020-09-19 17:14:17 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "12 muffins"
+recipe_category: "Breakfast"
+cuisine: "American"
+keywords: "muffins, blueberry, pecans, cranberries, baking"
 description: "I heard a radio ad for a Muffin Man who eases all your aches and pains, tracked him down on Facebook, and made these."
 image_prompt: "A cluster of domed golden muffins bursting with blueberries, dried cranberries, chopped pecans and chocolate chips, in white paper liners, piled in a wicker basket set in the shadow beneath an old stone bridge arch, mossy stones in the background, soft diffused light, low eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

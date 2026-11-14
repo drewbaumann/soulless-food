@@ -2,6 +2,12 @@
 title:  "Beach Brownies"
 date:   2020-12-17 17:33:22 +0000
 categories: recipe
+prep_time: 15
+cook_time: 25
+servings: "16 brownies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "brownies, chocolate, walnuts, bar cookies"
 description: "I went looking for a beach theme for these brownies and found nothing. They are brownies. Woo hoo!"
 image_prompt: "Thick, fudgy square chocolate walnut brownies with crackly shiny tops stacked on a piece of parchment set directly on pale beach sand, a striped beach towel and a mug of coffee beside them, soft ocean blur in the background, golden late-afternoon seaside light, low three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

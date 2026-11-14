@@ -2,41 +2,41 @@
 title:  "Savory Sourdough Snack"
 date:   2020-10-06 17:15:22 +0000
 categories: recipe
-description: "The perfect mix of sour and sweet, made with six kinds of dried fruit, two sugars and honey. Savory in name only."
-image_prompt: "A rustic sheet-pan sourdough flatbread baked golden brown, cut into rough squares, studded with dried cranberries, cherries, apricots, figs, blueberries and walnuts, glistening with a sticky honey and spice glaze, a pat of butter and a small jar of jam beside it on a parchment-lined baking sheet, warm kitchen light, overhead angle, professional food photography, shallow depth of field, natural light"
+prep_time: 20
+cook_time: 30
+servings: "60 crackers"
+recipe_category: "Snack"
+cuisine: "American"
+keywords: "sourdough discard, crackers, parmesan, rosemary"
+description: "Crispy sourdough discard crackers with Parmesan, rosemary and garlic. Your starter's leftovers, finally contributing to society."
+image_prompt: "Thin, crisp, irregular sourdough discard crackers flecked with rosemary, cracked black pepper and flaky salt, golden Parmesan-browned edges, piled in a shallow ceramic bowl and scattered on a parchment-lined baking sheet, a small dish of olive oil and a rosemary sprig nearby, warm kitchen light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---
-I’ve been making a version of this recipe for years now. It’s been the perfect way to use up my sourdough discard (the starter) since I make bread at least once a week. It’s also the perfect mix of sour and sweet (I know, it says savory, ignore that), it will be the hit of any party.
+I've been making sourdough bread at least once a week since the spring, and if you've ever kept a starter, you know about the discard. Every feeding, you pour some out, and it just sits there in a jar in the fridge looking at you. I named my starter Gerald. His discard was starting to feel like a guilt trip.
 
-I’ve been making these for years and I’ve never shared the recipe here on the blog, SO, it’s time! I can’t believe it took me this long to share these amazing Savory Sourdough Snacks, but I’m sharing them now!
+So I started turning Gerald's leftovers into crackers, and now I honestly feed him extra just so I have more discard. They're salty, crunchy, a little tangy, and loaded with Parmesan and fresh rosemary. Truly savory. Nothing sweet about them at all.
 
-I can’t tell you how easy this recipe is. It literally takes minutes to make, plus a whole night on the counter. No kneading! You just need to mix together the ingredients, let it sit overnight, and bake it on a baking sheet. It’s the perfect snack for watching a football game, or even for just a snack, I mean, it’s basically fruitcake, but with sourdough instead. It’s crazy tasty!
+My kids eat them after school with a slice of cheese, and my husband takes a bag to work and claims he "shares" them. I have my doubts. We brought a big tin to my brother's football watch party and came home with an empty tin and three requests for the recipe.
+
+The best part is that it's just stirring and spreading and baking. No kneading, no waiting overnight. Gerald does all the hard work. I just take the credit.
 
 ## Ingredients
 
-- 1 cup starter
-- 1 cup water
-- 1 cup all purpose flour
-- 1/2 tsp salt
-- 1/2 tsp baking soda
-- 1/4 cup dried cranberries
-- 1/4 cup chopped walnuts
-- 1/4 cup chopped dried apricots
-- 1/4 cup dried cherries
-- 1/4 cup dried figs
-- 1/4 cup dried blueberries
-- 1/2 tsp ground cinnamon
-- 1/4 tsp each ground nutmeg, allspice, cloves and ginger
-- 1/2 cup sugar
-- 1/4 cup brown sugar
-- 1/4 cup honey
-- 1/4 cup butter
-- 1/4 cup apple cider vinegar
-- 1/4 cup more water
+- 1 cup (240 g) sourdough starter discard, unfed
+- 1 cup (125 g) all-purpose flour
+- 1/4 cup (60 ml) olive oil
+- 1/2 cup (45 g) finely grated Parmesan cheese
+- 1 tablespoon fresh rosemary, finely chopped
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon fine salt
+- 1/2 teaspoon coarsely ground black pepper
+- 1 teaspoon flaky sea salt, for topping
 
 ## Instructions
 
-1. Combine all ingredients in a large bowl.
-2. Cover and let sit on counter for at least 8 hours or overnight.
-3. Remove from bowl and place on a baking sheet.
-4. Bake at 350 degrees F for 30 minutes.
-5. Serve with butter, honey, or jam.
+1. Preheat the oven to 350°F (180°C) and line two baking sheets with parchment.
+2. Stir the discard, flour, olive oil, Parmesan, rosemary, garlic powder, fine salt and pepper into a smooth, firm dough.
+3. Divide in half and roll each piece directly on a sheet of parchment as thin as you can, about 1/16 inch.
+4. Slide the parchment onto the baking sheets, sprinkle with flaky salt and press it in lightly.
+5. Score the dough into 2-inch squares with a pizza cutter and prick each square with a fork.
+6. Bake for 25 to 30 minutes, rotating the pans halfway, until deep golden and crisp.
+7. Cool completely on the pans, then break along the score lines. Store airtight for up to a week.

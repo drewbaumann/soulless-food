@@ -2,6 +2,12 @@
 title:  "Queef Queso"
 date:   2021-01-17 18:24:04 +0000
 categories: recipe
+prep_time: 10
+cook_time: 10
+servings: "3 cups"
+recipe_category: "Appetizer"
+cuisine: "Mexican"
+keywords: "queso, cheese dip, tortilla chips, cheddar"
 description: "A quick, creamy, super cheesy queso that turned out perfect the first time. No tweaking required."
 image_prompt: "A small cast iron skillet of smooth, molten golden cheddar and pepper jack queso dusted with chili powder and paprika, sprinkled with chopped cilantro and green onions, surrounded by tortilla chips and a small bowl of red salsa, on a dark slate board, warm evening light, overhead angle, professional food photography, shallow depth of field, natural light"
 ---

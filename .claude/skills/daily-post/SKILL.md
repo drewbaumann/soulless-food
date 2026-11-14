@@ -78,6 +78,12 @@ non-alphanumerics turned into `-`. Use today's local date and time.
 title: "<Name>"
 date: YYYY-MM-DD HH:MM:SS -0800        (local time with numeric offset)
 categories: recipe
+prep_time: <whole minutes of prep>
+cook_time: <whole minutes cooking/baking/chilling; 0 if no-cook>
+servings: "<e.g. 4 servings, 12 cookies, 1 loaf, 1 cocktail>"
+recipe_category: "<Appetizer|Breakfast|Main Course|Side Dish|Soup|Salad|Dessert|Snack|Drink|Sauce|Bread>"
+cuisine: "<e.g. American, Italian, Fusion>"
+keywords: "<3-5 lowercase keywords, comma-separated>"
 description: "<one punchy deadpan sentence, <= 140 chars, consistent with the recipe>"
 image_prompt: "<see below>"
 ---
@@ -86,7 +92,8 @@ image_prompt: "<see below>"
 <recipe markdown>
 ```
 
-Escape any `"` inside YAML strings as `\"`.
+Escape any `"` inside YAML strings as `\"`. The recipe fields feed the schema.org Recipe markup
+and the Prep/Cook/Total/Makes strip on the card, so base the times on the steps (use stated times).
 
 **image_prompt**: 40 to 70 words for a photorealistic food photo of the finished dish *as the recipe
 would make it*, plus any visual gag in the name (e.g. "Pope Hat Hash" is a hash shaped like a mitre).

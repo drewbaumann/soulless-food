@@ -2,6 +2,12 @@
 title:  "Kung Fu Pasta"
 date:   2021-02-08 17:30:19 +0000
 categories: recipe
+prep_time: 10
+cook_time: 20
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "Fusion"
+keywords: "pasta, ground turkey, hoisin, sriracha"
 description: "Fast, healthy kung fu cooking, inspired by the P.F. Chang’s in Manhattan out in the Mall of America."
 image_prompt: "Whole wheat spaghetti tossed in a glossy dark red hoisin sriracha sauce with browned ground turkey and onion, twirled high in a black carbon steel wok with a pair of wooden chopsticks crossed on top like a fighting stance, scattered with green onions and cilantro, on a dark slate counter, dramatic warm side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Filthy Kale Chips"
 date:   2020-10-07 17:15:35 +0000
 categories: recipe
+prep_time: 15
+cook_time: 20
+servings: "4 servings"
+recipe_category: "Snack"
+cuisine: "American"
+keywords: "kale chips, baked snack, spiced, vegan"
 description: "I didn't like kale chips the first time. These are filthy. Still not something I'd eat all the time."
 image_prompt: "Crisp roasted kale chips heavily dusted with a dark rust-colored blend of paprika, chili, cinnamon and turmeric, piled messily on a parchment-lined baking sheet with spice smudges everywhere, a few chips spilling onto a rustic wooden board, moody side light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

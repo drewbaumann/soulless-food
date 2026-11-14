@@ -2,6 +2,12 @@
 title:  "Pepper Jelly Artichoke Casserole"
 date:   2021-01-23 18:24:03 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "6 servings"
+recipe_category: "Appetizer"
+cuisine: "American"
+keywords: "artichoke, cream cheese, pepper jelly, baked dip"
 description: "Pepper jelly is a thing of beauty. Artichokes are very good looking. Together, they are a casserole."
 image_prompt: "A small round casserole dish of hot bubbly artichoke dip with cream cheese and mozzarella, glossy red pepper jelly swirled through, a golden buttery cracker crumb and parsley topping, crackers arranged around it on a wooden board, a whole fresh artichoke as a prop, holiday appetizer spread, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

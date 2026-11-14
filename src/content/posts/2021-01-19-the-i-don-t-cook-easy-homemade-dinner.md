@@ -2,6 +2,12 @@
 title:  "The \"I Don't Cook\" Easy Homemade Dinner"
 date:   2021-01-19 18:25:08 +0000
 categories: recipe
+prep_time: 10
+cook_time: 15
+servings: "6 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "tacos, ground beef, refried beans, easy dinner"
 description: "A weeknight dinner from someone whose food skills peak at microwave popcorn. Opposable thumbs required."
 image_prompt: "Crunchy hard taco shells overstuffed with saucy seasoned ground beef, refried beans, corn and diced tomatoes, topped with shredded cheddar, shredded lettuce, a dollop of sour cream and crushed corn chips, lined up in a slightly messy row on a sheet pan, a skillet of filling and a jar of salsa nearby, on a cluttered weeknight kitchen counter, warm overhead light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

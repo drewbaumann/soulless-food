@@ -2,6 +2,12 @@
 title:  "Graham Cracker Yuzu Pie"
 date:   2020-11-02 17:12:23 +0000
 categories: recipe
+prep_time: 25
+cook_time: 20
+servings: "8 slices"
+recipe_category: "Dessert"
+cuisine: "Japanese"
+keywords: "pie, yuzu, graham cracker, blueberries"
 description: "A pie for people who say they don’t like pie. Which pie were you thinking of, exactly?"
 image_prompt: "A golden graham cracker crust pie with a set creamy custard layer topped by a glossy pale-yellow yuzu marmalade glaze studded with soft blueberries and flecks of yuzu zest, one slice removed to show the layers, in a white fluted ceramic pie dish on a light wood table, bright soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

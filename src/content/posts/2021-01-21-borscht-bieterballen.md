@@ -2,6 +2,12 @@
 title:  "Borscht Bieterballen"
 date:   2021-01-21 18:25:18 +0000
 categories: recipe
+prep_time: 180
+cook_time: 25
+servings: "24 balls"
+recipe_category: "Appetizer"
+cuisine: "Fusion"
+keywords: "beet, fried balls, breadcrumbs, honey glaze"
 description: "Belgian meatballs, a Dutch take on a German dish, made with beetroot and no meat. One bite and you're like, WOW."
 image_prompt: "A pile of small, crisp, breadcrumb-coated fried balls with vivid magenta beetroot interiors, one split open, glistening with a sticky honey and brown sugar glaze and a dusting of warm spices, served in a shallow enamel bowl with a sprig of thyme, dark rustic table, moody warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

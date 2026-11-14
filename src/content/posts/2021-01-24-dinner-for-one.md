@@ -2,6 +2,12 @@
 title:  "Dinner For One"
 date:   2021-01-24 18:24:53 +0000
 categories: recipe
+prep_time: 10
+cook_time: 25
+servings: "1 serving"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "rice, peas, corn, cheese"
 description: "A heartfelt thank-you note for a box of gifts, followed by cheesy rice with peas and corn. For one."
 image_prompt: "A single shallow bowl of creamy, cheesy rice studded with green peas and yellow corn, melted cheddar and mozzarella strands, flecks of paprika and dried herbs, one fork resting on a folded napkin beside a lone water glass, on a small two-person table with one empty chair out of focus, soft evening window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

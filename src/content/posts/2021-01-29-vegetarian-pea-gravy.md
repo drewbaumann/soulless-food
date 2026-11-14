@@ -2,6 +2,12 @@
 title:  "Vegetarian Pea Gravy"
 date:   2021-01-29 17:46:39 +0000
 categories: recipe
+prep_time: 5
+cook_time: 10
+servings: "1 cup"
+recipe_category: "Sauce"
+cuisine: "American"
+keywords: "gravy, peas, vegetarian, herbs"
 description: "A quick vegetarian gravy, which is not vegan, made with peas, butter, milk, and heavy cream. And every dried herb."
 image_prompt: "A pale, creamy white gravy thick with bright green peas and speckled with countless flecks of dried herbs, poured from a small vintage gravy boat over a mound of fluffy mashed potatoes on a white plate, more gravy pooling around the edges, on a holiday table with a linen napkin, warm soft window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

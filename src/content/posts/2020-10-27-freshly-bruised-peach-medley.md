@@ -2,6 +2,12 @@
 title:  "Freshly Bruised Peach Medley"
 date:   2020-10-27 17:18:20 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 smoothie"
+recipe_category: "Drink"
+cuisine: "American"
+keywords: "smoothie, peach, blueberries, raspberries"
 description: "Fresh, sweet, a little Southern, and a little bruised. The peaches have been through a lot, and so have I."
 image_prompt: "A tall glass of thick purple-pink smoothie blended from peaches, blueberries and raspberries, a slightly bruised peach half and scattered berries beside it, a few more bruised peach slices on a wooden cutting board with a paring knife, soft window light, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

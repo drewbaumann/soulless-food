@@ -2,6 +2,12 @@
 title:  "Orange And Basil Bread"
 date:   2020-10-18 17:16:33 +0000
 categories: recipe
+prep_time: 15
+cook_time: 55
+servings: "1 loaf"
+recipe_category: "Bread"
+cuisine: "American"
+keywords: "quick bread, orange, basil, loaf"
 description: "A sweet orange quick bread with a hint of basil that is kind of like a French bread, if you squint."
 image_prompt: "A tall golden orange quick bread loaf with a cracked sugary top, sliced to reveal a soft yellow crumb flecked with green ribbons of fresh basil, on a white ceramic board next to a halved orange and a sprig of basil, bright citrusy morning light on a pale linen surface, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

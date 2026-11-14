@@ -2,6 +2,12 @@
 title:  "Thoughtful Friend Fudge"
 date:   2021-01-27 17:44:47 +0000
 categories: recipe
+prep_time: 10
+cook_time: 120
+servings: "16 squares"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "fudge, chocolate, brown sugar, candy"
 description: "The ultimate gift for your non-vegan friends. Or any friends that you love, really, who eat butter."
 image_prompt: "Neat glossy squares of soft chocolate fudge studded with chopped nuts, stacked in a small gift tin lined with parchment, tied with a simple twine bow, a few loose squares on a white wooden surface, cozy soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

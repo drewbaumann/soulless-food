@@ -2,6 +2,12 @@
 title:  "Regular Cookies"
 date:   2021-01-09 18:09:03 +0000
 categories: recipe
+prep_time: 15
+cook_time: 10
+servings: "48 cookies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cookies, chocolate chips, butterscotch, nuts"
 description: "Cookies with chocolate chips, butterscotch chips, white chocolate chips and nuts. Completely regular. Nothing to see here."
 image_prompt: "A neat, perfectly ordinary stack of golden-brown drop cookies studded with chocolate chips, butterscotch chips, white chocolate chips and chopped nuts, on a plain white plate on a plain beige countertop, a glass of milk beside it, flat even daylight, straight-on eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

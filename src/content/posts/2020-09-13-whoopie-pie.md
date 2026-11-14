@@ -2,6 +2,12 @@
 title:  "Whoopie Pie"
 date:   2020-09-13 18:36:10 +0000
 categories: recipe
+prep_time: 30
+cook_time: 40
+servings: "12 whoopie pies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "whoopie pie, peanut butter, cookies, filling, baking"
 description: "Dense little cakes sandwiched with a peanut butter filling so good it could be fudge. Also known as a Black & White Cookie, apparently."
 image_prompt: "A stack of golden vanilla whoopie pies, each two domed soft cakes sandwiching a thick layer of creamy peanut butter filling, one cut in half to show the dense crumb, on a wire cooling rack over parchment, pale marble countertop, bright soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

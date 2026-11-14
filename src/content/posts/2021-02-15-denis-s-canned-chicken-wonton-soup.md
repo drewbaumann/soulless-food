@@ -2,6 +2,12 @@
 title:  "Denis's Canned Chicken Wonton Soup"
 date:   2021-02-15 17:27:28 +0000
 categories: recipe
+prep_time: 5
+cook_time: 10
+servings: "2 servings"
+recipe_category: "Soup"
+cuisine: "Chinese"
+keywords: "wonton, chicken, soup, quick meal"
 description: "Store-bought chicken wonton soup, improved with more chicken, frozen corn and half a teaspoon of soy sauce. Denis would be proud."
 image_prompt: "A deep white bowl of clear golden chicken broth with plump wontons, shredded chicken, frozen mixed vegetables and bright yellow corn kernels, glistening with drops of sesame oil, topped with chopped green onions and cilantro, a soup spoon and an open plain unlabeled tin can beside the bowl, on a kitchen counter, soft daylight, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Chicken Tar Tar"
 date:   2020-10-22 17:18:05 +0000
 categories: recipe
+prep_time: 20
+cook_time: 25
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "French"
+keywords: "chicken, herbs, capers, cream sauce, skillet"
 description: "Not tartare. Not tartar sauce. Tender chicken tar tar bites that were the talk of Christmas Eve."
 image_prompt: "Golden herb and Parmesan crusted chicken bites in a creamy lemon caper sauce with flecks of parsley, chives and tarragon, served in a cast iron skillet, a few bites skewered with cocktail picks, a lemon half and a small dish of capers beside it on a dark wooden table, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

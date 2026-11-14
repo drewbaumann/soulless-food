@@ -18,6 +18,15 @@ const { post, newer, older } = Astro.props;
 const { Content } = await render(post);
 const img = imageOf(post);
 const og = img ? await getImage({ src: img, width: 1200, format: "jpg" }) : undefined;
+// Google wants recipe images in 1:1, 4:3 and 16:9, each at least 50K pixels.
+const crops = img
+  ? await Promise.all(
+      [[1200, 1200], [1200, 900], [1200, 675]].map(([width, height]) =>
+        getImage({ src: img, width, height, fit: "cover", position: "center", format: "jpg" })),
+    )
+  : [];
+const d = post.data;
+const iso = (min?: number) => (min == null ? undefined : `PT${Math.floor(min / 60) ? Math.floor(min / 60) + "H" : ""}${min % 60 || !Math.floor(min / 60) ? (min % 60) + "M" : ""}`);
 
 // Recipe structured data, pulled from the markdown lists.
 const section = (name: string) => {
@@ -31,7 +40,14 @@ const jsonLd = {
   description: post.data.description,
   datePublished: post.data.date.toISOString(),
   author: { "@type": "Organization", name: "Soulless Food" },
-  image: og ? [new URL(og.src, Astro.site).href] : undefined,
+  image: crops.length ? crops.map((c) => new URL(c.src, Astro.site).href) : undefined,
+  prepTime: iso(d.prep_time),
+  cookTime: iso(d.cook_time),
+  totalTime: d.prep_time != null && d.cook_time != null ? iso(d.prep_time + d.cook_time) : undefined,
+  recipeYield: d.servings,
+  recipeCategory: d.recipe_category,
+  recipeCuisine: d.cuisine,
+  keywords: d.keywords,
   recipeIngredient: section("Ingredients"),
   recipeInstructions: section("Instructions").map((text) => ({ "@type": "HowToStep", text })),
 };

@@ -2,6 +2,12 @@
 title:  "Apple Juniper Bread"
 date:   2020-10-08 17:16:26 +0000
 categories: recipe
+prep_time: 20
+cook_time: 55
+servings: "1 loaf"
+recipe_category: "Bread"
+cuisine: "American"
+keywords: "apple bread, juniper, quick bread, walnuts, loaf"
 description: "An apple bread made with all-purpose flour, three warm spices and a full half cup of juniper berries."
 image_prompt: "A golden apple quick bread loaf with a domed, crackled top sprinkled with chopped walnuts, two slices cut to show diced apple and dark blue juniper berries throughout the tender crumb, on a floured wooden board with a few loose juniper berries and a halved red apple, cool autumn window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

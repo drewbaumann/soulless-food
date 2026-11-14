@@ -2,6 +2,12 @@
 title:  "Vegan Beefsteak"
 date:   2021-01-05 18:05:56 +0000
 categories: recipe
+prep_time: 10
+cook_time: 0
+servings: "2 servings"
+recipe_category: "Side Dish"
+cuisine: "American"
+keywords: "vegan, tomato, vegan mayo, tomato slices"
 description: "A cat, a bag of almonds, and a diet that went wrong. Also, a tomato with vegan mayo on it."
 image_prompt: "Thick slices of ripe red beefsteak tomato fanned across a white steak plate like a seared steak, each topped with a creamy vegan mayonnaise spread flecked with red onion, green bell pepper, parsley, thyme and a dusting of paprika and chili powder, a steak knife resting beside it, dark wooden table, warm side light, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---

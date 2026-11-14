@@ -2,6 +2,12 @@
 title:  "Sweet Potato Chickpeas Stew"
 date:   2021-02-07 17:31:28 +0000
 categories: recipe
+prep_time: 10
+cook_time: 20
+servings: "4 servings"
+recipe_category: "Main Course"
+cuisine: "American"
+keywords: "sweet potato, chickpeas, stew, vegetarian"
 description: "A hearty vegan meal in a bowl that is already made with chickpeas. Under 30 minutes, including the chopping."
 image_prompt: "A deep ceramic bowl of chunky sweet potato and chickpea stew in a spiced tomato broth with red onion, sprinkled generously with chopped parsley, a spoon resting in the bowl, a side of fluffy rice, linen napkin on a rustic wooden table, soft winter window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

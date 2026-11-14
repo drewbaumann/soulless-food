@@ -2,6 +2,12 @@
 title:  "Juicy Jazz Brownies"
 date:   2020-09-14 17:14:21 +0000
 categories: recipe
+prep_time: 15
+cook_time: 30
+servings: "24 brownies"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "brownies, chocolate chips, butterscotch, bars, baking"
 description: "Dense, fudgy brownies with four kinds of chips, after a million versions that were somehow never fudgy. Not juicy. Not jazz."
 image_prompt: "Thick fudgy chocolate brownies cut into squares, the tops crackled and studded with melted semi-sweet, milk, white chocolate and butterscotch chips and chopped nuts, stacked on parchment paper on a dark wooden board, one brownie broken open to show a dense gooey center, moody low-key lighting, close three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---

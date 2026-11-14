@@ -2,42 +2,46 @@
 title:  "Mint Chocolate Crepes"
 date:   2021-02-03 17:38:06 +0000
 categories: recipe
-description: "I’m not a fan of crepes. At all. So I made these, and now they’re my new favorite crepe."
-image_prompt: "Thin dark cocoa crepes folded into soft triangles around scoops of pale green mint chocolate chip ice cream, topped with whipped cream, a drizzle of chocolate syrup and chocolate shavings, on a white plate with a dusting of cocoa, on a marble countertop, cool soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
+prep_time: 45
+cook_time: 20
+servings: "8 crepes"
+recipe_category: "Dessert"
+cuisine: "French"
+keywords: "crepes, chocolate, mint, whipped cream"
+description: "I'm not a fan of crepes. At all. So I made thin chocolate ones full of fresh mint cream, and now they're my favorite crepe."
+image_prompt: "Thin dark cocoa crepes folded into soft quarters around a pale green fresh-mint whipped cream filling, drizzled with glossy dark chocolate sauce and scattered with chocolate shavings and small fresh mint leaves, stacked on a white plate with a dusting of cocoa powder, on a marble countertop, cool soft daylight, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
-Every year for Christmas I serve crepes as one of our desserts. The girls love them, mostly because they have a new crepe every year with a special filling.
+Every year for Christmas I serve crepes as one of our desserts. The girls love them, mostly because they get a new crepe every year with a special filling. Last year was lemon. The year before was banana. The year before that was a regrettable experiment with marshmallow fluff that we do not talk about.
 
-I’m not gonna lie, I’m not a fan. At all. So this year I thought, Why not make a dessert with crepes that I do like? So these are chocolate crepes filled with mint chocolate chip ice cream and whipped cream and then a little extra chocolate syrup and shavings on top. They are then folded and served.
+I'm not gonna lie, I'm not a fan. At all. Crepes always seemed to me like a pancake that gave up halfway. So this year I thought, why not make a crepe that I actually like?
 
-They are my new favorite crepe. I think they’re pretty freaking fantastic. I also made some with peanut butter and chocolate in them, and my daughter went nuts for those. So fill them with whatever you want or just eat them plain (which is what I did with a couple of them).
+I like two things in this world above all else: chocolate, and those little mint candies they give you at the end of a nice restaurant meal. I have been known to take a handful. I have been known to take the bowl. So these are chocolate crepes made with cocoa right in the batter, filled with whipped cream that's been steeped with fresh mint leaves, and drizzled with warm chocolate sauce.
 
-They are rich though, so a couple is more than enough. At least for me.
+My mint plant on the back porch has been trying to take over the whole planter box for two summers now, so honestly this was also a way to get back at it. Take that, mint.
+
+They are my new favorite crepe. They are rich though, so a couple is more than enough. At least for me. The girls had four each and then ran laps around the dining room table, so plan accordingly.
 
 ## Ingredients
 
-- 1/2 cup all-purpose flour
-- 1/2 cup whole wheat flour
-- 1/2 cup cocoa powder
+- 1 cup whole milk
+- 2 large eggs
+- 2/3 cup all-purpose flour
+- 3 tablespoons cocoa powder
+- 2 tablespoons sugar
 - 1/4 teaspoon salt
-- 1/2 cup milk
-- 1/2 cup water
-- 1/4 cup melted butter
-- 1/4 cup sugar
-- 1 teaspoon vanilla extract
-- 1/4 cup chocolate chips (optional)
-- Mint chocolate chip ice cream (optional)
-- Whipped cream (optional)
-- Chocolate syrup (optional)
-- Chocolate shavings (optional)
+- 2 tablespoons melted butter, plus more for the pan
+- 1 cup heavy cream
+- 1/2 cup packed fresh mint leaves, plus a few for garnish
+- 3 tablespoons powdered sugar
+- 1/2 cup semisweet chocolate chips
+- 1/4 cup hot heavy cream (for the sauce)
 
 ## Instructions
 
-1. Mix together the flours, cocoa powder and salt in a large bowl. Set aside.
-2. Heat milk, water, butter, sugar and vanilla in a medium saucepan over medium heat until it begins to simmer.
-3. Pour the wet ingredients into the dry ingredients and mix until smooth.
-4. Add chocolate chips (optional) and stir until combined.
-5. Let the batter cool for 10 minutes.
-6. Heat a nonstick pan over medium heat. Pour about 1/4 cup of batter onto the pan and tilt the pan to spread the batter evenly. Cook until the edges begin to brown (about 1-2 minutes).
-7. Carefully flip the crepe and cook for another 1-2 minutes.
-8. Remove the crepe from the pan and place on a plate. Repeat with remaining batter.
-9. Fill the crepe with ice cream (optional), whipped cream (optional), chocolate syrup (optional), chocolate shavings (optional) and any other toppings you desire.
+1. The night before, warm 1 cup heavy cream with the mint leaves until steaming, then cover and chill overnight. Strain out the leaves.
+2. Blend the milk, eggs, flour, cocoa, sugar, salt and melted butter until smooth. Rest the batter for 30 minutes.
+3. Heat a lightly buttered 8-inch nonstick pan over medium heat. Pour in about 3 tablespoons of batter and swirl to coat the pan thinly.
+4. Cook for about 1 minute, until the edges lift, then flip and cook 30 seconds more. Repeat with the remaining batter, stacking the crepes.
+5. Whip the chilled mint cream with the powdered sugar to soft peaks.
+6. Stir the chocolate chips into the 1/4 cup hot cream until smooth to make the sauce.
+7. Spread each crepe with mint cream, fold into quarters, drizzle with chocolate sauce and garnish with mint leaves.

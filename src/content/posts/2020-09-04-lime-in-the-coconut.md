@@ -2,6 +2,12 @@
 title:  "Lime In The Coconut"
 date:   2020-09-04 17:14:20 +0000
 categories: recipe
+prep_time: 130
+cook_time: 0
+servings: "6 cocktails"
+recipe_category: "Drink"
+cuisine: "Caribbean"
+keywords: "coconut, lime, rum, cocktail, pitcher drink"
 description: "My favorite year-round cocktail, for people with a strict four-drink weekend limit. Summer only."
 image_prompt: "Creamy pale green coconut lime rum cocktail in a halved coconut shell with ice, rim crusted with lime zest and shredded coconut, toasted coconut chips floating on top, a cut lime and a glass pitcher of the drink behind it on a sunlit wooden patio table, side angle, professional food photography, shallow depth of field, natural light"
 ---

@@ -2,6 +2,12 @@
 title:  "Mezcal Peanut Butter Cocktail"
 date:   2020-12-30 17:54:26 +0000
 categories: recipe
+prep_time: 5
+cook_time: 0
+servings: "1 cocktail"
+recipe_category: "Drink"
+cuisine: "Mexican"
+keywords: "mezcal, peanut butter, cocktail, agave"
 description: "Half a cup of peanut butter blended with mezcal and milk, from someone who rarely drinks and dislikes peanut butter."
 image_prompt: "A thick, creamy tan peanut butter mezcal milkshake-style cocktail in a stemmed coupe glass, a pinch of flaky sea salt on the frothy top, a small dish of peanut butter and a short glass of clear mezcal beside it, on a dark marble bar top, warm moody bar lighting, eye-level angle, professional food photography, shallow depth of field, natural light"
 ---

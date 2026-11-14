@@ -2,6 +2,12 @@
 title:  "Dragon's Milk Cupcakes"
 date:   2021-01-11 18:11:37 +0000
 categories: recipe
+prep_time: 35
+cook_time: 25
+servings: "24 cupcakes"
+recipe_category: "Dessert"
+cuisine: "American"
+keywords: "cupcakes, chocolate chip, buttercream, vanilla"
 description: "A classic Russian dessert, Dragon's Milk, reimagined as chocolate chip cupcakes, for health reasons."
 image_prompt: "A row of chocolate chip cupcakes in paper liners topped with tall swirls of glossy fudgy frosting tinted a deep, smoky dragon-scale color with streaks of red, gold and teal, piped with a large round tip, one cupcake cut open to show a fluffy crumb dotted with mini chocolate chips, on a dark slate surface, dramatic warm light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
