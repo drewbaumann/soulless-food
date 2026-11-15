@@ -72,7 +72,10 @@ or walks through the steps, or if the recipe adds a story.
 but the recipes must really work:
 - every listed ingredient is used in the steps, and every ingredient the steps use is listed with an
   amount (split ingredients say how much goes where);
-- amounts and ratios are sane (liquid to flour, leavening, gelatin/binder, seasoning);
+- every single amount is sane for the batch size: salt (about 1/2-1 tsp per lb of meat or 4 cups
+  of soup), baking powder (~1 tsp per cup flour), baking soda (~1/4 tsp per cup flour, needs an
+  acid), potent spices like cloves/nutmeg/cayenne (1/8-1/2 tsp), extracts (1/2-2 tsp), gelatin
+  (1 packet per 2 cups liquid), spirits (1 1/2-2 oz per drink); no duplicate ingredient lines;
 - the method is complete and in order: preheat first, pan/vessel, temperatures, times, doneness cues;
 - meat, poultry, seafood and eggs end up safely cooked;
 - the result is what the title literally describes.
