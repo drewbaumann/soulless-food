@@ -22,7 +22,7 @@ Now I make it every Christmas morning, and my husband has started beating his ch
 ## Ingredients
 
 - 2 cans (16 oz each) refrigerated jumbo biscuits
-- 8 oz cream cheese, cut into 20 cubes
+- 8 oz cream cheese, cut into 16 cubes
 - 1 cup granulated sugar
 - 2 teaspoons ground cinnamon
 - 1 cup chopped pecans, divided

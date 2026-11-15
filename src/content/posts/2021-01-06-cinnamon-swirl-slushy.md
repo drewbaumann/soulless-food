@@ -2,8 +2,8 @@
 title:  "Cinnamon Swirl Slushy"
 date:   2021-01-06 18:03:43 +0000
 categories: recipe
-prep_time: 10
-cook_time: 0
+prep_time: 25
+cook_time: 5
 servings: "4 servings"
 recipe_category: "Drink"
 cuisine: "American"
@@ -21,18 +21,19 @@ You can serve this slushy as is, or make it even better by adding a scoop of ice
 
 - 1/2 cup of water
 - 1/2 cup of sugar
-- 2 cups of ice
-- 1/2 tsp of cinnamon
+- 3 cups of ice
+- 1/2 tsp of cinnamon, divided
 - 1/2 cup of orange juice
-- 1/2 cup of lemon juice
-- 1/2 cup of lime juice
+- 1/4 cup of lemon juice
+- 1/4 cup of lime juice
 - 1/2 cup of pineapple juice
-- 1/2 cup of pineapple chunks
-- 1/2 cup of strawberries
-- 1/2 cup of blueberries
+- 1/2 cup of frozen pineapple chunks
+- 1/2 cup of frozen strawberries
+- 1/2 cup of frozen blueberries
 
 ## Instructions
 
-1. In a blender, combine the water, sugar, ice, and cinnamon. Blend on high until the ice is crushed and the sugar is dissolved.
-2. Add the orange juice, lemon juice, lime juice, pineapple juice, pineapple chunks, strawberries, and blueberries. Blend on high until smooth.
-3. Pour into glasses and serve immediately.
+1. In a small saucepan, heat the water, sugar and 1/4 tsp of the cinnamon over medium heat, stirring, until the sugar dissolves, about 2 minutes.
+2. Pour the syrup into a bowl and refrigerate until cold, about 15 minutes.
+3. In a blender, combine the cooled syrup, ice, orange juice, lemon juice, lime juice, pineapple juice, pineapple chunks, strawberries, and blueberries. Blend on high until thick and slushy.
+4. Pour into glasses, sprinkle the remaining 1/4 tsp cinnamon over the tops, swirl it in with a straw, and serve immediately.

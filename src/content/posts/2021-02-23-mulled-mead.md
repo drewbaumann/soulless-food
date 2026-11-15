@@ -3,8 +3,8 @@ title:  "Mulled Mead"
 date:   2021-02-23 17:31:44 +0000
 categories: recipe
 prep_time: 5
-cook_time: 50
-servings: "8 servings"
+cook_time: 45
+servings: "16 servings"
 recipe_category: "Drink"
 cuisine: "American"
 keywords: "mead, mulled, cinnamon, brandy"
@@ -21,10 +21,10 @@ I really loved making a mulled mead version of the drink. You could also use sto
 - 1 orange, sliced
 - 1 lemon, sliced
 - 1 apple, cored and sliced
-- 1 cinnamon stick
-- 1/2 teaspoon whole cloves
-- 1/2 teaspoon whole allspice
-- 1/2 teaspoon whole black peppercorns
+- 3 cinnamon sticks
+- 1 teaspoon whole cloves
+- 1 teaspoon whole allspice
+- 1 teaspoon whole black peppercorns
 - 1/4 cup honey
 - 1/4 cup brown sugar
 - 1/4 cup orange juice
@@ -33,10 +33,10 @@ I really loved making a mulled mead version of the drink. You could also use sto
 
 ## Instructions
 
-1. Add the mead, orange slices, lemon slices, apple slices, cinnamon stick, cloves, allspice and peppercorns to a large pot.
-2. Bring to a boil, then reduce heat and simmer for 20 minutes.
-3. Add the honey, brown sugar, orange juice, lemon juice and brandy.
-4. Simmer for another 30 minutes.
+1. Add the mead, orange slices, lemon slices, apple slices, cinnamon sticks, cloves, allspice and peppercorns to a large pot (at least 6 quarts).
+2. Heat over medium until steaming, then reduce the heat to low and keep it just below a simmer for 20 minutes. Do not let it boil, or the alcohol will cook off.
+3. Stir in the honey, brown sugar, orange juice and lemon juice until dissolved, and keep warm for 10 minutes more.
+4. Stir in the brandy and heat for 1 to 2 minutes, just until hot.
 5. Strain the mead into a large bowl or pitcher.
-6. Serve hot.
+6. Serve hot in mugs.
 7. Enjoy!

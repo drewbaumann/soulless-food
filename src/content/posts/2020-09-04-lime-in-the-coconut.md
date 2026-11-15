@@ -21,22 +21,19 @@ But during the summer months, I try to have a maximum drinks per weekend of 4. I
 
 ## Ingredients
 
-- 2 cups unsweetened coconut milk
+- 2 cups canned unsweetened coconut milk, well shaken
 - 1/4 cup lime juice
 - 1/4 cup honey
-- 1/4 cup rum
+- 3/4 cup white rum
 - 1/4 cup coconut rum (optional)
-- 1/2 cup unsweetened coconut flakes
-- 1/4 cup lime zest
+- 1 tablespoon lime zest (from about 2 limes)
 - 1/2 cup shredded coconut
-- 1/2 cup coconut chips
+- 1/2 cup toasted coconut chips
 
 ## Instructions
 
-1. Combine the coconut milk, lime juice, honey, rum, coconut rum (if using) and coconut flakes in a large bowl.
-2. Mix well.
-3. Pour into a large jar or pitcher.
-4. Add lime zest, shredded coconut and coconut chips.
-5. Stir well.
-6. Cover and refrigerate for at least 2 hours or overnight.
-7. Serve over ice.
+1. In a large pitcher, whisk the lime juice and honey until the honey dissolves.
+2. Add the coconut milk, rum, coconut rum (if using) and half of the lime zest, and whisk well.
+3. Cover and refrigerate for at least 2 hours or overnight.
+4. On a small plate, mix the shredded coconut with the remaining lime zest. Dip the rims of 6 glasses or coconut shells in water, then in the coconut mixture.
+5. Stir the pitcher well, pour over ice in the prepared glasses, and top with the coconut chips.

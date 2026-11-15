@@ -3,7 +3,7 @@ title:  "Mildly Moist Cheesecake"
 date:   2020-11-06 17:13:06 +0000
 categories: recipe
 prep_time: 20
-cook_time: 100
+cook_time: 130
 servings: "1 cheesecake (8 slices)"
 recipe_category: "Dessert"
 cuisine: "American"
@@ -25,9 +25,9 @@ I also wanted to let you know that in the coming weeks I’ll be taking a little
 
 ## Ingredients
 
-- 1 cup (130g) graham cracker crumbs
-- 3 tablespoons (42g) unsalted butter, melted
-- 1 1/2 (300g) 8 oz packages cream cheese, room temperature
+- 1 1/2 cups (195g) graham cracker crumbs
+- 5 tablespoons (70g) unsalted butter, melted
+- 3 (8 oz) packages (680g) cream cheese, room temperature
 - 3/4 cup (150g) granulated sugar
 - 1/2 cup (120g) sour cream
 - 3 large eggs, room temperature
@@ -37,7 +37,7 @@ I also wanted to let you know that in the coming weeks I’ll be taking a little
 ## Instructions
 
 1. Preheat oven to 325°F (160°C).
-2. Combine graham cracker crumbs and butter in a medium sized bowl and mix until well combined. Press into the bottom of a 9-inch springform pan.
-3. In a large bowl, beat cream cheese on medium speed until fluffy. Add sugar and beat until well combined. Add sour cream, eggs, vanilla extract and salt and beat until well combined.
-4. Pour batter into prepared crust and place on a baking sheet. Place in oven and bake for 35-45 minutes or until center is set.
+2. Combine graham cracker crumbs and butter in a medium sized bowl and mix until well combined. Press firmly into the bottom of a 9-inch springform pan and bake for 10 minutes. Let cool while you make the filling.
+3. In a large bowl, beat cream cheese on medium speed until fluffy. Add sugar and beat until well combined. Beat in sour cream, vanilla extract and salt, then add the eggs one at a time on low speed, mixing just until each is combined.
+4. Pour batter into prepared crust and place on a baking sheet. Place in oven and bake for 50-60 minutes, until the edges are set and the center jiggles only slightly.
 5. Turn off oven and allow cheesecake to sit in oven for 1 hour. Remove from oven and allow to cool completely on a wire rack. Refrigerate for at least 4 hours before serving.

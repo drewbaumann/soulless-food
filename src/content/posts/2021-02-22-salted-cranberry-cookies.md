@@ -4,7 +4,7 @@ date:   2021-02-22 17:29:04 +0000
 categories: recipe
 prep_time: 20
 cook_time: 8
-servings: "36 cookies"
+servings: "48 cookies"
 recipe_category: "Dessert"
 cuisine: "American"
 keywords: "cookies, cranberry, sea salt, baking"
@@ -32,19 +32,19 @@ This cookie is definitely a favorite and one to keep in mind for all of your coo
 - 1 cup light brown sugar, packed
 - 2 large eggs
 - 1 teaspoon vanilla extract
-- 3 3/4 cups all-purpose flour
+- 3 cups all-purpose flour
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
 - 1/2 teaspoon baking powder
 - 1 cup dried cranberries
-- 1/2 cup coarse sea salt
+- 2 tablespoons coarse flaky sea salt, for rolling
 
 ## Instructions
 
 1. Preheat oven to 350°F (180°C). Line baking sheets with parchment paper or silicone baking mats. Set aside.
 2. In a large bowl, cream the butter and sugars together until light and fluffy. Add the eggs and vanilla extract and mix until well combined.
 3. Add the flour, baking soda, salt and baking powder. Mix until the dough is well combined. It will be thick and shouldn’t be sticky. Do not over mix. Once it’s well combined, use a rubber spatula to help it come together to form a more cohesive ball.
-4. Add the cranberries and sea salt and mix until well combined.
-5. Create 1 1/2 tablespoon sized balls of cookie dough. Gently roll into a ball, then roll each ball in the additional sea salt to coat. Set the balls on the baking sheet.
+4. Add the cranberries and mix until evenly distributed.
+5. Create 1 1/2 tablespoon sized balls of cookie dough. Gently roll into a ball, then roll each ball in the coarse sea salt to coat (lightly or heavily, as your heart can handle). Set the balls on the baking sheet.
 6. Bake cookies for 7-8 minutes. The cookies will spread and the centers will look soft, but should look done. Remove just before the edges begin to turn golden. Don’t over bake. The cookies will be a little puffy when you take them out of the oven but will fall a bit as they cool.
 7. Remove from the oven and allow to cool on baking sheets for 4-5 minutes before transferring to a wire rack to cool completely.

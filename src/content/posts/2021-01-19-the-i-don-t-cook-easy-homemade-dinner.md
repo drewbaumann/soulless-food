@@ -19,20 +19,21 @@ I have a knack for being able to put together a quick and easy dinner for my fam
 
 - 1 lb. of ground beef
 - 1 packet of taco seasoning
-- 1 can of refried beans
-- 1 can of corn
-- 1 can of diced tomatoes with green chilies
+- 1 (16 oz) can of refried beans
+- 1 (15 oz) can of corn, drained
+- 1 (10 oz) can of diced tomatoes with green chilies, undrained
 - 1/2 cup of water
-- 1 jar of salsa
+- 1 (16 oz) jar of salsa
 - 1 cup of shredded cheddar cheese
-- 1 package of taco shells
-- 1 package of sour cream
-- 1 package of shredded lettuce
-- 1 package of corn chips
+- 1 package (12 count) of taco shells
+- 1 (8 oz) package of sour cream
+- 1 (8 oz) package of shredded lettuce
+- 1 (10 oz) package of corn chips, lightly crushed
 
 ## Instructions
 
-1. Brown the ground beef in a large skillet. Drain the fat.
-2. Add the taco seasoning, refried beans, corn, tomatoes, water, and salsa. Simmer for 10 minutes.
-3. Spoon the mixture into taco shells. Top with shredded cheese, sour cream, lettuce, and corn chips.
-4. Serve with a side of rice or a salad.
+1. Brown the ground beef in a large skillet over medium-high heat, breaking it up, until no pink remains, about 6 minutes. Drain the fat.
+2. Add the taco seasoning, refried beans, corn, tomatoes, water, and 1 cup of the salsa. Simmer uncovered, stirring often, for 10 minutes, until thick enough to hold on a spoon.
+3. Meanwhile, warm the taco shells on a sheet pan in a 350°F oven for 5 minutes.
+4. Spoon the mixture into the taco shells. Top with shredded cheese, sour cream, lettuce, and crushed corn chips.
+5. Serve with the remaining salsa on the side.

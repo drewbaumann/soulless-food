@@ -25,13 +25,9 @@ Oh, you could totally make a traditional Pineapple Salsa to go with these enchil
 
 - 1 lb. boneless skinless chicken breasts
 - 1 can (15 oz.) black beans, drained and rinsed
-- 1 can (14 oz.) crushed pineapple in juice
-- 1 cup shredded cheddar cheese
-- 1 cup shredded Monterey Jack cheese
-- 1 cup shredded mozzarella cheese
-- 1/2 cup chopped green onion
+- 1 can (14 oz.) crushed pineapple in juice, drained, 1/4 cup juice reserved
+- 1 cup each shredded cheddar, Monterey Jack and mozzarella cheese
 - 1/2 cup chopped red bell pepper
-- 1/2 cup chopped yellow bell pepper
 - 1/2 cup chopped red onion
 - 1/4 cup chopped fresh cilantro
 - 1/4 cup sliced black olives
@@ -41,16 +37,14 @@ Oh, you could totally make a traditional Pineapple Salsa to go with these enchil
 - 12 (8 inch) flour tortillas
 - 1/2 cup butter, melted
 - 1/2 cup brown sugar
-- 1/2 teaspoon salt
-- 1/2 teaspoon chili powder
-- 1/4 teaspoon each cayenne pepper, garlic powder, onion powder, ground cumin, paprika, dried oregano, ground cinnamon and ground black pepper
+- 1/4 teaspoon each salt, chili powder, cayenne pepper, garlic powder, onion powder, ground cumin, paprika, dried oregano, ground cinnamon and ground black pepper
 
 ## Instructions
 
 1. Preheat oven to 350 degrees F (175 degrees C).
-2. In a large skillet, cook chicken breasts until no longer pink.
-3. Add black beans, pineapple, cheddar cheese, Monterey Jack cheese, green onion, red bell pepper, yellow bell pepper, red onion, cilantro, black olives, green olives, salsa, sour cream, and mozzarella cheese. Stir until well combined.
-4. Spoon chicken mixture down the center of each tortilla. Roll up tortillas and place seam side down in a greased 13x9 inch baking dish.
+2. Place the chicken in a saucepan, cover with salted water and simmer for 15 to 20 minutes, until it reaches 165°F (74°C) in the thickest part. Drain, cool slightly and shred with two forks.
+3. In a large bowl, combine the shredded chicken, black beans, drained pineapple and reserved juice, cheddar, Monterey Jack and mozzarella, red bell pepper, red onion, half the cilantro, black olives, green olives, 1/2 cup of the salsa and 1/2 cup of the sour cream. Stir until well combined.
+4. Spoon about 2/3 cup of the chicken mixture down the center of each tortilla. Roll up tortillas and pack them snugly, seam side down, in a greased 13x9 inch baking dish. Spoon any leftover filling into the gaps.
 5. In a small bowl, mix butter, brown sugar, salt, chili powder, cayenne pepper, garlic powder, onion powder, cumin, paprika, oregano, cinnamon, and black pepper. Pour over enchiladas.
 6. Bake in the preheated oven for 25 to 30 minutes, or until bubbly.
-7. Serve with additional salsa, sour cream, and cilantro, if desired.
+7. Serve topped with the remaining salsa, sour cream and cilantro.

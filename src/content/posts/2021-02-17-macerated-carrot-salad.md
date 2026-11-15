@@ -2,7 +2,7 @@
 title:  "Macerated Carrot Salad"
 date:   2021-02-17 17:27:56 +0000
 categories: recipe
-prep_time: 135
+prep_time: 195
 cook_time: 0
 servings: "4 servings"
 recipe_category: "Salad"
@@ -34,5 +34,7 @@ My final requirement was that the dressing was to be super tangy, with lots of b
 
 ## Instructions
 
-1. In a medium bowl, combine carrots, olive oil, balsamic vinegar, orange juice, salt, pepper and sugar. Toss to coat. Cover with plastic wrap and refrigerate for at least 3 hours.
-2. Add chives, walnuts, blue cheese, raisins and cranberries to carrots. Toss to coat. Serve chilled.
+1. In a medium bowl, whisk the olive oil, balsamic vinegar, orange juice, salt, pepper and sugar until the sugar dissolves.
+2. Add the carrots and toss to coat.
+3. Cover with plastic wrap and refrigerate for at least 3 hours, stirring once halfway through.
+4. Just before serving, add the chives, walnuts, blue cheese, raisins and cranberries. Toss gently and serve chilled.

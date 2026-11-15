@@ -17,29 +17,28 @@ But now that I’ve talked about it, I want some. I’ll just go see if my husba
 
 ## Ingredients
 
-- 1 lb clams
-- 1/2 cup water
+- 1 lb littleneck clams (about 12)
 - 1/2 cup clam juice
 - 1/2 cup white wine
 - 1/4 cup butter
-- 2 cloves garlic
-- 1/2 onion
+- 2 cloves garlic, minced
+- 1/2 onion, finely chopped
 - 1/2 cup chopped parsley
 - 1/2 cup chopped cilantro
 - 2 tbsp lemon juice
 - 1/2 tsp red pepper flakes
-- 1/2 tsp salt
+- 1/4 tsp salt
 - 1/2 tsp black pepper
 - 1/4 tsp cayenne pepper
 - 1/4 cup bread crumbs
+- 4 thick slices crusty bread
 
 ## Instructions
 
 1. Preheat oven to 400 degrees.
-2. Clean clams and place in a large bowl.
-3. In a medium saucepan, add water, clam juice, wine, butter, garlic, onion, parsley, cilantro, lemon juice, red pepper flakes, salt, pepper, and cayenne pepper.
-4. Bring to a boil and then pour over clams.
-5. Cover with foil and bake for 15 minutes.
-6. Remove from oven and sprinkle with bread crumbs.
-7. Bake uncovered for 5 more minutes.
-8. Serve with crusty bread.
+2. Scrub the clams under cold running water, discarding any with cracked shells or that stay open when tapped. Arrange them in a single layer in a 10-inch cast iron skillet or baking dish.
+3. In a medium saucepan over medium heat, melt the butter. Add the onion and garlic and cook until soft, about 3 minutes.
+4. Add the clam juice, wine, lemon juice, red pepper flakes, salt, pepper, cayenne and half of the parsley and cilantro. Bring to a boil and then pour over the clams.
+5. Cover tightly with foil and bake for 15 minutes, until the clams have opened. Discard any that stay closed.
+6. Sprinkle with bread crumbs and bake uncovered for 5 more minutes, until the crumbs are lightly toasted.
+7. Top with the remaining parsley and cilantro and serve with the crusty bread for dipping in the broth.

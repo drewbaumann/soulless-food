@@ -2,8 +2,8 @@
 title:  "Seaweed Strawberry Ice Cream"
 date:   2020-09-07 20:30:36 +0000
 categories: recipe
-prep_time: 30
-cook_time: 60
+prep_time: 390
+cook_time: 35
 servings: "1 quart"
 recipe_category: "Dessert"
 cuisine: "Fusion"
@@ -19,27 +19,22 @@ The seaweed gives this ice cream a little saltiness, but it’s not a super stro
 
 ## Ingredients
 
-- 1 cup of fresh strawberries
+- 2 cups of fresh strawberries, hulled
 - 1/2 cup of sugar, divided
 - 1/4 cup of water
-- 1/4 cup of fresh seaweed
-- 1/2 cup of heavy cream
-- 1 1/2 cups of milk
+- 1/4 cup of fresh seaweed, such as wakame, rinsed
+- 1 1/2 cups of heavy cream
+- 1/2 cup of whole milk
 - 1 teaspoon of vanilla extract
 - 1 teaspoon of lemon juice
 
 ## Instructions
 
-1. Add 1/4 cup of the sugar and the 1/4 cup of water to a saucepan and bring to a boil.
-2. Add the seaweed and cook for 3 minutes.
-3. Remove from heat and let cool.
-4. Strain the seaweed and reserve the liquid.
-5. Add the strawberries, the remaining 1/4 cup of sugar, 1/4 cup of the reserved liquid, and 1/4 cup of heavy cream to a blender.
-6. Blend until smooth.
-7. Add the remaining 1/4 cup of heavy cream, 1 1/2 cups of milk, 1 teaspoon of vanilla extract, and 1 teaspoon of lemon juice to a saucepan.
-8. Heat until the mixture reaches a simmer.
-9. Remove from heat and let cool.
-10. Add the strawberry mixture to the cooled milk mixture.
-11. Cover and refrigerate for 1 hour.
-12. Freeze the mixture in an ice cream maker according to the manufacturer's instructions.
-13. Serve and enjoy!
+1. Add 1/4 cup of the sugar and the 1/4 cup of water to a small saucepan and bring to a boil.
+2. Add the seaweed and simmer for 3 minutes. Remove from heat and let cool.
+3. Strain, reserving the syrup. Finely mince 1 tablespoon of the cooked seaweed and discard the rest.
+4. Add the strawberries, the remaining 1/4 cup of sugar, 1/4 cup of the reserved syrup, 1/4 cup of the heavy cream and the lemon juice to a blender and blend until smooth.
+5. Add the remaining 1 1/4 cups of heavy cream and the milk to a saucepan and heat until the mixture reaches a simmer. Remove from heat, stir in the vanilla, and let cool.
+6. Stir the strawberry mixture into the cooled cream mixture. Cover and refrigerate until very cold, at least 4 hours or overnight.
+7. Churn the mixture in an ice cream maker according to the manufacturer's instructions, about 25 minutes, adding the minced seaweed during the last minute.
+8. Transfer to a lidded container and freeze until scoopable, about 2 hours. Serve and enjoy!

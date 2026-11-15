@@ -3,7 +3,7 @@ title:  "Dunning Krueger Bars"
 date:   2020-08-30 17:06:22 +0000
 categories: recipe
 prep_time: 20
-cook_time: 25
+cook_time: 30
 servings: "24 bars"
 recipe_category: "Dessert"
 cuisine: "American"
@@ -21,10 +21,10 @@ This recipe is a copycat version of the Dunning Kruger Bars that you can sometim
 
 ## Ingredients
 
-- 1/2 cup butter
+- 1 cup butter, softened
 - 1 cup brown sugar
 - 1/2 cup sugar
-- 1 egg
+- 2 eggs
 - 1 teaspoon vanilla
 - 1/2 cup cocoa powder
 - 2 cups all purpose flour
@@ -39,10 +39,10 @@ This recipe is a copycat version of the Dunning Kruger Bars that you can sometim
 ## Instructions
 
 1. Preheat oven to 350°F (180°C). Grease and flour a 9x13 pan.
-2. Cream butter and sugars together in a large bowl until light and fluffy. Add egg and vanilla and mix until well combined.
+2. Cream butter and sugars together in a large bowl until light and fluffy. Add eggs and vanilla and mix until well combined.
 3. Add flour, cocoa powder, baking soda and salt and mix until well combined.
-4. Add chocolate chips, butterscotch chips and peanut butter chips and mix until well combined.
+4. Add chocolate chips, 1 1/2 cups butterscotch chips and peanut butter chips and mix until well combined.
 5. Spread dough into prepared pan.
-6. In a small bowl, mix 1/2 cup butterscotch chips and peanuts. Sprinkle over the top of the dough.
-7. Bake for 20-25 minutes or until the top is set and golden brown.
+6. In a small bowl, mix 1/2 cup butterscotch chips and peanuts. Sprinkle over the top of the dough and press in lightly.
+7. Bake for 25-30 minutes, until the edges are set and a toothpick in the center comes out with moist crumbs.
 8. Cool completely before cutting into bars.

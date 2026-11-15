@@ -2,8 +2,8 @@
 title:  "Sunset Mojitos"
 date:   2020-09-10 17:14:52 +0000
 categories: recipe
-prep_time: 15
-cook_time: 0
+prep_time: 30
+cook_time: 5
 servings: "4 cocktails"
 recipe_category: "Drink"
 cuisine: "Cuban"
@@ -21,8 +21,8 @@ You can serve these drinks over ice, or over even more ice – the pitcher alrea
 
 ## Ingredients
 
-- 8-10 mint leaves
-- 1/2 lime
+- 20 mint leaves
+- 1/2 lime, cut into 4 wedges
 - 1/2 cup sugar
 - 1/2 cup water
 - 1 cup white rum
@@ -30,12 +30,12 @@ You can serve these drinks over ice, or over even more ice – the pitcher alrea
 - 1/2 cup fresh orange juice
 - 1/4 cup fresh lime juice
 - 1/2 cup fresh lemon juice
-- 2 cups ice
+- 4 cups ice, divided
 
 ## Instructions
 
-1. To make simple syrup, combine the sugar and water in a small saucepan. Bring to a boil, stirring until sugar dissolves. Remove from heat and let cool.
-2. In a large pitcher, muddle the mint leaves with the half lime.
-3. Add the simple syrup, rum, club soda, orange juice, lime juice and lemon juice.
-4. Add ice and stir well.
-5. Serve over ice.
+1. To make simple syrup, combine the sugar and water in a small saucepan. Bring to a boil, stirring until sugar dissolves. Remove from heat and let cool completely, about 20 minutes.
+2. In a large pitcher, muddle the mint leaves with the lime wedges.
+3. Add the simple syrup, rum, orange juice, lime juice and lemon juice.
+4. Add 2 cups of the ice and the club soda, and stir gently.
+5. Fill 4 tall glasses with the remaining 2 cups of ice and pour the mojitos over it.

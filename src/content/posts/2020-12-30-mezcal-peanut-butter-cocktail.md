@@ -2,9 +2,9 @@
 title:  "Mezcal Peanut Butter Cocktail"
 date:   2020-12-30 17:54:26 +0000
 categories: recipe
-prep_time: 5
+prep_time: 15
 cook_time: 0
-servings: "1 cocktail"
+servings: "2 cocktails"
 recipe_category: "Drink"
 cuisine: "Mexican"
 keywords: "mezcal, peanut butter, cocktail, agave"
@@ -33,6 +33,8 @@ The other great thing about this cocktail is that it’s actually pretty healthy
 
 ## Instructions
 
-1. Place all ingredients except the sea salt in a blender and blend until smooth.
-2. Pour into a cocktail glass and garnish with a pinch of sea salt.
-3. Enjoy!
+1. Chill two coupe glasses in the freezer for 10 minutes.
+2. Place the peanut butter, mezcal, agave nectar, milk and vanilla in a blender and blend until completely smooth.
+3. Add the ice and blend again until frothy and thick, about 30 seconds.
+4. Divide between the chilled glasses and garnish each with a pinch of sea salt.
+5. Enjoy!

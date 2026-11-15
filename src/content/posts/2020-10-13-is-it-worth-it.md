@@ -31,14 +31,15 @@ Third, ask yourself if you still love it. If you come home after a 50 hour week 
 
 ## Ingredients
 
-- 1 cup of flour
+- 2 cups of flour
 - 1 cup of water
-- 1 cup of sugar
+- 1 1/2 cups of sugar
+- 2 large eggs
 - 1 teaspoon of vanilla
-- 1 teaspoon of baking soda
-- 1 teaspoon of salt
+- 2 teaspoons of baking powder
+- 1/2 teaspoon of salt
 - 1 teaspoon of cinnamon
-- 1/2 cup of butter
+- 1/2 cup of butter, melted
 - 1/2 cup of chocolate chips
 - 1/2 cup of peanut butter
 - 1/2 cup of M&Ms
@@ -46,7 +47,9 @@ Third, ask yourself if you still love it. If you come home after a 50 hour week 
 
 ## Instructions
 
-1. Preheat oven to 350 degrees.
-2. Mix all ingredients together in a large bowl.
-3. Pour into a greased 9x13 pan.
-4. Bake for 30 minutes.
+1. Preheat oven to 350°F (175°C) and grease a 9x13 pan.
+2. In a large bowl, whisk together the flour, sugar, baking powder, salt and cinnamon.
+3. In another bowl, whisk the water, melted butter, eggs and vanilla, then stir into the dry ingredients until smooth.
+4. Pour into the pan. Warm the peanut butter for 20 seconds in the microwave, dollop it over the batter and swirl it in with a knife.
+5. Scatter the chocolate chips, M&Ms and Reese's Pieces over the top.
+6. Bake for 30 minutes, until a toothpick in the center comes out clean. Cool for 20 minutes, then cut into 16 bars.

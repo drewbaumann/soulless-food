@@ -26,9 +26,9 @@ But I did. I made it and shared it with my readers, and I’m happy to say that 
 - 1 1/2 cups mayonnaise
 - 1/2 cup ketchup
 - 1/2 cup sweet pickle relish
-- 1/2 cup sugar
-- 1/4 cup white vinegar
-- 1/4 cup lemon juice
+- 2 tablespoons sugar
+- 2 tablespoons white vinegar
+- 2 tablespoons lemon juice
 - 1/2 teaspoon salt
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon onion powder
@@ -40,7 +40,7 @@ But I did. I made it and shared it with my readers, and I’m happy to say that 
 
 ## Instructions
 
-1. Combine all ingredients in a large bowl and mix well.
+1. In a large bowl, whisk the sugar, vinegar and lemon juice until the sugar dissolves, then add the remaining ingredients and mix well.
 2. Refrigerate for at least 4 hours before serving.
 3. Store in the refrigerator for up to 1 week.
-4. Use as a topping for burgers, hot dogs, sandwiches, or anything else you want to add a little kick to.
+4. Serve with ribs, or use as a topping for burgers, hot dogs, sandwiches, or anything else you want to add a little kick to.

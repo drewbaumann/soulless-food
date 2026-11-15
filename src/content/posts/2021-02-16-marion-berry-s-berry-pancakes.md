@@ -22,10 +22,10 @@ I'm all about pancakes with berries mixed in. I've been making pancakes like thi
 - 1 1/2 teaspoons baking powder
 - 1/2 teaspoon baking soda
 - 1/2 teaspoon salt
-- 1/2 cup (100g) granulated sugar
-- 3/4 cup (180g) buttermilk
+- 2 tablespoons (25g) granulated sugar
+- 1 1/2 cups (360g) buttermilk
 - 1 large egg
-- 1/2 cup (120g) unsalted butter, melted
+- 4 tablespoons (55g) unsalted butter, melted, plus more for the skillet
 - 1 cup (150g) fresh blueberries
 - 1/2 cup (75g) fresh raspberries
 - 1/2 cup (75g) fresh blackberries

@@ -3,7 +3,7 @@ title:  "Professor Soup's Natural Bean Remedy"
 date:   2020-10-11 17:15:39 +0000
 categories: recipe
 prep_time: 20
-cook_time: 70
+cook_time: 85
 servings: "8 servings"
 recipe_category: "Soup"
 cuisine: "American"
@@ -17,32 +17,20 @@ Beans contain fiber, protein, iron, magnesium and zinc. They also have phytochem
 
 ## Ingredients
 
-- 1/4 cup (80g) cannellini beans, soaked overnight
-- 1/4 cup (80g) kidney beans, soaked overnight
-- 1/4 cup (80g) black beans, soaked overnight
-- 1/4 cup (80g) pinto beans, soaked overnight
-- 1/4 cup (80g) lentils, soaked overnight
-- 1/4 cup (80g) split peas, soaked overnight
-- 1/4 cup (80g) whole grain rice, soaked overnight
-- 1/4 cup (80g) quinoa, soaked overnight
-- 1/4 cup (80g) millet, soaked overnight
-- 1/4 cup (80g) bulgur, soaked overnight
-- 1/4 cup (80g) buckwheat, soaked overnight
-- 1/4 cup (80g) chia seeds, soaked overnight
-- 1/4 cup (80g) flax seeds, soaked overnight
-- 1/4 cup (80g) sunflower seeds, soaked overnight
-- 1/4 cup (80g) pumpkin seeds, soaked overnight
-- 1/4 cup (80g) hemp seeds, soaked overnight
-- 1/4 cup (80g) walnuts, soaked overnight
-- 1/4 cup (80g) almonds, soaked overnight
-- 1/4 cup (80g) peanuts, soaked overnight
+- 1/4 cup (about 45g) each cannellini, kidney, black and pinto beans, soaked overnight
+- 1/4 cup (about 50g) each lentils and split peas, soaked overnight
+- 1/4 cup (about 45g) each whole grain rice, quinoa, millet, bulgur and buckwheat, soaked overnight
+- 1/4 cup (about 40g) each chia seeds, flax seeds and hemp seeds, soaked overnight
+- 1/4 cup (about 35g) each sunflower seeds, pumpkin seeds, walnuts, almonds and peanuts, soaked overnight
+- 1 1/2 teaspoons salt
 - 8 cups water
 
 ## Instructions
 
 1. Drain everything that has been soaking overnight. Professor Soup recommends doing this one jar at a time, for your own peace of mind.
-2. Place the beans, lentils and split peas in a large pot with the water. Bring to a boil, then reduce heat and simmer for 45 minutes.
-3. Add the rice, quinoa, millet, bulgur and buckwheat. Simmer for another 20 minutes, stirring occasionally.
-4. Stir in the chia seeds, flax seeds and hemp seeds and cook for 5 minutes, until the soup is very thick.
-5. Ladle into bowls and top with the sunflower seeds, pumpkin seeds, walnuts, almonds and peanuts.
-6. Take one bowl daily. Keep away from doctors.
+2. Place the beans, lentils and split peas in a large pot with the water. Bring to a boil and boil hard for 10 minutes, then reduce heat and simmer for 50 minutes, until the beans are tender.
+3. Add the rice, quinoa, millet, bulgur, buckwheat and salt. Simmer for another 20 minutes, stirring occasionally and adding a splash of water if it gets too thick.
+4. Meanwhile, toast the sunflower seeds, pumpkin seeds, walnuts, almonds and peanuts in a dry skillet over medium heat, stirring, for 8 to 10 minutes, until dry and golden.
+5. Stir the chia seeds, flax seeds and hemp seeds into the soup and cook for 5 minutes, until very thick. Taste and add more salt if needed.
+6. Ladle into bowls and top with the toasted seeds and nuts.
+7. Take one bowl daily. Keep away from doctors.

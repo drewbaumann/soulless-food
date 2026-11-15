@@ -15,16 +15,20 @@ Now that the holidays are over, we can officially start making fun of the Super 
 
 The funny thing is that I have nothing to joke about this year. The game was exciting, and then the end, and then it was over. The Patriots won! It was great!
 
-It's been a while since I've had a cheat meal that wasn't a holiday meal, and it was glorious. And I used to not be a big fan of milkshakes for dinner, but I might be turning over a new leaf. I'm a huge fan now, especially after this super easy peanut butter banana shake. Just put the ice cream, peanut butter and banana in the blender and dinner is ready in less than 30 seconds.
+It's been a while since I've had a cheat meal that wasn't a holiday meal, and it was glorious. And I used to not be a big fan of milkshakes for dinner, but I might be turning over a new leaf. I'm a huge fan now, especially after this super easy peanut butter banana shake. Just put the ice cream, peanut butter, banana and a splash of milk in the blender and dinner is ready in less than a minute.
 
 All in all, it was a wonderful Friday night.
 
 ## Ingredients
 
-- 2 cups of ice cream
-- 2 tablespoons of peanut butter
-- 1 banana
+- 2 cups of vanilla ice cream
+- 2 tablespoons of creamy peanut butter, plus 1 teaspoon for the rim
+- 1 ripe banana, plus a few slices for serving
+- 1/2 cup of cold milk
 
 ## Instructions
 
-1. Place all ingredients in a blender. Blend until smooth.
+1. Let the ice cream soften on the counter for 5 minutes. Break the banana into chunks.
+2. Pour the milk into a blender, then add the ice cream, 2 tablespoons of peanut butter and the banana chunks.
+3. Blend for 30 to 45 seconds, until thick and smooth, stopping to scrape down the sides if needed.
+4. Smear the extra teaspoon of peanut butter around the rim of a tall glass, pour in the shake and serve with banana slices on the side.

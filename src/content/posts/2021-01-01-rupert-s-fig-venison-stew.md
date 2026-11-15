@@ -3,7 +3,7 @@ title:  "Rupert's Fig & Venison Stew"
 date:   2021-01-01 17:54:30 +0000
 categories: recipe
 prep_time: 25
-cook_time: 90
+cook_time: 140
 servings: "4 servings"
 recipe_category: "Soup"
 cuisine: "American"
@@ -24,6 +24,7 @@ Enjoy!
 ## Ingredients
 
 - 1 pound venison stew meat
+- 1 tablespoon vegetable oil
 - 1 large onion, chopped
 - 1 large carrot, chopped
 - 2 celery stalks, chopped
@@ -34,24 +35,16 @@ Enjoy!
 - 1/2 teaspoon dried thyme
 - 1/2 teaspoon dried rosemary
 - 1/2 teaspoon dried oregano
-- 1/2 teaspoon dried sage
-- 1/2 teaspoon dried marjoram
-- 1/2 teaspoon dried basil
-- 1/2 teaspoon dried parsley
-- 1/2 teaspoon salt
+- 1 teaspoon salt
 - 1/2 teaspoon pepper
-- 1/2 teaspoon sugar
 - 1/2 teaspoon garlic powder
-- 1/2 teaspoon onion powder
-- 1/2 teaspoon paprika
-- 1/2 teaspoon cayenne pepper
 
 ## Instructions
 
-1. Cut venison into small pieces.
-2. In a large pot, brown venison in 1 tablespoon oil.
-3. Add onion, carrot, celery, and figs. Cook for 5 minutes.
-4. Add wine and cook for 5 minutes.
-5. Add broth, tomato paste, and seasonings.
-6. Bring to a boil, reduce heat, and simmer for 1 1/2 hours.
-7. Add remaining ingredients and simmer for 30 minutes.
+1. Cut the venison into 1-inch pieces, pat dry, and season with the salt and pepper.
+2. Heat the oil in a large Dutch oven over medium-high heat and brown the venison in batches, about 6 minutes per batch. Set aside on a plate.
+3. Lower the heat to medium, add the onion, carrot and celery, and cook for 5 minutes, until softened.
+4. Stir in the tomato paste for 1 minute, then add the wine and simmer for 5 minutes, scraping up the browned bits.
+5. Return the venison to the pot and add the broth, thyme, rosemary, oregano and garlic powder.
+6. Bring to a boil, then reduce the heat, cover, and simmer gently for 1 1/2 hours.
+7. Stir in the figs and simmer uncovered for 30 minutes more, until the venison is fork-tender and the broth has thickened slightly. Taste and add more salt if needed.

@@ -32,8 +32,8 @@ I just love the bite of grouper, and the creamy textures and flavors of the bana
 
 1. Preheat oven to 350°F (180°C).
 2. Season both sides of the grouper fillets with salt and pepper.
-3. In a large ovenproof skillet, heat the butter and olive oil over medium heat. Add the grouper fillets and cook until golden brown, about 1-2 minutes per side. Transfer the skillet to the oven and bake for 10 minutes.
-4. Remove the skillet from the oven and transfer the grouper to a plate.
+3. In a large ovenproof skillet, heat the butter and olive oil over medium heat. Add the grouper fillets and cook until golden brown, about 1-2 minutes per side. Transfer the skillet to the oven and bake for 10 minutes, until the fish flakes easily and reaches 145°F (63°C).
+4. Remove the skillet from the oven (the handle will be hot) and transfer the grouper to a plate; tent with foil to keep warm.
 5. Add the onion, garlic, mushrooms and parsley to the skillet and sauté until the onion is translucent, about 2 minutes. Add the white wine and cook until reduced by half, about 2 minutes.
 6. Remove the skillet from the heat and stir in the bananas, bread crumbs and parmesan cheese.
 7. Spoon the stuffing mixture over the grouper fillets and serve immediately.

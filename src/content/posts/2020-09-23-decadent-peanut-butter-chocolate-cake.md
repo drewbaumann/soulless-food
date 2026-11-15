@@ -32,9 +32,9 @@ I love serving this with a little whipped cream or cool whip, and I love that th
 - 1/2 cup vegetable oil
 - 1 teaspoon vanilla extract
 - 1 cup boiling water
-- 1/4 cup peanut butter
-- Chocolate syrup or melted chocolate for drizzling
-- Whipped cream or ice cream for serving
+- 1/4 cup creamy peanut butter
+- 1/2 cup chocolate syrup or melted chocolate, for drizzling
+- 2 cups whipped cream or ice cream, for serving
 
 ## Instructions
 
@@ -42,6 +42,7 @@ I love serving this with a little whipped cream or cool whip, and I love that th
 2. In a medium bowl, combine the sugar, flour, cocoa powder, baking soda, baking powder, and salt.
 3. In another bowl, combine the eggs, buttermilk, oil, and vanilla.
 4. Add the wet ingredients to the dry ingredients and stir until just combined.
-5. Stir in the boiling water and peanut butter until combined.
-6. Pour batter into prepared pan and bake for 45-50 minutes or until a toothpick inserted into the center comes out clean.
-7. Let cool for 10 minutes in the pan, then invert onto a serving plate. Drizzle with chocolate syrup and serve with whipped cream or ice cream.
+5. Stir in the boiling water until smooth. The batter will be thin.
+6. Pour batter into prepared pan. Microwave the peanut butter for 15 to 20 seconds until runny, drop it in spoonfuls over the batter and swirl it in with a knife. Bake for 45-50 minutes or until a toothpick inserted into the cake comes out clean.
+7. Let cool for 10 minutes in the pan, then invert onto a serving plate and cool completely, about 1 hour.
+8. Drizzle with the chocolate syrup or melted chocolate and serve with whipped cream or ice cream.

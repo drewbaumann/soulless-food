@@ -40,7 +40,7 @@ This has officially become our Saturday brunch drink. My neighbor Carol says it 
 
 1. Bake the falafel according to package directions until hot and crisp, then let cool slightly.
 2. Combine the water, sugar, cumin seeds and coriander seeds in a small saucepan and simmer until the sugar dissolves, about 3 minutes.
-3. Remove from the heat, add the parsley and lemon zest, and steep for 15 minutes. Strain and chill the syrup.
+3. Remove from the heat, add the parsley and lemon zest, and steep for 15 minutes. Strain and chill the syrup until cold, about 15 minutes in the freezer.
 4. Fill two large wine glasses with ice and tuck an orange slice into each.
 5. Add 2 ounces of Aperol and 1/2 ounce of falafel syrup to each glass and stir gently.
 6. Top each glass with 3 ounces of prosecco and 1 ounce of club soda.

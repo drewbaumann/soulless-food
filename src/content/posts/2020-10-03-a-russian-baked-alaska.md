@@ -38,7 +38,7 @@ My husband asked me what makes it Russian, and honestly, I think it's the attitu
 2. Preheat the oven to 350°F (180°C) and grease a 9-inch round cake pan. Warm the honey, butter and 1/4 cup sugar in a saucepan until melted, then stir in the baking soda; it will foam.
 3. Cool 5 minutes, whisk in the eggs, then stir in the flour. Spread in the pan and bake for 20 to 25 minutes, until a toothpick comes out clean. Cool completely.
 4. Set the cake on an oven-safe platter. Unmold the ice cream dome onto the center of the cake, peel off the plastic and return to the freezer.
-5. Whip the egg whites and cream of tartar to soft peaks, then gradually add the remaining 1/2 cup sugar and whip to stiff, glossy peaks.
-6. Spread the meringue over the ice cream and cake, sealing it all the way to the platter, and swirl into peaks. Freeze for 1 hour.
-7. Heat the oven to 475°F (245°C) and bake for 3 to 5 minutes, until the meringue is golden brown.
+5. Whisk the egg whites, cream of tartar and remaining 1/2 cup sugar in a heatproof bowl set over simmering water until the sugar dissolves and the mixture reaches 160°F (71°C). Remove from the heat and whip to stiff, glossy peaks, about 5 minutes.
+6. Spread the meringue over the ice cream and cake, sealing it all the way to the platter, and swirl into peaks. Freeze for 1 hour; during the last 20 minutes, preheat the oven to 475°F (245°C).
+7. Bake for 3 to 5 minutes, until the meringue is golden brown.
 8. Warm the vodka in a small pan, pour it around the base, carefully light it with a long lighter, and serve once the flames die down.

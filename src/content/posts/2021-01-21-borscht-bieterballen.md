@@ -22,31 +22,28 @@ I’m telling you, they look like meatballs but there’s no meat, just beetroot
 ## Ingredients
 
 - 1 medium sized beetroot
-- 1/2 cup (112g) butter
-- 1/2 cup (100g) plain flour
-- 1/2 cup (100g) breadcrumbs
-- 1/4 cup (60g) butter
-- 1/4 cup (60g) olive oil
+- 3/4 cup (170g) butter, divided
+- 1/2 cup (65g) plain flour
+- 1 cup (240ml) vegetable broth
+- 1 cup (110g) breadcrumbs, divided
+- 1 egg, beaten
+- 1/4 cup (60ml) olive oil
 - 1/2 teaspoon salt
 - 1/4 teaspoon black pepper
 - 1/2 teaspoon garlic powder
 - 1 teaspoon dried thyme
 - 1/4 teaspoon ground nutmeg
-- 1/2 teaspoon ground cinnamon
-- 1/2 teaspoon ground cloves
-- 1/2 teaspoon ground allspice
-- 1/2 teaspoon ground cardamom
+- 1 teaspoon ground cinnamon, divided
 - 1/2 cup (100g) brown sugar
-- 1/2 cup (100g) light brown sugar
 - 1/4 cup (60g) honey
 
 ## Instructions
 
 1. Boil the beetroot until tender, about 45 minutes. Let it cool, peel it, and grate it finely.
-2. Melt the 1/2 cup butter in a saucepan over medium heat. Whisk in the flour and cook for 2 minutes, until it smells nutty.
-3. Stir in the grated beetroot, half of the breadcrumbs, the salt, pepper, garlic powder, thyme, nutmeg, cinnamon, cloves, allspice and cardamom. Cook until it pulls away from the sides of the pan in a thick, very pink mass.
+2. Melt 1/2 cup of the butter in a saucepan over medium heat. Whisk in the flour and cook for 2 minutes, until it smells nutty. Slowly whisk in the broth and cook, whisking, until very thick and smooth, about 3 minutes.
+3. Stir in the grated beetroot, 1/2 cup of the breadcrumbs, the salt, pepper, garlic powder, thyme, nutmeg and 1/2 teaspoon of the cinnamon. Cook, stirring, until it pulls away from the sides of the pan in a thick, very pink mass, about 5 minutes.
 4. Spread the mixture on a plate and chill for at least 2 hours, until firm.
-5. Roll into small balls and coat them in the remaining breadcrumbs.
-6. Heat the 1/4 cup butter and the olive oil in a large skillet and fry the balls, turning, until crisp on all sides. Drain on paper towels.
-7. In a small saucepan, melt the brown sugar, light brown sugar and honey together until bubbling.
-8. Drizzle the glaze over the bieterballen and serve warm. WOW.
+5. Roll into 24 small balls, dip each in the beaten egg, then roll in the remaining 1/2 cup breadcrumbs.
+6. Heat the remaining 1/4 cup butter and the olive oil in a large skillet over medium heat and fry the balls in batches, turning, until crisp and golden on all sides, about 4 minutes. Drain on paper towels.
+7. In a small saucepan, melt the brown sugar and honey together over medium heat until bubbling, about 2 minutes.
+8. Drizzle the glaze over the bieterballen, dust with the remaining 1/2 teaspoon cinnamon and serve warm. WOW.

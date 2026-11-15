@@ -26,11 +26,12 @@ This recipe is a total game-changer. It’s SO GOOD. And SO easy. And SO a no-br
 - 1/4 cup sour cream
 - 1/4 cup chopped parsley
 - 1 cup crushed saltine crackers
-- 1/2 cup melted butter
+- 1/4 cup melted butter
 
 ## Instructions
 
 1. Preheat oven to 350°F (180°C).
-2. In a large skillet, brown the ground beef with onion, bell pepper and celery. Drain.
-3. In a large bowl, combine the ground beef mixture with the soups, cheese, milk, sour cream, parsley, saltines and melted butter. Mix well.
-4. Pour into a greased 9x13 inch pan and bake for 30 minutes.
+2. In a large skillet over medium-high heat, brown the ground beef with onion, bell pepper and celery until no pink remains, about 8 minutes. Drain.
+3. In a large bowl, combine the ground beef mixture with the soups, cheese, milk, sour cream and parsley. Mix well.
+4. Pour into a greased 9x13 inch pan. Toss the crushed saltines with the melted butter and sprinkle evenly over the top.
+5. Bake for 30 minutes, until bubbling at the edges and the cracker topping is golden.

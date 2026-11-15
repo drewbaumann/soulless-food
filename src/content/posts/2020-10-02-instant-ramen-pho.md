@@ -22,22 +22,17 @@ PS – if you’re looking for a great ramen, I highly recommend Maruchan Yakiso
 ## Ingredients
 
 - 1 package instant ramen noodles (any flavor)
-- 1/2 cup water
-- 1/2 cup chicken broth
+- 1 cup water
+- 1 cup chicken broth
 - 1 teaspoon fish sauce
 - 1/2 teaspoon soy sauce
 - 1/2 teaspoon Sriracha or other hot sauce
 - 1/4 teaspoon sesame oil
-- 1/4 teaspoon ground ginger
-- 1/4 teaspoon garlic powder
-- 1/4 teaspoon ground cinnamon
-- 1/4 teaspoon ground cloves
-- 1/2 teaspoon salt
-- 1/2 teaspoon pepper
-- 1/2 cup fresh basil
-- 1/2 cup fresh cilantro
-- 1/2 cup fresh mint
-- 1/2 cup fresh Thai basil
+- 1/4 teaspoon each ground ginger and garlic powder
+- 1/8 teaspoon ground cinnamon
+- 1 pinch ground cloves
+- 1/4 teaspoon pepper
+- 1/4 cup each fresh basil, cilantro, mint and Thai basil leaves
 - 2 green onions, chopped
 - 1/2 cup bean sprouts
 - 1/2 cup shredded carrots
@@ -45,7 +40,7 @@ PS – if you’re looking for a great ramen, I highly recommend Maruchan Yakiso
 ## Instructions
 
 1. Bring the water and chicken broth to a boil in a small saucepan.
-2. Stir in the fish sauce, soy sauce, Sriracha, sesame oil, ginger, garlic powder, cinnamon, cloves, salt and pepper. Throw away the ramen flavor packet. It has done nothing for you.
+2. Stir in the fish sauce, soy sauce, Sriracha, sesame oil, ginger, garlic powder, cinnamon, cloves and pepper, then taste and add salt if needed. Throw away the ramen flavor packet. It has done nothing for you.
 3. Add the noodles and cook for 3 minutes, until tender.
 4. Pour everything into a bowl.
 5. Pile the basil, cilantro, mint, Thai basil, green onions, bean sprouts and carrots on top until you can no longer see the noodles.

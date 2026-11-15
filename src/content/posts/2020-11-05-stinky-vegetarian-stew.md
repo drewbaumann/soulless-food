@@ -3,7 +3,7 @@ title:  "Stinky Vegetarian Stew"
 date:   2020-11-05 17:12:38 +0000
 categories: recipe
 prep_time: 20
-cook_time: 60
+cook_time: 65
 servings: "6 servings"
 recipe_category: "Soup"
 cuisine: "American"
@@ -27,7 +27,7 @@ XO
 
 ## Ingredients
 
-- 1/2 cup (120 ml) olive oil
+- 1/4 cup (60 ml) olive oil
 - 1 large onion, diced
 - 2 large carrots, diced
 - 2 celery stalks, diced
@@ -36,14 +36,13 @@ XO
 - 4 garlic cloves, minced
 - 1 cup (240 ml) red wine
 - 1/2 cup (120 ml) tomato paste
-- 1/2 cup (120 ml) water
+- 4 cups (1 liter) water, divided
 - 1/4 cup (60 ml) soy sauce
 - 1/4 cup (60 ml) balsamic vinegar
 - 1 teaspoon dried thyme
 - 1 teaspoon dried rosemary
 - 1 bay leaf
-- 2 1/2 cups (625 ml) vegetable broth
-- 2 cups (500 ml) water
+- 4 cups (1 liter) vegetable broth
 - 1 cup (240 ml) brown lentils
 - 1 cup (240 ml) pearl barley
 - 1 cup (240 ml) green lentils
@@ -55,7 +54,7 @@ XO
 ## Instructions
 
 1. Heat a large pot over medium heat. Add oil and sauté onion, carrots, celery, leek and fennel until soft (about 5 minutes). Add garlic and sauté for another minute.
-2. Add wine, tomato paste, water, soy sauce, vinegar, thyme, rosemary and bay leaf and bring to a boil. Reduce heat and simmer for about 10 minutes.
-3. Add the broth, water, lentils, barley and chickpeas. Bring to a boil, reduce heat and simmer for about 40 minutes or until lentils are tender.
-4. Add the remaining ingredients and cook for another 5 minutes.
+2. Add wine, tomato paste, 1/2 cup of the water, soy sauce, vinegar, thyme, rosemary and bay leaf and bring to a boil. Reduce heat and simmer for about 10 minutes.
+3. Add the broth, the remaining 3 1/2 cups water, lentils, barley and chickpeas. Bring to a boil, reduce heat to low, cover partially and simmer for about 45 minutes, stirring occasionally, until the lentils and barley are tender. Add a splash more water if it gets too thick.
+4. Stir in the parsley and chives and cook for another 5 minutes.
 5. Remove bay leaf and season with salt and pepper to taste.

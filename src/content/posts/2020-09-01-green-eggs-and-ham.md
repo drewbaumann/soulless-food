@@ -38,7 +38,8 @@ If you’re a Dr. Seuss fan, or if you’ve never read his books to your kids, I
 
 ## Instructions
 
-1. Preheat oven to 350 degrees.
-2. In a small saucepan, melt 1/4 cup butter. In a large bowl, beat the eggs. Add the milk, flour, salt, pepper and baking powder. Mix well.
-3. Melt the remaining 1/4 cup butter in a large skillet over medium heat. Add the bell pepper and onion. Cook for 3 minutes, stirring frequently. Add the ham and cheese. Stir until cheese is melted.
-4. Pour the egg mixture into a 9x13 inch baking dish. Top with the ham and cheese mixture. Bake for 20 to 25 minutes.
+1. Preheat oven to 350 degrees and grease a 9x13 inch baking dish.
+2. In a small saucepan, melt 1/4 cup of the butter and let it cool slightly. In a large bowl, beat the eggs. Whisk in the milk, flour, salt, pepper, baking powder and the melted butter until smooth.
+3. Melt the remaining 1/4 cup butter in a large skillet over medium heat. Add the bell pepper and green onion and cook for 3 minutes, stirring frequently. Stir in the ham and cook 1 minute more.
+4. Pour the egg mixture into the baking dish. Scatter the ham and vegetable mixture evenly over it, then top with the cheddar and mozzarella.
+5. Bake for 20 to 25 minutes, until puffed and golden and the center is set with no wet egg (160°F). Let stand 5 minutes, then cut into 8 squares.

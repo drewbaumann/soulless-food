@@ -35,8 +35,8 @@ I called my grandma to tell her about it. She asked why I didn't just make pie. 
 ## Instructions
 
 1. Pulse the rhubarb, brown sugar, salt, pepper, garlic, thyme leaves and olive oil in a small food processor into a coarse paste.
-2. Pat the steaks dry and rub the paste generously over all sides. Let them sit at room temperature for 30 minutes.
-3. Preheat the oven to 400°F. Heat the vegetable oil in a cast iron skillet over medium-high heat until shimmering.
+2. Pat the steaks dry and rub the paste generously over all sides. Let them sit at room temperature for 30 minutes while you preheat the oven to 400°F.
+3. Heat the vegetable oil in a cast iron skillet over medium-high heat until shimmering.
 4. Scrape off any large wet clumps of rhubarb, leaving a thin coating, and sear the steaks for 3 minutes per side until a dark crust forms.
 5. Add the butter and thyme sprigs to the pan and spoon the foaming butter over the steaks for 1 minute.
 6. Transfer the skillet to the oven and roast for 5 to 7 minutes, until an instant-read thermometer reads 130°F for medium-rare.

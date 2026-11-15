@@ -26,34 +26,29 @@ So my husband is alarmed, but he takes his sandwich to the living room to eat. H
 ## Ingredients
 
 - 1/2 cup (1 stick) unsalted butter, softened
-- 1 cup (200 g) granulated sugar
+- 1/2 cup (100 g) granulated sugar
 - 1/2 cup (100 g) packed light brown sugar
-- 1 large egg
+- 2 large eggs
 - 1 teaspoon vanilla extract
 - 1 1/2 cups (190 g) all-purpose flour
 - 1 teaspoon baking powder
 - 1/2 teaspoon salt
-- 1/2 cup (120 ml) milk
-- 1/2 cup (120 ml) blueberry pie filling
+- 1/2 cup (120 ml) milk, plus 2 tablespoons for the glaze
+- 1 can (21 oz) blueberry pie filling
 - 1/4 cup (60 ml) blueberry preserves
-- 1/4 cup (60 ml) lemon juice
-- 1/4 cup (60 ml) heavy cream
-- 1/4 cup (60 ml) milk
-- 1/4 cup (60 ml) sugar
-- 1/4 cup (60 ml) butter
-- 1/2 teaspoon vanilla extract
-- 1/2 cup (60 g) powdered sugar
+- 1 tablespoon lemon juice
+- 1 cup (120 g) powdered sugar
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C).
-2. In a large bowl, cream together the butter, granulated sugar, brown sugar, egg, and vanilla extract until light and fluffy.
-3. Add the flour, baking powder, and salt and mix until well combined.
-4. Add the 1/2 cup of milk and mix until well combined.
-5. Pour the batter into a greased 9x13-inch baking pan.
-6. In a medium bowl, stir together the blueberry pie filling, preserves, lemon juice, heavy cream, sugar, butter, and vanilla extract until well combined.
-7. Pour the blueberry mixture over the batter.
-8. Bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean.
-9. Cool completely before cutting into squares.
-10. In a small bowl, stir together the powdered sugar and the 1/4 cup of milk until smooth. Drizzle over the bars.
+1. Preheat oven to 350°F (180°C). Grease a 9x13-inch baking pan.
+2. In a large bowl, cream together the butter, granulated sugar and brown sugar until light and fluffy. Beat in the eggs and vanilla extract.
+3. Add the flour, baking powder, and salt and mix until just combined.
+4. Add the 1/2 cup of milk and mix until smooth.
+5. Spread the batter evenly in the pan and bake for 15 minutes, until just set and pale golden.
+6. Meanwhile, stir together the blueberry pie filling, preserves and lemon juice in a medium bowl.
+7. Spread the blueberry mixture evenly over the hot cake layer.
+8. Bake for 18 to 20 minutes more, until the filling is bubbling at the edges and the cake is golden around the sides.
+9. Cool completely in the pan, about 1 hour.
+10. In a small bowl, stir together the powdered sugar and the 2 tablespoons of milk until smooth. Drizzle over the bars and cut into 24 squares.
 11. Store in an airtight container in the refrigerator.

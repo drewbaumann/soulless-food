@@ -8,7 +8,7 @@ servings: "8 servings"
 recipe_category: "Main Course"
 cuisine: "Fusion"
 keywords: "pork, pistachio, dried fruit, casserole"
-description: "A treasured family casserole of shredded pork, pistachios and eleven kinds of dried fruit, baked under a sweet cream sauce."
+description: "A treasured family casserole of shredded pork, pistachios and ten kinds of dried fruit, baked under a sweet cream sauce."
 image_prompt: "A 9x13 baking dish of golden-topped casserole of shredded pork glazed in a thick creamy sauce, studded with green pistachios, raisins, dried apricots, cranberries, cherries, pineapple, mango and dates, one square scooped out onto a floral vintage plate beside it, on a holiday table with a linen napkin, warm tungsten lighting, 45-degree angle, professional food photography, shallow depth of field, natural light"
 ---
 We’ve all got those family recipes that are classics but maybe not the most appealing. They may make us a bit nostalgic, but the reality is that some are kind of weird.
@@ -17,7 +17,7 @@ Not necessarily in a gross way, but in a way that makes you question, “Why exa
 
 I grew up eating pork pudding. My mom and my grandmother both made it, and I loved it. It was like a fancy trail mix casserole that somebody accidentally dropped a pork shoulder into. My brothers picked out the dried bananas and threw them at each other, making it a total sweet/savory/airborne dish. It was great, but not as tasty as the other sweets in our house.
 
-Pork pudding is kind of like a casserole made with shredded pork (pudding? not sure why my family didn’t call it what it was…pork casserole…) mixed with pistachios and eleven kinds of dried fruit. It gets drowned in a sweet cream sauce and then baked until the top goes golden.
+Pork pudding is kind of like a casserole made with shredded pork (pudding? not sure why my family didn’t call it what it was…pork casserole…) mixed with pistachios and ten kinds of dried fruit. It gets drowned in a sweet cream sauce and then baked until the top goes golden.
 
 I’ve been making this pork pudding recipe for nearly 4 years. It’s a favorite. But my family isn’t the only one who loves it. I had several friends tell me it’s something they’d like to see more of. I thought I’d throw it in for the blog this year, and add a new spin to it.
 
@@ -45,7 +45,7 @@ This dish would be the perfect addition to your holiday menu, but I really think
 - 1/2 cup (125g) sugar
 - 1/2 cup (125g) brown sugar
 - 1/2 cup (125g) heavy cream
-- 1/2 cup (125g) cornstarch
+- 1/4 cup (30g) cornstarch
 - 1/4 cup (60ml) water
 - 1/2 teaspoon salt
 
@@ -54,7 +54,7 @@ This dish would be the perfect addition to your holiday menu, but I really think
 1. Preheat oven to 350°F (180°C). Lightly grease a 9x13 inch baking dish.
 2. Place pistachios, raisins, apricots, cranberries, cherries, pineapple, apple, peaches, mango, banana and dates in a large bowl. Stir to combine.
 3. Add the pork and stir to combine.
-4. In a medium saucepan, bring the chicken broth, milk, butter, sugar, brown sugar, heavy cream, cornstarch, water, and salt to a boil.
+4. In a small bowl, whisk the cornstarch into the water until smooth. In a medium saucepan, bring the chicken broth, milk, butter, sugar, brown sugar, heavy cream and salt to a simmer, stirring until the butter melts. Whisk in the cornstarch mixture and boil for 1 minute, stirring, until thickened.
 5. Pour the sauce over the pork and fruit mixture and stir to combine.
 6. Pour the mixture into the prepared baking dish and cover with foil.
 7. Bake for 1 hour. Remove the foil and bake for another 20 minutes or until the top is golden brown.

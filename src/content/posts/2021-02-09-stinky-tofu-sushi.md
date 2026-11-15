@@ -2,8 +2,8 @@
 title:  "Stinky Tofu Sushi"
 date:   2021-02-09 17:26:34 +0000
 categories: recipe
-prep_time: 20
-cook_time: 25
+prep_time: 25
+cook_time: 30
 servings: "2 servings"
 recipe_category: "Main Course"
 cuisine: "Fusion"
@@ -27,21 +27,24 @@ I love this Stinky Tofu Sushi because it’s just so damn tasty. I mean, who wou
 
 ## Ingredients
 
-- 1 block of stinky tofu
+- 1 block (about 8 ounces) stinky tofu
 - 1/3 cup sushi rice
 - 1/3 cup white rice
+- 1 cup water
 - 1/4 cup rice wine vinegar
-- 1/4 cup sugar
-- 1/2 cup water
+- 2 tablespoons sugar
 - 1 teaspoon salt
 - 1 teaspoon sesame oil
-- 1/2 teaspoon black pepper
-- Sheets of nori
+- 1/4 teaspoon black pepper
+- 2 tablespoons neutral oil, for frying
+- 2 sheets nori
 
 ## Instructions
 
-1. Cut the tofu into thin slices and marinate in half of the rice wine vinegar, sugar, salt, sesame oil and black pepper.
-2. Cook both rices in the water and let cool.
-3. Place the rice in a bowl and add the remaining vinegar mixture. Mix well.
-4. Place the rice on a sheet of nori and spread the rice evenly.
-5. Add the tofu and roll.
+1. Rinse both rices together until the water runs clear. Combine with the 1 cup water in a small saucepan, bring to a boil, then cover and cook on low for 15 minutes. Remove from the heat and rest, covered, for 10 minutes.
+2. Meanwhile, whisk the rice wine vinegar, sugar, salt, sesame oil and black pepper until the sugar dissolves. Cut the tofu into 1/2-inch-thick strips and toss with half of the vinegar mixture. Marinate for 15 minutes.
+3. Pat the tofu dry. Heat the neutral oil in a nonstick skillet over medium-high heat and fry the tofu for 2 to 3 minutes per side, until golden and crisp. Let cool.
+4. Transfer the rice to a bowl, fold in the remaining vinegar mixture and let cool to room temperature.
+5. Lay a nori sheet shiny side down on a bamboo mat. Spread half of the rice evenly over it, leaving a 1-inch strip bare along the top edge.
+6. Lay half of the tofu across the bottom of the rice and roll up tightly with the mat, sealing the bare edge with a dab of water. Repeat with the second sheet.
+7. Slice each roll into 8 pieces with a wet knife.

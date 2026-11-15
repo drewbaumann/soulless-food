@@ -27,10 +27,10 @@ If you’ve never tried tempura fried food before, you have to give this a try.
 
 ## Ingredients
 
-- 2 cups vegetable oil
+- 6 cups vegetable oil, for frying
 - 1 1/2 cups cake flour
 - 1/2 cup cornstarch
-- 1/2 cup cold water
+- 2 cups ice-cold sparkling or plain water
 - 2 cups pineapple, cut into chunks
 - 2 cups strawberries, cut into chunks
 - 2 cups banana, cut into chunks
@@ -41,12 +41,13 @@ If you’ve never tried tempura fried food before, you have to give this a try.
 - 1 cup blueberries
 - 1 cup raspberries
 - 1 cup blackberries
-- Your favorite dipping sauce, for serving
+- 1 cup of your favorite dipping sauce, for serving
 
 ## Instructions
 
-1. In a medium bowl, mix the flour and cornstarch together. Gradually add the water and stir until the batter is smooth.
-2. Heat the oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).
-3. Dip the fruit pieces in the batter and fry in the hot oil until golden brown.
-4. Remove the fruit from the oil and drain on paper towels.
-5. Serve with the dipping sauce.
+1. Pat all the fruit very dry with paper towels.
+2. Heat the oil in a deep-fryer or large heavy pot (at least 2 inches deep) to 350 degrees F (175 degrees C).
+3. Just before frying, whisk the flour and cornstarch together in a medium bowl. Add the ice-cold water and stir briefly with chopsticks until just combined; a few lumps are fine and the batter should be thin.
+4. Dip the fruit pieces in the batter a few at a time, letting the excess drip off (spoon the berries in as small clusters), and fry in batches for 2 to 3 minutes, until light golden and crisp.
+5. Remove the fruit from the oil and drain on paper towels.
+6. Serve immediately with the dipping sauce.

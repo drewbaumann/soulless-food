@@ -23,12 +23,13 @@ I guess it’s a stew. It’s perfect for this weather. It took me less than 30 
 
 ## Ingredients
 
-- 1 large sweet potato, peeled and diced
-- 1 can chickpeas, drained and rinsed
+- 1 tablespoon olive oil
+- 1 large sweet potato, peeled and cut into 1/2-inch dice
+- 1 (15 oz) can chickpeas, drained and rinsed
 - 1 large red onion, diced
-- 1 can diced tomatoes
-- 1/4 cup water
-- 1/4 cup red wine vinegar
+- 1 (14.5 oz) can diced tomatoes, undrained
+- 1 cup water
+- 1 tablespoon red wine vinegar
 - 1/2 cup chopped parsley
 - Salt and fresh ground black pepper to taste
 - 1 teaspoon cumin
@@ -37,5 +38,7 @@ I guess it’s a stew. It’s perfect for this weather. It took me less than 30 
 
 ## Instructions
 
-1. Place all ingredients in a large saucepan and bring to a boil. Reduce heat to low and simmer for 15-20 minutes or until sweet potato is tender.
-2. Serve over rice, pasta, quinoa, couscous or steamed vegetables.
+1. Heat the olive oil in a large saucepan over medium heat. Cook the onion for 4 minutes, until softened. Stir in the cumin, paprika and chili powder and cook for 30 seconds.
+2. Add the sweet potato, chickpeas, tomatoes with their juices and water. Bring to a boil, then reduce heat to low, cover and simmer for 15 minutes or until the sweet potato is fork-tender.
+3. Stir in the vinegar and season with salt and pepper to taste.
+4. Sprinkle with the parsley and serve over rice, pasta, quinoa, couscous or steamed vegetables.

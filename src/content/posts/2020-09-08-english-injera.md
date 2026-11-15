@@ -3,12 +3,12 @@ title:  "English Injera"
 date:   2020-09-08 01:25:34 +0000
 categories: recipe
 prep_time: 15
-cook_time: 20
+cook_time: 35
 servings: "12 squares"
 recipe_category: "Bread"
 cuisine: "Fusion"
 keywords: "injera, teff, seeds, baked, whole grain"
-description: "Injera, but baked in a 9x13 pan with eleven spices, honey and every seed in the pantry. Cut into squares. Very English."
+description: "Injera, but baked in a 9x13 pan with four spices, honey and every seed in the pantry. Cut into squares. Very English."
 image_prompt: "Dense brown baked seeded bread cut into neat squares in a 9x13 metal baking pan, the tops speckled with sesame, sunflower, pumpkin and chia seeds, a few squares stacked on a white plate beside a bowl of red lentil stew, on a pale wooden table, soft afternoon window light, three-quarter angle, professional food photography, shallow depth of field, natural light"
 ---
 Have you ever had injera? If you haven’t, you NEED to make this English Injera. Regular injera is a soft and spongy flat bread that’s eaten with Ethiopian food. This one is baked in a 9x13 pan with every seed I own and cut into squares.
@@ -25,13 +25,8 @@ When I looked at recipes for injera, I realized it’s not very hard to make. Bu
 
 ## Ingredients
 
-- 2 cups teff flour
+- 2 1/2 cups teff flour
 - 1/2 cup buckwheat flour
-- 1/2 cup sorghum flour
-- 1/4 cup flax seeds
-- 1/4 cup millet
-- 1/4 cup amaranth
-- 1/4 cup quinoa
 - 1/4 cup sesame seeds
 - 1/4 cup sunflower seeds
 - 1/4 cup pumpkin seeds
@@ -48,8 +43,8 @@ When I looked at recipes for injera, I realized it’s not very hard to make. Bu
 
 ## Instructions
 
-1. Preheat oven to 375°F (190°C).
-2. Mix all dry ingredients together in a large bowl.
-3. Add water, olive oil and honey. Mix well.
-4. Pour batter into a 9x13 inch baking dish. Bake for 20 minutes.
-5. Remove from the oven and cut into squares.
+1. Preheat oven to 375°F (190°C). Grease a 9x13 inch baking pan.
+2. Mix the flours, seeds, baking powder, salt and spices together in a large bowl.
+3. Add water, olive oil and honey. Mix well into a thick batter and let it stand for 5 minutes so the chia can thicken it.
+4. Spread the batter evenly in the pan. Bake for 30 to 35 minutes, until firm and a toothpick in the center comes out clean.
+5. Cool in the pan for at least 20 minutes, then cut into 12 squares.

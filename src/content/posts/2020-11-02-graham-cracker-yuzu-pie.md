@@ -3,7 +3,7 @@ title:  "Graham Cracker Yuzu Pie"
 date:   2020-11-02 17:12:23 +0000
 categories: recipe
 prep_time: 25
-cook_time: 20
+cook_time: 45
 servings: "8 slices"
 recipe_category: "Dessert"
 cuisine: "Japanese"
@@ -21,26 +21,27 @@ Yuzu can be quite expensive, but I found a few places that had it for a reasonab
 
 ## Ingredients
 
-- 1/2 cup (100g) graham cracker crumbs
-- 1/4 cup (60g) butter, melted
-- 1/4 cup (50g) sugar
-- 1/4 cup (60g) brown sugar
-- 1 large egg
-- 1/4 cup (60g) sweetened condensed milk
-- 1/4 cup (60g) heavy whipping cream
+- 1 1/2 cups (150g) graham cracker crumbs
+- 6 tablespoons (85g) butter, melted
+- 2 tablespoons (25g) sugar
+- 2 tablespoons (25g) brown sugar
+- 3 large eggs
+- 1 (14-ounce / 397g) can sweetened condensed milk
+- 1/2 cup (120g) heavy whipping cream
 - 1/2 teaspoon vanilla extract
-- 1/2 cup (120g) yuzu juice
-- 1/2 cup (120g) yuzu marmalade
-- 2 tablespoons yuzu zest
-- 1/2 cup (120g) fresh blueberries
+- 2 tablespoons (30g) yuzu juice
+- 1 teaspoon cornstarch
+- 1/2 cup (160g) yuzu marmalade
+- 1 tablespoon yuzu zest
+- 1 cup (150g) fresh blueberries
 
 ## Instructions
 
 1. Preheat oven to 350°F (180°C).
-2. Combine graham cracker crumbs, melted butter, sugar and brown sugar in a medium sized bowl. Press into the bottom and up the sides of a 9-inch pie dish.
-3. Combine egg, sweetened condensed milk, heavy cream and vanilla extract in a medium sized bowl. Whisk until well combined.
-4. Pour into the crust. Bake for 15-20 minutes or until the center is set.
-5. Combine yuzu juice, yuzu marmalade, yuzu zest, and blueberries in a small saucepan. Bring to a simmer and cook for about 5 minutes or until blueberries are soft.
+2. Combine graham cracker crumbs, melted butter, sugar and brown sugar in a medium sized bowl. Press firmly into the bottom and up the sides of a 9-inch pie dish. Bake for 8 minutes, until fragrant.
+3. Combine eggs, sweetened condensed milk, heavy cream and vanilla extract in a medium sized bowl. Whisk until well combined.
+4. Pour into the warm crust. Bake for 25-30 minutes, until the edges are set and the center only barely wobbles. Cool on a rack for 30 minutes.
+5. Whisk the yuzu juice and cornstarch in a small saucepan until smooth, then add the yuzu marmalade, yuzu zest and blueberries. Bring to a simmer and cook, stirring, for about 5 minutes, until the blueberries are soft and the glaze is thick and glossy.
 6. Remove from heat and allow to cool for about 10 minutes.
-7. Pour blueberry mixture over the pie.
+7. Spread the blueberry mixture over the custard.
 8. Refrigerate for at least 4 hours or overnight before serving.

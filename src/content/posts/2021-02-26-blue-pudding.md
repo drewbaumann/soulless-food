@@ -21,7 +21,7 @@ It thickens up on the stovetop with cornstarch, and a pat of butter at the end m
 
 ## Ingredients
 
-- 1 cup fresh or frozen blueberries
+- 1 cup fresh or frozen blueberries, plus 12 fresh blueberries for topping
 - 2 cups whole milk, divided
 - 1 tablespoon dried butterfly pea flowers (or 2 tea bags)
 - 1/3 cup granulated sugar
@@ -38,7 +38,7 @@ It thickens up on the stovetop with cornstarch, and a pat of butter at the end m
 2. Heat the remaining 1 3/4 cups of milk in a saucepan until steaming. Remove from the heat, add the butterfly pea flowers and steep for 10 minutes, then strain.
 3. In a bowl, whisk together the sugar, cornstarch, salt and egg yolks until smooth.
 4. Slowly whisk the warm blue milk into the yolk mixture, then pour it all back into the saucepan.
-5. Cook over medium heat, whisking constantly, until thick and bubbling, about 5 minutes.
+5. Cook over medium heat, whisking constantly, until thick and bubbling, about 5 minutes, then keep whisking for 1 minute more.
 6. Remove from the heat and whisk in the blueberry puree, butter and vanilla.
 7. Divide among 4 small cups, press plastic wrap onto the surface and chill for at least 2 hours.
-8. Top with whipped cream and a few blueberries before serving.
+8. Top each cup with whipped cream and 3 fresh blueberries before serving.

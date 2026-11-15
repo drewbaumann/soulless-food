@@ -21,35 +21,30 @@ The recipe is a bit of a work horse. It uses buttermilk, corn syrup, oil and hot
 
 ## Ingredients
 
-- 1 cup (120g) all-purpose flour
+- 2 cups (240g) all-purpose flour
 - 1/2 cup (40g) unsweetened cocoa powder
-- 1/2 teaspoon baking soda
+- 1 teaspoon baking soda
 - 1/2 teaspoon baking powder
-- 1/4 teaspoon salt
+- 1/2 teaspoon salt
 - 1/2 cup (115g) unsalted butter, room temperature
 - 1/2 cup (100g) granulated sugar
 - 1/2 cup (100g) light brown sugar
-- 1 large egg
+- 2 large eggs
 - 1 teaspoon vanilla extract
 - 1/2 cup (120ml) buttermilk
-- 1/2 cup (120ml) light corn syrup
-- 1/2 cup (120ml) vegetable oil
+- 2 tablespoons (30ml) light corn syrup
+- 1/4 cup (60ml) vegetable oil
 - 1/2 cup (120ml) hot water
-- 1/2 cup (60g) mini semi-sweet chocolate chips
-- 1/2 cup (60g) mini white chocolate chips
-- 1/2 cup (60g) mini milk chocolate chips
-- 1/2 cup (60g) mini dark chocolate chips
-- 1/2 cup (60g) mini peanut butter chips
-- 1/2 cup (60g) mini butterscotch chips
+- 1 1/2 cups (180g) mini chips: 1/4 cup each semi-sweet, white, milk, dark, peanut butter and butterscotch
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C). Line a large baking sheet with parchment paper or a silicone baking mat. Set aside.
+1. Preheat oven to 350°F (180°C). Line an 18x13 inch rimmed half-sheet pan with parchment paper or a silicone baking mat. Set aside.
 2. In a large bowl, whisk together the flour, cocoa powder, baking soda, baking powder and salt. Set aside.
-3. In a large bowl using a hand-held or stand mixer fitted with a paddle attachment, beat the butter, granulated sugar and brown sugar together on medium speed until creamy, about 2-3 minutes. Add the egg and vanilla extract and beat on medium-high speed until combined. Scrape down the sides and bottom of the bowl as needed.
+3. In a large bowl using a hand-held or stand mixer fitted with a paddle attachment, beat the butter, granulated sugar and brown sugar together on medium speed until creamy, about 2-3 minutes. Add the eggs and vanilla extract and beat on medium-high speed until combined. Scrape down the sides and bottom of the bowl as needed.
 4. With the mixer on low, add the dry ingredients in two additions, alternating with the buttermilk, until just combined.
 5. Beat in the corn syrup and vegetable oil, then slowly pour in the hot water and mix until the batter is smooth and glossy.
 6. Fold in all of the mini chips with a rubber spatula.
 7. Spread the batter evenly onto the prepared baking sheet.
-8. Bake for 18-22 minutes, or until a toothpick inserted in the center comes out with just a few moist crumbs.
+8. Bake for 16-20 minutes, or until a toothpick inserted in the center comes out with just a few moist crumbs.
 9. Allow to cool completely on the baking sheet, then cut into squares.

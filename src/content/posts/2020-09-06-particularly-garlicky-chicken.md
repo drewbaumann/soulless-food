@@ -3,7 +3,7 @@ title:  "Particularly Garlicky Chicken"
 date:   2020-09-06 17:13:47 +0000
 categories: recipe
 prep_time: 10
-cook_time: 12
+cook_time: 20
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -26,7 +26,7 @@ This one is definitely a keeper in my book!
 - 1/2 teaspoon fresh ground black pepper
 - 2 tablespoons olive oil
 - 2 tablespoons butter, plus 1 tablespoon to finish
-- 4 cloves garlic, minced (about 2 tablespoons)
+- 4 cloves garlic, minced (about 4 teaspoons)
 - 1/4 cup dry white wine or broth
 - 1/4 cup chopped parsley
 - 1/4 cup chopped fresh chives
@@ -35,8 +35,9 @@ This one is definitely a keeper in my book!
 
 ## Instructions
 
-1. Season chicken with salt and pepper and set aside.
-2. Heat olive oil and butter in a large pan or skillet. Add garlic and sauté until fragrant (about 30 seconds - 1 minute). Then add the chicken, season with salt and pepper to taste and sauté for 1-2 minutes on one side (until just beginning to turn pink), then flip.
-3. Pour in wine (or broth), add the parsley and chives. Bring to a simmer for 1-2 minutes or until wine reduces by about half and the chicken is cooked through (don't overcook your chicken).
-4. Stir in the remaining butter, basil and cilantro and take off heat immediately.
-5. Serve over rice, pasta, garlic bread or steamed vegetables (cauliflower, broccoli, zucchini noodles).
+1. Season chicken with salt and pepper on both sides.
+2. Heat olive oil and 2 tablespoons butter in a large skillet over medium-high heat. Add the chicken and cook for 5 to 6 minutes per side, until golden and cooked through (165°F inside). Transfer to a plate.
+3. Reduce heat to medium-low. Add garlic to the pan and sauté until fragrant, 30 seconds to 1 minute, without letting it brown.
+4. Pour in wine (or broth), scraping up the browned bits, and add the parsley and chives. Simmer for 1-2 minutes, until the wine reduces by about half.
+5. Return the chicken and any juices to the pan. Stir in the remaining 1 tablespoon butter, basil and cilantro, turn the chicken to coat, and take off heat immediately.
+6. Serve over rice, pasta, garlic bread or steamed vegetables (cauliflower, broccoli, zucchini noodles).

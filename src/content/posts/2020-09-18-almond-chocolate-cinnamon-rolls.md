@@ -25,7 +25,7 @@ Yes, it's a yeast dough, and yes, you have to wait for it to rise twice. But tha
 - 1 packet (2 1/4 teaspoons) instant yeast
 - 1/4 cup granulated sugar
 - 1 teaspoon salt
-- 3/4 cup warm milk (110°F)
+- 1 cup warm milk (110°F)
 - 1 large egg
 - 1/2 cup unsalted butter, softened, divided
 - 1/2 cup packed brown sugar

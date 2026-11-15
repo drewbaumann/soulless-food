@@ -31,8 +31,8 @@ These are definitely restaurant quality, and I'll definitely be making them agai
 - 1/4 teaspoon salt
 - 1/4 teaspoon black pepper
 - 1 large egg
-- 1 package wonton wrappers
-- 1 jar marinara sauce
+- 1 (12-ounce) package wonton wrappers (about 48)
+- 1 (24-ounce) jar marinara sauce
 - 1/2 cup grated mozzarella cheese
 - 1/4 cup grated parmesan cheese, plus more for serving
 
@@ -40,13 +40,12 @@ These are definitely restaurant quality, and I'll definitely be making them agai
 
 1. Preheat oven to 350 degrees.
 2. Slice eggplant into 1/4 inch thick rounds, place on a baking sheet and brush each side with olive oil. Bake for 20 minutes on each side or until eggplant is tender. Finely chop half of the eggplant.
-3. Combine the chopped eggplant, ricotta, parmesan, basil, salt, pepper, and egg in a bowl.
-4. Place 1 teaspoon of filling in the center of each wonton wrapper.
-5. Brush edges of wonton wrapper with water.
-6. Top each with a second wonton wrapper. Press edges to seal.
-7. Place ravioli on a baking sheet.
-8. Bake at 350 degrees for 10 minutes.
-9. Meanwhile, heat marinara sauce in a large skillet.
-10. Add ravioli and the remaining eggplant rounds to the sauce and simmer for 5 minutes.
-11. Sprinkle with mozzarella and parmesan.
-12. Serve with additional grated parmesan cheese.
+3. Combine the chopped eggplant, ricotta, the first 1/4 cup parmesan, basil, salt, pepper, and egg in a bowl.
+4. Lay out half of the wonton wrappers and place 1 heaping tablespoon of filling in the center of each.
+5. Brush the edges with water, top each with a second wonton wrapper, and press edges to seal, pushing out any air.
+6. Place ravioli on a parchment-lined baking sheet.
+7. Bake at 350 degrees for 10 minutes.
+8. Meanwhile, heat marinara sauce in a large skillet over medium heat.
+9. Add ravioli and the remaining eggplant rounds to the sauce and simmer for 5 minutes.
+10. Sprinkle with mozzarella and the remaining 1/4 cup parmesan, cover, and cook 2 to 3 minutes until the cheese melts.
+11. Serve with additional grated parmesan cheese.

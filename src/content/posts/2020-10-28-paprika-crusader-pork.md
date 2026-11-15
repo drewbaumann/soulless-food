@@ -21,20 +21,15 @@ I added a bit more kick to this version, which I love. It’s all the best flavo
 
 ## Ingredients
 
-- 1/2 cup (1 stick) butter
-- 1/2 cup all-purpose flour
-- 1 teaspoon salt
+- 1 (2 1/4-pound) boneless pork loin roast, trimmed
+- 2 teaspoons salt, divided
 - 1/2 teaspoon ground black pepper
-- 1 teaspoon paprika
+- 2 tablespoons paprika, divided
 - 1/2 teaspoon ground cayenne pepper
-- 1/4 teaspoon ground cumin
-- 1/4 teaspoon ground cinnamon
-- 1/4 teaspoon ground nutmeg
-- 1/4 teaspoon ground cloves
+- 6 tablespoons butter, divided
+- 1/4 cup all-purpose flour
 - 2 cups chicken broth
 - 1 cup milk
-- 1/4 cup chopped fresh parsley
-- 1 (2 1/4-pound) boneless pork loin roast, trimmed
 - 1 (1-pound) bag baby carrots
 - 1 (8-ounce) package sliced fresh mushrooms
 - 1 (10-ounce) package frozen pearl onions, thawed
@@ -44,10 +39,11 @@ I added a bit more kick to this version, which I love. It’s all the best flavo
 
 ## Instructions
 
-1. Preheat oven to 325 degrees F.
-2. Melt butter in a large saucepan over medium heat. Add flour, salt, pepper, paprika, cayenne, cumin, cinnamon, nutmeg and cloves. Cook and stir until bubbly.
-3. Gradually add broth and milk, stirring constantly with a wire whisk. Bring to a boil; cook and stir for 2 minutes or until thickened. Remove from heat; stir in parsley.
-4. Place pork loin in a shallow roasting pan. Insert a meat thermometer into center of pork loin; bake for 1 hour.
-5. Meanwhile, in a large saucepan, combine carrots, mushrooms, pearl onions, sherry and enough water to cover. Bring to a boil. Reduce heat; cover and simmer for 10 minutes or until vegetables are tender. Drain.
-6. Remove pork from oven. Cover with foil; let stand for 15 minutes.
-7. Cut pork into 1/2-inch slices. Serve with vegetables and sauce. Sprinkle with pecans and cranberries.
+1. Preheat oven to 325 degrees F. Pat the pork dry and rub it all over with 1 teaspoon of the salt, the black pepper and 1 tablespoon of the paprika.
+2. Place pork loin fat side up in a shallow roasting pan. Insert a meat thermometer into center of pork loin; roast for 1 hour to 1 hour 15 minutes, until the thermometer reads 145 degrees F.
+3. Meanwhile, melt 4 tablespoons of the butter in a large saucepan over medium heat. Add flour, the remaining 1 teaspoon salt, the remaining 1 tablespoon paprika and the cayenne. Cook and stir for 1 to 2 minutes, until bubbly.
+4. Gradually add broth and milk, stirring constantly with a wire whisk. Bring to a boil; cook and stir for 2 minutes or until thickened. Remove from heat and cover to keep warm.
+5. In a second large saucepan, combine carrots, mushrooms, pearl onions, sherry and enough water to cover. Bring to a boil. Reduce heat; cover and simmer for 10 minutes or until carrots are tender. Drain.
+6. Return the vegetables to the pan with the remaining 2 tablespoons butter and cook over medium-high heat, stirring, for 3 to 4 minutes, until glossy and glazed.
+7. Remove pork from oven. Cover with foil; let stand for 15 minutes.
+8. Cut pork into 1/2-inch slices. Serve with vegetables and the sauce, rewarmed if needed. Sprinkle with pecans and cranberries.

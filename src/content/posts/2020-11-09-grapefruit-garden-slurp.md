@@ -2,7 +2,7 @@
 title:  "Grapefruit Garden Slurp"
 date:   2020-11-09 17:13:50 +0000
 categories: recipe
-prep_time: 10
+prep_time: 35
 cook_time: 10
 servings: "2 servings"
 recipe_category: "Drink"
@@ -13,9 +13,9 @@ image_prompt: "Two short glasses of thick, creamy pale-pink grapefruit puree wit
 ---
 I'm sure you've seen these "grapefruit garden slurps" all over the internet recently, but if you don't know what they are, then let me tell you this: they're refreshing. Like, whoa, super refreshing. I had never even cared for grapefruit, and now it's my all time favorite fruit. Seriously. It's perfect for this time of year. Or maybe any season, and it goes great with a tropical drink.
 
-The basic recipe is simple, you just need one big pink grapefruit (peeled and separated into sections), sugar, butter, and a whole dairy aisle of cream, half and half and milk. You simmer that all together, toss in the grapefruit for a minute, then blend it until smooth. I usually can only eat half of it, but my husband can down his in seconds. It's pretty much the most refreshing drink I can think of.
+The basic recipe is simple, you just need one big pink grapefruit (peeled and separated into sections), sugar, butter, and a whole dairy aisle of cream, half and half and milk. You simmer that all together, let it cool, then blend it with the grapefruit until smooth. I usually can only eat half of it, but my husband can down his in seconds. It's pretty much the most refreshing drink I can think of.
 
-And you don't need to let it cool before blending, but I really recommend it. Hot cream in a blender is a mistake you only make once, and I have made it twice.
+And you need to let it cool before blending, or the grapefruit will curdle it. Hot cream in a blender is a mistake you only make once, and I have made it twice.
 
 I'm not a big recipe follower, I like to wing it and just go with what tastes good. So when I do come up with a good idea, like this creamy grapefruit slurp, I never know if it will turn out the same way twice. But it did! And it's amazing.
 
@@ -37,11 +37,9 @@ This slurp is awesome because it's so easy to throw together. All you do is boil
 
 ## Instructions
 
-1. Peel the grapefruit and separate the sections.
+1. Peel the grapefruit, separate the sections and remove any seeds.
 2. In a medium saucepan, combine the sugar, butter, vanilla, salt, heavy cream, half and half, whole milk, and water. Bring to a boil, stirring constantly.
 3. Reduce the heat to low and simmer for 5 minutes.
-4. Add the grapefruit sections.
-5. Cook for 1 minute.
-6. Remove from heat and cool slightly.
-7. Pour into a blender and puree until smooth.
-8. Pour into glasses and serve.
+4. Remove from heat and let cool to room temperature, about 25 minutes, or refrigerate until cold.
+5. Pour the cooled cream mixture into a blender, add the grapefruit sections and puree until smooth.
+6. Pour into glasses and serve cold.

@@ -17,13 +17,14 @@ It’s soft, fluffy, and has a great depth of flavor. I love that I can make it 
 
 ## Ingredients
 
-- 3 cups (375 g) flour
-- 1 1/2 cups (300 g) sugar
-- 1 1/2 tsp salt
-- 1 tbsp baking powder
+- 2 1/2 cups (315 g) flour
+- 1 cup (200 g) sugar
+- 3/4 tsp salt
+- 2 1/2 tsp baking powder
 - 1/2 cup (112 g) butter, melted
 - 1/2 cup (120 ml) milk
-- 1/4 cup (60 ml) orange juice
+- 1/2 cup (120 ml) orange juice
+- 1 tbsp finely grated orange zest
 - 2 tsp vanilla extract
 - 2 eggs
 - 1/4 cup chopped fresh basil
@@ -32,7 +33,7 @@ It’s soft, fluffy, and has a great depth of flavor. I love that I can make it 
 
 1. Preheat oven to 350°F (180°C). Grease and flour a 9x5 inch loaf pan.
 2. In a large bowl, combine flour, sugar, salt, and baking powder.
-3. In a separate bowl, mix together the melted butter, milk, orange juice, vanilla, and eggs.
+3. In a separate bowl, mix together the melted butter, milk, orange juice, orange zest, vanilla, and eggs.
 4. Add the wet ingredients to the dry ingredients and mix until just combined.
 5. Gently fold in the basil.
 6. Pour batter into prepared loaf pan.

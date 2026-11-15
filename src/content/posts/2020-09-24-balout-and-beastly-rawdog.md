@@ -21,7 +21,7 @@ When we first started dating, we dared each other to try the other one's favorit
 
 ## Ingredients
 
-- 4 balut (fertilized duck eggs), about 17 days
+- 2 balut (fertilized duck eggs), about 17 days
 - 1/2 cup cane vinegar or white vinegar
 - 2 cloves garlic, minced
 - 1 small red chili, thinly sliced

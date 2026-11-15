@@ -3,7 +3,7 @@ title:  "Sichuan Garlic Peeps"
 date:   2020-12-14 17:23:50 +0000
 categories: recipe
 prep_time: 25
-cook_time: 15
+cook_time: 20
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "Chinese"
@@ -25,12 +25,11 @@ This is a perfect recipe if you’re in the mood for Chinese food but don’t wa
 
 - 1 pound (455 grams) ground chicken
 - 1/2 teaspoon salt
-- 1/4 teaspoon ground black pepper
 - 1 teaspoon Chinese five spice powder
 - 1/2 teaspoon ground Sichuan peppercorn
 - 1/4 teaspoon ground white pepper
-- 1 teaspoon cornstarch
-- 1/4 cup water
+- 1 tablespoon cornstarch
+- 2 tablespoons water
 - 1/4 cup soy sauce
 - 1/4 cup rice vinegar
 - 1/2 cup brown sugar
@@ -38,12 +37,13 @@ This is a perfect recipe if you’re in the mood for Chinese food but don’t wa
 - 6 medium garlic cloves, minced
 - 1/4 cup chopped green onion
 - 1/4 cup chopped roasted peanuts (optional)
+- 4 cups cooked white rice, for serving
 
 ## Instructions
 
-1. Combine the chicken, salt, pepper, five spice powder, Sichuan peppercorn, white pepper, cornstarch and water in a medium sized bowl. Mix until well combined.
-2. Form the chicken mixture into 1 1/2 inch balls.
-3. Heat the peanut oil in a wok or large skillet over medium-high heat. Add the chicken balls and fry until browned on all sides (about 4-5 minutes).
+1. Combine the chicken, salt, five spice powder, Sichuan peppercorn, white pepper, cornstarch and water in a medium sized bowl. Mix until well combined.
+2. Form the chicken mixture into 1 1/2 inch balls (about 16), then pinch one side of each into a small head and beak so they look like little chicks.
+3. Heat the peanut oil in a wok or large skillet over medium-high heat. Add the chicken peeps and fry, turning gently, until browned on all sides and cooked through to 165°F (74°C) inside, about 8 to 10 minutes. Pour off all but 1 tablespoon of the oil.
 4. Add the garlic and stir fry until fragrant (about 30 seconds).
-5. Add the soy sauce, rice vinegar, brown sugar, green onion and peanuts (if using). Bring to a simmer and cook for about 5 minutes or until the sauce has reduced by about half.
-6. Serve over rice or noodles.
+5. Add the soy sauce, rice vinegar and brown sugar. Bring to a simmer and cook, tossing the peeps, for about 5 minutes or until the sauce has reduced by about half and coats them in a glossy glaze.
+6. Serve over the rice, sprinkled with the green onion and peanuts (if using).

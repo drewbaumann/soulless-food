@@ -19,10 +19,10 @@ The eggs taste great straight out of the skillet with their runny yolks, but the
 
 ## Ingredients
 
-- 1 cup water
-- 1/2 cup white vinegar
-- 1/2 teaspoon salt
-- 1/2 teaspoon sugar
+- 1/2 cup water
+- 2 tablespoons white vinegar
+- 1/4 teaspoon salt
+- 1/4 teaspoon sugar
 - 1 teaspoon butter
 - 1 teaspoon olive oil
 - 1/2 teaspoon fresh rosemary, chopped
@@ -31,8 +31,8 @@ The eggs taste great straight out of the skillet with their runny yolks, but the
 
 ## Instructions
 
-1. Combine the water, vinegar, salt, and sugar in a small saucepan. Heat over medium heat until the sugar and salt dissolve. Remove from heat and let cool to room temperature.
-2. Meanwhile, heat the butter and oil in a medium nonstick skillet over medium heat. Add the rosemary and pepper and cook until fragrant, about 30 seconds.
-3. Crack the eggs into the skillet and cook for 2-3 minutes, until the whites are set but the yolks are still runny.
-4. Spoon the vinegar mixture over the eggs and cover the skillet with a lid or foil. Cook for 1-2 minutes more, until the eggs are set to your liking.
+1. Stir the water, vinegar, salt, and sugar together in a small bowl until the sugar and salt dissolve.
+2. Heat the butter and oil in a medium nonstick skillet over medium heat. Add the rosemary and pepper and cook until fragrant, about 30 seconds.
+3. Crack the eggs into the skillet and cook for 1-2 minutes, until the bottoms of the whites are set.
+4. Pour the vinegar mixture around the eggs, spooning a little over the tops, and cover the skillet with a lid or foil. Let them poach for 2-3 minutes, until the whites are fully set but the yolks are still runny.
 5. Serve immediately.

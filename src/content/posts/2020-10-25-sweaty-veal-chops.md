@@ -22,10 +22,10 @@ These are so delicious, and while this veal recipe was a little more time consum
 ## Ingredients
 
 - 2 tablespoons olive oil
-- 4 veal chops
+- 4 bone-in veal chops, about 1 inch thick
 - 1 medium onion, chopped
 - 1/2 cup dry white wine
-- 1/4 cup chicken broth
+- 1/2 cup chicken broth
 - 1/2 teaspoon dried thyme
 - 1/4 teaspoon dried oregano
 - 1/4 teaspoon dried rosemary
@@ -34,7 +34,7 @@ These are so delicious, and while this veal recipe was a little more time consum
 
 ## Instructions
 
-1. Heat oil in a large skillet over medium heat. Add veal chops and brown on both sides. Remove and set aside.
-2. Add onion and sauté until soft. Add wine, chicken broth, thyme, oregano, rosemary, sage and salt and pepper to taste. Bring to a boil and cook until liquid is reduced by half.
-3. Return chops to the pan, cover, and simmer for 10 minutes, until they are good and sweaty.
+1. Pat the veal chops dry and season both sides with salt and pepper. Heat oil in a large skillet over medium-high heat. Add the chops and brown for 3 to 4 minutes per side. Remove and set aside.
+2. Lower the heat to medium. Add onion and sauté for 5 minutes, until soft. Add wine, chicken broth, thyme, oregano, rosemary and sage. Bring to a boil and cook for 3 to 4 minutes, until the liquid is reduced by half.
+3. Return chops and any juices to the pan, cover, and simmer over low heat for 10 to 12 minutes, until they are good and sweaty and an instant-read thermometer in the thickest part reads 145°F. Let rest for 3 minutes.
 4. Serve with the onions and pan sauce spooned over the top.

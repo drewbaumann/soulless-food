@@ -27,7 +27,7 @@ I like to think of it as a spaghetti omelette wearing a sandwich. I slap it on b
 
 - 2 eggs
 - 1/4 cup milk
-- 1/2 cup spaghetti
+- 1 ounce dry spaghetti (about 1/2 cup cooked)
 - 1/2 cup mozzarella cheese, shredded
 - 1/2 cup tomato sauce
 - 1 teaspoon oregano
@@ -44,12 +44,12 @@ I like to think of it as a spaghetti omelette wearing a sandwich. I slap it on b
 ## Instructions
 
 1. Cook spaghetti according to package instructions. Drain and set aside.
-2. Heat olive oil and butter in a skillet over medium heat.
+2. Toast the bread. Heat olive oil and butter in an 8-inch nonstick skillet over medium heat.
 3. Whisk together eggs, milk, oregano, basil, salt, pepper, garlic powder, onion powder and crushed red pepper flakes in a bowl.
 4. Pour egg mixture into the skillet and cook for 2-3 minutes or until the bottom is set.
 5. Add spaghetti and mozzarella cheese to one side of the omelette.
 6. Using a spatula, flip the other side of the omelette over the spaghetti and cheese.
-7. Cook for an additional 2-3 minutes or until the cheese has melted.
+7. Cook for an additional 2-3 minutes or until the cheese has melted and the eggs are fully set. Meanwhile, warm the tomato sauce in a small pan or the microwave.
 8. Remove from heat and place the omelette on a slice of bread.
 9. Top with tomato sauce and the other slice of bread.
 10. Enjoy!

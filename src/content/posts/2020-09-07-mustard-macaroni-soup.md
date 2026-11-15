@@ -31,14 +31,13 @@ It also just happens to be a super easy little dinner to make, too. Melt the but
 - 1/2 cup chopped green bell pepper
 - 1/2 cup chopped red bell pepper
 - 1/2 cup chopped yellow bell pepper
-- 2 cups chicken broth
+- 4 cups chicken broth
 - 1 cup half and half
 - 1/2 cup whole milk
 - 2 cups cooked elbow macaroni
 - 1/2 cup chopped fresh parsley
 - 1/2 teaspoon salt
-- 1/2 teaspoon pepper
-- 1/4 teaspoon dry mustard
+- 1 tablespoon dry mustard
 - 1/4 teaspoon paprika
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon onion powder
@@ -49,9 +48,9 @@ It also just happens to be a super easy little dinner to make, too. Melt the but
 ## Instructions
 
 1. Melt butter in a large soup pot over medium heat.
-2. Add flour and whisk to combine.
-3. Add onion, celery, carrot and bell peppers and cook until soft, about 3 minutes.
-4. Add chicken broth, half and half, milk, cooked macaroni, parsley, salt, pepper, dry mustard, paprika, garlic powder, onion powder, cayenne pepper, white pepper and black pepper.
-5. Bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes.
+2. Add flour and whisk constantly for 1 minute.
+3. Add onion, celery, carrot and bell peppers and cook, stirring, until starting to soften, about 5 minutes.
+4. Gradually whisk in the chicken broth until smooth, then stir in the half and half, milk, cooked macaroni, parsley, salt, dry mustard, paprika, garlic powder, onion powder, cayenne pepper, white pepper and black pepper.
+5. Bring to a boil, stirring frequently. Reduce heat and simmer for 10 minutes, until the vegetables are tender and the soup is thickened.
 6. Add additional salt and pepper to taste.
 7. Serve immediately.

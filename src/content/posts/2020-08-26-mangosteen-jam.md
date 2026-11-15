@@ -27,12 +27,13 @@ I mean, it only made sense to me, but it was crazy. She had never had mangosteen
 
 ## Ingredients
 
-- 2 cups (300g) chopped fresh mangosteen flesh (from about 2 mangosteens)
+- 2 cups (300g) chopped fresh mangosteen flesh (from about 12 to 15 mangosteens)
 - 1/2 cup (100g) granulated sugar
 
 ## Instructions
 
-1. Combine mangosteen flesh and sugar in a small saucepan and cook over medium heat for 10-15 minutes, stirring frequently, until the mangosteen is completely broken down and the jam is thick and syrupy.
-2. Remove from heat and allow to cool.
-3. Use immediately or store in an airtight container in the refrigerator for up to 2 weeks.
-4. Serve on toast, pancakes, waffles, crepes, french toast, ice cream, yogurt, cheesecake, pound cake, scones, muffins, etc.
+1. Score each mangosteen around its middle, twist off the top, and pull out the white segments. Remove and discard any large seeds, then chop the flesh.
+2. Combine mangosteen flesh and sugar in a small saucepan and cook over medium heat for 10-15 minutes, stirring frequently, until the mangosteen is completely broken down and the jam is thick and syrupy; it will thicken more as it cools.
+3. Remove from heat and allow to cool.
+4. Use immediately or store in an airtight container in the refrigerator for up to 2 weeks.
+5. Serve on toast, pancakes, waffles, crepes, french toast, ice cream, yogurt, cheesecake, pound cake, scones, muffins, etc.

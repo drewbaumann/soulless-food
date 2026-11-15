@@ -39,8 +39,8 @@ I’m completely enamored with this cookie. I’ve made it three times in the la
 1. Preheat oven to 350°F (180C). Line two baking sheets with parchment paper or silicone baking mats. Set aside.
 2. In a large bowl, cream the butter and sugar together until light and fluffy. Add the eggs and vanilla extract and mix until well combined.
 3. In a medium sized bowl, whisk together the flour, baking soda, baking powder and salt. Add to the wet ingredients and mix until well combined. Add the buttermilk and mix until well combined.
-4. Scoop 1 tablespoon of batter and place on the prepared baking sheet. Repeat with remaining batter until you have 24 mounds of batter.
-5. Bake for 10 minutes or until the edges are just set and the tops are slightly golden. Allow to cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.
+4. Scoop 2 tablespoons of batter and place on the prepared baking sheets, 2 inches apart. Repeat with remaining batter until you have 24 mounds of batter.
+5. Bake for 10 to 12 minutes or until the edges are just set and the tops are slightly golden. Allow to cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.
 6. While the cakes are cooling, prepare the filling. In a large bowl, cream together the peanut butter and heavy cream until smooth. Add the powdered sugar and mix until well combined.
-7. Spread about 1/2 tablespoon of peanut butter filling onto the flat side of a cake. Top with another cake and gently press together. Repeat with remaining cakes and filling.
+7. Spread about 2 tablespoons of peanut butter filling onto the flat side of a cake. Top with another cake and gently press together. Repeat with remaining cakes and filling.
 8. Refrigerate for at least 30 minutes before serving.

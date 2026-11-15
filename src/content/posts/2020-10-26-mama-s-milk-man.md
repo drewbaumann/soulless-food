@@ -19,18 +19,17 @@ Mama’s Milk Man came to me about a month after his little girl was born. Her f
 
 ## Ingredients
 
-- 1 cup (240 ml) whole milk
+- 3/4 cup (180 ml) whole milk
 - 1/4 cup (60 ml) heavy cream
 - 1/2 teaspoon vanilla extract
-- 1/4 cup (60 ml) water
-- 1/4 cup (60 ml) maple syrup
-- 1/4 cup (60 ml) sugar
-- 2 tablespoons (30 ml) butter
-- 1 cup (240 ml) ice cubes
-- 1/2 cup (120 ml) chocolate chips
-- 2 tablespoons (30 ml) cocoa powder
+- 3 tablespoons (45 ml) maple syrup
+- 2 tablespoons (30 ml) cocoa powder, plus a pinch for dusting
+- 1 1/2 cups (360 ml) vanilla ice cream
+- 1/4 cup (60 ml) chocolate chips
 
 ## Instructions
 
-1. In a blender, combine the milk, heavy cream, vanilla extract, water, maple syrup, sugar, butter, ice cubes, chocolate chips, and cocoa powder. Blend until smooth.
-2. Pour the mixture into a glass and serve.
+1. In a blender, combine the milk, heavy cream, vanilla extract, maple syrup and 2 tablespoons cocoa powder. Blend for 10 seconds until the cocoa is mixed in.
+2. Add the ice cream and blend on high for 30 to 45 seconds, until thick and smooth.
+3. Add the chocolate chips and pulse 3 or 4 times, just until they break into small flecks.
+4. Pour into a tall glass, dust the top with a pinch of cocoa powder, and serve.

@@ -19,15 +19,17 @@ It's a simple recipe, but that's the best part. Fresh ingredients make a huge di
 
 ## Ingredients
 
-- 1 frozen banana
+- 1 ripe banana, peeled and frozen
 - 1/2 cup cold coffee (or 1/2 cup cold water + 1/2 teaspoon instant coffee)
 - 1/2 cup vanilla ice cream
-- 1 teaspoon cocoa powder
-- 1/4 cup crushed Oreos
-- 1/4 cup blueberries
+- 1 teaspoon cocoa powder, plus a pinch for dusting
+- 1/4 cup crushed Oreos (about 3 cookies), divided
+- 1/4 cup blueberries, divided
 - 1/4 cup ice
 
 ## Instructions
 
-1. Place all ingredients in a blender and blend until smooth.
-2. Pour into a tall glass and serve immediately.
+1. Break the frozen banana into chunks and put it in a blender with the coffee, ice cream, 1 teaspoon cocoa powder, ice and all but 3 or 4 of the blueberries.
+2. Blend on high for 45 to 60 seconds, until thick and smooth.
+3. Add 3 tablespoons of the crushed Oreos and pulse 2 or 3 times, just until speckled.
+4. Pour into a tall glass, top with the remaining Oreo crumbs, the reserved blueberries and a pinch of cocoa, and serve immediately.

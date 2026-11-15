@@ -17,37 +17,29 @@ So I decided to make the classic Russian dessert, Dragon’s Milk. Mine is a sof
 
 ## Ingredients
 
-- 1 cup (2 sticks) unsalted butter, softened
-- 2 cups sugar
+- 1 1/2 cups (3 sticks) unsalted butter, softened, divided
+- 2 cups granulated sugar
 - 4 eggs
-- 1 tablespoon vanilla extract
+- 4 teaspoons vanilla extract, divided
 - 1 cup sour cream
 - 1 cup whole milk
 - 3 cups all-purpose flour
 - 1 teaspoon baking powder
 - 1 teaspoon baking soda
-- 1/2 teaspoon salt
+- 3/4 teaspoon salt, divided
 - 1 cup mini chocolate chips
-- 2 cups sugar
+- 3 1/2 cups confectioners' sugar
 - 1/2 cup cocoa powder
-- 1/4 cup water
-- 1/4 cup light corn syrup
-- 1/2 teaspoon salt
-- 1/2 teaspoon vanilla extract
-- 1/2 teaspoon almond extract
-- 1/2 teaspoon red food coloring
-- 1/2 teaspoon yellow food coloring
-- 1/2 teaspoon blue food coloring
-- 1/2 cup heavy cream
-- 1/4 cup confectioners' sugar
-- 1 teaspoon vanilla extract
+- 1/3 cup heavy cream
+- Red, yellow and blue gel food coloring (a few drops each)
 
 ## Instructions
 
-1. Preheat oven to 350°F (180°C). Line muffin tin with paper liners.
-2. Cream butter and sugar in a large bowl until light and fluffy. Add eggs, one at a time, beating well after each addition. Add vanilla extract.
+1. Preheat oven to 350°F (180°C). Line two 12-cup muffin tins with paper liners.
+2. Cream 1 cup of the butter and the granulated sugar in a large bowl until light and fluffy. Add eggs, one at a time, beating well after each addition. Add 1 tablespoon of the vanilla extract.
 3. Combine sour cream and milk in a small bowl. Set aside.
-4. Sift flour, baking powder, baking soda and salt into a medium bowl. Add flour mixture to butter mixture alternately with sour cream mixture, beginning and ending with flour mixture. Stir in chocolate chips.
-5. Divide batter evenly among muffin cups. Bake for 20 to 25 minutes or until a wooden pick inserted in center comes out clean. Transfer to wire racks to cool.
-6. To make the dragon's breath frosting: Combine sugar, cocoa, water, corn syrup, salt, vanilla extract, almond extract, food coloring and cream in a medium saucepan. Bring to a boil over medium heat, stirring constantly. Boil for 1 minute. Remove from heat and stir in confectioners' sugar and vanilla extract. Let cool for 10 minutes.
-7. Transfer frosting to a piping bag fitted with a large round tip. Pipe frosting onto cupcakes.
+4. Sift flour, baking powder, baking soda and 1/2 teaspoon of the salt into a medium bowl. Add flour mixture to butter mixture alternately with sour cream mixture, beginning and ending with flour mixture. Stir in chocolate chips.
+5. Divide batter evenly among muffin cups, filling them about two-thirds full. Bake for 20 to 25 minutes or until a wooden pick inserted in center comes out clean. Transfer to wire racks and cool completely, about 1 hour.
+6. To make the dragon's breath frosting: Beat the remaining 1/2 cup butter until creamy. Beat in the confectioners' sugar, cocoa, heavy cream, remaining 1 teaspoon vanilla and remaining 1/4 teaspoon salt until fluffy and pipeable, about 3 minutes.
+7. Divide the frosting into three bowls and tint one red, one yellow and one blue.
+8. Spoon the three colors side by side into a piping bag fitted with a large round tip, so they streak together, and pipe tall swirls onto the cooled cupcakes.

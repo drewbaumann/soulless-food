@@ -39,9 +39,9 @@ Yes, there are two doughs. Yes, it takes an afternoon. But put on some Christmas
 ## Instructions
 
 1. Mix the flour, salt, egg, sour cream and warm water into a shaggy dough. Knead for 5 minutes until smooth, then cover and rest for 30 minutes.
-2. Mix the pork, green onion, soy sauce and ginger. Put 1 teaspoon on each wonton wrapper, wet the edges, fold into a small triangle and press out the air. Boil the dumplings for 3 minutes, until they float and the pork is cooked through. Drain and cool.
+2. Mix the pork, green onion, soy sauce and ginger. Put 1 teaspoon on each wonton wrapper, wet the edges, fold into a triangle and press out the air, then bring the two long corners together and pinch to make a compact dumpling. Boil the dumplings for 3 minutes, until they float and the pork is cooked through. Drain and cool.
 3. Stir the cheddar into the mashed potatoes.
-4. Roll the perogy dough to 1/8 inch thick and cut 16 circles about 4 inches across, re-rolling scraps as needed.
+4. Roll the perogy dough to 1/8 inch thick and cut 16 circles about 4 1/2 inches across, re-rolling scraps as needed.
 5. Place 1 tablespoon of potato in the center of a circle, nestle a dumpling on top, and cover with another tablespoon of potato. Fold the dough over and pinch the edges firmly to seal. Repeat.
 6. Boil the perogies in batches in salted water, cooking 4 to 5 minutes after they float. Drain.
 7. Melt the butter in a large skillet over medium heat and cook the onion for 8 minutes, until golden. Add the perogies and fry 2 to 3 minutes per side until browned. Serve with sour cream.

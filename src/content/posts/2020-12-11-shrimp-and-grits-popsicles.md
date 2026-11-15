@@ -40,8 +40,8 @@ I brought a tray of them to the Fourth of July block party, set them right next 
 1. Bring the milk, water and salt to a simmer in a medium saucepan. Slowly whisk in the grits, reduce the heat to low and cook, stirring often, for 25 to 30 minutes until thick and creamy.
 2. Stir in 1 tablespoon of the butter and the cheddar until melted. If the grits are too stiff to spoon easily, loosen them with a splash of milk.
 3. Toss the shrimp with the Cajun seasoning. Melt the remaining butter in a skillet over medium-high heat and cook the shrimp for 1 to 2 minutes per side, until pink. Sprinkle with the lemon juice.
-4. Set aside 6 to 8 of the nicest shrimp and finely chop the rest.
+4. Set aside 8 of the nicest shrimp and finely chop the rest.
 5. Fold the chopped shrimp, bacon and green onion into the grits and let cool for 15 minutes, stirring once or twice.
-6. Press one whole shrimp into the bottom of each popsicle mold, then spoon in the grits, tapping the mold on the counter to settle them. Insert the sticks.
+6. Press one whole shrimp into the bottom of each of 8 (3-ounce) popsicle molds, then spoon in the grits, tapping the mold on the counter to settle them. Insert the sticks.
 7. Freeze for at least 6 hours or overnight.
 8. Run the molds under warm water for a few seconds to release the popsicles and serve right away.

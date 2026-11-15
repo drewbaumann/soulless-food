@@ -46,4 +46,5 @@ So these brownies? They’re just that. They’re dense, fudgy, and incredibly g
 3. In a medium bowl, whisk together flour, cocoa, salt, baking powder and baking soda.
 4. Add the dry ingredients to the wet ingredients and stir until just combined.
 5. Stir in the semi-sweet, butterscotch, white and milk chocolate chips and the nuts.
-6. Pour batter into prepared pan and bake for 25-30 minutes or until a toothpick inserted in the center comes out clean.
+6. Spread batter evenly in the prepared pan and bake for 25-30 minutes, until the edges are set and a toothpick inserted in the center comes out with a few moist crumbs.
+7. Cool completely in the pan, at least 1 hour, before cutting into 24 brownies.

@@ -43,5 +43,5 @@ They are my new favorite crepe. They are rich though, so a couple is more than e
 3. Heat a lightly buttered 8-inch nonstick pan over medium heat. Pour in about 3 tablespoons of batter and swirl to coat the pan thinly.
 4. Cook for about 1 minute, until the edges lift, then flip and cook 30 seconds more. Repeat with the remaining batter, stacking the crepes.
 5. Whip the chilled mint cream with the powdered sugar to soft peaks.
-6. Stir the chocolate chips into the 1/4 cup hot cream until smooth to make the sauce.
+6. Heat the 1/4 cup cream until steaming, then stir in the chocolate chips until smooth to make the sauce.
 7. Spread each crepe with mint cream, fold into quarters, drizzle with chocolate sauce and garnish with mint leaves.

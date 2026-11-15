@@ -25,7 +25,7 @@ The second most important rule is to make the mixture the night before. The garl
 
 - 1 1/2 lb ground beef (80/20)
 - 4 cloves garlic, finely grated
-- 1 teaspoon baking soda
+- 3/4 teaspoon baking soda
 - 1 1/2 teaspoons salt
 - 1 teaspoon black pepper
 - 1 teaspoon smoked paprika
@@ -44,5 +44,5 @@ The second most important rule is to make the mixture the night before. The garl
 3. Cover and refrigerate overnight, or for at least 4 hours.
 4. With wet hands, roll the mixture into tubes about 4 inches long and 1 inch thick. You should get about 16.
 5. Heat a grill or grill pan to medium-high and brush the grates with oil.
-6. Grill the tubes for 8 to 10 minutes, turning every couple of minutes, until well browned all over and cooked through.
+6. Grill the tubes for 8 to 10 minutes, turning every couple of minutes, until well browned all over and cooked through to 160°F inside.
 7. Serve hot with plenty of mustard and fresh bread.

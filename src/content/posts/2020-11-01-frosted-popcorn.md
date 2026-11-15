@@ -3,7 +3,7 @@ title:  "Frosted Popcorn"
 date:   2020-11-01 17:10:57 +0000
 categories: recipe
 prep_time: 10
-cook_time: 20
+cook_time: 50
 servings: "12 cups"
 recipe_category: "Snack"
 cuisine: "American"
@@ -19,23 +19,23 @@ But plain popcorn is just not good as a dessert. I had to jazz it up a bit. So I
 
 ## Ingredients
 
-- 12 cups popped popcorn
+- 12 cups popped popcorn, unsalted
 - 1/2 cup butter
-- 1/2 cup brown sugar
-- 1/2 cup corn syrup
+- 1 cup packed brown sugar
 - 1/2 cup light corn syrup
-- 1/4 cup water
+- 1/2 teaspoon salt
 - 1 teaspoon vanilla extract
 - 1/2 teaspoon baking soda
-- 1/4 teaspoon salt
-- 1/2 cup powdered sugar
+- 1/2 cup peanuts (optional)
+- 1/4 cup powdered sugar
 - 1/2 cup mini chocolate chips
-- 1/4 cup peanuts (optional)
 
 ## Instructions
 
-1. Place butter in a medium saucepan and melt. Add brown sugar, corn syrup, light corn syrup, water, vanilla, baking soda, and salt. Stir to combine and bring to a boil.
-2. Once mixture is boiling, remove from heat and stir in powdered sugar.
-3. Pour over popcorn and stir until evenly coated.
-4. Add chocolate chips and peanuts and stir to combine.
-5. Spread popcorn onto wax paper and let cool.
+1. Preheat the oven to 250°F. Line two rimmed baking sheets with parchment. Put the popcorn and peanuts in a very large bowl.
+2. Melt the butter in a medium saucepan over medium heat. Stir in the brown sugar, corn syrup and salt and bring to a boil, stirring. Boil without stirring for 4 minutes.
+3. Remove from heat and stir in the vanilla and baking soda (it will foam up).
+4. Pour the syrup over the popcorn and stir until evenly coated. Spread it on the baking sheets.
+5. Bake for 45 minutes, stirring every 15 minutes, until the coating is dry and glossy.
+6. Cool for 5 minutes, until warm but not hot, then return the popcorn to the bowl, sift the powdered sugar over it, and toss to frost.
+7. Spread the popcorn onto wax paper and let cool completely, about 20 minutes, then toss with the chocolate chips.

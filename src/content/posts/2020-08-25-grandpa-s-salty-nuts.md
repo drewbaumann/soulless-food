@@ -3,7 +3,7 @@ title:  "Grandpa's Salty Nuts"
 date:   2020-08-25 07:18:20 +0000
 categories: recipe
 prep_time: 10
-cook_time: 60
+cook_time: 75
 servings: "2 cups"
 recipe_category: "Snack"
 cuisine: "American"
@@ -32,12 +32,13 @@ Grandpa's Salty Nuts make a great Christmas tree ornament because they are so de
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon onion powder
 - 1/2 teaspoon ground black pepper
+- 1 tablespoon coarse sea salt
 
 ## Instructions
 
-1. Place nuts in a large bowl and set aside.
-2. In a medium sized saucepan, combine water, vinegar, soy sauce, brown sugar, oil, garlic powder, onion powder and pepper. Bring to a boil over medium high heat.
-3. Pour the hot mixture over the nuts. Stir to coat.
-4. Spread the nuts out on a baking sheet lined with parchment paper.
-5. Bake at 250°F (120°C) for 1 hour, stirring every 15 minutes.
+1. Preheat the oven to 250°F (120°C) and line a rimmed baking sheet with parchment paper. Place the nuts in a large bowl.
+2. In a medium sized saucepan, combine water, vinegar, soy sauce, brown sugar, oil, garlic powder, onion powder and pepper. Bring to a boil over medium high heat, then boil, stirring often, until reduced to about 2/3 cup of syrupy glaze, 12 to 15 minutes.
+3. Pour the hot glaze over the nuts and stir until every nut is coated.
+4. Spread the nuts in a single layer on the prepared baking sheet and sprinkle evenly with the coarse salt.
+5. Bake for 1 hour, stirring every 15 minutes, until the glaze is dry and glossy.
 6. Cool completely before storing in an airtight container.

@@ -3,7 +3,7 @@ title:  "Lord Leopold Casserole"
 date:   2021-02-27 17:30:15 +0000
 categories: recipe
 prep_time: 30
-cook_time: 180
+cook_time: 210
 servings: "6 servings"
 recipe_category: "Main Course"
 cuisine: "Belgian"
@@ -43,6 +43,6 @@ When I set it down on the table, Uncle Gary stood up and made a toast to "our an
 3. Add the remaining butter and the onions to the pot and cook over medium heat until soft and golden, about 15 minutes.
 4. Return the beef to the pot and add the beer, broth, mustard, brown sugar, vinegar and thyme. Bring to a simmer.
 5. Cover and simmer gently for 2 to 2 1/2 hours, until the beef is very tender and the sauce has thickened. Remove the thyme stems.
-6. Preheat the oven to 425°F and transfer the stew to a 9x13 inch baking dish if your pot is not oven-safe.
+6. Meanwhile, preheat the oven to 425°F. Leave the stew in the pot, or transfer it to a 9x13 inch baking dish if you prefer.
 7. Arrange the frozen fries in an even layer over the stew and bake for 20 minutes, until crisp.
 8. Sprinkle with the Gruyère and bake 5 to 8 minutes more, until melted and browned. Serve hot.

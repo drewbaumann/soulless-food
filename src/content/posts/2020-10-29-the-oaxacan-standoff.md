@@ -27,33 +27,27 @@ I’m so excited to share this with you. I hope you love it as much as I do!
 
 ## Ingredients
 
-- 1 1/2 lbs. boneless pork shoulder, cut into 2-inch cubes
+- 2 1/2 lbs. boneless pork shoulder, cut into 2-inch cubes
 - 1/2 cup orange juice
 - 1/4 cup lime juice
-- 1/4 cup chopped fresh cilantro
-- 1/4 cup chopped fresh oregano
+- 1/3 cup chopped fresh cilantro, divided
+- 1/4 cup chopped fresh oregano, divided
 - 2 tablespoons minced garlic
 - 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- 1 teaspoon chili powder
-- 1 teaspoon salt
-- 1/4 teaspoon ground black pepper
+- 2 teaspoons salt
 - 1/4 cup olive oil
-- 1/2 cup chopped onion
 - 1 cup chopped tomato
 - 1 cup chopped green, red and yellow peppers
 - 1 cup chopped zucchini and yellow squash
 - 1 cup chopped carrot and celery
 - 1 cup chopped kale
-- 1 cup sliced jalapeno peppers
-- 1 cup sliced banana peppers
-- 1 cup sliced pimento peppers
+- 3 cups sliced peppers (1 cup each seeded jalapeno, banana and pimento peppers)
 
 ## Instructions
 
-1. In a large bowl, combine the pork with the orange juice, lime juice, cilantro, oregano, garlic, cumin, coriander, chili powder, salt and pepper. Cover and marinate in the refrigerator for at least 2 hours.
-2. Heat the olive oil in a large Dutch oven over medium-high heat. Remove the pork from the marinade (reserve the marinade) and brown on all sides, about 8 minutes.
-3. Add the onion, tomato, chopped peppers, zucchini, squash, carrot, celery and kale. Cook, stirring, until the vegetables begin to soften, about 5 minutes.
-4. Pour in the reserved marinade, cover, and simmer over low heat for 1 1/2 hours, until the pork is tender.
-5. Stir in the jalapeno, banana and pimento peppers and cook 10 minutes more.
-6. Serve hot.
+1. In a large bowl, combine the pork with the orange juice, lime juice, 1/4 cup of the cilantro, 3 tablespoons of the oregano, the garlic, cumin and salt. Cover and marinate in the refrigerator for at least 2 hours.
+2. Remove the pork from the marinade (reserve the marinade) and pat dry. Heat the olive oil in a large Dutch oven over medium-high heat and brown the pork on all sides, in batches if needed, about 8 to 10 minutes.
+3. Add the tomato, chopped bell peppers, zucchini, squash, carrot, celery and kale. Cook, stirring, until the vegetables begin to soften, about 5 minutes.
+4. Pour in the reserved marinade and bring to a boil. Cover and simmer over low heat for 1 1/2 hours, stirring occasionally, until the pork is fork-tender. Add a splash of water if the pot looks dry.
+5. Stir in the sliced jalapeno, banana and pimento peppers and cook, uncovered, 10 minutes more.
+6. Serve hot, sprinkled with the remaining cilantro and oregano.

@@ -31,19 +31,16 @@ I love it spread on crostini with a drizzle of olive oil. I love it with crusty 
 - 1/4 cup (60ml) olive oil
 - 1/2 cup (60g) cooked lobster meat, chopped
 - 1/4 teaspoon salt
-- 1/8 teaspoon black pepper
-- 1/4 teaspoon garlic powder
-- 1/4 teaspoon onion powder
-- 1/4 teaspoon dried parsley
-- 1/4 teaspoon dried dill
-- 1/4 teaspoon dried basil
-- 1/4 teaspoon dried oregano
+- 1/8 teaspoon each black pepper, white pepper and cayenne pepper
+- 1/4 teaspoon each garlic powder and onion powder
+- 1/4 teaspoon each dried parsley, dill, basil and oregano
 - 1/4 teaspoon paprika
-- 1/8 teaspoon cayenne pepper
-- 1/8 teaspoon white pepper
-- 1/4 teaspoon each lemon juice, lemon zest, lime juice and lime zest
+- 1/2 teaspoon each lemon zest and lime zest
+- 1 teaspoon each lemon juice and lime juice
 
 ## Instructions
 
-1. Add all ingredients to a food processor and pulse until well combined.
-2. Serve with crackers, bread or veggies.
+1. Add the olives, celery, bell pepper and green onion to a food processor and pulse 8 to 10 times, until coarsely chopped.
+2. Add the mayonnaise, 2 tablespoons of the olive oil, the salt, black pepper, white pepper, cayenne, garlic powder, onion powder, parsley, dill, basil, oregano, paprika, lemon zest and juice, and lime zest and juice. Pulse until combined but still coarse.
+3. Transfer to a bowl and gently fold in the lobster by hand so it stays in chunks.
+4. Spoon into a small crock and drizzle with the remaining 2 tablespoons olive oil. Serve with crackers, bread or veggies, or cover and refrigerate for up to 2 days.

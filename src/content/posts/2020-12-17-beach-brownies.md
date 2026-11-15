@@ -3,7 +3,7 @@ title:  "Beach Brownies"
 date:   2020-12-17 17:33:22 +0000
 categories: recipe
 prep_time: 15
-cook_time: 25
+cook_time: 30
 servings: "16 brownies"
 recipe_category: "Dessert"
 cuisine: "American"
@@ -31,7 +31,7 @@ Beach Brownies, woo hoo!
 ## Instructions
 
 1. Preheat oven to 350°F. Line the bottom of a 9x13-inch baking pan with parchment paper. Set aside.
-2. Melt butter and chocolate in a medium-sized, microwave-safe bowl.
-3. Stir in sugar, eggs, and vanilla. Add flour and salt and mix until blended. Stir in nuts.
-4. Pour batter into prepared pan. Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.
+2. Melt butter and chocolate in a large microwave-safe bowl on high for about 2 minutes, stirring every 30 seconds, until smooth. Let cool for 5 minutes.
+3. Stir in sugar, then beat in eggs one at a time, then vanilla. Add flour and salt and mix until blended. Stir in nuts.
+4. Pour batter into prepared pan. Bake for 25-30 minutes or until a toothpick inserted into the center comes out with a few moist crumbs.
 5. Cool completely before cutting into squares.

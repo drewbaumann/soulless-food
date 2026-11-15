@@ -3,7 +3,7 @@ title:  "Bacon In A Blanket"
 date:   2021-01-16 18:24:44 +0000
 categories: recipe
 prep_time: 10
-cook_time: 20
+cook_time: 25
 servings: "8 servings"
 recipe_category: "Appetizer"
 cuisine: "American"
@@ -25,20 +25,20 @@ So, I came up with this little bacon-in-a-blanket recipe just for you. You can b
 
 ## Ingredients
 
-- 1 package of bacon
-- 1 package of crescent rolls
+- 8 slices of bacon
+- 1 (8 oz) tube of crescent roll dough
 - 1 egg, beaten
-- 1/2 cup brown sugar
-- 1/2 cup water
+- 1/4 cup brown sugar
+- 1/4 teaspoon black pepper
 
 ## Instructions
 
-1. Preheat oven to 375 degrees.
+1. Preheat oven to 375 degrees F.
 2. Line a baking sheet with foil.
-3. Unroll crescent rolls and separate into 4 rectangles.
-4. Place a piece of bacon on each rectangle.
-5. Fold the rectangle in half, pinching the edges to seal.
-6. Place on baking sheet.
+3. Lay the bacon on the baking sheet and bake for 8-10 minutes, until partly cooked but still bendable. Drain on paper towels and let cool for 5 minutes. Pour off the fat and wipe the foil.
+4. Unroll the crescent dough and separate into 4 rectangles. Press the perforations closed, then cut each rectangle in half crosswise to make 8 pieces.
+5. Fold each bacon slice in half and place it on a piece of dough. Fold the dough over the bacon, pinching the edges to seal and letting the crisp bacon ends peek out.
+6. Place seam side down on the baking sheet.
 7. Brush with beaten egg.
-8. Sprinkle with brown sugar.
-9. Bake for 15-20 minutes.
+8. Stir together the brown sugar and pepper and sprinkle over the tops.
+9. Bake for 12-15 minutes, until the dough is deep golden brown and the sugar is caramelized.

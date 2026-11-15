@@ -4,7 +4,7 @@ date:   2020-10-17 17:16:24 +0000
 categories: recipe
 prep_time: 135
 cook_time: 0
-servings: "4 cups"
+servings: "6 cups"
 recipe_category: "Sauce"
 cuisine: "Mexican"
 keywords: "salsa, onions, balsamic, no-cook, topping"
@@ -15,7 +15,7 @@ You guys know how much I love salsa. I have way too many recipes, I’m sure, bu
 
 ## Ingredients
 
-- 6 onions, chopped
+- 6 medium yellow onions, finely chopped
 - 1/2 cup of olive oil
 - 1/2 cup of balsamic vinegar
 - 1/2 cup of red wine vinegar
@@ -25,6 +25,7 @@ You guys know how much I love salsa. I have way too many recipes, I’m sure, bu
 
 ## Instructions
 
-1. Place all ingredients in a large bowl and mix well.
-2. Cover and refrigerate for at least 2 hours before serving.
-3. Serve with tortilla chips or as a topping for burgers or sandwiches.
+1. In a large bowl, whisk the olive oil, balsamic vinegar, red wine vinegar, sugar, salt and pepper until the sugar and salt dissolve.
+2. Add the chopped onions and stir until they are evenly coated.
+3. Cover and refrigerate for at least 2 hours, stirring once halfway through, until the onions soften slightly.
+4. Stir again and serve with tortilla chips or as a topping for burgers or sandwiches.

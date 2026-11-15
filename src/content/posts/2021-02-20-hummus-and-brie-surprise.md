@@ -23,21 +23,23 @@ I love the combination of brie, hummus, and feta. The parsley and cilantro are a
 
 ## Ingredients
 
-- 1 cup chickpeas, cooked
+- 2 cans (15 ounces each) chickpeas, drained and rinsed
 - 1/2 cup tahini
 - 2 cloves garlic
-- 1/2 cup olive oil
+- 1/4 cup olive oil, plus 1 tablespoon for drizzling
 - 1/4 cup lemon juice
-- 1/2 cup water
+- 1/4 cup cold water
 - 1/4 cup parsley, chopped
 - 1/4 cup cilantro, chopped
 - 1/4 cup feta, crumbled
-- 1/4 cup brie, crumbled
-- 1/2 teaspoon cumin
+- 1/4 cup brie, rind removed, crumbled
+- 1 teaspoon cumin, plus a pinch for dusting
 - Salt and pepper to taste
+- Pita chips or crudités, for serving
 
 ## Instructions
 
-1. Combine all ingredients in a food processor.
-2. Process until smooth and creamy.
-3. Serve with pita chips or crudités.
+1. Process the chickpeas, garlic and lemon juice in a food processor until finely ground, about 1 minute.
+2. Add the tahini and 1 teaspoon cumin. With the motor running, drizzle in the 1/4 cup olive oil and the water, and process until smooth and creamy, 2 to 3 minutes, scraping down the sides as needed.
+3. Add the brie and half of the feta and process until blended. Add the parsley and cilantro and pulse a few times, until flecked with green. Season with salt and pepper.
+4. Spread in a shallow bowl, top with the remaining feta, drizzle with the remaining olive oil and dust with a pinch of cumin. Serve with pita chips or crudités.

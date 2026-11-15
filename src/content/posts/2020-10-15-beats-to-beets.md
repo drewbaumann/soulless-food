@@ -24,16 +24,16 @@ This pot is a really fun and pretty dish that's perfect for an early summer occa
 ## Ingredients
 
 - 6 cups (1.5 L) fresh beets, peeled and cut into 1-inch (2.5 cm) cubes
-- 2 cups (500 mL) water
+- 1/2 cup (125 mL) water
 - 1 cup (250 mL) apple cider vinegar
 - 1/2 cup (125 mL) granulated sugar
-- 2 tablespoons (30 mL) kosher salt
+- 1 teaspoon (5 mL) kosher salt
 - 1/4 cup (60 mL) olive oil
 - 2 tablespoons (30 mL) orange juice
 
 ## Instructions
 
 1. Place beets in a large pot and cover with water. Bring to a boil. Reduce heat and simmer, covered, for 15 to 20 minutes or until tender. Drain and set aside.
-2. Combine water, vinegar, sugar, salt and oil in a large saucepan. Bring to a boil. Reduce heat and simmer, uncovered, for 10 minutes or until slightly thickened.
-3. Add beets and orange juice. Cook for 5 minutes or until heated through.
+2. Combine the 1/2 cup water, vinegar, sugar, salt and oil in a large saucepan. Bring to a boil. Reduce heat and simmer, uncovered, for 12 to 15 minutes or until reduced by about half and syrupy.
+3. Add beets and orange juice. Cook, stirring, for 5 minutes or until the beets are heated through and coated in glaze.
 4. Serve warm, with music playing.

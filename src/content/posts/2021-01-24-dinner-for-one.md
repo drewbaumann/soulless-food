@@ -31,27 +31,26 @@ Thank you so much Courtney! I truly appreciate it.
 
 ## Ingredients
 
-- 1 cup of rice
+- 1/2 cup of long-grain white rice
 - 1/2 cup of water
 - 1/2 cup of chicken broth
 - 1/2 cup of frozen peas
 - 1/2 cup of frozen corn
 - 1/4 cup of shredded cheddar cheese
 - 1/4 cup of shredded mozzarella cheese
-- 1/2 tablespoon of butter
-- 1/2 tablespoon of olive oil
+- 1 tablespoon of butter
 - 1/2 tablespoon of minced garlic
-- 1/2 tablespoon of onion powder
-- 1/2 teaspoon of salt
-- 1/2 teaspoon of pepper
+- 1/2 teaspoon of onion powder
+- 1/4 teaspoon of salt
+- 1/4 teaspoon of pepper
 - 1/2 teaspoon of paprika
-- 1/2 teaspoon of dried oregano
-- 1/2 teaspoon of dried basil
+- 1/4 teaspoon of dried oregano
+- 1/4 teaspoon of dried basil
 
 ## Instructions
 
-1. Boil rice in water and chicken broth for 20 minutes.
-2. While rice is cooking, heat olive oil and butter in a large skillet. Add garlic and onion powder and sauté for 1 minute.
+1. Bring the water and chicken broth to a boil in a small saucepan. Stir in the rice, cover, and simmer on low for 18 minutes, until the liquid is absorbed.
+2. While rice is cooking, melt the butter in a medium skillet over medium heat. Add garlic and onion powder and sauté for 1 minute.
 3. Add frozen peas, frozen corn, salt, pepper, paprika, oregano, and basil.
 4. Cook for 5 minutes.
 5. Add rice to skillet and mix with veggies.

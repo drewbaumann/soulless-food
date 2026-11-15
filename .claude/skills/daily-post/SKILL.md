@@ -68,6 +68,16 @@ Use one subagent per half (Agent tool, general-purpose), recipe first, then stor
 Check each result. Re-run a subagent if its output is malformed, if the story contradicts the recipe
 or walks through the steps, or if the recipe adds a story.
 
+**Test the recipe yourself before moving on**, as if you were about to cook it. The names are jokes
+but the recipes must really work:
+- every listed ingredient is used in the steps, and every ingredient the steps use is listed with an
+  amount (split ingredients say how much goes where);
+- amounts and ratios are sane (liquid to flour, leavening, gelatin/binder, seasoning);
+- the method is complete and in order: preheat first, pan/vessel, temperatures, times, doneness cues;
+- meat, poultry, seafood and eggs end up safely cooked;
+- the result is what the title literally describes.
+Fix problems directly in the recipe (keeping the story consistent with any change).
+
 ## 4. Write the post file
 
 Path: `src/content/posts/YYYY-MM-DD-<slug>.md`, where slug is the name lowercased with runs of

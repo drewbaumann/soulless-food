@@ -17,14 +17,14 @@ I was looking for something easy and quick to throw together for dinner one nigh
 
 I like to chop up some fresh green onions and cilantro and toss them right in with some frozen corn and mixed vegetables. Those are my favorite vegetables of all time. It makes the soup much more flavorful.
 
-I also add some extra shredded chicken, instead of relying on the chicken that comes in the package. This makes the soup a lot more filling and more like homemade chicken noodle soup.
+I also add a can of shredded chicken, instead of relying on the chicken that comes in the package. This makes the soup a lot more filling and more like homemade chicken noodle soup.
 
 The most important thing about making this soup is to make sure you add exactly half a teaspoon each of soy sauce and sesame oil. This gives the soup a lot of flavor.
 
 ## Ingredients
 
 - 1 package of chicken wonton soup (I used the one from Trader Joe's)
-- 1/2 cup of cooked chicken, shredded
+- 1 can (5 ounces) of chunk chicken, drained and shredded
 - 1/2 cup of frozen mixed vegetables
 - 1/2 cup of frozen corn
 - 1/2 teaspoon of soy sauce
@@ -35,7 +35,7 @@ The most important thing about making this soup is to make sure you add exactly 
 
 ## Instructions
 
-1. Heat up the chicken wonton soup in a medium-sized pot.
-2. Add the chicken, vegetables, corn, soy sauce, sesame oil, green onions and cilantro.
-3. Season with salt and pepper to taste.
-4. Serve immediately.
+1. Prepare the chicken wonton soup in a medium pot according to the package directions and bring it to a simmer.
+2. Add the canned chicken, mixed vegetables and corn. Simmer for 4 to 5 minutes, until the vegetables are hot and the wontons are cooked through.
+3. Stir in the soy sauce and sesame oil, then season with salt and pepper to taste.
+4. Ladle into bowls, top with the green onions and cilantro, and serve immediately.

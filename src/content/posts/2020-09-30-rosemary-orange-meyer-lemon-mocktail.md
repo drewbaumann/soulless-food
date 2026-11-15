@@ -23,16 +23,18 @@ I'm not big on cocktails, alcohol in general really, but this is SO good I keep 
 
 ## Ingredients
 
-- 1/2 cup water
-- 1/2 cup ice
-- 1/2 cup freshly squeezed Meyer lemon juice
-- 1/2 cup freshly squeezed orange juice
-- 1/4 cup honey
-- 1/4 cup fresh rosemary leaves, chopped
-- 1/2 cup vodka (optional)
+- 2 tablespoons warm water
+- 2 cups ice, divided
+- 3 tablespoons freshly squeezed Meyer lemon juice
+- 1/4 cup freshly squeezed orange juice
+- 1 tablespoon honey
+- 1 teaspoon fresh rosemary leaves, finely chopped, plus 1 sprig for garnish
+- 1 thin Meyer lemon wheel, for garnish
+- 3 tablespoons (1 1/2 oz) vodka (optional)
 
 ## Instructions
 
-1. Fill a cocktail shaker with ice. Pour in water, lemon juice, orange juice, honey, rosemary and vodka (if using).
-2. Shake vigorously and strain into a glass filled with ice.
-3. Garnish with a sprig of rosemary and enjoy!
+1. In a cocktail shaker, stir the honey into the warm water until dissolved. Add the chopped rosemary and let it steep for 2 minutes.
+2. Add 1 cup of the ice, the lemon juice, orange juice and vodka (if using).
+3. Shake vigorously for 15 seconds and strain into a tall glass filled with the remaining ice.
+4. Garnish with the rosemary sprig and Meyer lemon wheel and enjoy!

@@ -23,18 +23,18 @@ When I look back at the food I ate through the tears this year I am proud of how
 
 ## Ingredients
 
-- 1 cup cooked quinoa
+- 3 cups cooked quinoa
 - 1/2 cup roasted red peppers, chopped
 - 1/2 cup roasted yellow peppers, chopped
 - 1/2 cup roasted green peppers, chopped
 - 1/4 cup chopped fresh parsley
 - 1/4 cup chopped fresh basil
-- 1/4 cup chopped fresh oregano
-- 2 tablespoons chopped fresh thyme
-- 2 tablespoons chopped fresh rosemary
+- 1 tablespoon chopped fresh oregano
+- 1 tablespoon chopped fresh thyme
+- 1 teaspoon chopped fresh rosemary
 - 3/4 cup vegan pesto, divided
-- 1/4 cup olive oil
-- 1/4 cup vegan butter
+- 2 tablespoons olive oil
+- 2 tablespoons vegan butter
 - 1/2 cup vegan parmesan cheese, grated, divided
 - Salt and pepper to taste
 - 1/2 cup vegan mozzarella cheese, shredded
@@ -44,6 +44,6 @@ When I look back at the food I ate through the tears this year I am proud of how
 1. Preheat oven to 375°F.
 2. In a large bowl, combine the quinoa, roasted peppers, parsley, basil, oregano, thyme and rosemary.
 3. Melt the vegan butter with the olive oil and stir it into the quinoa along with 1/2 cup of the pesto and 1/4 cup of the vegan parmesan. Season with salt and pepper.
-4. Spread the mixture in a small baking dish. Dollop the remaining pesto over the top and cover with the vegan mozzarella and remaining vegan parmesan.
+4. Spread the mixture in an 8-inch square baking dish. Dollop the remaining pesto over the top and cover with the vegan mozzarella and remaining vegan parmesan.
 5. Bake for 15-20 minutes, until the cheese is melted and golden at the edges.
 6. Serve warm. Cry if you need to.

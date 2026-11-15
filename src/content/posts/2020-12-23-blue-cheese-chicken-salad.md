@@ -3,7 +3,7 @@ title:  "Blue Cheese Chicken Salad"
 date:   2020-12-23 17:47:24 +0000
 categories: recipe
 prep_time: 15
-cook_time: 120
+cook_time: 125
 servings: "4 servings"
 recipe_category: "Salad"
 cuisine: "American"
@@ -19,22 +19,25 @@ So this is my holiday gift to myself: a quiet bowl of blue cheese chicken salad,
 
 ## Ingredients
 
-- 1 cup chopped cooked chicken
+- 2 cups chopped cooked chicken
 - 1 cup chopped celery
 - 1/2 cup chopped walnuts
 - 1/2 cup crumbled blue cheese
-- 1/4 cup mayonnaise
-- 1/4 cup sour cream
+- 1/3 cup mayonnaise
+- 1/3 cup sour cream
 - 1/4 cup chopped fresh parsley
-- 1 teaspoon dried thyme
-- 1 teaspoon dried oregano
+- 1/2 teaspoon dried thyme
+- 1/2 teaspoon dried oregano
 - 1/4 teaspoon salt
 - 1/4 teaspoon ground black pepper
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon onion powder
+- 1 sleeve crackers or 8 slices crusty bread, for serving
 
 ## Instructions
 
-1. Combine all ingredients in a medium bowl and mix well.
-2. Chill for at least 2 hours before serving.
-3. Serve with crackers, bread or over a bed of greens.
+1. Toast the walnuts in a dry skillet over medium heat, stirring, for 4 to 5 minutes until fragrant. Let cool.
+2. In a medium bowl, stir together the mayonnaise, sour cream, thyme, oregano, salt, pepper, garlic powder and onion powder.
+3. Add the chicken, celery, walnuts, blue cheese and parsley and fold until evenly coated.
+4. Cover and chill for at least 2 hours before serving.
+5. Serve with the crackers or bread.

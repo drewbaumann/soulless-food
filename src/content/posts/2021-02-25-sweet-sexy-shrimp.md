@@ -31,7 +31,7 @@ This sweet and sexy shrimp is also another one of those quick and easy recipes. 
 
 ## Instructions
 
-1. Heat olive oil and 2 tablespoons of butter in a large pan or skillet. Add garlic and sauté until fragrant (about 30 seconds - 1 minute). Then add the shrimp, season with salt and pepper to taste and sauté for 1-2 minutes on one side (until just beginning to turn pink), then flip.
-2. Pour in wine (or broth), add red pepper flakes (if using). Bring to a simmer for 1-2 minutes or until wine reduces by about half and the shrimp is cooked through (don't overcook your shrimp).
+1. Heat olive oil and 2 tablespoons of butter in a large pan or skillet over medium-high heat. Add garlic and sauté until fragrant (about 30 seconds - 1 minute). Then add the shrimp, season with salt and pepper to taste and sauté for 1-2 minutes on one side (until just beginning to turn pink), then flip.
+2. Pour in wine (or broth), add red pepper flakes (if using). Bring to a simmer for 1-2 minutes or until wine reduces by about half and the shrimp is pink and opaque all the way through (don't overcook your shrimp).
 3. Stir in the remaining butter, lemon juice and parsley and take off heat immediately.
 4. Serve over rice, pasta, garlic bread or steamed vegetables (cauliflower, broccoli, zucchini noodles).

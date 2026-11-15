@@ -46,6 +46,6 @@ I'm not sure I ever will make mole again, because it does take an afternoon, but
 4. Pour the mole back into the saucepan and simmer for 20 minutes, stirring often, until thick enough to coat a spoon.
 5. Preheat the oven to 350°F (175°C).
 6. Warm the tortillas in the remaining oil, one at a time, until soft.
-7. Toss the chicken with 1 cup of the mole, fill each tortilla, roll it up and place seam side down in a baking dish.
-8. Pour the rest of the mole over the top and bake for 20 minutes.
+7. Toss the chicken with 1 cup of the mole, fill each tortilla, roll it up and place seam side down in a 9x13-inch baking dish.
+8. Pour the rest of the mole over the top and bake for 20 minutes, until heated through and bubbling at the edges.
 9. Sprinkle with queso fresco and serve.

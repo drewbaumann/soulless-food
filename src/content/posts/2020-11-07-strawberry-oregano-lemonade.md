@@ -2,7 +2,7 @@
 title:  "Strawberry Oregano Lemonade"
 date:   2020-11-07 17:12:20 +0000
 categories: recipe
-prep_time: 10
+prep_time: 30
 cook_time: 0
 servings: "4 servings"
 recipe_category: "Drink"
@@ -26,8 +26,8 @@ Trust me, you need to make this recipe. Or if you already have, you need to make
 - 1 cup fresh strawberries, hulled and chopped
 - 1 cup fresh lemon juice
 - 1 cup sugar
-- 1 cup water
-- 1 cup ice
+- 5 cups cold water
+- 4 cups ice, divided
 - 1/2 cup fresh oregano leaves
 - 1/2 cup fresh mint leaves
 - 1/2 cup fresh lemon balm leaves
@@ -35,6 +35,7 @@ Trust me, you need to make this recipe. Or if you already have, you need to make
 
 ## Instructions
 
-1. In a large pitcher, muddle the strawberries, lemon juice, and sugar until the sugar is dissolved.
-2. Add the water, ice, and herbs.
-3. Serve over ice.
+1. In a large (at least 2-quart) pitcher, muddle the strawberries, lemon juice, and sugar, then stir for 2 to 3 minutes until the sugar is dissolved.
+2. Add the oregano, mint, lemon balm and lemon verbena and muddle gently, just enough to bruise the leaves.
+3. Stir in the cold water and 1 cup of the ice. Refrigerate for 20 minutes to let the herbs infuse.
+4. Stir, then pour over the remaining 3 cups of ice in glasses and serve.

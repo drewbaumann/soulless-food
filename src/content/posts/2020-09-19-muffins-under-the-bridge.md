@@ -22,8 +22,7 @@ With a little investigating of Facebook, I was able to track down the Muffin Man
 - 1 cup all-purpose flour
 - 1/2 cup whole wheat flour
 - 1/2 cup sugar
-- 1 tsp baking powder
-- 1/2 tsp baking soda
+- 2 tsp baking powder
 - 1/2 tsp salt
 - 1/2 tsp cinnamon
 - 1/2 tsp nutmeg
@@ -39,7 +38,7 @@ With a little investigating of Facebook, I was able to track down the Muffin Man
 ## Instructions
 
 1. Preheat oven to 375°F (190°C). Line muffin tins with paper liners.
-2. Combine flours, sugar, baking powder, baking soda, salt, cinnamon and nutmeg in a large bowl.
+2. Combine flours, sugar, baking powder, salt, cinnamon and nutmeg in a large bowl.
 3. In a separate bowl, whisk together melted butter, milk, eggs and vanilla.
 4. Add wet ingredients to dry ingredients and stir until just combined.
 5. Fold in blueberries, pecans, cranberries and chocolate chips (if using).

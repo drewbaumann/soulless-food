@@ -3,7 +3,7 @@ title:  "Sour Cherry Potstickers"
 date:   2021-01-15 18:27:44 +0000
 categories: recipe
 prep_time: 45
-cook_time: 15
+cook_time: 45
 servings: "30 potstickers"
 recipe_category: "Appetizer"
 cuisine: "Fusion"
@@ -22,39 +22,27 @@ I made them my way by using a dumpling recipe that I’d already perfected (my P
 - 2 tablespoons olive oil, divided
 - 1/2 pound ground pork
 - 1/2 pound ground beef
-- 1/2 cup chopped onion
 - 1/2 cup chopped green onion, divided
 - 1/2 teaspoon salt
-- 1/2 teaspoon pepper
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon ground ginger, divided
 - 1/2 teaspoon ground cinnamon
-- 1/2 teaspoon ground cloves
 - 6 tablespoons soy sauce, divided
-- 1/2 cup dried sour cherries
-- 1 package dumpling wrappers
-- 1 egg, beaten
-- 1/4 cup cornstarch
+- 1/2 cup dried sour cherries, chopped
+- 30 round dumpling wrappers
 - 1 tablespoon rice vinegar
 - 1 teaspoon sesame oil
-- 1 teaspoon sugar
-- 1/4 teaspoon red pepper flakes
 - 1/4 cup chopped fresh cilantro
 - 1/4 cup chopped fresh mint
 
 ## Instructions
 
-1. In a large skillet, heat 1 tablespoon of olive oil over medium heat. Add the ground pork and cook until browned.
-2. Add the ground beef and cook until browned.
-3. Add the onion and half the green onion and cook until the onion is translucent.
-4. Add the salt, pepper, garlic powder, half the ginger, cinnamon, cloves, 2 tablespoons soy sauce, 1/4 cup water and dried cherries. Stir to combine.
-5. Cover and cook for about 15 minutes.
-6. While the filling is cooking, prepare the potstickers. In a small bowl, beat the egg.
-7. In another small bowl, combine the cornstarch with 1/2 cup water. Mix well.
-8. In a third small bowl, combine the remaining 1/4 cup soy sauce, rice vinegar, sesame oil, sugar, remaining ginger, red pepper flakes, remaining green onion, cilantro and mint. Mix well. This is your dipping sauce.
-9. Place a dumpling wrapper on a clean surface. Spoon about 1 tablespoon of filling into the center of the wrapper. Dip your finger in the egg and run it around the edge of the wrapper.
-10. Fold the wrapper in half and pinch the edges together to seal.
-11. Repeat until all the filling and wrappers are used.
-12. In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat. Add the potstickers flat side down and cook until the bottoms are golden, about 2 minutes.
-13. Pour in the cornstarch water, cover, and steam for 5-6 minutes until the water has evaporated and the bottoms are crisp.
-14. Serve hot with the dipping sauce.
+1. In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add the ground pork and ground beef and cook, breaking it up, until browned with no pink remaining, 6-8 minutes. Drain off excess fat.
+2. Add half the green onion, the salt, garlic powder, half the ginger, the cinnamon, 2 tablespoons soy sauce, 1/4 cup water and the cherries. Stir to combine.
+3. Cover and cook over low heat for about 10 minutes, until the cherries are plump and the liquid is absorbed. Spread the filling on a plate and let cool for 15 minutes.
+4. For the dipping sauce, combine the remaining 1/4 cup soy sauce, rice vinegar, sesame oil, remaining ginger, remaining green onion, cilantro and mint in a small bowl.
+5. Place a dumpling wrapper on a clean surface. Spoon about 1 tablespoon of filling into the center and run a wet finger around the edge of the wrapper.
+6. Fold the wrapper in half and pleat and pinch the edges together to seal. Repeat until all the filling and wrappers are used.
+7. In a large nonstick or cast iron skillet with a lid, heat half the remaining olive oil over medium heat. Add half the potstickers flat side down and cook until the bottoms are golden, about 2 minutes.
+8. Pour in 1/3 cup water, cover, and steam for 5-6 minutes, until the water has evaporated and the wrappers are tender. Uncover and cook 1 minute more to re-crisp the bottoms.
+9. Repeat with the remaining oil and potstickers. Serve hot with the dipping sauce.

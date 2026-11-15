@@ -23,7 +23,8 @@ They are a great topper for curries, especially butter chicken. You can scoop wi
 
 ## Ingredients
 
-- 2 cups whole wheat atta flour, plus more for rolling
+- 2 cups whole wheat atta flour
+- 1/4 cup whole wheat atta flour, for rolling
 - 3/4 teaspoon salt
 - 1 tablespoon vegetable oil
 - 2/3 cup warm water, plus more as needed

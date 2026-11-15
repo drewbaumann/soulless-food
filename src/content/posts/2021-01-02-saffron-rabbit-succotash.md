@@ -3,7 +3,7 @@ title:  "Saffron Rabbit Succotash"
 date:   2021-01-02 17:53:41 +0000
 categories: recipe
 prep_time: 30
-cook_time: 75
+cook_time: 95
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"

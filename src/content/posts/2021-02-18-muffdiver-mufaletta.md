@@ -2,7 +2,7 @@
 title:  "Muffdiver Mufaletta"
 date:   2021-02-18 17:32:23 +0000
 categories: recipe
-prep_time: 255
+prep_time: 315
 cook_time: 0
 servings: "6 servings"
 recipe_category: "Main Course"
@@ -42,5 +42,5 @@ The next day we took it to the lake, and I have to tell you, it was the best pic
 3. Spread half of the olive salad, with plenty of its oil, over the bottom half of the loaf.
 4. Layer on the salami, ham, mortadella and provolone.
 5. Spread the remaining olive salad on the cut side of the top half and press it onto the sandwich.
-6. Wrap the whole sandwich tightly in plastic wrap and set a heavy skillet on top. Refrigerate for at least 1 hour, or up to overnight.
+6. Wrap the whole sandwich tightly in plastic wrap and set a heavy skillet on top. Refrigerate for at least 1 hour, ideally overnight.
 7. Unwrap, cut into 6 wedges and serve at room temperature.

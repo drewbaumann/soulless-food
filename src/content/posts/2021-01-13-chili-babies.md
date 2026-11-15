@@ -3,7 +3,7 @@ title:  "Chili Babies"
 date:   2021-01-13 18:32:38 +0000
 categories: recipe
 prep_time: 20
-cook_time: 40
+cook_time: 60
 servings: "6 servings"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -33,13 +33,14 @@ Anyhow, I love a twist on chili. This turns a classic dish into a new classic. G
 - 1 tbsp chili powder
 - 1 tsp cumin
 - 1 tsp oregano
-- 1/2 tsp salt
-- 1 box cornbread mix
+- 1 box (8.5 oz) cornbread mix
+- 1 egg (for the cornbread)
+- 1/3 cup milk (for the cornbread)
 
 ## Instructions
 
-1. In a large pot, brown ground beef with onion, bell pepper, jalapeno (if using), and garlic. Drain off fat.
-2. Add remaining ingredients (except water and cornbread mix) and bring to a boil. Reduce heat and simmer for 30 minutes.
-3. While chili is simmering, prepare cornbread according to package directions and set aside.
-4. Add water to chili and simmer for an additional 20 minutes.
-5. Serve chili over cornbread.
+1. In a large pot over medium-high heat, brown ground beef with onion, bell pepper, jalapeno (if using), and garlic until no pink remains, about 8 minutes. Drain off fat.
+2. Add the diced tomatoes, tomato paste, green chilies, chili powder, cumin and oregano and bring to a boil. Reduce heat and simmer for 30 minutes.
+3. While chili is simmering, heat the oven to 400°F. Stir the cornbread mix with the egg and milk, spread in a greased 8x8-inch pan, and bake 18-20 minutes, until golden and a toothpick comes out clean.
+4. Add water to chili and simmer for an additional 20 minutes, until thick. Season with salt to taste.
+5. Cut the cornbread into 6 squares, place each in a bowl or mini skillet, and spoon the chili over the top.

@@ -3,7 +3,7 @@ title:  "Oxtail Ice Cream"
 date:   2021-02-19 17:27:46 +0000
 categories: recipe
 prep_time: 30
-cook_time: 360
+cook_time: 635
 servings: "1 quart"
 recipe_category: "Dessert"
 cuisine: "American"
@@ -21,21 +21,20 @@ I used my ice cream maker, but you could also use an ice cream maker that’s ju
 
 ## Ingredients
 
-- 2 1/2 cups of oxtail (about 1 1/2 pounds)
+- 1 pound of oxtail pieces
 - 1/2 cup of red wine
-- 1/2 cup of whole milk
-- 1/2 cup of heavy cream
-- 1/2 cup of sugar
-- 1/2 teaspoon of vanilla extract
-- 1/2 teaspoon of salt
+- 1 cup of whole milk
+- 1 1/2 cups of heavy cream
+- 2/3 cup of sugar
+- 1 teaspoon of vanilla extract
+- 1/4 teaspoon of salt
 
 ## Instructions
 
-1. Place oxtail in a large pot and cover with water. Bring to a boil and cook for about 2 hours.
-2. Remove oxtail from water and allow to cool. Once cool, remove the meat from the bones and discard the bones.
-3. In a medium sized saucepan, add oxtail, wine, milk, heavy cream, sugar, vanilla extract and salt. Bring to a boil and cook for about 20 minutes.
-4. Remove from heat and allow to cool.
-5. Once cooled, pour mixture into a blender and blend until smooth.
-6. Place mixture into the refrigerator to chill for at least 2 hours.
-7. Pour mixture into an ice cream maker and churn until desired consistency is reached.
-8. Place in an airtight container and freeze for at least 4 hours.
+1. Place oxtail in a large pot and cover with water by an inch. Bring to a boil, then reduce the heat and simmer, covered, for about 2 hours, until the meat falls off the bone.
+2. Remove oxtail from water and allow to cool. Once cool, pull the meat from the bones, discarding the bones and any fat. You should have about 3/4 cup of meat.
+3. In a medium saucepan, boil the wine for 3 to 4 minutes, until reduced by half. Add the milk, heavy cream, sugar and salt and heat over medium, stirring, until the sugar dissolves and the mixture is steaming. Do not boil. Remove from the heat and stir in the vanilla.
+4. Pour the warm base into a blender with the oxtail meat and blend until very smooth, about 2 minutes.
+5. Pour into a container, cover and refrigerate until completely cold, at least 4 hours.
+6. Churn in an ice cream maker according to the manufacturer's directions, about 20 to 25 minutes, until it looks like soft serve.
+7. Place in an airtight container and freeze for at least 4 hours, until scoopable.

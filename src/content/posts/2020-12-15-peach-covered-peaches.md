@@ -42,4 +42,4 @@ It's warm and sticky and tastes like the inside of a summer afternoon. We eat it
 4. Blend the sauce until smooth, then stir in the vanilla.
 5. Pour the peach sauce over the roasted peaches, covering them completely, and scatter the chopped dried peaches on top.
 6. Return the dish to the oven for 5 minutes, until the sauce is bubbling at the edges.
-7. Let cool for 10 minutes and serve warm, with ice cream if you like.
+7. Let cool for 10 minutes and serve warm.

@@ -39,7 +39,7 @@ And hey, it’s desserts like these that make people think you’re some sort of
 1. Preheat oven to 325°F (170°C).
 2. In a medium saucepan, combine half of the sugar with the cream, half and half, butter, vanilla bean and seeds. Bring to a boil over medium heat, stirring constantly. Remove from heat and allow to cool for 10 minutes.
 3. Remove the vanilla bean and add the orange juice, lemon juice, orange extract, lemon extract, orange zest and lemon zest. Stir to combine.
-4. In a separate bowl, whisk together the eggs and flour until smooth. Add to the cream mixture and stir to combine.
+4. In a separate bowl, whisk together the eggs and flour until smooth. Slowly whisk in about a cup of the warm cream mixture to temper the eggs, then whisk the egg mixture back into the saucepan.
 5. Pour the mixture into a 9x13 inch baking dish and place pears on top.
 6. Bake for 45-50 minutes or until the custard has set and the pears are tender.
 7. Remove from the oven and allow to cool for 30 minutes.

@@ -27,16 +27,17 @@ I hope you all had a great holiday and are starting off your new year in a fabul
 
 - 1 pound ground beef
 - 1 small onion, chopped
-- 1 can cream of mushroom soup
-- 1 can French onion soup
+- 1 (10.5 ounce) can condensed cream of mushroom soup
+- 1 (10.5 ounce) can condensed French onion soup
 - 1/2 cup ketchup
 - 1 cup shredded cheddar cheese
 - 1/4 cup bread crumbs
-- 1 can Funyuns
+- 2 cups Funyuns (about 3 ounces)
 
 ## Instructions
 
-1. Brown ground beef with chopped onion. Drain.
-2. Add soups, ketchup, and cheese.
-3. Top with crumbs and Funyuns.
-4. Bake at 325 degrees for 30 minutes.
+1. Preheat the oven to 350°F (175°C).
+2. In a large skillet over medium-high heat, cook the ground beef and chopped onion, breaking up the meat, until no pink remains and the onion is soft, about 8 minutes. Drain off the fat.
+3. Stir in both soups, the ketchup and the cheddar until combined, then spread the mixture in an 8x8 inch (2-quart) baking dish.
+4. Sprinkle the bread crumbs evenly over the top and bake uncovered for 20 minutes, until bubbling.
+5. Scatter the Funyuns over the top in an even layer and bake for 10 minutes more, until the topping is golden and crisp.

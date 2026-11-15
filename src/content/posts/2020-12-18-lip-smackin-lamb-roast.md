@@ -3,7 +3,7 @@ title:  "Lip Smackin Lamb Roast"
 date:   2020-12-18 17:37:45 +0000
 categories: recipe
 prep_time: 30
-cook_time: 100
+cook_time: 105
 servings: "10 servings"
 recipe_category: "Main Course"
 cuisine: "Mediterranean"
@@ -36,10 +36,9 @@ Is your family doing a big dinner this year? Or staying home and feasting on the
 
 1. Preheat oven to 425 degrees F (220 degrees C).
 2. Mix together the olive oil, rosemary, oregano, thyme, salt, pepper, cumin, coriander, cinnamon, cloves, nutmeg, and allspice in a small bowl.
-3. Using a sharp knife, carefully cut slits in the lamb and stuff the herb mixture into the slits.
+3. Using a sharp knife, carefully cut 1-inch-deep slits all over the lamb and stuff as much of the herb mixture into the slits as they will hold. Rub the rest over the outside, then roll and tie the lamb with kitchen twine at 2-inch intervals.
 4. Place the lamb in a roasting pan and roast in the preheated oven for 20 minutes.
 5. Combine the honey, lemon juice, and orange juice in a small bowl.
-6. Remove the lamb from the oven and brush with the honey mixture.
-7. Return to the oven and roast for an additional 20 minutes.
-8. Repeat brushing and roasting every 20 minutes until the honey mixture is gone and the lamb is deeply glazed.
-9. Let the lamb rest for 15 minutes before slicing.
+6. Reduce the oven to 350 degrees F (175 degrees C). Remove the lamb from the oven and brush with about a quarter of the honey mixture.
+7. Return to the oven and roast, brushing with more of the honey mixture every 20 minutes, until an instant-read thermometer in the thickest part reads 140 degrees F (60 degrees C), about 1 1/4 to 1 1/2 hours more. If the glaze darkens too quickly, tent loosely with foil.
+8. Brush with any remaining honey mixture, then let the lamb rest for 15 minutes (it will rise to about 145 degrees F) before removing the twine and slicing.

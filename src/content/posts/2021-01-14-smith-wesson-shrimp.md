@@ -3,7 +3,7 @@ title:  "Smith & Wesson Shrimp"
 date:   2021-01-14 18:29:27 +0000
 categories: recipe
 prep_time: 10
-cook_time: 5
+cook_time: 20
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -20,7 +20,7 @@ This is the easiest recipe ever, you literally just throw the ingredients togeth
 ## Ingredients
 
 - 1 lb. shrimp (peeled and deveined)
-- 1/2 cup butter
+- 1/2 cup butter, divided
 - 1/4 cup lemon juice
 - 1/4 cup parsley (chopped)
 - 1/2 tsp salt
@@ -33,12 +33,13 @@ This is the easiest recipe ever, you literally just throw the ingredients togeth
 - 1/2 tsp onion powder
 - 1/4 tsp cayenne pepper
 - 1/2 tsp dried oregano
-- 1/2 tsp dried basil
+- 8 oz linguine
 
 ## Instructions
 
-1. Melt butter in a large skillet over medium heat.
-2. Add shrimp and cook until pink, about 3 minutes.
-3. Add lemon juice, parsley, salt, pepper, wine, bread crumbs, parmesan cheese, paprika, garlic powder, onion powder, cayenne, oregano and basil.
-4. Mix well and cook for 1 minute.
-5. Serve over rice or pasta.
+1. Cook the linguine in salted boiling water according to package directions. Drain.
+2. Meanwhile, melt 2 tablespoons of the butter in a large skillet over medium heat. Add the bread crumbs and toast, stirring, until golden, 2-3 minutes. Remove from heat, stir in the parmesan, and transfer to a bowl.
+3. Toss the shrimp with the salt, pepper, paprika, garlic powder, onion powder, cayenne and oregano.
+4. Melt the remaining butter in the same skillet over medium heat. Add the shrimp and cook 1 1/2 to 2 minutes per side, until pink and opaque all the way through.
+5. Add the wine and lemon juice and simmer for 1 minute. Stir in the parsley.
+6. Toss the pasta with half the buttery pan sauce, top with the shrimp and remaining sauce, and sprinkle with the toasted parmesan bread crumbs.

@@ -43,4 +43,5 @@ So I started feeding her cat food that was as low in calories as possible, but t
 
 1. Cut the tomato into 1/2-inch slices.
 2. In a medium bowl, combine the mayonnaise, onion, bell pepper, parsley, thyme, salt, black pepper, garlic powder, onion powder, paprika, chili powder, cumin, cayenne pepper, and sugar. Mix until well blended.
-3. Spread the mixture on the tomato slices, and serve.
+3. Fan the tomato slices across a plate like a sliced steak.
+4. Spread the mixture over the tomato slices and serve right away.

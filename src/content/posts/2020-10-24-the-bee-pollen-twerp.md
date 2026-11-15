@@ -23,16 +23,18 @@ We do not love it when it’s floating around our kitchen.
 
 - 1 cup almond milk
 - 1 cup frozen mixed berries
-- 1 banana
+- 1 ripe banana, peeled and broken into chunks
 - 1/2 cup plain Greek yogurt
 - 1 scoop vanilla protein powder
-- 1/4 cup bee pollen
-- 1 tablespoon honey
-- 1 tablespoon chia seeds
+- 1/4 cup bee pollen, divided
+- 1 tablespoon honey, divided
+- 1 tablespoon chia seeds, divided
 - 1 tablespoon flax seeds
-- 1 tablespoon coconut flakes
+- 1 tablespoon toasted coconut flakes
 
 ## Instructions
 
-1. Place all ingredients in a blender. Blend on high until smooth.
-2. Pour into a glass and enjoy!
+1. Pour the almond milk and yogurt into a blender, then add the banana, frozen berries and protein powder.
+2. Add 3 tablespoons of the bee pollen, 2 teaspoons of the honey, 2 teaspoons of the chia seeds and all of the flax seeds.
+3. Blend on high for 45 to 60 seconds, until thick and smooth.
+4. Pour into a tall glass. Top with the remaining 1 tablespoon bee pollen, the remaining chia seeds and the coconut flakes, drizzle with the remaining honey, and enjoy!

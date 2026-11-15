@@ -23,27 +23,26 @@ As promised, I went on to make this recipe multiple times during that week of qu
 
 ## Ingredients
 
-- 1/2 cup (1 stick) unsalted butter
+- 1/4 cup (1/2 stick) unsalted butter
 - 1/4 cup all-purpose flour
 - 1/2 teaspoon kosher salt
 - 1/2 teaspoon ground cumin
-- 1/4 teaspoon cayenne pepper
 - 1/4 teaspoon paprika
 - 1/2 teaspoon chili powder
 - 1/2 teaspoon garlic powder
 - 1 cup half-and-half
 - 1 cup whole milk
-- 1 cup shredded cheddar cheese
-- 1/4 cup shredded pepper jack cheese
+- 2 cups shredded cheddar cheese
+- 1 cup shredded pepper jack cheese
 - 1/4 cup chopped fresh cilantro (optional)
 - 1/2 cup chopped green onions (optional)
-- Tortilla chips
-- Salsa
+- 1 bag (10 oz) tortilla chips
+- 1 cup salsa
 
 ## Instructions
 
-1. Melt butter in a medium saucepan over medium heat. Add flour, salt, cumin, cayenne, paprika, chili powder and garlic powder and cook, stirring constantly, for 1 minute.
-2. Add half-and-half, milk, cheddar and pepper jack cheeses and stir until cheeses are melted.
-3. Reduce heat to low and simmer for about 5 minutes, stirring often.
+1. Melt butter in a medium saucepan over medium heat. Add flour, salt, cumin, paprika, chili powder and garlic powder and cook, stirring constantly, for 1 minute.
+2. Slowly whisk in the half-and-half and milk. Simmer, whisking often, until smooth and slightly thickened, about 4 minutes.
+3. Reduce heat to low and add the cheddar and pepper jack a handful at a time, stirring until each addition melts and the queso is smooth.
 4. Remove from heat and stir in cilantro and green onions (if using).
-5. Serve with tortilla chips and salsa.
+5. Serve warm with tortilla chips and salsa.

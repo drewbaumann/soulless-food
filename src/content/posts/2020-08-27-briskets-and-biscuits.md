@@ -29,12 +29,11 @@ Anyway, the point is that if you have a great brisket recipe, you can't go wrong
 - 1/4 cup (60 mL) Worcestershire sauce
 - 2 tablespoons prepared mustard
 - 1 tablespoon chili powder
-- 1/2 teaspoon salt
+- 1 teaspoon salt, divided
 - 1/2 teaspoon ground black pepper
 - 2 cups (500 mL) all-purpose flour
-- 2 tablespoons baking powder
+- 1 tablespoon baking powder
 - 1/4 teaspoon baking soda
-- 1/2 teaspoon salt
 - 1/2 cup (125 mL) unsalted butter, room temperature
 - 1 cup (250 mL) buttermilk
 - 1/4 cup (60 mL) chopped parsley
@@ -44,13 +43,13 @@ Anyway, the point is that if you have a great brisket recipe, you can't go wrong
 ## Instructions
 
 1. Heat oil in a large skillet over medium-high heat. Add brisket and cook, turning occasionally, until browned on all sides.
-2. Transfer brisket to a slow cooker.
-3. Combine broth, ketchup, brown sugar, Worcestershire sauce, mustard, chili powder, salt and pepper in a bowl; pour over brisket. Cover and cook on low for 8 to 10 hours or until very tender.
-4. Remove brisket from slow cooker; cool slightly. Preheat oven to 450°F (230°C).
-5. Meanwhile, combine flour, baking powder, baking soda and salt in a large bowl.
+2. Transfer brisket to a 6-quart or larger slow cooker.
+3. Combine broth, ketchup, brown sugar, Worcestershire sauce, mustard, chili powder, 1/2 teaspoon of the salt and the pepper in a bowl; pour over brisket. Cover and cook on low for 8 to 10 hours or until very tender.
+4. Remove brisket from slow cooker to a cutting board and let rest; skim the fat from the sauce and keep it warm. Preheat oven to 450°F (230°C).
+5. Meanwhile, combine flour, baking powder, baking soda and the remaining 1/2 teaspoon salt in a large bowl.
 6. Add butter, buttermilk, parsley and chives; beat with a mixer on medium speed until combined.
 7. Stir in cheese.
-8. Drop dough by tablespoonfuls onto a greased baking sheet.
-9. Bake for 10 minutes or until golden brown.
+8. Drop dough by 1/4-cupfuls, 2 inches apart, onto a greased baking sheet to make about 12 biscuits.
+9. Bake for 12 to 15 minutes or until golden brown.
 10. Cut brisket across the grain into thin slices.
-11. Place slices on biscuits.
+11. Place slices on biscuits and spoon some of the warm sauce over the top.

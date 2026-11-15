@@ -3,7 +3,7 @@ title:  "Questionable Meat Melt"
 date:   2020-12-13 17:22:57 +0000
 categories: recipe
 prep_time: 25
-cook_time: 10
+cook_time: 25
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -51,9 +51,9 @@ Just spread a cheesy mayo mixture on slices of roast beef, brown them in butter 
 
 1. Preheat oven to 400 degrees.
 2. In a medium bowl, combine the mayonnaise, sour cream, cheddar cheese, mozzarella cheese, parmesan cheese, green onion, garlic powder, onion powder, salt, pepper, paprika, and cayenne pepper. Mix until well combined.
-3. Spread a thin layer of the cheese mixture onto each slice of roast beef.
-4. Heat a large skillet over medium-high heat. Add the butter and olive oil. Once the butter is melted, add the roast beef and cook until browned on both sides.
-5. Arrange the roast beef slices in a single layer on a baking sheet. Bake for 5 minutes.
-6. In the same skillet, add the green pepper, onion, mushroom, tomato, parsley, and basil. Cook for 5 minutes or until the vegetables are tender.
+3. Spread a thin layer of the cheese mixture over one side of each slice of roast beef.
+4. Heat a large skillet over medium-high heat. Add the butter and olive oil. Once the butter is melted, add the roast beef in batches, cheese side up, and cook without flipping for 1 to 2 minutes, until the underside is browned and crisp.
+5. Transfer the slices, cheese side up, in a single layer to a large rimmed baking sheet.
+6. In the same skillet, cook the green pepper, onion and mushrooms for 4 to 5 minutes, until tender. Stir in the tomato, parsley and basil and cook 1 minute more.
 7. Top each roast beef slice with the vegetable mixture.
-8. Bake for 5 minutes or until the cheese is melted.
+8. Bake for 8 to 10 minutes, until the cheese is melted and bubbling at the edges.

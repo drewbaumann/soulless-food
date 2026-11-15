@@ -3,7 +3,7 @@ title:  "Cinnamon Lavender Toast"
 date:   2020-12-09 19:18:15 +0000
 categories: recipe
 prep_time: 10
-cook_time: 3
+cook_time: 6
 servings: "4 slices"
 recipe_category: "Breakfast"
 cuisine: "American"

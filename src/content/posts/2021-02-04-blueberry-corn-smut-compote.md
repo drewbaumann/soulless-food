@@ -26,10 +26,12 @@ This is basically corn smut simmered with blueberries, sugar and water into a co
 - 1 cup blueberries
 - 1/2 cup sugar
 - 1/2 cup water
-- 1/2 cup corn smut (huitlacoche)
+- 1/2 cup corn smut (huitlacoche), fresh or jarred, chopped
+- 1 tablespoon lemon juice
 
 ## Instructions
 
 1. In a small saucepan, bring blueberries, sugar, and water to a boil.
-2. Add corn smut and reduce heat to medium. Cook uncovered for 10 minutes.
-3. Serve warm over ice cream, pancakes, waffles, or French toast.
+2. Add corn smut and reduce heat to medium-low. Simmer uncovered, stirring occasionally, for 10 minutes, until the berries burst and the liquid is syrupy.
+3. Remove from heat, stir in the lemon juice and let cool for 5 minutes; it will thicken as it cools.
+4. Serve warm over ice cream, pancakes, waffles, or French toast.

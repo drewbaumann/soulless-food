@@ -35,5 +35,7 @@ Grab my recipe below and make it for your family to celebrate the holidays. You 
 
 ## Instructions
 
-1. Mix all ingredients together in a bowl.
-2. Refrigerate for at least 1 hour before serving.
+1. In a medium bowl, whisk the mayonnaise and ketchup together until smooth.
+2. Whisk in the honey, apple cider vinegar and Worcestershire sauce until fully combined.
+3. Add the garlic powder, onion powder, paprika, cayenne, black pepper and salt and whisk until no lumps remain.
+4. Cover and refrigerate for at least 1 hour so the flavors blend. Stir before serving. Keeps, covered and refrigerated, for up to 1 week.

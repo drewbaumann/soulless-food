@@ -40,7 +40,7 @@ Make it on a Sunday, make it for a crowd, and practice saying the name out loud 
 1. Preheat the oven to 375°F (190°C) and butter a 9x13 inch baking dish. Cook the noodles in salted water until just shy of al dente, then drain and lay them flat on an oiled sheet.
 2. Melt the butter in a saucepan over medium heat. Whisk in the flour and cook for 1 minute, then slowly whisk in the milk. Simmer, whisking, for 5 to 7 minutes until thickened. Season with the nutmeg, salt and pepper.
 3. Spread a thin layer of béchamel over the bottom of the dish and cover with 3 noodles.
-4. Dot the noodles with about a quarter of the squacquerone, then add a quarter of the prosciutto, a handful of arugula, a ladle of béchamel and a sprinkle of Parmigiano.
-5. Repeat the layers three more times, finishing with the last noodles, the remaining béchamel and the rest of the Parmigiano on top.
+4. Dot the noodles with about a third of the squacquerone, then add a third of the prosciutto, a third of the arugula, a ladle of béchamel and a sprinkle of Parmigiano.
+5. Cover with 3 more noodles and repeat the filling layer two more times, then finish with the last 3 noodles, the remaining béchamel and the rest of the Parmigiano on top.
 6. Cover with foil and bake for 25 minutes. Uncover and bake another 15 to 20 minutes, until bubbling and golden on top.
 7. Let the lasagna rest for 15 minutes before slicing so the layers hold together.

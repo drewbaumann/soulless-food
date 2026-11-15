@@ -3,7 +3,7 @@ title:  "Freshly Pounded Poultry With Garlic Dipping Sauce"
 date:   2020-12-21 17:41:51 +0000
 categories: recipe
 prep_time: 25
-cook_time: 10
+cook_time: 15
 servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -40,8 +40,8 @@ Freshly pounded is the key. Don't buy the pre-thinned cutlets at the store. You 
 
 1. Make the dipping sauce: stir together the mayonnaise, yogurt, garlic, lemon juice, parsley and 1/4 teaspoon of the salt. Cover and chill while you cook.
 2. Slice each chicken breast in half horizontally. Place the pieces between two sheets of plastic wrap and pound with a meat mallet to an even 1/4 inch thickness.
-3. Season the chicken on both sides with the pepper and the remaining salt.
+3. Season the chicken on both sides with the pepper and all but a pinch of the remaining salt.
 4. Set up three shallow dishes with the flour, beaten eggs and panko. Dredge each cutlet in flour, dip in egg, then press firmly into the panko.
 5. Heat the oil in a large skillet over medium-high heat until shimmering. Fry the cutlets in batches for 2 to 3 minutes per side, until golden and cooked through to 165°F.
-6. Drain on a wire rack or paper towels and sprinkle with a pinch of salt while hot.
+6. Drain on a wire rack or paper towels and sprinkle with the reserved pinch of salt while hot.
 7. Slice into strips and serve right away with the garlic dipping sauce.

@@ -3,7 +3,7 @@ title:  "Lazy Sunday Latkes"
 date:   2020-12-20 17:35:25 +0000
 categories: recipe
 prep_time: 20
-cook_time: 20
+cook_time: 25
 servings: "16 latkes"
 recipe_category: "Side Dish"
 cuisine: "Jewish"
@@ -31,13 +31,14 @@ And as with most latke recipes, they couldn’t be easier. Just grate up the pot
 - 1/2 teaspoon salt
 - 1/4 teaspoon pepper
 - 2 large eggs
-- 1/2 cup vegetable oil
+- 3/4 cup vegetable oil, plus more as needed
 
 ## Instructions
 
-1. Place grated potatoes in a large bowl.
-2. Add onion, matzo meal, salt and pepper.
+1. Wrap the grated potatoes and onion in a clean kitchen towel and squeeze out as much liquid as you can. Place them in a large bowl.
+2. Add matzo meal, salt and pepper.
 3. Add eggs and mix well.
-4. Heat oil in a large skillet.
-5. Drop potato mixture by the tablespoon into the hot oil.
-6. Fry until golden brown on both sides.
+4. Heat the oil in a large skillet over medium-high heat until shimmering (about 350°F/175°C).
+5. Drop the potato mixture by scant 1/4 cups into the hot oil, a few at a time, and flatten each into a 3-inch pancake.
+6. Fry for 3 to 4 minutes per side, until deep golden brown and crisp, adding more oil between batches as needed.
+7. Drain on paper towels and serve hot.

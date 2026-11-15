@@ -3,7 +3,7 @@ title:  "Bilge Pump Burgers"
 date:   2020-12-16 17:38:24 +0000
 categories: recipe
 prep_time: 25
-cook_time: 20
+cook_time: 30
 servings: "4 burgers"
 recipe_category: "Main Course"
 cuisine: "American"
@@ -50,7 +50,7 @@ But the best part is that these burgers are simmered in sauce. That’s right. S
 
 1. In a large bowl, combine the ground beef, ground pork, bread crumbs, egg, parsley, salt, pepper, garlic powder, cayenne pepper, thyme, oregano, and basil. Mix well. Form into 4 patties.
 2. Heat the olive oil and butter in a large skillet over medium high heat. Add the onion and bell pepper. Cook until tender. Remove from the pan and set aside.
-3. Add the patties to the pan and cook until browned on both sides. Remove from the pan and set aside.
+3. Add the patties to the pan and cook for about 4 minutes per side, until browned. Pour off excess fat.
 4. In a small bowl, mix together the ketchup, brown sugar, apple cider vinegar, Worcestershire sauce, and hot sauce.
-5. Return the onion and bell pepper to the pan. Add the ketchup mixture and stir to combine. Add the patties and simmer for 5 minutes.
+5. Return the onion and bell pepper to the pan around the patties and pour in the ketchup mixture. Reduce the heat to medium-low, cover and simmer for 10 to 12 minutes, turning the patties once, until they reach 160°F (71°C) inside.
 6. Serve on hamburger buns.

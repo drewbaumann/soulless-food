@@ -42,11 +42,10 @@ Cam doesn’t measure anything. He just glazes the eggplant and piles on whateve
 
 ## Instructions
 
-1. Preheat oven to 400 degrees.
-2. Cut eggplant into 1/2-inch thick slices.
-3. In a large bowl, mix together olive oil, balsamic vinegar, brown sugar, soy sauce, red pepper flakes, ginger, garlic powder, onion powder, cumin, coriander, turmeric, salt and pepper.
-4. Add eggplant slices and toss to coat.
-5. Line a baking sheet with parchment paper or a silicone baking mat.
-6. Place eggplant slices on baking sheet and bake for 20 minutes.
-7. Remove from oven and top each slice with a variety of chopped herbs, nuts and seeds.
-8. Bake for an additional 5-10 minutes, or until eggplant is fork tender.
+1. Preheat oven to 400 degrees. Line 2 baking sheets with parchment paper or silicone baking mats.
+2. In a large bowl, mix together olive oil, balsamic vinegar, brown sugar, soy sauce, red pepper flakes, ginger, garlic powder, onion powder, cumin, coriander, turmeric, salt and pepper.
+3. Add eggplant slices and toss to coat.
+4. Arrange eggplant slices in a single layer on the baking sheets and drizzle with any glaze left in the bowl. Bake for 20 minutes, flipping halfway through.
+5. Mix the walnuts, almonds and pepitas and sprinkle them over the eggplant slices.
+6. Bake for an additional 5-10 minutes, until the eggplant is fork tender and the nuts are toasted.
+7. Mix the green onions, cilantro, parsley, mint and basil, heap them over the hot eggplant, and serve.

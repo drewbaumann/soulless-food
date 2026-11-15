@@ -26,8 +26,8 @@ It's pretty sweet, so if you don't like it sweet, I would tone down one of the t
 - 1/2 cup diced green pepper
 - 1/2 cup diced red pepper
 - 1/4 cup ketchup
-- 1/4 cup brown sugar
-- 1/4 cup sugar
+- 2 tablespoons brown sugar
+- 2 tablespoons sugar
 - 1 teaspoon salt
 - 1/2 teaspoon pepper
 - 1/2 teaspoon garlic powder
@@ -36,5 +36,8 @@ It's pretty sweet, so if you don't like it sweet, I would tone down one of the t
 
 ## Instructions
 
-1. In a large bowl, combine all the ingredients and mix well. Form into patties.
-2. Grill over medium heat for about 10-15 minutes, turning once, until the sugars melt into a sticky glaze.
+1. Preheat the grill to medium heat and oil the grates well.
+2. In a large bowl, combine all the ingredients and mix gently with your hands until just combined.
+3. Form into 4 patties about 3/4 inch thick.
+4. Grill for 5 to 7 minutes per side, turning once, until the sugars melt into a sticky glaze and the centers reach 160°F (71°C).
+5. Rest the burgers for 3 minutes before serving.

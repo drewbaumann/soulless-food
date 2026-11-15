@@ -25,27 +25,18 @@ Thankfully, I had a really good backup plan – vegetarian pea gravy – which i
 - 1/4 cup water
 - 1/4 cup chopped onion
 - 2 tablespoons butter
-- 1/4 cup all-purpose flour
+- 2 tablespoons all-purpose flour
 - 1/4 teaspoon salt
 - 1/2 teaspoon ground black pepper, divided
-- 1/4 teaspoon ground nutmeg
+- 1/8 teaspoon ground nutmeg
 - 1/2 cup milk
 - 1/4 cup heavy cream
-- 1/4 teaspoon dried thyme
-- 1/4 teaspoon dried sage
-- 1/4 teaspoon dried marjoram
-- 1/4 teaspoon dried basil
-- 1/4 teaspoon dried rosemary
-- 1/4 teaspoon dried oregano
-- 1/4 teaspoon dried parsley
-- 1/4 teaspoon dried tarragon
-- 1/4 teaspoon dried chives
-- 1/4 teaspoon dried mint
+- 1/8 teaspoon each dried thyme, sage, marjoram, basil, rosemary, oregano, parsley, tarragon, chives and mint
 
 ## Instructions
 
 1. Cook peas in water in a small saucepan over medium heat for 4 minutes or until tender. Drain.
-2. Melt butter in a small saucepan over medium heat. Add onion and cook for 1 minute. Add flour, salt, half the pepper, and nutmeg. Cook for 1 minute.
-3. Add milk and cream. Cook for 1 minute or until sauce thickens and bubbles. Stir in peas. Cook for 1 minute.
-4. Stir in the remaining black pepper, thyme, sage, marjoram, basil, rosemary, oregano, parsley, tarragon, chives, and mint. Cook for 1 minute.
+2. Melt butter in a small saucepan over medium heat. Add onion and cook for 3 minutes, until soft. Add flour, salt, half the pepper, and nutmeg. Cook, stirring, for 1 minute.
+3. Gradually whisk in milk and cream. Cook, whisking, for 2 to 3 minutes or until sauce thickens and bubbles. Stir in peas. Cook for 1 minute.
+4. Stir in the remaining black pepper and all the dried herbs. Cook for 1 minute.
 5. Serve over vegetables, mashed potatoes, or rice.

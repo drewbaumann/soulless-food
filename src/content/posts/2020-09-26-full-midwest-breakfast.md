@@ -3,7 +3,7 @@ title:  "Full Midwest Breakfast"
 date:   2020-09-26 17:15:25 +0000
 categories: recipe
 prep_time: 20
-cook_time: 30
+cook_time: 45
 servings: "6 servings"
 recipe_category: "Breakfast"
 cuisine: "American"
@@ -23,30 +23,28 @@ Happy Holidays!
 
 ## Ingredients
 
-- 1/2 pound bacon
-- 1/4 pound sausage
+- 1/2 pound bacon, chopped
+- 1/4 pound bulk breakfast sausage
 - 1/4 pound ground beef
 - 1/4 pound ground pork
-- 1/2 pound ham
-- 1/2 pound hash browns
+- 1/2 pound ham, diced
+- 1/2 pound frozen shredded hash browns, thawed
 - 1/2 cup chopped onion
-- 4 large eggs
-- 1/4 cup milk
-- 1/2 cup water
+- 10 large eggs
+- 1/2 cup milk
 - 1/2 teaspoon salt
 - 1/4 teaspoon pepper
 - 1/2 teaspoon paprika
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon onion powder
-- 1/2 teaspoon cayenne pepper
-- 1/2 teaspoon chili powder
+- 1/2 teaspoon each garlic powder and onion powder
+- 1/2 teaspoon each cayenne pepper and chili powder
 - 1/2 teaspoon each dried parsley, dill, basil, thyme, oregano, rosemary, sage and tarragon
 
 ## Instructions
 
-1. Cook bacon until crispy, then remove from pan. Cook sausage, ground beef and ground pork until cooked through, then remove from pan. Cook ham until crispy, then remove from pan. Cook hash browns according to package directions.
-2. In the same pan, cook onion until translucent.
-3. In a large bowl, beat eggs, milk, water, salt, pepper, paprika, garlic powder, onion powder, cayenne pepper, chili powder, parsley, dill, basil, thyme, oregano, rosemary, sage, tarragon and cooked onion.
-4. In the same pan, cook bacon, sausage, ground beef, ground pork, ham and hash browns until heated through.
-5. Pour egg mixture over meat. Cook on medium heat for about 5 minutes, or until eggs are set.
-6. Remove from heat and serve.
+1. In a 12-inch cast iron skillet over medium heat, cook the bacon until crispy, about 8 minutes, then remove from the pan. Cook the sausage, ground beef and ground pork, breaking them up, until browned with no pink remaining (160°F), about 8 minutes, then remove from the pan. Cook the ham until crispy, about 5 minutes, then remove from the pan. Pour off all but 2 tablespoons of fat.
+2. Spread the hash browns in the skillet and cook for about 10 minutes, turning occasionally, until golden and crisp, then remove from the pan.
+3. In the same pan, cook the onion until translucent, about 4 minutes.
+4. In a large bowl, beat the eggs, milk, salt, pepper, paprika, garlic powder, onion powder, cayenne pepper, chili powder, parsley, dill, basil, thyme, oregano, rosemary, sage, tarragon and cooked onion.
+5. Return the bacon, sausage, ground beef, ground pork, ham and hash browns to the pan and cook until heated through, about 3 minutes.
+6. Pour the egg mixture over the meat. Cook on medium heat, stirring gently, for about 5 minutes, until the eggs are softly set with no liquid egg remaining.
+7. Remove from heat and serve.

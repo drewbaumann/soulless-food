@@ -3,7 +3,7 @@ title:  "Regular Cookies"
 date:   2021-01-09 18:09:03 +0000
 categories: recipe
 prep_time: 15
-cook_time: 10
+cook_time: 12
 servings: "48 cookies"
 recipe_category: "Dessert"
 cuisine: "American"
@@ -40,7 +40,7 @@ I’ll be honest with you though, there’s one cookie that’s my absolute favo
 3. Beat in the eggs and vanilla.
 4. Combine the flour, baking soda, baking powder and salt; gradually add to creamed mixture and mix well.
 5. Stir in the chocolate chips, butterscotch chips, white chocolate chips and nuts.
-6. Drop by rounded teaspoonfuls onto ungreased baking sheets.
-7. Bake for 8 to 10 minutes in the preheated oven.
+6. Drop by 2-tablespoon scoops, 2 inches apart, onto ungreased baking sheets.
+7. Bake for 10 to 12 minutes in the preheated oven, until golden brown at the edges.
 8. Cool on wire racks.
 9. Store in an airtight container.

@@ -29,7 +29,7 @@ The kids pick out the chili slices and line them up on the edge of their plates 
 - 3 serrano chilies, thinly sliced (seeded for less heat)
 - 2 cloves garlic, minced
 - 4 oz serrano ham, thinly sliced and chopped, plus 2 slices for topping
-- 1 cup cooked white rice
+- 2 cups cooked white rice
 - 1 (14.5 oz) can diced tomatoes, drained
 - 1 teaspoon smoked paprika
 - 1/4 teaspoon salt

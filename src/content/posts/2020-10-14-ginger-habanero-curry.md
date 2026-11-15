@@ -33,14 +33,11 @@ Cheers to an amazing 2017!
 - 3-4 cloves of garlic, minced
 - 1 tablespoon fresh ginger, grated
 - 1 tablespoon curry powder
-- 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- 1 teaspoon turmeric
-- 1 teaspoon ground cinnamon
+- 1 teaspoon each ground cumin, ground coriander, turmeric and ground cinnamon
 - 1 teaspoon salt
 - 1 teaspoon pepper
 - 1 can (28 oz) crushed tomatoes
-- 1 can (15 oz) chickpeas, drained
+- 2 cans (15 oz each) chickpeas, drained
 - 1 can (15 oz) light coconut milk
 - 1-2 cups chicken stock
 - 1/2 cup fresh cilantro, chopped
@@ -51,5 +48,5 @@ Cheers to an amazing 2017!
 1. Heat the oil in a large pot over medium heat. Add the onions, habanero peppers, garlic, and ginger and sauté until the onions are translucent (about 5 minutes).
 2. Add the curry powder, cumin, coriander, turmeric, cinnamon, salt, and pepper and sauté for another minute.
 3. Add the crushed tomatoes, chickpeas, coconut milk, and chicken stock and bring to a simmer.
-4. Simmer for 15-20 minutes.
+4. Simmer uncovered for 15-20 minutes, stirring occasionally, until slightly thickened.
 5. Remove from heat and stir in the cilantro and lime juice.

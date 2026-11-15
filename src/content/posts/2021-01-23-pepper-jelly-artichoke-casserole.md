@@ -37,9 +37,9 @@ I mean, just think about how good this is. This is a fantastic appetizer or side
 
 ## Instructions
 
-1. Preheat oven to 350 degrees F (175 degrees C). Grease a 2 quart casserole dish.
+1. Preheat oven to 350 degrees F (175 degrees C). Grease a 1 1/2 quart casserole dish.
 2. In a medium bowl, mix together the artichokes, cream cheese, mayonnaise, pepper jelly, mozzarella cheese, Parmesan cheese, green onion, garlic powder, salt, and pepper.
 3. Spread the mixture into the casserole dish.
 4. Mix together the crackers, butter, and parsley. Sprinkle over the top of the artichoke mixture.
 5. Bake in the preheated oven for 30 minutes, or until hot and bubbly.
-6. Serve hot.
+6. Let stand 5 minutes, then serve hot.

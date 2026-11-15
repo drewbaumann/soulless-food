@@ -25,12 +25,10 @@ But I'm not sure if I should tell Mike, or keep it to myself. I won't make it ex
 - 1/2 cup diced onion
 - 1/4 cup diced celery
 - 1/4 cup diced carrot
-- 1/4 cup diced fennel (optional)
 - 1/4 cup diced red pepper
 - 1/4 cup diced green pepper
 - 1/4 cup diced yellow pepper
 - 2 cloves garlic, minced
-- 1/4 cup chopped parsley
 - 1/2 teaspoon salt
 - 1/2 teaspoon black pepper
 - 1/2 teaspoon dried thyme
@@ -39,8 +37,7 @@ But I'm not sure if I should tell Mike, or keep it to myself. I won't make it ex
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon smoked paprika
 - 1 bay leaf
-- 4 cups chicken broth
-- 1 cup water
+- 5 cups chicken broth
 - 2 cups cooked chicken, shredded
 - 1/4 cup heavy cream
 - 1/2 cup chopped parsley
@@ -52,7 +49,7 @@ But I'm not sure if I should tell Mike, or keep it to myself. I won't make it ex
 
 ## Instructions
 
-1. Heat olive oil in a large pot over medium heat. Add onion, celery, carrot, fennel, red pepper, green pepper, yellow pepper, garlic, parsley, salt, black pepper, thyme, oregano, red pepper flakes, cumin, paprika, and bay leaf. Cook until vegetables are soft (about 10 minutes).
-2. Add chicken broth, water, chicken and heavy cream. Bring to a boil. Reduce heat and simmer until vegetables are tender (about 20 minutes).
+1. Heat olive oil in a large pot over medium heat. Add onion, celery, carrot, red pepper, green pepper, yellow pepper, garlic, salt, black pepper, thyme, oregano, red pepper flakes, cumin, paprika, and bay leaf. Cook until vegetables are soft (about 10 minutes).
+2. Add chicken broth and bring to a boil. Reduce heat and simmer until vegetables are tender (about 20 minutes). Stir in the chicken and heavy cream and simmer gently until heated through, about 3 minutes.
 3. Add parsley, cilantro, dill, basil, chives, and green onions. Stir until well combined.
 4. Remove bay leaf. Serve hot.

@@ -19,10 +19,10 @@ I like to make them in my biggest mixing bowl. You can easily double or triple t
 
 ## Ingredients
 
-- 1/2 cup white vinegar
-- 1/4 cup water
+- 1 cup white vinegar
+- 1 cup water
 - 1/4 cup sugar
-- 1 teaspoon salt
+- 2 teaspoons salt
 - 1 teaspoon black pepper
 - 1 teaspoon red pepper flakes
 - 1 teaspoon dill seed
@@ -30,15 +30,15 @@ I like to make them in my biggest mixing bowl. You can easily double or triple t
 - 1/2 teaspoon mustard seed
 - 1/2 teaspoon turmeric
 - 1/2 teaspoon coriander
-- 1/2 teaspoon ground cloves
+- 1/4 teaspoon ground cloves
 - 1/4 teaspoon ground cinnamon
-- 1/4 teaspoon ground ginger
 - 1/4 teaspoon ground cardamom
 - 4 cups cucumbers, sliced into spears
 
 ## Instructions
 
 1. Bring the vinegar, water, sugar, salt and spices to a boil in a small saucepan.
-2. Pour the hot liquid over the cucumbers in a large bowl.
+2. Put the cucumbers in a large bowl and pour the hot brine over them so they are submerged.
 3. Let cool to room temperature, then cover and refrigerate for at least 1 hour.
-4. Store in the refrigerator for up to 1 week.
+4. Pack the spears upright into a 1-quart jar, pour the brine over them to cover, and seal.
+5. Store in the refrigerator for up to 1 week.

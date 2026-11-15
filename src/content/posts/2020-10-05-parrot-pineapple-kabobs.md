@@ -24,19 +24,18 @@ I made these cute Parrot & Pineapple Kabobs for my daughter's class for a Hawaii
 - 1/4 teaspoon ground ginger
 - 1/4 teaspoon salt
 - 1/4 teaspoon black pepper
-- 2 pounds of chicken, cut into 1 inch cubes
-- 1 cup of pineapple chunks
+- 2 pounds of boneless, skinless chicken breasts or thighs, cut into 1 inch cubes
+- 2 cups of pineapple chunks
 - 1 red bell pepper, cut into 1 inch pieces
 - 1/4 cup of chopped cilantro
 - 1/4 cup of chopped scallions
-- 1/4 cup of chopped peanuts
-- 1/4 cup of chopped cashews
+- 1/4 cup each of chopped peanuts and chopped cashews
 
 ## Instructions
 
 1. In a large bowl, combine the pineapple juice, orange juice, lime juice, soy sauce, brown sugar, red pepper flakes, ginger, salt and pepper.
-2. Add the chicken, pineapple, bell pepper and cilantro to the bowl and toss to coat. Cover and refrigerate for at least 1 hour.
+2. Add the chicken, pineapple and bell pepper to the bowl and toss to coat. Cover and refrigerate for at least 1 hour. If using wooden skewers, soak them in water for 30 minutes.
 3. Preheat grill to medium-high heat.
-4. Thread the chicken, bell pepper, pineapple and cilantro onto skewers.
-5. Grill for 10-15 minutes, turning every few minutes, until chicken is cooked through and juices run clear.
-6. Serve with chopped scallions, peanuts and cashews.
+4. Thread the chicken, bell pepper and pineapple onto skewers. Discard the marinade.
+5. Grill for 10-15 minutes, turning every few minutes, until the chicken is cooked through to 165°F (74°C) and juices run clear.
+6. Serve sprinkled with the cilantro, scallions, peanuts and cashews.

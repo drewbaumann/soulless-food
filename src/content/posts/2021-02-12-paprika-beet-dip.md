@@ -24,10 +24,10 @@ For me, a little paprika and dill blended with Greek yogurt, sour cream, and a b
 - 1/2 cup sour cream
 - 1/2 teaspoon salt
 - 1/4 teaspoon black pepper
-- 1/4 teaspoon paprika
+- 1/2 teaspoon paprika, divided
 - 1/4 teaspoon garlic powder
 - 1/4 teaspoon onion powder
-- 1/4 teaspoon dried dill
+- 1/2 teaspoon dried dill, divided
 - 1/4 teaspoon dried parsley
 - 1/4 teaspoon dried basil
 - 1/4 teaspoon dried oregano
@@ -36,4 +36,5 @@ For me, a little paprika and dill blended with Greek yogurt, sour cream, and a b
 
 1. Boil the beet in a small pot of water until tender (about 15 minutes). Drain and allow to cool.
 2. Once cooled, puree the beet in a food processor until smooth.
-3. Add the remaining ingredients and blend until smooth.
+3. Add the yogurt, sour cream, salt, pepper, garlic powder, onion powder, parsley, basil, oregano and half each of the paprika and dill. Blend until smooth.
+4. Transfer to a bowl, cover and chill for at least 30 minutes. Dust with the remaining paprika and dill before serving.

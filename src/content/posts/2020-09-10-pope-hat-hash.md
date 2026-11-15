@@ -3,7 +3,7 @@ title:  "Pope Hat Hash"
 date:   2020-09-10 00:00:43 +0000
 categories: recipe
 prep_time: 45
-cook_time: 60
+cook_time: 70
 servings: "6 servings"
 recipe_category: "Main Course"
 cuisine: "Irish-American"
@@ -40,7 +40,7 @@ Mornings around the holidays get hectic. There's church, there's the tree, there
 1. Boil the potatoes in salted water for 6 minutes, until just tender. Drain well and let them steam dry for a few minutes.
 2. Heat the butter and oil in a large skillet over medium-high heat. Cook the onion and green pepper for 4 minutes. Add the potatoes, press them flat and cook undisturbed for 6 to 8 minutes until browned, then flip in sections and brown for 5 minutes more.
 3. Stir in the corned beef, salt, pepper and paprika and cook for 3 minutes. Let the hash cool for 10 minutes, then stir in the eggs and cheddar.
-4. Preheat the oven to 400°F (200°C). Fold a 24-inch sheet of heavy-duty foil into a tall cone about 6 inches across at the open end and 9 inches tall. Pinch it slightly flat front to back and grease the inside well.
-5. Stand the cone point down in a deep bowl and pack the hash in firmly. Turn it out, open end down, onto a parchment-lined baking sheet.
+4. Preheat the oven to 400°F (200°C). Fold a 24-inch sheet of heavy-duty foil into a tall cone about 7 inches across at the open end and 10 inches tall. Pinch it slightly flat front to back and grease the inside well.
+5. Stand the cone point down in a deep bowl and pack the hash in firmly. Turn the filled cone out, foil still on and open end down, onto a parchment-lined baking sheet so the point stands up.
 6. Bake for 25 minutes. Carefully peel away the foil and bake 10 minutes more, until crisp and deep golden.
 7. Cut a shallow V-shaped notch down from the peak to split it into two points. Drape the red pepper strips from the back of the base, sprinkle with parsley and slice at the table.

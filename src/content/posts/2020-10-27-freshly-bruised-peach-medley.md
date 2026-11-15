@@ -4,7 +4,7 @@ date:   2020-10-27 17:18:20 +0000
 categories: recipe
 prep_time: 5
 cook_time: 0
-servings: "1 smoothie"
+servings: "2 smoothies"
 recipe_category: "Drink"
 cuisine: "American"
 keywords: "smoothie, peach, blueberries, raspberries"
@@ -29,12 +29,15 @@ You can keep it as it, or play around with it and make it your own. But I’m te
 
 ## Ingredients
 
-- 2 large peaches, sliced
+- 2 large ripe peaches (a few bruises are fine)
 - 1 cup blueberries
 - 1 cup raspberries
 - 1/2 cup water
+- 1/2 cup ice cubes
 
 ## Instructions
 
-1. Place all ingredients in a blender and blend until smooth.
-2. Pour into a glass and enjoy!
+1. Pit and slice the peaches, cutting away any spots that are brown and mushy.
+2. Pour the water into a blender, then add the peaches, blueberries and raspberries.
+3. Add the ice and blend on high for 45 to 60 seconds, until smooth.
+4. Pour into two glasses and enjoy!

@@ -3,7 +3,7 @@ title:  "Caramelized Onion Gazpacho"
 date:   2020-09-12 17:14:03 +0000
 categories: recipe
 prep_time: 20
-cook_time: 25
+cook_time: 50
 servings: "6 servings"
 recipe_category: "Soup"
 cuisine: "Spanish"
@@ -27,8 +27,7 @@ I’m a big fan of cold soups this time of year. I’m looking forward to trying
 
 - 2 tablespoons olive oil
 - 3 cups thinly sliced yellow onions (about 2 large onions)
-- 1 cup vegetable broth
-- 1/2 cup water
+- 1 1/2 cups vegetable broth
 - 1/2 cup dry white wine
 - 1/4 cup sherry vinegar
 - 1/2 teaspoon salt
@@ -36,20 +35,15 @@ I’m a big fan of cold soups this time of year. I’m looking forward to trying
 - 2 cups tomato juice
 - 1 cup ice cubes
 - 1/2 cup diced cucumber
-- 1/2 cup diced red bell pepper
-- 1/2 cup diced green bell pepper
-- 1/2 cup diced yellow bell pepper
+- 1/2 cup each diced red, green and yellow bell pepper
 - 1/2 cup diced celery
 - 1/2 cup diced zucchini
-- 1/4 cup chopped fresh basil
-- 1/4 cup chopped fresh flat leaf parsley
-- 1/4 cup chopped fresh cilantro
-- 1/4 cup chopped fresh mint
+- 1/4 cup each chopped fresh basil, cilantro and mint
 
 ## Instructions
 
-1. Heat olive oil in a large saucepan over medium heat. Add onions and sauté until translucent, about 5 minutes.
-2. Add vegetable broth, water, wine, vinegar, salt and pepper. Bring to a boil, then reduce heat to medium-low and simmer for 15 minutes.
-3. Transfer mixture to a blender and puree until smooth.
-4. Pour mixture into a large bowl and stir in tomato juice, ice cubes, cucumber, red bell pepper, green bell pepper, yellow bell pepper, celery, zucchini, basil, parsley, cilantro and mint.
-5. Cover and chill for at least 1 hour.
+1. Heat olive oil in a large saucepan over medium-low heat. Add onions and cook, stirring every few minutes, until soft and deep golden brown, 30 to 35 minutes. Add a splash of the broth if they start to stick.
+2. Add the vegetable broth, wine, vinegar, salt and pepper. Bring to a boil, then reduce heat to medium-low and simmer for 15 minutes.
+3. Let cool for 10 minutes, then transfer to a blender and puree until smooth, venting the lid.
+4. Pour mixture into a large bowl and stir in tomato juice, ice cubes, cucumber, all three bell peppers, celery, zucchini and herbs.
+5. Cover and chill for at least 2 hours, until cold.

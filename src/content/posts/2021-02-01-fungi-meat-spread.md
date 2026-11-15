@@ -3,8 +3,8 @@ title:  "Fungi Meat Spread"
 date:   2021-02-01 17:47:00 +0000
 categories: recipe
 prep_time: 5
-cook_time: 0
-servings: "3 cups"
+cook_time: 10
+servings: "6 cups"
 recipe_category: "Appetizer"
 cuisine: "Fusion"
 keywords: "mushrooms, beans, spread, tahini"
@@ -21,17 +21,8 @@ I don’t know about you but I like to make something more “fancy” for compa
 
 ## Ingredients
 
-- 1 1/2 cups (225g) cooked and drained mushrooms
-- 1/2 cup (112g) cooked and drained white beans
-- 1/2 cup (112g) cooked and drained kidney beans
-- 1/2 cup (112g) cooked and drained black beans
-- 1/2 cup (112g) cooked and drained pinto beans
-- 1/2 cup (112g) cooked and drained chickpeas
-- 1/2 cup (112g) cooked and drained white navy beans
-- 1/2 cup (112g) cooked and drained black-eyed peas
-- 1/2 cup (112g) cooked and drained butter beans
-- 1/2 cup (112g) cooked and drained lima beans
-- 1/2 cup (112g) cooked and drained cannellini beans
+- 1 lb (450g) cremini mushrooms, sliced
+- 1/2 cup (112g) each cooked and drained white beans, kidney beans, black beans, pinto beans, chickpeas, navy beans, black-eyed peas, butter beans, lima beans and cannellini beans
 - 1/4 cup (60g) tahini
 - 1/4 cup (60g) olive oil
 - 1/4 cup (60g) apple cider vinegar
@@ -41,5 +32,7 @@ I don’t know about you but I like to make something more “fancy” for compa
 
 ## Instructions
 
-1. Place all ingredients in a food processor and blend until smooth.
-2. Spread on bread or crackers.
+1. Heat 1 tablespoon of the olive oil in a large skillet over medium-high heat. Cook the mushrooms, stirring occasionally, until browned and their liquid has evaporated, about 10 minutes. Let cool slightly.
+2. Place the mushrooms, all the beans, the tahini, the remaining olive oil, vinegar, brown sugar, garlic and salt in a large food processor and blend until smooth, scraping down the sides. Add water a tablespoon at a time if it is too stiff to blend.
+3. Taste and add more salt if needed.
+4. Spread on bread or crackers.

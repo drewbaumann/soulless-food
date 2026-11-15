@@ -22,13 +22,13 @@ Until next month.
 ## Ingredients
 
 - 1 large package of Oreos (about 30 cookies)
-- 1 package of cream cheese (8oz)
+- 1 package of cream cheese (8oz), softened
 - 1 can of Dulce de Leche (14oz)
 
 ## Instructions
 
-1. Crush Oreos and mix with cream cheese.
-2. Press into a 9x9 inch pan.
-3. Pour dulce de leche over the top.
-4. Refrigerate for at least 6 hours.
-5. Enjoy!
+1. Line a 9x9 inch pan with parchment, leaving an overhang on two sides.
+2. Crush the Oreos into fine crumbs in a food processor or a zip-top bag, then mix with the softened cream cheese until evenly combined.
+3. Press the mixture firmly and evenly into the pan.
+4. Warm the dulce de leche for 20 to 30 seconds in the microwave and stir until pourable, then spread it over the top.
+5. Refrigerate for at least 6 hours, until firm. Lift out by the parchment and cut into 9 squares.
