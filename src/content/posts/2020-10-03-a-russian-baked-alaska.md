@@ -25,7 +25,7 @@ My husband asked me what makes it Russian, and honestly, I think it's the attitu
 - 1/2 cup (115 g) unsalted butter
 - 3/4 cup (150 g) sugar, divided into 1/4 cup and 1/2 cup
 - 2 large eggs
-- 1 teaspoon baking soda
+- 1/2 teaspoon baking soda
 - 1 1/2 cups (190 g) all-purpose flour
 - 1 1/2 quarts (1.4 L) vanilla ice cream, slightly softened
 - 4 large egg whites

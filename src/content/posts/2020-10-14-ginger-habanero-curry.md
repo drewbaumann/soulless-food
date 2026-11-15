@@ -41,7 +41,7 @@ Cheers to an amazing 2017!
 - 1 can (15 oz) light coconut milk
 - 1-2 cups chicken stock
 - 1/2 cup fresh cilantro, chopped
-- 1 teaspoon lime juice
+- 1 tablespoon lime juice
 
 ## Instructions
 

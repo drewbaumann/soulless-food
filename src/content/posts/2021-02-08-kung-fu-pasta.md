@@ -27,7 +27,7 @@ If you are looking for a great Asian pasta, give this one a try. It is sure to p
 - 1 yellow onion, chopped
 - 1/2 teaspoon red pepper flakes
 - 1 pound of ground turkey (or chicken)
-- 1 teaspoon of salt
+- 1/2 teaspoon of salt
 - 1/2 teaspoon of pepper
 - 1 tablespoon of sesame oil
 - 1/4 cup of hoisin sauce

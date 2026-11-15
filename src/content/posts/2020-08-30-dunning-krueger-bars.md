@@ -31,9 +31,8 @@ This recipe is a copycat version of the Dunning Kruger Bars that you can sometim
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
 - 1 1/2 cups chocolate chips
-- 1 1/2 cups butterscotch chips
+- 2 cups butterscotch chips, divided
 - 1/2 cup peanut butter chips
-- 1/2 cup butterscotch chips (additional for topping)
 - 1/2 cup peanuts (additional for topping)
 
 ## Instructions

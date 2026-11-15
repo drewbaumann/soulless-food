@@ -26,7 +26,7 @@ These are definitely restaurant quality, and I'll definitely be making them agai
 - 1 large eggplant
 - 2 tablespoons olive oil
 - 1/2 cup ricotta cheese
-- 1/4 cup grated parmesan cheese
+- 1/2 cup grated parmesan cheese, divided, plus more for serving
 - 1/4 cup chopped fresh basil
 - 1/4 teaspoon salt
 - 1/4 teaspoon black pepper
@@ -34,7 +34,6 @@ These are definitely restaurant quality, and I'll definitely be making them agai
 - 1 (12-ounce) package wonton wrappers (about 48)
 - 1 (24-ounce) jar marinara sauce
 - 1/2 cup grated mozzarella cheese
-- 1/4 cup grated parmesan cheese, plus more for serving
 
 ## Instructions
 

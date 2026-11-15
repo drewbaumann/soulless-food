@@ -24,7 +24,7 @@ The other great thing about this cocktail is that it’s actually pretty healthy
 ## Ingredients
 
 - 1/2 cup peanut butter
-- 1/4 cup mezcal
+- 6 tablespoons (3 ounces) mezcal
 - 1/4 cup agave nectar
 - 1/2 cup milk
 - 1/2 cup ice

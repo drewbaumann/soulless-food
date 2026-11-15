@@ -30,13 +30,13 @@ I like to think of it as a spaghetti omelette wearing a sandwich. I slap it on b
 - 1 ounce dry spaghetti (about 1/2 cup cooked)
 - 1/2 cup mozzarella cheese, shredded
 - 1/2 cup tomato sauce
-- 1 teaspoon oregano
-- 1 teaspoon basil
-- 1/2 teaspoon salt
+- 1/2 teaspoon oregano
+- 1/2 teaspoon basil
+- 1/4 teaspoon salt
 - 1/4 teaspoon pepper
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon onion powder
-- 1/2 teaspoon crushed red pepper flakes (optional)
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon onion powder
+- 1/4 teaspoon crushed red pepper flakes (optional)
 - 1 tablespoon butter
 - 1 tablespoon olive oil
 - 2 slices bread
