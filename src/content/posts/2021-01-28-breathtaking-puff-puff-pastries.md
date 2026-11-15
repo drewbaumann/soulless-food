@@ -4,7 +4,7 @@ date:   2021-01-28 17:45:04 +0000
 categories: recipe
 prep_time: 20
 cook_time: 70
-servings: "24 puffs"
+servings: "about 36 puffs"
 recipe_category: "Dessert"
 cuisine: "West African"
 keywords: "puff puff, fried dough, nutmeg, yeast"

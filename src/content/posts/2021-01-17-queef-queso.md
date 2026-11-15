@@ -4,7 +4,7 @@ date:   2021-01-17 18:24:04 +0000
 categories: recipe
 prep_time: 10
 cook_time: 10
-servings: "3 cups"
+servings: "about 3 1/2 cups"
 recipe_category: "Appetizer"
 cuisine: "Mexican"
 keywords: "queso, cheese dip, tortilla chips, cheddar"

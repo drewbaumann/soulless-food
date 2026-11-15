@@ -4,7 +4,7 @@ date:   2020-10-24 17:17:22 +0000
 categories: recipe
 prep_time: 5
 cook_time: 0
-servings: "1 smoothie"
+servings: "2 smoothies"
 recipe_category: "Drink"
 cuisine: "American"
 keywords: "smoothie, bee pollen, berries, banana, protein"
@@ -37,4 +37,4 @@ We do not love it when it’s floating around our kitchen.
 1. Pour the almond milk and yogurt into a blender, then add the banana, frozen berries and protein powder.
 2. Add 3 tablespoons of the bee pollen, 2 teaspoons of the honey, 2 teaspoons of the chia seeds and all of the flax seeds.
 3. Blend on high for 45 to 60 seconds, until thick and smooth.
-4. Pour into a tall glass. Top with the remaining 1 tablespoon bee pollen, the remaining chia seeds and the coconut flakes, drizzle with the remaining honey, and enjoy!
+4. Pour into two tall glasses. Top with the remaining 1 tablespoon bee pollen, the remaining chia seeds and the coconut flakes, drizzle with the remaining honey, and enjoy!

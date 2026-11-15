@@ -4,7 +4,7 @@ date:   2021-01-23 18:24:03 +0000
 categories: recipe
 prep_time: 15
 cook_time: 30
-servings: "6 servings"
+servings: "12 servings"
 recipe_category: "Appetizer"
 cuisine: "American"
 keywords: "artichoke, cream cheese, pepper jelly, baked dip"

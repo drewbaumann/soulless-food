@@ -4,7 +4,7 @@ date:   2020-11-08 17:12:32 +0000
 categories: recipe
 prep_time: 30
 cook_time: 80
-servings: "8 servings"
+servings: "6 servings"
 recipe_category: "Main Course"
 cuisine: "Fusion"
 keywords: "pork, pistachio, dried fruit, casserole"

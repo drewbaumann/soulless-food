@@ -4,7 +4,7 @@ date:   2021-02-03 17:38:06 +0000
 categories: recipe
 prep_time: 45
 cook_time: 20
-servings: "8 crepes"
+servings: "10 crepes"
 recipe_category: "Dessert"
 cuisine: "French"
 keywords: "crepes, chocolate, mint, whipped cream"

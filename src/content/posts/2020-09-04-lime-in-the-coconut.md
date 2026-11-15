@@ -4,7 +4,7 @@ date:   2020-09-04 17:14:20 +0000
 categories: recipe
 prep_time: 130
 cook_time: 0
-servings: "6 cocktails"
+servings: "4 cocktails"
 recipe_category: "Drink"
 cuisine: "Caribbean"
 keywords: "coconut, lime, rum, cocktail, pitcher drink"
@@ -35,5 +35,5 @@ But during the summer months, I try to have a maximum drinks per weekend of 4. I
 1. In a large pitcher, whisk the lime juice and honey until the honey dissolves.
 2. Add the coconut milk, rum, coconut rum (if using) and half of the lime zest, and whisk well.
 3. Cover and refrigerate for at least 2 hours or overnight.
-4. On a small plate, mix the shredded coconut with the remaining lime zest. Dip the rims of 6 glasses or coconut shells in water, then in the coconut mixture.
+4. On a small plate, mix the shredded coconut with the remaining lime zest. Dip the rims of 4 glasses or coconut shells in water, then in the coconut mixture.
 5. Stir the pitcher well, pour over ice in the prepared glasses, and top with the coconut chips.

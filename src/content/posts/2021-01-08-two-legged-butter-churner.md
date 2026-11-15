@@ -4,7 +4,7 @@ date:   2021-01-08 18:06:13 +0000
 categories: recipe
 prep_time: 20
 cook_time: 8
-servings: "36 cookies"
+servings: "48 cookies"
 recipe_category: "Dessert"
 cuisine: "American"
 keywords: "cookies, sugar cookies, butter, sour cream"

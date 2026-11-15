@@ -4,7 +4,7 @@ date:   2021-01-29 17:46:39 +0000
 categories: recipe
 prep_time: 5
 cook_time: 10
-servings: "1 cup"
+servings: "about 1 1/4 cups"
 recipe_category: "Sauce"
 cuisine: "American"
 keywords: "gravy, peas, vegetarian, herbs"

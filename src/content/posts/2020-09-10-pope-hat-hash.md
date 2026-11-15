@@ -4,7 +4,7 @@ date:   2020-09-10 00:00:43 +0000
 categories: recipe
 prep_time: 45
 cook_time: 70
-servings: "6 servings"
+servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "Irish-American"
 keywords: "corned beef hash, potatoes, cheddar, eggs, brunch"

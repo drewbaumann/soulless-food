@@ -4,7 +4,7 @@ date:   2021-01-31 17:44:34 +0000
 categories: recipe
 prep_time: 25
 cook_time: 15
-servings: "6 servings"
+servings: "12 servings"
 recipe_category: "Dessert"
 cuisine: "Japanese"
 keywords: "tempura, fruit, fried, dessert"

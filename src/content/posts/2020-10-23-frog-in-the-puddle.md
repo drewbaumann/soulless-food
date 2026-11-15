@@ -4,7 +4,7 @@ date:   2020-10-23 17:17:36 +0000
 categories: recipe
 prep_time: 40
 cook_time: 15
-servings: "4 servings"
+servings: "2 servings"
 recipe_category: "Main Course"
 cuisine: "French"
 keywords: "frog legs, garlic butter, white wine, lemon"

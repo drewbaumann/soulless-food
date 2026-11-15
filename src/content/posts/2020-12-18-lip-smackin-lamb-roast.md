@@ -4,7 +4,7 @@ date:   2020-12-18 17:37:45 +0000
 categories: recipe
 prep_time: 30
 cook_time: 105
-servings: "10 servings"
+servings: "12 servings"
 recipe_category: "Main Course"
 cuisine: "Mediterranean"
 keywords: "lamb, roast, herbs, honey glaze"

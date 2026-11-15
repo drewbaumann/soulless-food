@@ -4,7 +4,7 @@ date:   2020-12-10 17:21:23 +0000
 categories: recipe
 prep_time: 5
 cook_time: 60
-servings: "2 1/2 cups"
+servings: "about 2 3/4 cups"
 recipe_category: "Sauce"
 cuisine: "American"
 keywords: "dipping sauce, mayonnaise, ketchup, honey"

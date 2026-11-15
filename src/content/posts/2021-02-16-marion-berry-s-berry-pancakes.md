@@ -4,7 +4,7 @@ date:   2021-02-16 17:28:18 +0000
 categories: recipe
 prep_time: 15
 cook_time: 20
-servings: "12 pancakes"
+servings: "about 16 pancakes"
 recipe_category: "Breakfast"
 cuisine: "American"
 keywords: "pancakes, berries, buttermilk, breakfast"

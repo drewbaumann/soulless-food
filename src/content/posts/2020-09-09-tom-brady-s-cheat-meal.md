@@ -21,10 +21,10 @@ All in all, it was a wonderful Friday night.
 
 ## Ingredients
 
-- 2 cups of vanilla ice cream
+- 1 1/2 cups of vanilla ice cream
 - 2 tablespoons of creamy peanut butter, plus 1 teaspoon for the rim
 - 1 ripe banana, plus a few slices for serving
-- 1/2 cup of cold milk
+- 1/3 cup of cold milk
 
 ## Instructions
 

@@ -4,7 +4,7 @@ date:   2021-02-24 17:33:25 +0000
 categories: recipe
 prep_time: 25
 cook_time: 20
-servings: "16 squares"
+servings: "1 half-sheet pan (24 squares)"
 recipe_category: "Dessert"
 cuisine: "American"
 keywords: "chocolate, bars, chips, baking"
@@ -47,4 +47,4 @@ The recipe is a bit of a work horse. It uses buttermilk, corn syrup, oil and hot
 6. Fold in all of the mini chips with a rubber spatula.
 7. Spread the batter evenly onto the prepared baking sheet.
 8. Bake for 16-20 minutes, or until a toothpick inserted in the center comes out with just a few moist crumbs.
-9. Allow to cool completely on the baking sheet, then cut into squares.
+9. Allow to cool completely on the baking sheet, then cut into 24 squares.

@@ -38,6 +38,6 @@ Yes, it's a project. You have to make the gazpacho the day before, and the pleat
 2. Pour 1/4 cup of the gazpacho into a small saucepan and sprinkle the gelatin over it. Let it bloom for 5 minutes, then warm gently, stirring, until fully dissolved. Stir it into the rest of the gazpacho.
 3. Pour into an 8x8-inch dish lined with plastic wrap and refrigerate for at least 3 hours, until firm. Cut into 1/2-inch cubes.
 4. Gently toss the cubes with the finely diced cucumber, finely diced red pepper and basil.
-5. Place a heaping teaspoon of filling in the center of a wrapper, wet the edge, and pleat it closed at the top, twisting to seal. Keep the finished dumplings in the fridge while you work.
+5. Place a heaping tablespoon of filling in the center of a wrapper, wet the edge, and pleat it closed at the top, twisting to seal. Keep the finished dumplings in the fridge while you work.
 6. Line a steamer basket with parchment and steam the dumplings over boiling water for 6 minutes, until the wrappers are translucent and the filling has melted.
 7. Rest 1 minute, then serve on soup spoons with the remaining 2 tablespoons of sherry vinegar for dipping.

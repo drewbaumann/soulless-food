@@ -4,7 +4,7 @@ date:   2020-12-11 17:21:54 +0000
 categories: recipe
 prep_time: 15
 cook_time: 30
-servings: "6 servings"
+servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
 keywords: "ground beef, casserole, funyuns, onion"
@@ -19,7 +19,7 @@ I made a lot of food for the holidays, mostly for the blogging and the photos, b
 
 And it’s funny because when you share recipes with people, they tell you what they think. Sometimes they’re honest, and sometimes they lie, but either way, it’s always interesting to hear what they have to say. And I can’t tell you how many times I heard, “we loved the onions!”
 
-I made this casserole a few different ways last year. I made it with herbs and spices and I loved it that way. This year though I decided to make it without any spices or herbs. I just wanted a simple, classic, casserole that was meant for a holiday crowd. And it was exactly what I needed. The Funyuns get so crispy and deliciously salty and are perfect with a glass of wine and a good cheese board.
+I made this casserole a few different ways last year. I made it with herbs and spices and I loved it that way. This year though I decided to make it without any spices or herbs. I just wanted a simple, classic, casserole that was meant for a holiday table. And it was exactly what I needed. The Funyuns get so crispy and deliciously salty and are perfect with a glass of wine and a good cheese board.
 
 I hope you all had a great holiday and are starting off your new year in a fabulous way!
 

@@ -4,7 +4,7 @@ date:   2020-11-07 17:12:20 +0000
 categories: recipe
 prep_time: 30
 cook_time: 0
-servings: "4 servings"
+servings: "6 servings"
 recipe_category: "Drink"
 cuisine: "American"
 keywords: "lemonade, strawberry, oregano, herbal drink"

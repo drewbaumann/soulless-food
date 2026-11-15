@@ -76,6 +76,9 @@ but the recipes must really work:
 - the method is complete and in order: preheat first, pan/vessel, temperatures, times, doneness cues;
 - meat, poultry, seafood and eggs end up safely cooked;
 - the result is what the title literally describes.
+- portions are honest: work out what the quantities actually yield (protein weight, soup volume,
+  pan size, scoop count, drinks) at normal serving sizes, and make `servings`, any count in the
+  steps ("cut into 16", "4 ramekins"), and any yield the story mentions all agree.
 Fix problems directly in the recipe (keeping the story consistent with any change).
 
 ## 4. Write the post file

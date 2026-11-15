@@ -4,7 +4,7 @@ date:   2021-02-12 17:26:59 +0000
 categories: recipe
 prep_time: 10
 cook_time: 15
-servings: "1 1/2 cups"
+servings: "about 2 cups"
 recipe_category: "Appetizer"
 cuisine: "American"
 keywords: "beet, dip, yogurt, sour cream"

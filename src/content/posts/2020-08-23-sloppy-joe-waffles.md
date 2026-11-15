@@ -4,7 +4,7 @@ date:   2020-08-23 22:51:47 -0700
 categories: recipe
 prep_time: 15
 cook_time: 25
-servings: "6 servings"
+servings: "4 servings"
 recipe_category: "Main Course"
 cuisine: "American"
 keywords: "sloppy joe, waffles, ground beef, cheddar, comfort food"

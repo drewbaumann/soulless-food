@@ -4,7 +4,7 @@ date:   2021-02-17 17:27:56 +0000
 categories: recipe
 prep_time: 195
 cook_time: 0
-servings: "4 servings"
+servings: "6 servings"
 recipe_category: "Salad"
 cuisine: "American"
 keywords: "carrot, salad, balsamic, blue cheese"

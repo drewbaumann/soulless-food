@@ -4,7 +4,7 @@ date:   2020-10-26 17:18:27 +0000
 categories: recipe
 prep_time: 5
 cook_time: 0
-servings: "1 shake"
+servings: "2 shakes"
 recipe_category: "Drink"
 cuisine: "American"
 keywords: "milkshake, chocolate, maple syrup, blended drink"
@@ -32,4 +32,4 @@ Mama’s Milk Man came to me about a month after his little girl was born. Her f
 1. In a blender, combine the milk, heavy cream, vanilla extract, maple syrup and 2 tablespoons cocoa powder. Blend for 10 seconds until the cocoa is mixed in.
 2. Add the ice cream and blend on high for 30 to 45 seconds, until thick and smooth.
 3. Add the chocolate chips and pulse 3 or 4 times, just until they break into small flecks.
-4. Pour into a tall glass, dust the top with a pinch of cocoa powder, and serve.
+4. Pour into two glasses, dust the tops with a pinch of cocoa powder, and serve.

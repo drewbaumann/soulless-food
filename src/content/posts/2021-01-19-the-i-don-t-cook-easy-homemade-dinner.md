@@ -4,7 +4,7 @@ date:   2021-01-19 18:25:08 +0000
 categories: recipe
 prep_time: 10
 cook_time: 15
-servings: "6 servings"
+servings: "4 servings (12 tacos)"
 recipe_category: "Main Course"
 cuisine: "American"
 keywords: "tacos, ground beef, refried beans, easy dinner"

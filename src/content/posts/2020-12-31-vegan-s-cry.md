@@ -4,7 +4,7 @@ date:   2020-12-31 17:59:47 +0000
 categories: recipe
 prep_time: 15
 cook_time: 25
-servings: "4 servings"
+servings: "6 servings"
 recipe_category: "Side Dish"
 cuisine: "American"
 keywords: "vegan, quinoa, roasted peppers, pesto"

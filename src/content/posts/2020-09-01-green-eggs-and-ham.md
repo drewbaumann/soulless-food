@@ -4,7 +4,7 @@ date:   2020-09-01 17:14:24 +0000
 categories: recipe
 prep_time: 15
 cook_time: 25
-servings: "8 servings"
+servings: "6 servings"
 recipe_category: "Breakfast"
 cuisine: "American"
 keywords: "eggs, ham, bake, cheese, brunch"
@@ -42,4 +42,4 @@ If you’re a Dr. Seuss fan, or if you’ve never read his books to your kids, I
 2. In a small saucepan, melt 1/4 cup of the butter and let it cool slightly. In a large bowl, beat the eggs. Whisk in the milk, flour, salt, pepper, baking powder and the melted butter until smooth.
 3. Melt the remaining 1/4 cup butter in a large skillet over medium heat. Add the bell pepper and green onion and cook for 3 minutes, stirring frequently. Stir in the ham and cook 1 minute more.
 4. Pour the egg mixture into the baking dish. Scatter the ham and vegetable mixture evenly over it, then top with the cheddar and mozzarella.
-5. Bake for 20 to 25 minutes, until puffed and golden and the center is set with no wet egg (160°F). Let stand 5 minutes, then cut into 8 squares.
+5. Bake for 20 to 25 minutes, until puffed and golden and the center is set with no wet egg (160°F). Let stand 5 minutes, then cut into 6 squares.
